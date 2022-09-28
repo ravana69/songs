@@ -3,9 +3,15 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://ravana69.github.io/songs/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC1H_22jpB9YKzrCGdRKIHZA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCjX6XaM9EEfdH2gh90QZ8pQ
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCGLbP4rkR2vA58xW2M1Itvw
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCknXFy9YvBIUEs24xb35p4Q
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC7oE54x62E7AIO5GkdnLTSQ
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCqow9MwWxJyKZfWbZ-JFI7Q
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC2y5LoW-VkSFaKdwNx9pYkQ
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCdYn0MxeGNvwiiYabspWumg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC7wr_pLs8KVXkkXWZxHLR0A
+  
