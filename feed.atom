@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T06:41:26.991Z</updated>
+    <updated>2022-09-28T13:07:21.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maaliniyude Theerangal Video Song | Mohanlal | Kanchan | MG Sreekumar |  Sujatha Mohan | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=KG0WAf2hTmQ</id>
+        <link href="https://www.youtube.com/watch?v=KG0WAf2hTmQ"/>
+        <updated>2022-09-28T12:00:11.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anuragam Puthumazha Pole | Unni Mukundan | Ratheesh Vega | Sshivada | Achayans | Malayalam Songs]]></title>
+        <id>https://www.youtube.com/watch?v=R2PLbsymF3g</id>
+        <link href="https://www.youtube.com/watch?v=R2PLbsymF3g"/>
+        <updated>2022-09-28T11:45:05.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hridayame Irukanniloode | Day Night Game | Najim Arshad | Jinosh Antony|Vayalar Sarath Chandra Varma]]></title>
+        <id>https://www.youtube.com/watch?v=5JWbqUiIWTA</id>
+        <link href="https://www.youtube.com/watch?v=5JWbqUiIWTA"/>
+        <updated>2022-09-28T11:30:01.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thennalin Chilankapole | Onnum Mindathe | Vijay Yesudas | Sangeetha Sreekanth | Anil Johnson]]></title>
+        <id>https://www.youtube.com/watch?v=q-4mpVcUMYg</id>
+        <link href="https://www.youtube.com/watch?v=q-4mpVcUMYg"/>
+        <updated>2022-09-28T10:30:21.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ennennum  Dasettan | Video Jukebox | ഗാനഗന്ധർവൻ ആലപിച്ച സൂപ്പർ ഹിറ്റ് സിനിമാഗാനങ്ങൾ വീഡിയോ JUKEBOX]]></title>
         <id>https://www.youtube.com/watch?v=a_5yT22h3mc</id>
