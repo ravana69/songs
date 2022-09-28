@@ -1,514 +1,1008 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-28T06:36:50.483Z</id>
+    <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T06:36:50.483Z</updated>
+    <updated>2022-09-28T06:41:26.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
+    <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[How to Test Your Express.js and Mongoose Apps with Jest and SuperTest]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/"/>
-        <updated>2022-09-27T23:26:16.000Z</updated>
-        <summary type="html"><![CDATA[Testing is a vital part of software development. The sooner you start testing, the better.  In this article, I'll show you how to write tests for your NodeJs/ExpressJS and MongoDB/Mongoose applications with Jest and Supertest. Let's get started First let's set up a demo Express.js app. Let's say we]]></summary>
+        <title type="html"><![CDATA[Ennennum  Dasettan | Video Jukebox | ഗാനഗന്ധർവൻ ആലപിച്ച സൂപ്പർ ഹിറ്റ് സിനിമാഗാനങ്ങൾ വീഡിയോ JUKEBOX]]></title>
+        <id>https://www.youtube.com/watch?v=a_5yT22h3mc</id>
+        <link href="https://www.youtube.com/watch?v=a_5yT22h3mc"/>
+        <updated>2022-09-28T05:30:13.000Z</updated>
         <author>
-            <name>Rakesh Potnuru</name>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node.js Server-Side JavaScript – What is Node Used For?]]></title>
-        <id>https://www.freecodecamp.org/news/node-js-server-side-javascript-what-is-node-used-for/</id>
-        <link href="https://www.freecodecamp.org/news/node-js-server-side-javascript-what-is-node-used-for/"/>
-        <updated>2022-09-27T21:34:58.000Z</updated>
-        <summary type="html"><![CDATA[The release of Node.js in 2009 by Ryan Dahl increased the scope of what developers could do with JavaScript. Prior to that, you could only use JavaScript on the client side (the browser) or frontend of web applications. With Node.js, developers can create server side applications, command line tools, and]]></summary>
+        <title type="html"><![CDATA[Unni Vaavavo | Sandhwanam | Nedumudi Venu | Chithra | Mohan Sithara | Meena | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=1Nj_nonibqs</id>
+        <link href="https://www.youtube.com/watch?v=1Nj_nonibqs"/>
+        <updated>2022-09-27T15:30:00.000Z</updated>
         <author>
-            <name>Ihechikara Vincent Abba</name>
+            <name>Speed Music</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use the Command Line Interface – for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/"/>
-        <updated>2022-09-27T21:11:32.000Z</updated>
-        <summary type="html"><![CDATA[There's a lot to learn when you're getting into tech. But fortunately there are some skills that you can use across different programming languages, operating systems, and tools.  And knowing how to use the command line interface (also known as the command prompt or terminal, depending on your operating]]></summary>
+        <title type="html"><![CDATA[Prayam Thammil Moham Nalki #shorts #youtubeshorts #malayalamsongs #bestsongs]]></title>
+        <id>https://www.youtube.com/watch?v=-2nCTMiV_5k</id>
+        <link href="https://www.youtube.com/watch?v=-2nCTMiV_5k"/>
+        <updated>2022-09-27T13:30:00.000Z</updated>
         <author>
-            <name>Maybell Obadoni</name>
+            <name>Movie World Music</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Debug Your Python Code with the Python Debugger (pdb)]]></title>
-        <id>https://www.freecodecamp.org/news/debugging-in-python-using-pdb/</id>
-        <link href="https://www.freecodecamp.org/news/debugging-in-python-using-pdb/"/>
-        <updated>2022-09-27T17:50:42.000Z</updated>
-        <summary type="html"><![CDATA[Debugging tools are at the heart of any programming language. And as a developer, it's hard to make progress and write clean code unless you know your way around these tools. This article will help you get acquainted with one such tool: The Python Debugger (pdb) [https://docs.python.org/3/library/pdb.html#:~:text=The%20module%20pdb%20defines%20an,context%20of%20any%20stack%20frame] Note that this]]></summary>
+        <title type="html"><![CDATA[Eno Intha Piravi | Alice: A True Story | P Jayachandran | Bijibal | Vayalar Sarathchandra Varma]]></title>
+        <id>https://www.youtube.com/watch?v=fb7n5oO6KwE</id>
+        <link href="https://www.youtube.com/watch?v=fb7n5oO6KwE"/>
+        <updated>2022-09-27T13:00:33.000Z</updated>
         <author>
-            <name>Jagruti Tiwari</name>
+            <name>Satyam Audios</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Implement Vertical Scrolling in React Using react-router-hash-link]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-implement-vertical-scrolling-in-react-using-react-router-hash-link/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-vertical-scrolling-in-react-using-react-router-hash-link/"/>
-        <updated>2022-09-27T17:42:42.000Z</updated>
-        <summary type="html"><![CDATA[Smooth scrolling is a feature that makes webpages more usable and allows for a better user scrolling experience in most browsers. Implementing a smooth page scroll while using react-router-dom has been a problem in React.js. So this article, you are going to learn how to implement smooth vertical scrolling using]]></summary>
+        <title type="html"><![CDATA[Oru Mozhi Mindaathe | Law Point | Ala Bala | Nivas | Kaushik Menon | Mejo Joseph | Jophi Tharakan]]></title>
+        <id>https://www.youtube.com/watch?v=FScQ6MzzwaA</id>
+        <link href="https://www.youtube.com/watch?v=FScQ6MzzwaA"/>
+        <updated>2022-09-27T12:00:16.000Z</updated>
         <author>
-            <name>Edeh Israel Chidera</name>
+            <name>Satyam Audios</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Information Systems? Definition for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-information-systems-definition-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-information-systems-definition-for-beginners/"/>
-        <updated>2022-09-27T16:43:54.000Z</updated>
-        <summary type="html"><![CDATA[You may have heard the term "information systems" as a type of degree some people get from a college or university. Or maybe you've heard it as a general term used to describe information and communication systems in general. Information systems are more than a degree or a general term.]]></summary>
+        <title type="html"><![CDATA[Chittolam Thulumbunna - Video Song | Udayapuram Sulthan | Dileep | K J Yesudas | K S Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=0PB1hiFNPYI</id>
+        <link href="https://www.youtube.com/watch?v=0PB1hiFNPYI"/>
+        <updated>2022-09-27T11:43:13.000Z</updated>
         <author>
-            <name>Kolade Chris</name>
+            <name>East Coast</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Five Data-Loading Patterns To Boost Web Performance]]></title>
-        <id>https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/</id>
-        <link href="https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/"/>
-        <updated>2022-09-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You don’t need a framework for everything, but if you use one, this article will help you use it in the most performant way.]]></summary>
+        <title type="html"><![CDATA[Lallalam Chollunna Video Song | Mohanlal | Kanaka | KJ Yesudas | Bichu Thirumala | S Balakrishnan]]></title>
+        <id>https://www.youtube.com/watch?v=GHlBdkOZ0dk</id>
+        <link href="https://www.youtube.com/watch?v=GHlBdkOZ0dk"/>
+        <updated>2022-09-27T11:30:03.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Agustinus Theodorus)</name>
+            <name>Saina Evergreens</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Java Programming (version 17)]]></title>
-        <id>https://www.freecodecamp.org/news/learn-java-programming/</id>
-        <link href="https://www.freecodecamp.org/news/learn-java-programming/"/>
-        <updated>2022-09-27T13:37:06.000Z</updated>
-        <summary type="html"><![CDATA[Java has been one of the most popular programming languages for a long time. It is considered a general-purpose, concurrent, strongly typed, class-based object-oriented language. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you the Java programming language. This course is perfect for beginners.]]></summary>
+        <title type="html"><![CDATA[അനിയത്തിപ്രാവിന്  Malayalam Evergreen Movie Songs | Aniyathipraavu (1997) | Shalini]]></title>
+        <id>https://www.youtube.com/watch?v=W6ckUMpK5jQ</id>
+        <link href="https://www.youtube.com/watch?v=W6ckUMpK5jQ"/>
+        <updated>2022-09-27T11:27:49.000Z</updated>
         <author>
-            <name>Beau Carnes</name>
+            <name>Millennium Musics</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Named Element IDs Can Be Referenced as JavaScript Globals]]></title>
-        <id>https://css-tricks.com/?p=373209</id>
-        <link href="https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/"/>
-        <updated>2022-09-27T12:58:21.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that DOM elements with IDs are accessible in JavaScript as global variables? It’s one of those things that’s been around, like, forever but I’m really digging into it for the first time.
-If this is the first …
-Named Element IDs Can Be Referenced as JavaScript Globals originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[ടെൻഷൻ അകറ്റി മനസിന് ആനന്ദമേകുന്ന മലയാളസിനിമയിലെ നർമ്മപ്രധാനമായ മ്യൂസിക്കൽ എന്റെർറ്റൈനെർ |MOVIE SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=DKT03A6TD38</id>
+        <link href="https://www.youtube.com/watch?v=DKT03A6TD38"/>
+        <updated>2022-09-27T07:47:30.000Z</updated>
         <author>
-            <name>Matteo Mazzarolo</name>
+            <name>Movie World Music</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux for Hackers – Basics for Cybersecurity Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/linux-basics/</id>
-        <link href="https://www.freecodecamp.org/news/linux-basics/"/>
-        <updated>2022-09-26T23:20:22.000Z</updated>
-        <summary type="html"><![CDATA[Time to learn how to use the operating system of the average hacker 🐧. In this article, we will take a little tour of:  * The Linux operating system  * Package management  * The Linux file structure  * The Command Line Interface And you get to]]></summary>
+        <title type="html"><![CDATA[Aariyam Paadathu | Onnum Mindathe | Madhu Balakrishnan | Manoj K Jayan | Anil Johnson | V R Santhosh]]></title>
+        <id>https://www.youtube.com/watch?v=5Y9a-F1l3zM</id>
+        <link href="https://www.youtube.com/watch?v=5Y9a-F1l3zM"/>
+        <updated>2022-09-26T13:00:05.000Z</updated>
         <author>
-            <name>Daniel Iwugo</name>
+            <name>Satyam Audios</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript For loop – How to Loop Through an Array in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-loop-through-an-array-with-for-loop-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-loop-through-an-array-with-for-loop-in-javascript/"/>
-        <updated>2022-09-26T23:14:42.000Z</updated>
-        <summary type="html"><![CDATA[A loop is an instruction in computer programming that allows an application to repeat a process until a specific condition is met. For example, say you want to run through a list of names and output each name on your screen. If you didn't use a loop, you'd end up]]></summary>
+        <title type="html"><![CDATA[Kandaal Pennaaloru | Day Night Game | Suchithra | Jinosh Antony | Santhosh Varma]]></title>
+        <id>https://www.youtube.com/watch?v=kEE80sxIh9w</id>
+        <link href="https://www.youtube.com/watch?v=kEE80sxIh9w"/>
+        <updated>2022-09-26T12:00:24.000Z</updated>
         <author>
-            <name>Dennis Temoye Charity</name>
+            <name>Satyam Audios</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Iteration in Golang – How to Loop Through Data Structures in Go]]></title>
-        <id>https://www.freecodecamp.org/news/iteration-in-golang/</id>
-        <link href="https://www.freecodecamp.org/news/iteration-in-golang/"/>
-        <updated>2022-09-26T22:44:22.000Z</updated>
-        <summary type="html"><![CDATA[In programming, iteration (commonly known as looping) is a process where a step is repeated n number of times until a specific condition is met. Just like every other programming language, Golang has a way of iterating through different data structures and data types like structs, maps, arrays, strings, and]]></summary>
+        <title type="html"><![CDATA[Sonare Sonare | Punjabi House | Dileep | Mohini | Neena Kurup | Suresh Peters - M.G.Sreekumar Hits]]></title>
+        <id>https://www.youtube.com/watch?v=EMUDszfxib8</id>
+        <link href="https://www.youtube.com/watch?v=EMUDszfxib8"/>
+        <updated>2022-09-26T12:00:14.000Z</updated>
         <author>
-            <name>Ubaydah Abdulwasiu</name>
+            <name>Music Zone</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create Wavy Shapes & Patterns in CSS]]></title>
-        <id>https://css-tricks.com/?p=373403</id>
-        <link href="https://css-tricks.com/how-to-create-wavy-shapes-patterns-in-css/"/>
-        <updated>2022-09-26T13:13:30.000Z</updated>
-        <summary type="html"><![CDATA[The wave is probably one of the most difficult shapes to make in CSS. We always try to approximate it with properties like border-radius and lots of magic numbers until we get something that feels kinda close. And that’s before …
-How to Create Wavy Shapes & Patterns in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Karkuzhali Video Song | Kunchacko Boban | Meera Jasmine | Sujatha Mohan | Ouseppachan | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=huLQjoCatF0</id>
+        <link href="https://www.youtube.com/watch?v=huLQjoCatF0"/>
+        <updated>2022-09-26T11:30:10.000Z</updated>
         <author>
-            <name>Temani Afif</name>
+            <name>Saina Evergreens</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet SmashingConf New York 🇺🇸 (Oct 10&ndash;13)]]></title>
-        <id>https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/</id>
-        <link href="https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/"/>
-        <updated>2022-09-26T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[SmashingConf NYC is back! A friendly, inclusive conference for designers and front-end engineers who can’t wait to learn and be inspired. October 10–13, 2022. Get your ticket!]]></summary>
+        <title type="html"><![CDATA[Peythozhinju Shyamavanam - Aattakkatha (2013) | K.J.Yesudas | Raveendran | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=G-WF4R7f4oE</id>
+        <link href="https://www.youtube.com/watch?v=G-WF4R7f4oE"/>
+        <updated>2022-09-26T09:07:29.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>Movie World Music</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature Images]]></title>
-        <id>https://css-tricks.com/?p=373057</id>
-        <link href="https://css-tricks.com/how-to-customize-wordpress-block-theme-cover-templates-with-dynamic-post-feature-images/"/>
-        <updated>2022-09-23T16:15:19.000Z</updated>
-        <summary type="html"><![CDATA[If we browse the WordPress theme directory, a majority of themes showcase cover images. It is a feature in popular demand. The cover page trend is true even in the block theme directory screenshots as well.
-Let’s consider the …
-How To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[IMRAN TEASER 01 | IMRAN 3:185 | Mamas | Adil Ibrahim | Original Movies | Mamasian Movies]]></title>
+        <id>https://www.youtube.com/watch?v=rt0YrKNJKhc</id>
+        <link href="https://www.youtube.com/watch?v=rt0YrKNJKhc"/>
+        <updated>2022-09-25T11:30:13.000Z</updated>
         <author>
-            <name>Ganesh Dahal</name>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lessons Learned As A Designer-Founder]]></title>
-        <id>https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/</id>
-        <link href="https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/"/>
-        <updated>2022-09-23T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Dave Feldman shares his lessons learned and the experiments has done as a multidisciplinary designer-founder-CEO at an early-stage startup. Let’s take a look at what it is that makes a great design process for teams of any size.]]></summary>
+        <title type="html"><![CDATA[Yadukula Gopike Video Song | Mohanlal | KS Chithra | Unni Menon | SP Venkitesh | Shibu Chakravarthy]]></title>
+        <id>https://www.youtube.com/watch?v=sFR2hdU1w88</id>
+        <link href="https://www.youtube.com/watch?v=sFR2hdU1w88"/>
+        <updated>2022-09-25T11:30:11.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Dave Feldman)</name>
+            <name>Saina Evergreens</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Web is Good Now]]></title>
-        <id>https://css-tricks.com/?p=373652</id>
-        <link href="https://css-tricks.com/the-web-is-good-now/"/>
-        <updated>2022-09-22T22:07:22.000Z</updated>
-        <summary type="html"><![CDATA[The video of Chris Coyier’s talk at CascadiaJS 2022 is now available. It’s his first in-person talk in more than two years, so it’s great to see our good friend back on stage slinging gems on what makes the web …
-The Web is Good Now originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Ee Iravile Thee Choriyumee | Escape from Uganda | Rahul Nambiar | Varun Unni | Kichu J Thomas]]></title>
+        <id>https://www.youtube.com/watch?v=9sggB5MgvMg</id>
+        <link href="https://www.youtube.com/watch?v=9sggB5MgvMg"/>
+        <updated>2022-09-25T07:00:04.000Z</updated>
         <author>
-            <name>Geoff Graham</name>
+            <name>Satyam Audios</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Made an Icon System Out of CSS Custom Properties]]></title>
-        <id>https://css-tricks.com/?p=373111</id>
-        <link href="https://css-tricks.com/how-i-made-an-icon-system-out-of-css-custom-properties/"/>
-        <updated>2022-09-22T15:17:21.000Z</updated>
-        <summary type="html"><![CDATA[SVG is the best format for icons on a website, there is no doubt about that. It allows you to have sharp icons no matter the screen pixel density, you can change the styles of the SVG on hover …
-How I Made an Icon System Out of CSS Custom Properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Evideyo Evideyo | Law Point | Najim Arshad | Mejo Joseph | Santhosh Varma]]></title>
+        <id>https://www.youtube.com/watch?v=IADQJ-vl8ik</id>
+        <link href="https://www.youtube.com/watch?v=IADQJ-vl8ik"/>
+        <updated>2022-09-25T06:00:07.000Z</updated>
         <author>
-            <name>Louis Hoebregts</name>
+            <name>Satyam Audios</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Things I Wish I Had Known About Angular When I Started]]></title>
-        <id>https://smashingmagazine.com/2022/09/angular-guide/</id>
-        <link href="https://smashingmagazine.com/2022/09/angular-guide/"/>
-        <updated>2022-09-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’re considering learning Angular, this article sums up what William Juan wished he knew when he started, including the mistakes made and lessons learned the hard way.]]></summary>
+        <title type="html"><![CDATA[Payasam Ithu Payasam | Poppins Malayalam Movie | Nithya Menon | Ratheeesh Vega | Kunchacko Boban]]></title>
+        <id>https://www.youtube.com/watch?v=lzIRQDIfXxA</id>
+        <link href="https://www.youtube.com/watch?v=lzIRQDIfXxA"/>
+        <updated>2022-09-24T11:49:58.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (William Juan)</name>
+            <name>East Coast</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Rules vs. CSS Rulesets]]></title>
-        <id>https://css-tricks.com/?p=373639</id>
-        <link href="https://css-tricks.com/css-rules-vs-css-rulesets/"/>
-        <updated>2022-09-21T21:53:44.000Z</updated>
-        <summary type="html"><![CDATA[The latest spec:
-A style rule is a qualified rule that associates a selector list with a list of property declarations and possibly a list of nested rules. They are also called rule sets in CSS2.
-Louis Lazaris:
-As the above quote from W3C indicates, it seems 
-…
-CSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Kulirumma Nalkiyen | Day Night Game | Karthik | Mridula Warrier | Jinosh Antony]]></title>
+        <id>https://www.youtube.com/watch?v=kUOqq4N9yvg</id>
+        <link href="https://www.youtube.com/watch?v=kUOqq4N9yvg"/>
+        <updated>2022-09-24T11:30:13.000Z</updated>
         <author>
-            <name>Geoff Graham</name>
+            <name>Satyam Audios</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing Better Inline Validation UX]]></title>
-        <id>https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/</id>
-        <link href="https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/"/>
-        <updated>2022-09-21T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Inline validation in web forms is useful when it works, but frustrating when it fails. Too often it leads to an endless stream of disruptive error messages or dead-ends without any chance of getting out. Let’s fix it.]]></summary>
+        <title type="html"><![CDATA[Vennila Kombile Video Song | Gireesh Puthenchery | Vidyasagar | MG Sreekumar | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=2tGnHFshkWg</id>
+        <link href="https://www.youtube.com/watch?v=2tGnHFshkWg"/>
+        <updated>2022-09-24T11:30:01.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>Saina Evergreens</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Checkerboard Background… But With Rounded Corners and Hover Styles]]></title>
-        <id>https://css-tricks.com/?p=373167</id>
-        <link href="https://css-tricks.com/css-checkerboard-background-but-with-rounded-corners-and-hover-styles/"/>
-        <updated>2022-09-20T13:19:24.000Z</updated>
-        <summary type="html"><![CDATA[On one hand, creating simple checkered backgrounds with CSS is easy. On the other hand, though, unless we are one of the CSS-gradient-ninjas, we are kind of stuck with basic patterns.
-At least that’s what I thought while staring at …
-CSS Checkerboard Background… But With Rounded Corners and Hover Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Onnum Mindathe Nee | Onnum Mindathe | KJ Yesudas | KS Chithra | Anil Johnson | V R Santhosh]]></title>
+        <id>https://www.youtube.com/watch?v=_JyPx9mvEBg</id>
+        <link href="https://www.youtube.com/watch?v=_JyPx9mvEBg"/>
+        <updated>2022-09-24T10:30:10.000Z</updated>
         <author>
-            <name>Preethi</name>
+            <name>Satyam Audios</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 53 With Rémi Parmentier: Can HTML Email Use Modern CSS?]]></title>
-        <id>https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/</id>
-        <link href="https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/"/>
-        <updated>2022-09-20T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about HTML email. Do we still have to design like we would for IE5? Vitaly talks to expert Rémi Parmentier to find out.]]></summary>
+        <title type="html"><![CDATA[ലോകസിനിമയുടെ മുന്നിൽ മലയാളത്തിന്റെ അഭിനമാനമായി മാറിയ രണ്ട് താരരാജാക്കന്മാരുടെ സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ !]]></title>
+        <id>https://www.youtube.com/watch?v=ZErZRAEGTqI</id>
+        <link href="https://www.youtube.com/watch?v=ZErZRAEGTqI"/>
+        <updated>2022-09-24T07:43:03.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>Movie World Music</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s New In Gatsby 2022?]]></title>
-        <id>https://smashingmagazine.com/2022/09/new-gatsby-2022/</id>
-        <link href="https://smashingmagazine.com/2022/09/new-gatsby-2022/"/>
-        <updated>2022-09-20T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gatsby has evolved quite dramatically in the last two years. In this article, Paul Scanlon explains what Gatsby can do today, and how he used some of the new features when upgrading his personal website from Gatsby 2 to Gatsby 4.]]></summary>
+        <title type="html"><![CDATA[അനുരാഗിണി ഇതാ എൻ കരളിൽ വിരിഞ്ഞപൂക്കൾ | Evergreen Malayalam Hit Song | K. J. Yesudas | HD Video Song]]></title>
+        <id>https://www.youtube.com/watch?v=emF9R6LGb7A</id>
+        <link href="https://www.youtube.com/watch?v=emF9R6LGb7A"/>
+        <updated>2022-09-24T04:30:10.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+            <name>Millennium Musics</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building A Retro Draggable Web Component With Lit]]></title>
-        <id>https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/</id>
-        <link href="https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/"/>
-        <updated>2022-09-19T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In today’s article, Andrico Karoulla explains how to create a cool draggable effect by listening to the drag events and writing some custom logic inside the handlers.]]></summary>
+        <title type="html"><![CDATA[PALLIMANI | Official Teaser | Anil Kumbazha | Shwetha Menon | L A Menon (Productions Pvt Ltd)]]></title>
+        <id>https://www.youtube.com/watch?v=YLJahXTfHeM</id>
+        <link href="https://www.youtube.com/watch?v=YLJahXTfHeM"/>
+        <updated>2022-09-23T12:30:12.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Andrico Karoulla)</name>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making a Real-Time Clock With a Conic Gradient Face]]></title>
-        <id>https://css-tricks.com/?p=373184</id>
-        <link href="https://css-tricks.com/making-a-real-time-clock-with-a-conic-gradient-face/"/>
-        <updated>2022-09-19T12:58:09.000Z</updated>
-        <summary type="html"><![CDATA[Gradients have been a part of the CSS spectrum for quite some time now. We see a lot of radial and linear gradients in a lot of projects, but there is one type of gradient that seems to be a …
-Making a Real-Time Clock With a Conic Gradient Face originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Tharattu Pattum | Weeping Boy | Sreenanda | Anand Madhusoodanan | Felix Joseph]]></title>
+        <id>https://www.youtube.com/watch?v=aO7XjjSdkcg</id>
+        <link href="https://www.youtube.com/watch?v=aO7XjjSdkcg"/>
+        <updated>2022-09-23T12:30:00.000Z</updated>
         <author>
-            <name>Brecht De Ruyte</name>
+            <name>Satyam Audios</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rethinking Star Ratings For Readers]]></title>
-        <id>https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/</id>
-        <link href="https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/"/>
-        <updated>2022-09-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How can companies change their rating and review systems to better benefit users? Matt Athanasiou shares some steps to improve the experience of reviewing literature and other products — while also building stronger connections.]]></summary>
+        <title type="html"><![CDATA[Mannum Kallum | Krishna Gopala Krishna |  K S Chithra |  Balachandra Menon | Bichu Thirumala]]></title>
+        <id>https://www.youtube.com/watch?v=RSX7Up8CK4E</id>
+        <link href="https://www.youtube.com/watch?v=RSX7Up8CK4E"/>
+        <updated>2022-09-23T11:42:00.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Matt Athanasiou)</name>
+            <name>East Coast</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[More Details on `details`]]></title>
-        <id>https://css-tricks.com/?p=373372</id>
-        <link href="https://css-tricks.com/more-details-on-details/"/>
-        <updated>2022-09-15T13:12:40.000Z</updated>
-        <summary type="html"><![CDATA[A lot of chatter around the ol’ <details> and <summary> elements lately! I saw Lea Verou recently tweet an observation about the element’s display behavior and that sorta splintered into more observations and usage notes from folks, including a revived …
-More Details on `details` originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Onnanam Kunninmel Video Song | Kunchacko Boban | Jomol | KJ Yesudas | KS Chithra | S Ramesan Nair]]></title>
+        <id>https://www.youtube.com/watch?v=odwHnrPLjXY</id>
+        <link href="https://www.youtube.com/watch?v=odwHnrPLjXY"/>
+        <updated>2022-09-23T11:30:23.000Z</updated>
         <author>
-            <name>Geoff Graham</name>
+            <name>Saina Evergreens</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Headless In Times Of Accessibility]]></title>
-        <id>https://smashingmagazine.com/2022/09/accessibility-times-headless/</id>
-        <link href="https://smashingmagazine.com/2022/09/accessibility-times-headless/"/>
-        <updated>2022-09-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you want to make your new website as accessible as possible? Amazing, that’s a great mindset! Let’s have a closer look at the factors you should take into consideration when choosing a content management system (CMS) in terms of web accessibility.]]></summary>
+        <title type="html"><![CDATA[Thaalimaala | Kuri | Najim Arshad | Vinu Thomas | B K Harinarayanan]]></title>
+        <id>https://www.youtube.com/watch?v=ey8iTbBYRvY</id>
+        <link href="https://www.youtube.com/watch?v=ey8iTbBYRvY"/>
+        <updated>2022-09-23T11:30:10.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Josefine Schaefer)</name>
+            <name>Satyam Audios</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When is it OK to Disable Text Selection?]]></title>
-        <id>https://css-tricks.com/?p=373100</id>
-        <link href="https://css-tricks.com/when-is-it-ok-to-disable-text-selection/"/>
-        <updated>2022-09-14T13:03:04.000Z</updated>
-        <summary type="html"><![CDATA[Using CSS, it’s possible to prevent users from selecting text within an element using user-select: none. Now, it’s understandable why doing so might be considered “controversial”. I mean, should we be disabling standard user behaviors? Generally speaking, no, we …
-When is it OK to Disable Text Selection? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[M Jayachandran & Rajeev Alunkal Hits Video Jukebox |  സൂപ്പർ ഹിറ്റ് മലയാള സിനിമ ഗാനങ്ങൾ വീഡിയോ]]></title>
+        <id>https://www.youtube.com/watch?v=HF7HzAc2hSw</id>
+        <link href="https://www.youtube.com/watch?v=HF7HzAc2hSw"/>
+        <updated>2022-09-23T10:30:13.000Z</updated>
         <author>
-            <name>Daniel Schwarz</name>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript APIs You Don’t Know About]]></title>
-        <id>https://smashingmagazine.com/2022/09/javascript-api-guide/</id>
-        <link href="https://smashingmagazine.com/2022/09/javascript-api-guide/"/>
-        <updated>2022-09-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Juan Diego covers the least known yet extremely useful APIs, such as the Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization API. Together we will see what they are, where we should use them, and how to use them.]]></summary>
+        <title type="html"><![CDATA[Pallimukkile | Ikkareyanente Maanasam | Gireesh Puthenchery | SP Venkitesh | Biju Narayanan]]></title>
+        <id>https://www.youtube.com/watch?v=wgUvbBUives</id>
+        <link href="https://www.youtube.com/watch?v=wgUvbBUives"/>
+        <updated>2022-09-23T07:31:00.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
+            <name>Movie World Music</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebKit Features in Safari 16.0]]></title>
-        <id>https://css-tricks.com/?p=373367</id>
-        <link href="https://css-tricks.com/webkit-features-in-safari-16-0/"/>
-        <updated>2022-09-13T16:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Whew boy, Safari 16 is officially out in the wild and it packs in a bunch of features, some new and exciting (Subgrid! Container Queries! Font Palettes!) and others we’ve been waiting on for better cross-browser support (Motion Path! Overscroll …
-WebKit Features in Safari 16.0 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[ഓമനേ പാടു നീ മധുരമായ് | Kunchacko Boban | P Jayachandran | Mohan Sithara | Yusufali Kecheri]]></title>
+        <id>https://www.youtube.com/watch?v=uhiauSHd77Y</id>
+        <link href="https://www.youtube.com/watch?v=uhiauSHd77Y"/>
+        <updated>2022-09-23T05:11:57.000Z</updated>
         <author>
-            <name>Geoff Graham</name>
+            <name>Saina Evergreens</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Basics of Remix]]></title>
-        <id>https://css-tricks.com/?p=373081</id>
-        <link href="https://css-tricks.com/the-basics-of-remix/"/>
-        <updated>2022-09-13T12:59:46.000Z</updated>
-        <summary type="html"><![CDATA[You’ve probably heard a lot of hype around one of the newest kids on the framework block, Remix. It may be surprising that it got its start back in 2019, but it was originally only available as a subscription-based premium …
-The Basics of Remix originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Raavinte Mookamaam | Kaanchi | Murali Gopy | Ronnie Raphael | GN Padmakumar]]></title>
+        <id>https://www.youtube.com/watch?v=5hTWPfecKKQ</id>
+        <link href="https://www.youtube.com/watch?v=5hTWPfecKKQ"/>
+        <updated>2022-09-22T13:00:03.000Z</updated>
         <author>
-            <name>Brittney Postma</name>
+            <name>Satyam Audios</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making Sense Of WAI-ARIA: A Comprehensive Guide]]></title>
-        <id>https://smashingmagazine.com/2022/09/wai-aria-guide/</id>
-        <link href="https://smashingmagazine.com/2022/09/wai-aria-guide/"/>
-        <updated>2022-09-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Kate Kalcevich explains when to use ARIA and how to use it properly so that you can use ARIA in a way that’s helpful to the many disabled people who use [assistive technology](https://makeitfable.com/glossary/?utm_source=Smashing+Magazine&utm_medium=sponsored+content&utm_campaign=Upskill&utm_term=Fable&utm_content=Sept2022) to navigate the Internet. Let’s dive in!]]></summary>
+        <title type="html"><![CDATA[Oru Mutham Thedi | 1080p | Independence | Krishna | Indraja - Suresh Peters Evergreen Hit Song]]></title>
+        <id>https://www.youtube.com/watch?v=WQAEMXS6g9w</id>
+        <link href="https://www.youtube.com/watch?v=WQAEMXS6g9w"/>
+        <updated>2022-09-22T12:00:31.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Kate Kalcevich)</name>
+            <name>Music Zone</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Interactive Figma Widgets]]></title>
-        <id>https://css-tricks.com/?p=372991</id>
-        <link href="https://css-tricks.com/building-interactive-figma-widgets/"/>
-        <updated>2022-09-12T13:05:20.000Z</updated>
-        <summary type="html"><![CDATA[Figma has always encouraged collaboration between developers and designers. It strives on an endless treasury of community-made plugins. Need 3D elements? There’s a plugin for that. Need abstract SVGs? There’s a plugin for that, too.
-That said, the design part of Figma has …
-Building Interactive Figma Widgets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Ithu Kaliyaa | Happy Journey | Sachin Warrier | Gopi Sundar | BK Harinarayanan]]></title>
+        <id>https://www.youtube.com/watch?v=6n-_gHutkBw</id>
+        <link href="https://www.youtube.com/watch?v=6n-_gHutkBw"/>
+        <updated>2022-09-22T12:00:06.000Z</updated>
         <author>
-            <name>Eluda</name>
+            <name>Satyam Audios</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet “Smart Interface Design Patterns Checklists” (Deck With 166 Cards)]]></title>
-        <id>https://smashingmagazine.com/2022/09/smart-interface-design-checklist-cards-release/</id>
-        <link href="https://smashingmagazine.com/2022/09/smart-interface-design-checklist-cards-release/"/>
-        <updated>2022-09-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet “Smart Interface Design Patterns Checklists”, a deck of 166 checklist cards to help you design and build better interfaces, faster. With accordions, mega-drop-downs, data tables, carousels, and everything in-between.]]></summary>
+        <title type="html"><![CDATA[Anthimaanachoppu Video Song | Shobana | Vineeth | Johnson | KS Chithra | Shibu Chakravarthy]]></title>
+        <id>https://www.youtube.com/watch?v=r8vtIyQFkHE</id>
+        <link href="https://www.youtube.com/watch?v=r8vtIyQFkHE"/>
+        <updated>2022-09-22T11:30:23.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>Saina Evergreens</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Made a Pure CSS Puzzle Game]]></title>
-        <id>https://css-tricks.com/?p=372952</id>
-        <link href="https://css-tricks.com/how-i-made-a-pure-css-puzzle-game/"/>
-        <updated>2022-09-09T13:21:29.000Z</updated>
-        <summary type="html"><![CDATA[I recently discovered the joy of creating CSS-only games. It’s always fascinating how HTML and CSS are capable of handling the logic of an entire online game, so I had to try it! Such games usually rely on the ol’ …
-How I Made a Pure CSS Puzzle Game originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Pathiye Nombaram - Lyrical Video | Shubhadinam | Sooraj Santosh, Anarkali Marikar | Gireesh | Arjun]]></title>
+        <id>https://www.youtube.com/watch?v=UJj7FkTGXnQ</id>
+        <link href="https://www.youtube.com/watch?v=UJj7FkTGXnQ"/>
+        <updated>2022-09-22T11:30:13.000Z</updated>
         <author>
-            <name>Temani Afif</name>
+            <name>East Coast</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One Formula To Rule Them All: The ROI Of A Design System]]></title>
-        <id>https://smashingmagazine.com/2022/09/formula-roi-design-system/</id>
-        <link href="https://smashingmagazine.com/2022/09/formula-roi-design-system/"/>
-        <updated>2022-09-09T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Design systems are a crucial success factor for digital businesses, and virtually every major player works with one. Still, they can sometimes be hard to sell to management. Here’s a ready-to-use formula to calculate the ROI of any design system.]]></summary>
+        <title type="html"><![CDATA[Hindolam Music Album | Narayanan Krishna | Adv.Roy Panjikaran |Gopika Sreejith |Sudheer Subrahmanyan]]></title>
+        <id>https://www.youtube.com/watch?v=V55qRGLVwjg</id>
+        <link href="https://www.youtube.com/watch?v=V55qRGLVwjg"/>
+        <updated>2022-09-22T11:30:11.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Maximilian Speicher &amp; Guido Baena Wehrmann)</name>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s New With Forms in 2022?]]></title>
-        <id>https://css-tricks.com/?p=372979</id>
-        <link href="https://css-tricks.com/whats-new-with-forms-in-2022/"/>
-        <updated>2022-09-08T13:12:51.000Z</updated>
-        <summary type="html"><![CDATA[Browsers are constantly adding new HTML, JavaScript and CSS features. Here are some useful additions to working with forms that you might have missed…
-requestSubmit()
-Safari 16 will be the final browser to add support for requestSubmit.
-Before we …
-What’s New With Forms in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[മലയാളഭാഷയുടെ അന്തസും അഭിമാനവും ഒട്ടും ചോരാത്ത പ്രൗഢിയുള്ള സിനിമാഗാനങ്ങൾ | AUTHENTIC VIDEO SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=mQfoHrmcWrY</id>
+        <link href="https://www.youtube.com/watch?v=mQfoHrmcWrY"/>
+        <updated>2022-09-22T07:30:07.000Z</updated>
         <author>
-            <name>Ollie Williams</name>
+            <name>Movie World Music</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UX Checklists For Interface Designers]]></title>
-        <id>https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/</id>
-        <link href="https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/"/>
-        <updated>2022-09-08T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[UX checklists with best design practices, accessibility guidelines, design system checklist, tables UX checklist, UX research methods, form design UX and flowcharts.]]></summary>
+        <title type="html"><![CDATA[കായലിൻ പ്രഭാത ഗീതങ്ങൾ | Evergreen Malayalam Hit Song | K. J. Yesudas | HD Video Song]]></title>
+        <id>https://www.youtube.com/watch?v=6tQ83ikjVlA</id>
+        <link href="https://www.youtube.com/watch?v=6tQ83ikjVlA"/>
+        <updated>2022-09-22T06:28:29.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>Millennium Musics</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Realities And Myths Of Contrast And Color]]></title>
-        <id>https://smashingmagazine.com/2022/09/realities-myths-contrast-color/</id>
-        <link href="https://smashingmagazine.com/2022/09/realities-myths-contrast-color/"/>
-        <updated>2022-09-06T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.]]></summary>
+        <title type="html"><![CDATA[മായാദേവകിയ്ക്കു മകൻ പിറന്നേ 🎶🎶🎶 | Dileep | Kavya Madhavan | KS Chithra | Vidyasagar | S Ramesan Nair]]></title>
+        <id>https://www.youtube.com/watch?v=OoyJrdV9TUM</id>
+        <link href="https://www.youtube.com/watch?v=OoyJrdV9TUM"/>
+        <updated>2022-09-22T04:56:27.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Andrew Somers)</name>
+            <name>Saina Evergreens</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 52 With Yiying Lu: How Do You Become An NFT Artist?]]></title>
-        <id>https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/</id>
-        <link href="https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/"/>
-        <updated>2022-09-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we ask how do you go from running a creative studio to designing NFTs. Vitaly talks to artist Yiying Lu to find out.]]></summary>
+        <title type="html"><![CDATA[Mizhiyariyathe #shorts #youtubeshorts #malayalamsongs #bestsongs #bestmelodysongs]]></title>
+        <id>https://www.youtube.com/watch?v=vizeaPdPT74</id>
+        <link href="https://www.youtube.com/watch?v=vizeaPdPT74"/>
+        <updated>2022-09-21T14:30:11.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>Movie World Music</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet Understanding Privacy, A New Smashing Book By Heather Burns]]></title>
-        <id>https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/</id>
-        <link href="https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/"/>
-        <updated>2022-09-05T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet “Understanding Privacy”, our upcoming book on what data privacy is really about beyond scary headlines. Approx. 350 pages. eBook available in October, print shipping in November.]]></summary>
+        <title type="html"><![CDATA[Janmaragamanu nee | Kilukkampeti | Bichu Thirumala | MG Sreekumar | KS Chithra | Jayaram]]></title>
+        <id>https://www.youtube.com/watch?v=5l-5MzwfeNw</id>
+        <link href="https://www.youtube.com/watch?v=5l-5MzwfeNw"/>
+        <updated>2022-09-21T13:30:01.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>Movie World Music</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Accessibility And Usability Journey Of Drupal’s Primary Navigation]]></title>
-        <id>https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/</id>
-        <link href="https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/"/>
-        <updated>2022-09-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Mike Herchel covers Drupal’s new default theme, Olivero, which is usable, accessible, robust, and beautiful and will help you improve websites’ navigation systems.]]></summary>
+        <title type="html"><![CDATA[Mayilaay Parannu Vaa Video Song | Kunchacko Boban | Jomol | KJ Yesudas | KS Chithra | S Ramesan Nair]]></title>
+        <id>https://www.youtube.com/watch?v=ztdycZhuAHo</id>
+        <link href="https://www.youtube.com/watch?v=ztdycZhuAHo"/>
+        <updated>2022-09-21T11:35:10.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Mike Herchel)</name>
+            <name>Saina Evergreens</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Databases For Front-End Developers: The Concepts Under The Hood (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/</id>
-        <link href="https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/"/>
-        <updated>2022-09-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the second part of “Databases For Front-End Developers” series, Atila Fassina explores concepts to equip you to have your own opinions about which kinds of databases suit your specific needs.]]></summary>
+        <title type="html"><![CDATA[Ee Lokam Muzhuvan | Weeping Boy | Sayanora Philip | Anand Madhusoodanan]]></title>
+        <id>https://www.youtube.com/watch?v=mVN9pVL3KbY</id>
+        <link href="https://www.youtube.com/watch?v=mVN9pVL3KbY"/>
+        <updated>2022-09-21T11:30:13.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
+            <name>Satyam Audios</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Useful JavaScript Data Grid Libraries]]></title>
-        <id>https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/</id>
-        <link href="https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/"/>
-        <updated>2022-09-01T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Zara Cooper provides a rundown of some popular data grid libraries that would be a great addition to any data-heavy application and shares recommendations on what factors to consider when choosing a suitable data grid library.]]></summary>
+        <title type="html"><![CDATA[അനുരാഗിണീ ഇതാ എൻ കരളിൽ | Evergreen Malayalam Hit Song | K. J. Yesudas | HD Video Song]]></title>
+        <id>https://www.youtube.com/watch?v=cyUuBB2e0Mo</id>
+        <link href="https://www.youtube.com/watch?v=cyUuBB2e0Mo"/>
+        <updated>2022-09-21T10:34:46.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
+            <name>Millennium Musics</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Finding The Balance (September 2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/</id>
-        <link href="https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/"/>
-        <updated>2022-08-31T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s welcome September with some fresh desktop wallpapers. Designed by artists and designers from across the globe, they come in versions with and without a calendar for the month. Enjoy!]]></summary>
+        <title type="html"><![CDATA[ഹിസ് ഹൈനസ്  അബ്‌ദുള്ള സിനിമയിൽ നെടുമുടി വേണു പറഞ്ഞത് നീ കേട്ടിട്ടില്ലേ|Shivan Sopanam|Kotthu|#Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=B4ADeCKpNPU</id>
+        <link href="https://www.youtube.com/watch?v=B4ADeCKpNPU"/>
+        <updated>2022-09-21T10:30:04.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>East Coast</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Improve And Measure Your Progress Learning Web Design]]></title>
-        <id>https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/</id>
-        <link href="https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/"/>
-        <updated>2022-08-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ever felt overwhelmed by the number of things you need to learn? Today, we look at how [Uxcel](https://uxcel.com/) eases this transition and approaches actively learning new skills to take our careers to the next level.]]></summary>
+        <title type="html"><![CDATA[Manjin Kurumbu Parayathe | Alice: A True Story | Mrudula Warrier | Bijibal]]></title>
+        <id>https://www.youtube.com/watch?v=6I1bO-3SPfA</id>
+        <link href="https://www.youtube.com/watch?v=6I1bO-3SPfA"/>
+        <updated>2022-09-21T10:30:02.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Shane Hudson)</name>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puzhayude Geetham | Video | Gayatri Asokan | Shahabaz Aman | Poovachal Khader | Malayalam Ghazal]]></title>
+        <id>https://www.youtube.com/watch?v=CMk0vSvkSjE</id>
+        <link href="https://www.youtube.com/watch?v=CMk0vSvkSjE"/>
+        <updated>2022-09-21T05:30:10.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നീ അവിടെ പറഞ്ഞത് ചെറ്റത്തരം ആയിപ്പോയി | Athul Ram Kumar | Asif Ali | Kotthu Movie | #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=9wb3pAp5pg8</id>
+        <link href="https://www.youtube.com/watch?v=9wb3pAp5pg8"/>
+        <updated>2022-09-21T05:30:02.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ey Sundaree | Escape from Uganda | Gopi Sundar | Anna Chatherina]]></title>
+        <id>https://www.youtube.com/watch?v=arCOl37dyKE</id>
+        <link href="https://www.youtube.com/watch?v=arCOl37dyKE"/>
+        <updated>2022-09-20T13:00:02.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ilam Khalbile | Malsaram | Kalabhavan Mani |Cochin Haneefa |Thilakan - M Jayachandran & Yesudas Hits]]></title>
+        <id>https://www.youtube.com/watch?v=FF-sd03EFSM</id>
+        <link href="https://www.youtube.com/watch?v=FF-sd03EFSM"/>
+        <updated>2022-09-20T12:00:15.000Z</updated>
+        <author>
+            <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHARACTER TEASER 06 | IMRAN 3:185 | Mamas | Adil Ibrahim | Original Movies | Mamasian Movies]]></title>
+        <id>https://www.youtube.com/watch?v=aRZNPW8ViTQ</id>
+        <link href="https://www.youtube.com/watch?v=aRZNPW8ViTQ"/>
+        <updated>2022-09-20T11:30:11.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PAKARAM - VIDEO SONG | Kotthu Movie | Asif Ali, Nikhila Vimal, Roshan Mathew | Sibi Malayil | Kailas]]></title>
+        <id>https://www.youtube.com/watch?v=EM-jKEk_5wE</id>
+        <link href="https://www.youtube.com/watch?v=EM-jKEk_5wE"/>
+        <updated>2022-09-20T11:30:08.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chiri Chiriyo Video Song | Mammootty | Rambha | Bhavana | KJ Yesudas | Ganga |Deepak Dev |Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=Pn7LAdYozMQ</id>
+        <link href="https://www.youtube.com/watch?v=Pn7LAdYozMQ"/>
+        <updated>2022-09-20T11:30:06.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പൊട്ടത്തരം മാത്രം വിളിച്ചു പറയുന്ന സുദർശനം ഗ്രൂപ്പും ഞാനാണ്  | Vijilesh | Kotthu Movie | #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=oPE_H3k6rC0</id>
+        <link href="https://www.youtube.com/watch?v=oPE_H3k6rC0"/>
+        <updated>2022-09-20T09:37:04.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കണ്ണും കണ്ണും തമ്മിൽ തമ്മിൽ കഥകൾ കൈമാറും മലയാളസിനിമയിലെ മികച്ച പ്രണയഗാനങ്ങൾ | ROMANTIC SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=P-6OHG6WCd4</id>
+        <link href="https://www.youtube.com/watch?v=P-6OHG6WCd4"/>
+        <updated>2022-09-20T07:51:10.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കരകാണാ കടലല മേലെ | Mohanlal | Sreenivasan | KJ Yesudas | Shyam | Yusufali Kecheri]]></title>
+        <id>https://www.youtube.com/watch?v=0-WweCUoj1U</id>
+        <link href="https://www.youtube.com/watch?v=0-WweCUoj1U"/>
+        <updated>2022-09-20T06:04:05.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എനക്കും ഇപ്പോൾ വിശപ്പ് ജാസ്തിയാ  | Sreelakshmi | Asif Ali | Roshan Mathew | Kotthu Movie | #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=g0QAfqGst64</id>
+        <link href="https://www.youtube.com/watch?v=g0QAfqGst64"/>
+        <updated>2022-09-20T05:30:09.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karmukil Varnante | Nandanam | Navya Nair | Prithwiraj | Ranjith |]]></title>
+        <id>https://www.youtube.com/watch?v=K5YjN8sO8bY</id>
+        <link href="https://www.youtube.com/watch?v=K5YjN8sO8bY"/>
+        <updated>2022-09-19T15:30:04.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കണ്ണൂര്‍ ഇന്ത്യയുടെ ഭാഗമല്ലാ? | Sudev Nair | Asif Ali | Roshan Mathew | Kotthu Movie | #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Ro6TpAHfjcI</id>
+        <link href="https://www.youtube.com/watch?v=Ro6TpAHfjcI"/>
+        <updated>2022-09-19T15:06:16.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Rajamalli Vidarunna Full Video Song | HD | Aniyathipravu Movie Song | REMASTERED AUDIO |]]></title>
+        <id>https://www.youtube.com/watch?v=M-mTX4SwzYA</id>
+        <link href="https://www.youtube.com/watch?v=M-mTX4SwzYA"/>
+        <updated>2022-09-19T13:46:12.000Z</updated>
+        <author>
+            <name>Wilson Video Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiliye Kiliye Kilimakale |  Dheem Tharikida Thom |  MG Radhakrishnan  |  Lissy  |  Maniyanpilla Raju]]></title>
+        <id>https://www.youtube.com/watch?v=EMc6agE3dHo</id>
+        <link href="https://www.youtube.com/watch?v=EMc6agE3dHo"/>
+        <updated>2022-09-19T13:30:03.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നീല മേഘം പൊഴിയാറായി | Vijay Yesudas, Swetha Mohan | M G Radhakrishnan | Malayalam Romantic Melody]]></title>
+        <id>https://www.youtube.com/watch?v=7QTmcyyL2YA</id>
+        <link href="https://www.youtube.com/watch?v=7QTmcyyL2YA"/>
+        <updated>2022-09-19T11:54:40.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Madham Pularumbol #shorts #malayalamsongs  #youtubeshorts #bestsongs #bestmelodysongs]]></title>
+        <id>https://www.youtube.com/watch?v=sK6lnOW1Tng</id>
+        <link href="https://www.youtube.com/watch?v=sK6lnOW1Tng"/>
+        <updated>2022-09-19T11:30:21.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allimalarkavil Video Song | Mohanlal | Urvashi | MG Sreekumar | ONV Kurup | MG Radhakrishnan]]></title>
+        <id>https://www.youtube.com/watch?v=iaMq_5KM5oc</id>
+        <link href="https://www.youtube.com/watch?v=iaMq_5KM5oc"/>
+        <updated>2022-09-19T11:30:09.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സൈബര്‍ സെല്ല് എന്ത് ഒലക്ക ആക്കാനാണ് | Ranjith | Kotthu Moive | Asif Ali | Siby Malayil | #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=RZR7tce9ZU4</id>
+        <link href="https://www.youtube.com/watch?v=RZR7tce9ZU4"/>
+        <updated>2022-09-19T10:30:11.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അങ്ങനെ ആദ്യായിട്ട് ഞാന്‍ ഒരുത്തന്റെ വാപ്പക്ക് വിളിച്ച് | Nikhila Vimal | Kotthu Movie | #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=HlWQJ-pg8SM</id>
+        <link href="https://www.youtube.com/watch?v=HlWQJ-pg8SM"/>
+        <updated>2022-09-19T05:32:49.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poy Varoo Poy Varoo Video Song | Mohanlal | Ilayaraja | P Jayachandran | P Padmarajan | Season]]></title>
+        <id>https://www.youtube.com/watch?v=zb_Z7zoui8Y</id>
+        <link href="https://www.youtube.com/watch?v=zb_Z7zoui8Y"/>
+        <updated>2022-09-18T11:30:21.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kotthu Movie | Roshan Mathew Character Promo | Asif Ali | Nikhila  | Sibi Malayil | Ranjith #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=tp3oiaxlQ-k</id>
+        <link href="https://www.youtube.com/watch?v=tp3oiaxlQ-k"/>
+        <updated>2022-09-18T08:02:19.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Varachandralekhayalle | Kilukil Pamparam | Madhupal | Kaveri | Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=e-fpgIg20m8</id>
+        <link href="https://www.youtube.com/watch?v=e-fpgIg20m8"/>
+        <updated>2022-09-17T15:43:03.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sathyabhama | Parthasarathy K | Sunil G Cherukadavu | Neel Kajal S | Album Songs]]></title>
+        <id>https://www.youtube.com/watch?v=H6O_O0LwNWo</id>
+        <link href="https://www.youtube.com/watch?v=H6O_O0LwNWo"/>
+        <updated>2022-09-17T11:30:14.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THENTHULLI - VIDEO SONG | Kotthu | Asif Ali, Nikhila Vimal, Roshan Mathew | Sibi Malayil | Kailas]]></title>
+        <id>https://www.youtube.com/watch?v=x05vBvulfYA</id>
+        <link href="https://www.youtube.com/watch?v=x05vBvulfYA"/>
+        <updated>2022-09-17T11:30:14.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Raajamalli Video Song | Kunchacko Boban | Shalini | MG Sreekumar | Ouseppachan | S Ramesan Nair]]></title>
+        <id>https://www.youtube.com/watch?v=qYQUEbxW3Qg</id>
+        <link href="https://www.youtube.com/watch?v=qYQUEbxW3Qg"/>
+        <updated>2022-09-17T11:30:13.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാലേയം… മാറോടലിഞ്ഞു HD | Thacholi Varghese Chekavar | Malayalam Romantic Film Song | K.S.Chitra]]></title>
+        <id>https://www.youtube.com/watch?v=IHjwSarHrnk</id>
+        <link href="https://www.youtube.com/watch?v=IHjwSarHrnk"/>
+        <updated>2022-09-17T11:30:07.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tribute to Yesudas  | Lathika | Saji John Milton | Baiju Iringallur | Sanal Krishna]]></title>
+        <id>https://www.youtube.com/watch?v=w-nluR-4-As</id>
+        <link href="https://www.youtube.com/watch?v=w-nluR-4-As"/>
+        <updated>2022-09-17T10:30:11.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കുടുംബപ്രേക്ഷകരുടെ ഇഷ്ടനായകൻ സുരേഷ്‌ഗോപിയുടെ ഏവർക്കും പ്രിയമുള്ള ഗാനങ്ങൾ | SURESHGOPI HITS]]></title>
+        <id>https://www.youtube.com/watch?v=hVRTtfvaboU</id>
+        <link href="https://www.youtube.com/watch?v=hVRTtfvaboU"/>
+        <updated>2022-09-17T08:24:30.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇനിയെന്തു നൽകണം..| Mohanlal | Samyuktha Varma | KJ Yesudas | Sujatha Mohan | Ouseppachan| Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=2En0wlELbrA</id>
+        <link href="https://www.youtube.com/watch?v=2En0wlELbrA"/>
+        <updated>2022-09-17T06:08:36.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pallikkooda Naluthotte.. .]]></title>
+        <id>https://www.youtube.com/watch?v=fVT19WhkWVY</id>
+        <link href="https://www.youtube.com/watch?v=fVT19WhkWVY"/>
+        <updated>2022-09-17T04:33:50.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaave Makane | Pothan Vava | Mamootty | Gopika | Alex Paul | Joshy | Usha Udhuppu]]></title>
+        <id>https://www.youtube.com/watch?v=N7YXOlQ8IPA</id>
+        <link href="https://www.youtube.com/watch?v=N7YXOlQ8IPA"/>
+        <updated>2022-09-16T16:05:17.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhavil Azhakil | Ente Mazha | Sudeepkumar | Chithra Arun | Rijosh V A | Anmay Creations]]></title>
+        <id>https://www.youtube.com/watch?v=4Tw0IfGE4wE</id>
+        <link href="https://www.youtube.com/watch?v=4Tw0IfGE4wE"/>
+        <updated>2022-09-16T13:30:13.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arikeyonnu Kandoru|Lyrical Video| Vellaripattanam|KS Harisankar|Nithya Mammen|Sachin Shankor Mannath]]></title>
+        <id>https://www.youtube.com/watch?v=5R28KOCLoJc</id>
+        <link href="https://www.youtube.com/watch?v=5R28KOCLoJc"/>
+        <updated>2022-09-16T12:30:11.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Love Music Video | Nilave Pol | Vishnu Ramdas | AK Productions | Malayalam Love Songs]]></title>
+        <id>https://www.youtube.com/watch?v=jYN1nIs6zyU</id>
+        <link href="https://www.youtube.com/watch?v=jYN1nIs6zyU"/>
+        <updated>2022-09-16T11:30:11.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[En Neelakasham | Randam Varavu | Shyam | K Jayakumar | KJ Yesudas | P . Susheela | Jayaram | Rekha]]></title>
+        <id>https://www.youtube.com/watch?v=F4hj-Kxd-r0</id>
+        <link href="https://www.youtube.com/watch?v=F4hj-Kxd-r0"/>
+        <updated>2022-09-16T07:30:01.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neelakkurukkan | Kasarkode Khaderbai | Malayalam Movie Song | Malayalam Film Song]]></title>
+        <id>https://www.youtube.com/watch?v=AD0_Za_BbkY</id>
+        <link href="https://www.youtube.com/watch?v=AD0_Za_BbkY"/>
+        <updated>2022-09-16T06:23:44.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innalekal Thalirkkumbol | Official Trailer | Sadanandan M. V | Sanju Pillai | S & S productions]]></title>
+        <id>https://www.youtube.com/watch?v=7omM2Im5yIk</id>
+        <link href="https://www.youtube.com/watch?v=7omM2Im5yIk"/>
+        <updated>2022-09-15T12:30:12.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manassu Oru | Kaliveedu | Jayaram | Manju Warrier | Vani Viswanath - Mohan Sithara -Yesudas Hit Song]]></title>
+        <id>https://www.youtube.com/watch?v=iYHjlFA0N6Y</id>
+        <link href="https://www.youtube.com/watch?v=iYHjlFA0N6Y"/>
+        <updated>2022-09-15T12:00:22.000Z</updated>
+        <author>
+            <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആനന്ദപ്പൂമുത്തേ എന്‍ തേന്‍മുത്തേ | Aananda Poomuthe | Varshangal Poyathariyathe | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=P_E-j4Q3p0s</id>
+        <link href="https://www.youtube.com/watch?v=P_E-j4Q3p0s"/>
+        <updated>2022-09-15T11:06:33.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ilamavin Thunjathe | Ikkarayanente Maanasam | Gireesh Puthenchery | SP Venkitesh | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=QPufAKzgDV8</id>
+        <link href="https://www.youtube.com/watch?v=QPufAKzgDV8"/>
+        <updated>2022-09-15T07:30:03.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muthe Muthe Kingini Muthe | Kana Kanmani | Jayaram | Padmapriya | Baby Niveditha -]]></title>
+        <id>https://www.youtube.com/watch?v=75S6GEI8oI0</id>
+        <link href="https://www.youtube.com/watch?v=75S6GEI8oI0"/>
+        <updated>2022-09-14T15:30:02.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒരായിരം കിനാക്കളാൽ ... #shorts #youtubeshorts #malayalamsongs #bestmelodysongs]]></title>
+        <id>https://www.youtube.com/watch?v=G-XRlPYz-Xw</id>
+        <link href="https://www.youtube.com/watch?v=G-XRlPYz-Xw"/>
+        <updated>2022-09-14T13:30:03.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karthave Nee | Christian Brothers | Dileep | Kavya Madhavan | Sankar Mahadevan | Rimi Tomy]]></title>
+        <id>https://www.youtube.com/watch?v=3k_kkHJ6XIE</id>
+        <link href="https://www.youtube.com/watch?v=3k_kkHJ6XIE"/>
+        <updated>2022-09-13T15:30:02.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eriyunna Karalinte | Punjabi House | Dileep | Mohini | Lal - Suresh Peters Hit Song - MG Hits]]></title>
+        <id>https://www.youtube.com/watch?v=ik2B15NL7b8</id>
+        <link href="https://www.youtube.com/watch?v=ik2B15NL7b8"/>
+        <updated>2022-09-13T12:00:29.000Z</updated>
+        <author>
+            <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പുഴ പാടുമീ പാട്ടിൽ | Puzha Padum... | Melvilasam Sariyannu Malayalam Movie Song | P.Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=z7R6A_dF9hI</id>
+        <link href="https://www.youtube.com/watch?v=z7R6A_dF9hI"/>
+        <updated>2022-09-13T09:51:53.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omane Thankame | Mizhi Randilum | Dileep | Kavya Madhavan | Ranjith | Raveendran | Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=ffJ6h5IbqY0</id>
+        <link href="https://www.youtube.com/watch?v=ffJ6h5IbqY0"/>
+        <updated>2022-09-12T15:30:10.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hridyam | Athena Mariam Anish | Renjith Raj RS | Anish Raj | Musical Album | Malayalam Music Video]]></title>
+        <id>https://www.youtube.com/watch?v=DDsTHPzHZQQ</id>
+        <link href="https://www.youtube.com/watch?v=DDsTHPzHZQQ"/>
+        <updated>2022-09-12T12:30:13.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കണ്ണുകളിൽ കണ്ണുകൾ മുങ്ങി | Kannukalil Kannukal | Grihalakshmi | Madhu]]></title>
+        <id>https://www.youtube.com/watch?v=iyh0bWgzjwM</id>
+        <link href="https://www.youtube.com/watch?v=iyh0bWgzjwM"/>
+        <updated>2022-09-12T12:22:29.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vote Oru | Classmates | Prithviraj | Jayasurya | Kavya Madhavan | Laljose | Alex Paul]]></title>
+        <id>https://www.youtube.com/watch?v=JR8hW83dQgE</id>
+        <link href="https://www.youtube.com/watch?v=JR8hW83dQgE"/>
+        <updated>2022-09-11T15:30:02.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കൈയ്യൊന്നു പിടിച്ചപ്പോൾ കാരിരുമ്പ്‌ | Kayyonnu Pidichappol | Oru Sumangaliyude Katha| Malayalam Song]]></title>
+        <id>https://www.youtube.com/watch?v=D2xY-Qaz5AI</id>
+        <link href="https://www.youtube.com/watch?v=D2xY-Qaz5AI"/>
+        <updated>2022-09-11T05:00:09.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaroraal Pularmazhayil  | Pattalam | Mammootty | Tessa | Vidyasagar | Gireesh Puthanchery | Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=OyWx0Nrk4iM</id>
+        <link href="https://www.youtube.com/watch?v=OyWx0Nrk4iM"/>
+        <updated>2022-09-10T15:30:08.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാനത്തിൻ ഒക്കത്തു തിങ്കൾക്കുടം | Maanathin Ukkathu | Oru Sumangaliyude Katha | K. J. Yesudas | Shyam]]></title>
+        <id>https://www.youtube.com/watch?v=zHwkGA6JMK4</id>
+        <link href="https://www.youtube.com/watch?v=zHwkGA6JMK4"/>
+        <updated>2022-09-10T06:23:47.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manninmanam Eenam | Ponnona Tharangini | Yesudas | Raveendran | Sreekumaran Thamby | Sound Of Arts]]></title>
+        <id>https://www.youtube.com/watch?v=alM3xVPBb3w</id>
+        <link href="https://www.youtube.com/watch?v=alM3xVPBb3w"/>
+        <updated>2022-09-10T06:14:32.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assalayi Assalayi Nee | Lollipop | Prithviraj | Bhavana | Alex Paul - HD Video Song]]></title>
+        <id>https://www.youtube.com/watch?v=E-vVyOGqq8s</id>
+        <link href="https://www.youtube.com/watch?v=E-vVyOGqq8s"/>
+        <updated>2022-09-09T15:30:04.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പൂവിളി പൂവിളി പൊന്നോണമായി | Poovili Poovili Ponnonamayi - Vishukkani(1977) | #onam  Special Songs]]></title>
+        <id>https://www.youtube.com/watch?v=9mZBENKdbdg</id>
+        <link href="https://www.youtube.com/watch?v=9mZBENKdbdg"/>
+        <updated>2022-09-07T06:39:35.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എന്റെ ഇഷ്ടഗാനങ്ങള്‍ | Hits of Mammootty | Mammootty Hit Songs | Video Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=NyQUc85dpIY</id>
+        <link href="https://www.youtube.com/watch?v=NyQUc85dpIY"/>
+        <updated>2022-09-07T04:30:05.000Z</updated>
+        <author>
+            <name>Wilson Video Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എന്റെ പ്രിയഗാനങ്ങൾ !!! | Mammootty Super Hit Songs | Malayalam Movie Songs | Birthday Special Songs]]></title>
+        <id>https://www.youtube.com/watch?v=STsDbimyWQU</id>
+        <link href="https://www.youtube.com/watch?v=STsDbimyWQU"/>
+        <updated>2022-09-06T12:00:25.000Z</updated>
+        <author>
+            <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാവേലിക്കും പൂക്കളം... HD | Mavelikkum Pookkalam - Ithu Njangalude Katha | Johnson]]></title>
+        <id>https://www.youtube.com/watch?v=vCE7bvus784</id>
+        <link href="https://www.youtube.com/watch?v=vCE7bvus784"/>
+        <updated>2022-09-06T11:30:13.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aavani | ആവണി | Malayalam Onam Song 2022 | MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=NBA1ONSaF9Y</id>
+        <link href="https://www.youtube.com/watch?v=NBA1ONSaF9Y"/>
+        <updated>2022-09-06T11:24:22.000Z</updated>
+        <author>
+            <name>Wilson Video Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[താളങ്ങൾ പുണ്യം തേടും പാദം | Thaalangal Punyam Thedum | Grihalakshmi | Madhu]]></title>
+        <id>https://www.youtube.com/watch?v=TifFL6JZkj8</id>
+        <link href="https://www.youtube.com/watch?v=TifFL6JZkj8"/>
+        <updated>2022-09-05T11:30:08.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kuliru Kumbil | Kudumba Vishesham | Urvashi | Jagadish | Ashokan | Renuka | Baiju | Seetha | Raju]]></title>
+        <id>https://www.youtube.com/watch?v=TzDSoDxXPUw</id>
+        <link href="https://www.youtube.com/watch?v=TzDSoDxXPUw"/>
+        <updated>2022-09-02T12:00:19.000Z</updated>
+        <author>
+            <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കിലുങ്ങുന്ന ചിരിയിൽ മുഴുവർണ്ണ പീലികൾ 😍😍😍🥰]]></title>
+        <id>https://www.youtube.com/watch?v=HSR1_CQBZpA</id>
+        <link href="https://www.youtube.com/watch?v=HSR1_CQBZpA"/>
+        <updated>2022-09-02T05:23:34.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
