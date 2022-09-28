@@ -1,0 +1,627 @@
+{
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": []
+    },
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=373209",
+          "author": "Matteo Mazzarolo",
+          "description": "Did you know that DOM elements with IDs are accessible in JavaScript as global variables? It’s one of those things that’s been around, like, forever but I’m really digging into it for the first time.\nIf this is the first …\nNamed Element IDs Can Be Referenced as JavaScript Globals originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/",
+          "publishedOn": "2022-09-27T12:58:21.000Z",
+          "wordCount": 2450,
+          "title": "Named Element IDs Can Be Referenced as JavaScript Globals",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373209"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373403",
+          "author": "Temani Afif",
+          "description": "The wave is probably one of the most difficult shapes to make in CSS. We always try to approximate it with properties like border-radius and lots of magic numbers until we get something that feels kinda close. And that’s before …\nHow to Create Wavy Shapes & Patterns in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-create-wavy-shapes-patterns-in-css/",
+          "publishedOn": "2022-09-26T13:13:30.000Z",
+          "wordCount": 4304,
+          "title": "How to Create Wavy Shapes & Patterns in CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373403"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373057",
+          "author": "Ganesh Dahal",
+          "description": "If we browse the WordPress theme directory, a majority of themes showcase cover images. It is a feature in popular demand. The cover page trend is true even in the block theme directory screenshots as well.\nLet’s consider the …\nHow To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-customize-wordpress-block-theme-cover-templates-with-dynamic-post-feature-images/",
+          "publishedOn": "2022-09-23T16:15:19.000Z",
+          "wordCount": 3528,
+          "title": "How To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature Images",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373057"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373652",
+          "author": "Geoff Graham",
+          "description": "The video of Chris Coyier’s talk at CascadiaJS 2022 is now available. It’s his first in-person talk in more than two years, so it’s great to see our good friend back on stage slinging gems on what makes the web …\nThe Web is Good Now originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-web-is-good-now/",
+          "publishedOn": "2022-09-22T22:07:22.000Z",
+          "wordCount": 900,
+          "title": "The Web is Good Now",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373652"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373111",
+          "author": "Louis Hoebregts",
+          "description": "SVG is the best format for icons on a website, there is no doubt about that. It allows you to have sharp icons no matter the screen pixel density, you can change the styles of the SVG on hover …\nHow I Made an Icon System Out of CSS Custom Properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-i-made-an-icon-system-out-of-css-custom-properties/",
+          "publishedOn": "2022-09-22T15:17:21.000Z",
+          "wordCount": 2184,
+          "title": "How I Made an Icon System Out of CSS Custom Properties",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373111"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373639",
+          "author": "Geoff Graham",
+          "description": "The latest spec:\nA style rule is a qualified rule that associates a selector list with a list of property declarations and possibly a list of nested rules. They are also called rule sets in CSS2.\nLouis Lazaris:\nAs the above quote from W3C indicates, it seems \n…\nCSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-rules-vs-css-rulesets/",
+          "publishedOn": "2022-09-21T21:53:44.000Z",
+          "wordCount": 922,
+          "title": "CSS Rules vs. CSS Rulesets",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373639"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373167",
+          "author": "Preethi",
+          "description": "On one hand, creating simple checkered backgrounds with CSS is easy. On the other hand, though, unless we are one of the CSS-gradient-ninjas, we are kind of stuck with basic patterns.\nAt least that’s what I thought while staring at …\nCSS Checkerboard Background… But With Rounded Corners and Hover Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-checkerboard-background-but-with-rounded-corners-and-hover-styles/",
+          "publishedOn": "2022-09-20T13:19:24.000Z",
+          "wordCount": 1572,
+          "title": "CSS Checkerboard Background… But With Rounded Corners and Hover Styles",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373167"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373184",
+          "author": "Brecht De Ruyte",
+          "description": "Gradients have been a part of the CSS spectrum for quite some time now. We see a lot of radial and linear gradients in a lot of projects, but there is one type of gradient that seems to be a …\nMaking a Real-Time Clock With a Conic Gradient Face originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/making-a-real-time-clock-with-a-conic-gradient-face/",
+          "publishedOn": "2022-09-19T12:58:09.000Z",
+          "wordCount": 2144,
+          "title": "Making a Real-Time Clock With a Conic Gradient Face",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373184"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373372",
+          "author": "Geoff Graham",
+          "description": "A lot of chatter around the ol’ <details> and <summary> elements lately! I saw Lea Verou recently tweet an observation about the element’s display behavior and that sorta splintered into more observations and usage notes from folks, including a revived …\nMore Details on `details` originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/more-details-on-details/",
+          "publishedOn": "2022-09-15T13:12:40.000Z",
+          "wordCount": 2276,
+          "title": "More Details on `details`",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373372"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373100",
+          "author": "Daniel Schwarz",
+          "description": "Using CSS, it’s possible to prevent users from selecting text within an element using user-select: none. Now, it’s understandable why doing so might be considered “controversial”. I mean, should we be disabling standard user behaviors? Generally speaking, no, we …\nWhen is it OK to Disable Text Selection? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/when-is-it-ok-to-disable-text-selection/",
+          "publishedOn": "2022-09-14T13:03:04.000Z",
+          "wordCount": 3614,
+          "title": "When is it OK to Disable Text Selection?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373100"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373367",
+          "author": "Geoff Graham",
+          "description": "Whew boy, Safari 16 is officially out in the wild and it packs in a bunch of features, some new and exciting (Subgrid! Container Queries! Font Palettes!) and others we’ve been waiting on for better cross-browser support (Motion Path! Overscroll …\nWebKit Features in Safari 16.0 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/webkit-features-in-safari-16-0/",
+          "publishedOn": "2022-09-13T16:14:13.000Z",
+          "wordCount": 1100,
+          "title": "WebKit Features in Safari 16.0",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373367"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373081",
+          "author": "Brittney Postma",
+          "description": "You’ve probably heard a lot of hype around one of the newest kids on the framework block, Remix. It may be surprising that it got its start back in 2019, but it was originally only available as a subscription-based premium …\nThe Basics of Remix originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-basics-of-remix/",
+          "publishedOn": "2022-09-13T12:59:46.000Z",
+          "wordCount": 2762,
+          "title": "The Basics of Remix",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373081"
+        },
+        {
+          "id": "https://css-tricks.com/?p=372991",
+          "author": "Eluda",
+          "description": "Figma has always encouraged collaboration between developers and designers. It strives on an endless treasury of community-made plugins. Need 3D elements? There’s a plugin for that. Need abstract SVGs? There’s a plugin for that, too.\nThat said, the design part of Figma has …\nBuilding Interactive Figma Widgets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/building-interactive-figma-widgets/",
+          "publishedOn": "2022-09-12T13:05:20.000Z",
+          "wordCount": 4480,
+          "title": "Building Interactive Figma Widgets",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372991"
+        },
+        {
+          "id": "https://css-tricks.com/?p=372952",
+          "author": "Temani Afif",
+          "description": "I recently discovered the joy of creating CSS-only games. It’s always fascinating how HTML and CSS are capable of handling the logic of an entire online game, so I had to try it! Such games usually rely on the ol’ …\nHow I Made a Pure CSS Puzzle Game originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-i-made-a-pure-css-puzzle-game/",
+          "publishedOn": "2022-09-09T13:21:29.000Z",
+          "wordCount": 3678,
+          "title": "How I Made a Pure CSS Puzzle Game",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372952"
+        },
+        {
+          "id": "https://css-tricks.com/?p=372979",
+          "author": "Ollie Williams",
+          "description": "Browsers are constantly adding new HTML, JavaScript and CSS features. Here are some useful additions to working with forms that you might have missed…\nrequestSubmit()\nSafari 16 will be the final browser to add support for requestSubmit.\nBefore we …\nWhat’s New With Forms in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/whats-new-with-forms-in-2022/",
+          "publishedOn": "2022-09-08T13:12:51.000Z",
+          "wordCount": 1819,
+          "title": "What’s New With Forms in 2022?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372979"
+        }
+      ]
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/",
+          "author": "hello@smashingmagazine.com (Agustinus Theodorus)",
+          "description": "You don’t need a framework for everything, but if you use one, this article will help you use it in the most performant way.",
+          "link": "https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/",
+          "publishedOn": "2022-09-27T14:00:00.000Z",
+          "wordCount": 5761,
+          "title": "Five Data-Loading Patterns To Boost Web Performance",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b4b98819-8676-4a35-b3a1-ab5428b36784/data-loading-patterns-boost-web-performance.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b4b98819-8676-4a35-b3a1-ab5428b36784/data-loading-patterns-boost-web-performance.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "SmashingConf NYC is back! A friendly, inclusive conference for designers and front-end engineers who can’t wait to learn and be inspired. October 10–13, 2022. Get your ticket!",
+          "link": "https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/",
+          "publishedOn": "2022-09-26T10:30:00.000Z",
+          "wordCount": 3158,
+          "title": "Meet SmashingConf New York 🇺🇸 (Oct 10&ndash;13)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b0218f4-6266-412a-ace8-ea05b1ad688d/smashingconf-ny-banner.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b0218f4-6266-412a-ace8-ea05b1ad688d/smashingconf-ny-banner.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/",
+          "author": "hello@smashingmagazine.com (Dave Feldman)",
+          "description": "In this article, Dave Feldman shares his lessons learned and the experiments has done as a multidisciplinary designer-founder-CEO at an early-stage startup. Let’s take a look at what it is that makes a great design process for teams of any size.",
+          "link": "https://smashingmagazine.com/2022/09/lessons-learned-designer-founder/",
+          "publishedOn": "2022-09-23T11:30:00.000Z",
+          "wordCount": 5543,
+          "title": "Lessons Learned As A Designer-Founder",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/273285f3-018f-4ce0-9c9c-06310070caaf/lessons-learned-designer-founder.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/273285f3-018f-4ce0-9c9c-06310070caaf/lessons-learned-designer-founder.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/angular-guide/",
+          "author": "hello@smashingmagazine.com (William Juan)",
+          "description": "If you’re considering learning Angular, this article sums up what William Juan wished he knew when he started, including the mistakes made and lessons learned the hard way.",
+          "link": "https://smashingmagazine.com/2022/09/angular-guide/",
+          "publishedOn": "2022-09-22T13:00:00.000Z",
+          "wordCount": 5665,
+          "title": "Things I Wish I Had Known About Angular When I Started",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef27939e-040f-49bc-bd4e-1af6d80a84ac/angular-guide.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef27939e-040f-49bc-bd4e-1af6d80a84ac/angular-guide.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Inline validation in web forms is useful when it works, but frustrating when it fails. Too often it leads to an endless stream of disruptive error messages or dead-ends without any chance of getting out. Let’s fix it.",
+          "link": "https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/",
+          "publishedOn": "2022-09-21T11:30:00.000Z",
+          "wordCount": 6809,
+          "title": "Designing Better Inline Validation UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/64066efe-71fa-45b6-8e86-caf46c423b64/clean-up-input-ux-pattern.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/64066efe-71fa-45b6-8e86-caf46c423b64/clean-up-input-ux-pattern.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of the Smashing Podcast, we’re talking about HTML email. Do we still have to design like we would for IE5? Vitaly talks to expert Rémi Parmentier to find out.",
+          "link": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/",
+          "publishedOn": "2022-09-20T13:00:00.000Z",
+          "wordCount": 9832,
+          "title": "Smashing Podcast Episode 53 With Rémi Parmentier: Can HTML Email Use Modern CSS?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3eaf789d-a932-4d1f-a811-3406e0c63644/smashing-podcast-episode-53.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3eaf789d-a932-4d1f-a811-3406e0c63644/smashing-podcast-episode-53.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/new-gatsby-2022/",
+          "author": "hello@smashingmagazine.com (Paul Scanlon)",
+          "description": "Gatsby has evolved quite dramatically in the last two years. In this article, Paul Scanlon explains what Gatsby can do today, and how he used some of the new features when upgrading his personal website from Gatsby 2 to Gatsby 4.",
+          "link": "https://smashingmagazine.com/2022/09/new-gatsby-2022/",
+          "publishedOn": "2022-09-20T08:00:00.000Z",
+          "wordCount": 5343,
+          "title": "What’s New In Gatsby 2022?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/34359e66-8433-419e-9ea1-ab4c3becac46/new-gatsby-2022.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/34359e66-8433-419e-9ea1-ab4c3becac46/new-gatsby-2022.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/",
+          "author": "hello@smashingmagazine.com (Andrico Karoulla)",
+          "description": "In today’s article, Andrico Karoulla explains how to create a cool draggable effect by listening to the drag events and writing some custom logic inside the handlers.",
+          "link": "https://smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/",
+          "publishedOn": "2022-09-19T18:00:00.000Z",
+          "wordCount": 7384,
+          "title": "Building A Retro Draggable Web Component With Lit",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c1d9b905-3c76-4125-a9b1-91c8db791a06/building-retro-draggable-web-component-using-lit.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c1d9b905-3c76-4125-a9b1-91c8db791a06/building-retro-draggable-web-component-using-lit.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/",
+          "author": "hello@smashingmagazine.com (Matt Athanasiou)",
+          "description": "How can companies change their rating and review systems to better benefit users? Matt Athanasiou shares some steps to improve the experience of reviewing literature and other products — while also building stronger connections.",
+          "link": "https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/",
+          "publishedOn": "2022-09-16T10:00:00.000Z",
+          "wordCount": 5267,
+          "title": "Rethinking Star Ratings For Readers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4c500c4a-f0b4-4348-9136-951d1b38afde/rethinking-star-ratings-readers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4c500c4a-f0b4-4348-9136-951d1b38afde/rethinking-star-ratings-readers.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/accessibility-times-headless/",
+          "author": "hello@smashingmagazine.com (Josefine Schaefer)",
+          "description": "Do you want to make your new website as accessible as possible? Amazing, that’s a great mindset! Let’s have a closer look at the factors you should take into consideration when choosing a content management system (CMS) in terms of web accessibility.",
+          "link": "https://smashingmagazine.com/2022/09/accessibility-times-headless/",
+          "publishedOn": "2022-09-15T10:00:00.000Z",
+          "wordCount": 5247,
+          "title": "Headless In Times Of Accessibility",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a37e3c90-45e7-4553-b425-346edfcd48af/headless-in-times-of-accessibility.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a37e3c90-45e7-4553-b425-346edfcd48af/headless-in-times-of-accessibility.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/javascript-api-guide/",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "description": "In this article, Juan Diego covers the least known yet extremely useful APIs, such as the Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization API. Together we will see what they are, where we should use them, and how to use them.",
+          "link": "https://smashingmagazine.com/2022/09/javascript-api-guide/",
+          "publishedOn": "2022-09-14T10:00:00.000Z",
+          "wordCount": 5773,
+          "title": "JavaScript APIs You Don’t Know About",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b583db40-b8c0-46c4-9893-5a7ae3d00453/api-page-visibility-web-sharing-broadcast-channel-internationalization.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b583db40-b8c0-46c4-9893-5a7ae3d00453/api-page-visibility-web-sharing-broadcast-channel-internationalization.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/wai-aria-guide/",
+          "author": "hello@smashingmagazine.com (Kate Kalcevich)",
+          "description": "In this article, Kate Kalcevich explains when to use ARIA and how to use it properly so that you can use ARIA in a way that’s helpful to the many disabled people who use [assistive technology](https://makeitfable.com/glossary/?utm_source=Smashing+Magazine&utm_medium=sponsored+content&utm_campaign=Upskill&utm_term=Fable&utm_content=Sept2022) to navigate the Internet. Let’s dive in!",
+          "link": "https://smashingmagazine.com/2022/09/wai-aria-guide/",
+          "publishedOn": "2022-09-13T10:00:00.000Z",
+          "wordCount": 5401,
+          "title": "Making Sense Of WAI-ARIA: A Comprehensive Guide",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b5f0e5d2-bebc-4ea0-bf42-5557f79ab433/wai-aria-guide.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b5f0e5d2-bebc-4ea0-bf42-5557f79ab433/wai-aria-guide.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/smart-interface-design-checklist-cards-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Meet “Smart Interface Design Patterns Checklists”, a deck of 166 checklist cards to help you design and build better interfaces, faster. With accordions, mega-drop-downs, data tables, carousels, and everything in-between.",
+          "link": "https://smashingmagazine.com/2022/09/smart-interface-design-checklist-cards-release/",
+          "publishedOn": "2022-09-12T13:00:00.000Z",
+          "wordCount": 4339,
+          "title": "Meet “Smart Interface Design Patterns Checklists” (Deck With 166 Cards)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/228ff9a3-0d50-47c4-bf6b-7a1efdcd08f4/smashing-checklist-cards-box.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/228ff9a3-0d50-47c4-bf6b-7a1efdcd08f4/smashing-checklist-cards-box.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/formula-roi-design-system/",
+          "author": "hello@smashingmagazine.com (Maximilian Speicher & Guido Baena Wehrmann)",
+          "description": "Design systems are a crucial success factor for digital businesses, and virtually every major player works with one. Still, they can sometimes be hard to sell to management. Here’s a ready-to-use formula to calculate the ROI of any design system.",
+          "link": "https://smashingmagazine.com/2022/09/formula-roi-design-system/",
+          "publishedOn": "2022-09-09T08:30:00.000Z",
+          "wordCount": 5612,
+          "title": "One Formula To Rule Them All: The ROI Of A Design System",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2ee3c9ea-d8c4-494f-bcb1-ed3530dafbab/formula-roi-design-system.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2ee3c9ea-d8c4-494f-bcb1-ed3530dafbab/formula-roi-design-system.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "UX checklists with best design practices, accessibility guidelines, design system checklist, tables UX checklist, UX research methods, form design UX and flowcharts.",
+          "link": "https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/",
+          "publishedOn": "2022-09-08T13:00:00.000Z",
+          "wordCount": 3698,
+          "title": "UX Checklists For Interface Designers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6588f0b2-af1a-4e0a-adb9-45dd2feaffa1/checklist-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6588f0b2-af1a-4e0a-adb9-45dd2feaffa1/checklist-design.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/realities-myths-contrast-color/",
+          "author": "hello@smashingmagazine.com (Andrew Somers)",
+          "description": "In this article, Andrew Somers, a 35-year veteran of the Hollywood film and television industry, shares his experience about the hard-fought battles and lessons learned designing for illuminated presentations.",
+          "link": "https://smashingmagazine.com/2022/09/realities-myths-contrast-color/",
+          "publishedOn": "2022-09-06T19:00:00.000Z",
+          "wordCount": 7825,
+          "title": "The Realities And Myths Of Contrast And Color",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6553770-76d3-4d35-a473-1011999fbb66/realities-myths-contrast-color.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6553770-76d3-4d35-a473-1011999fbb66/realities-myths-contrast-color.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of the Smashing Podcast, we ask how do you go from running a creative studio to designing NFTs. Vitaly talks to artist Yiying Lu to find out.",
+          "link": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/",
+          "publishedOn": "2022-09-06T10:00:00.000Z",
+          "wordCount": 10428,
+          "title": "Smashing Podcast Episode 52 With Yiying Lu: How Do You Become An NFT Artist?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/639db09c-3948-4a2d-a564-a189c62098b7/smashing-podcast-episode-52.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/639db09c-3948-4a2d-a564-a189c62098b7/smashing-podcast-episode-52.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Meet “Understanding Privacy”, our upcoming book on what data privacy is really about beyond scary headlines. Approx. 350 pages. eBook available in October, print shipping in November.",
+          "link": "https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/",
+          "publishedOn": "2022-09-05T14:00:00.000Z",
+          "wordCount": 3641,
+          "title": "Meet Understanding Privacy, A New Smashing Book By Heather Burns",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cff889cf-602a-4685-a43c-e313647cac56/understanding-privacy.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cff889cf-602a-4685-a43c-e313647cac56/understanding-privacy.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/",
+          "author": "hello@smashingmagazine.com (Mike Herchel)",
+          "description": "In this article, Mike Herchel covers Drupal’s new default theme, Olivero, which is usable, accessible, robust, and beautiful and will help you improve websites’ navigation systems.",
+          "link": "https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/",
+          "publishedOn": "2022-09-02T10:30:00.000Z",
+          "wordCount": 4350,
+          "title": "The Accessibility And Usability Journey Of Drupal’s Primary Navigation",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98290a21-bda2-4307-b531-3f6745c5b6b5/accessibility-usability-drupal-primary-navigation.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98290a21-bda2-4307-b531-3f6745c5b6b5/accessibility-usability-drupal-primary-navigation.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "In the second part of “Databases For Front-End Developers” series, Atila Fassina explores concepts to equip you to have your own opinions about which kinds of databases suit your specific needs.",
+          "link": "https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/",
+          "publishedOn": "2022-09-01T11:00:00.000Z",
+          "wordCount": 4501,
+          "title": "Databases For Front-End Developers: The Concepts Under The Hood (Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f8fb60e-72db-4053-825a-2cbc819c546b/databases-frontend-developers-concepts-under-hood.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f8fb60e-72db-4053-825a-2cbc819c546b/databases-frontend-developers-concepts-under-hood.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/",
+          "author": "hello@smashingmagazine.com (Zara Cooper)",
+          "description": "In this article, Zara Cooper provides a rundown of some popular data grid libraries that would be a great addition to any data-heavy application and shares recommendations on what factors to consider when choosing a suitable data grid library.",
+          "link": "https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/",
+          "publishedOn": "2022-09-01T08:00:00.000Z",
+          "wordCount": 4663,
+          "title": "Useful JavaScript Data Grid Libraries",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2be5ada6-a971-4249-811f-6c8e32c8e402/useful-javascript-data-grid-libraries.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2be5ada6-a971-4249-811f-6c8e32c8e402/useful-javascript-data-grid-libraries.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s welcome September with some fresh desktop wallpapers. Designed by artists and designers from across the globe, they come in versions with and without a calendar for the month. Enjoy!",
+          "link": "https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/",
+          "publishedOn": "2022-08-31T08:45:00.000Z",
+          "wordCount": 4944,
+          "title": "Finding The Balance (September 2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
+          "author": "hello@smashingmagazine.com (Shane Hudson)",
+          "description": "Ever felt overwhelmed by the number of things you need to learn? Today, we look at how [Uxcel](https://uxcel.com/) eases this transition and approaches actively learning new skills to take our careers to the next level.",
+          "link": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
+          "publishedOn": "2022-08-30T09:00:00.000Z",
+          "wordCount": 4889,
+          "title": "How To Improve And Measure Your Progress Learning Web Design",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8593a84-fd4c-4a38-bb35-9211dcde51d4/improve-measure-progress-learning-web-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8593a84-fd4c-4a38-bb35-9211dcde51d4/improve-measure-progress-learning-web-design.jpg"
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news/",
+      "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/",
+          "author": "Rakesh Potnuru",
+          "description": "Testing is a vital part of software development. The sooner you start testing, the better.  In this article, I'll show you how to write tests for your NodeJs/ExpressJS and MongoDB/Mongoose applications with Jest and Supertest. Let's get started First let's set up a demo Express.js app. Let's say we",
+          "link": "https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/",
+          "publishedOn": "2022-09-27T23:26:16.000Z",
+          "wordCount": 1666,
+          "title": "How to Test Your Express.js and Mongoose Apps with Jest and SuperTest",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/how-to-write-tests.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/node-js-server-side-javascript-what-is-node-used-for/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "The release of Node.js in 2009 by Ryan Dahl increased the scope of what developers could do with JavaScript. Prior to that, you could only use JavaScript on the client side (the browser) or frontend of web applications. With Node.js, developers can create server side applications, command line tools, and",
+          "link": "https://www.freecodecamp.org/news/node-js-server-side-javascript-what-is-node-used-for/",
+          "publishedOn": "2022-09-27T21:34:58.000Z",
+          "wordCount": 1475,
+          "title": "Node.js Server-Side JavaScript – What is Node Used For?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/",
+          "author": "Maybell Obadoni",
+          "description": "There's a lot to learn when you're getting into tech. But fortunately there are some skills that you can use across different programming languages, operating systems, and tools.  And knowing how to use the command line interface (also known as the command prompt or terminal, depending on your operating",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/",
+          "publishedOn": "2022-09-27T21:11:32.000Z",
+          "wordCount": 2155,
+          "title": "How to Use the Command Line Interface – for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/BEGINNERS--HACK-ON-USING-CLI--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/debugging-in-python-using-pdb/",
+          "author": "Jagruti Tiwari",
+          "description": "Debugging tools are at the heart of any programming language. And as a developer, it's hard to make progress and write clean code unless you know your way around these tools. This article will help you get acquainted with one such tool: The Python Debugger (pdb) [https://docs.python.org/3/library/pdb.html#:~:text=The%20module%20pdb%20defines%20an,context%20of%20any%20stack%20frame] Note that this",
+          "link": "https://www.freecodecamp.org/news/debugging-in-python-using-pdb/",
+          "publishedOn": "2022-09-27T17:50:42.000Z",
+          "wordCount": 1512,
+          "title": "How to Debug Your Python Code with the Python Debugger (pdb)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/paulius-andriekus-552Vm3_Ah6A-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-implement-vertical-scrolling-in-react-using-react-router-hash-link/",
+          "author": "Edeh Israel Chidera",
+          "description": "Smooth scrolling is a feature that makes webpages more usable and allows for a better user scrolling experience in most browsers. Implementing a smooth page scroll while using react-router-dom has been a problem in React.js. So this article, you are going to learn how to implement smooth vertical scrolling using",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-vertical-scrolling-in-react-using-react-router-hash-link/",
+          "publishedOn": "2022-09-27T17:42:42.000Z",
+          "wordCount": 1278,
+          "title": "How to Implement Vertical Scrolling in React Using react-router-hash-link",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/ferenc-almasi-L8KQIPCODV8-unsplash.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-information-systems-definition-for-beginners/",
+          "author": "Kolade Chris",
+          "description": "You may have heard the term \"information systems\" as a type of degree some people get from a college or university. Or maybe you've heard it as a general term used to describe information and communication systems in general. Information systems are more than a degree or a general term.",
+          "link": "https://www.freecodecamp.org/news/what-is-information-systems-definition-for-beginners/",
+          "publishedOn": "2022-09-27T16:43:54.000Z",
+          "wordCount": 1619,
+          "title": "What is Information Systems? Definition for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/christopher-gower-m_HRfLhgABo-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-java-programming/",
+          "author": "Beau Carnes",
+          "description": "Java has been one of the most popular programming languages for a long time. It is considered a general-purpose, concurrent, strongly typed, class-based object-oriented language. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you the Java programming language. This course is perfect for beginners.",
+          "link": "https://www.freecodecamp.org/news/learn-java-programming/",
+          "publishedOn": "2022-09-27T13:37:06.000Z",
+          "wordCount": 815,
+          "title": "Learn Java Programming (version 17)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/java.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/linux-basics/",
+          "author": "Daniel Iwugo",
+          "description": "Time to learn how to use the operating system of the average hacker 🐧. In this article, we will take a little tour of:  * The Linux operating system  * Package management  * The Linux file structure  * The Command Line Interface And you get to",
+          "link": "https://www.freecodecamp.org/news/linux-basics/",
+          "publishedOn": "2022-09-26T23:20:22.000Z",
+          "wordCount": 4025,
+          "title": "Linux for Hackers – Basics for Cybersecurity Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/linux-basics-for-hackers.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-loop-through-an-array-with-for-loop-in-javascript/",
+          "author": "Dennis Temoye Charity",
+          "description": "A loop is an instruction in computer programming that allows an application to repeat a process until a specific condition is met. For example, say you want to run through a list of names and output each name on your screen. If you didn't use a loop, you'd end up",
+          "link": "https://www.freecodecamp.org/news/how-to-loop-through-an-array-with-for-loop-in-javascript/",
+          "publishedOn": "2022-09-26T23:14:42.000Z",
+          "wordCount": 1364,
+          "title": "JavaScript For loop – How to Loop Through an Array in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/1_9H5rmyp3MgrcA8i1emsJPg.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/iteration-in-golang/",
+          "author": "Ubaydah Abdulwasiu",
+          "description": "In programming, iteration (commonly known as looping) is a process where a step is repeated n number of times until a specific condition is met. Just like every other programming language, Golang has a way of iterating through different data structures and data types like structs, maps, arrays, strings, and",
+          "link": "https://www.freecodecamp.org/news/iteration-in-golang/",
+          "publishedOn": "2022-09-26T22:44:22.000Z",
+          "wordCount": 2082,
+          "title": "Iteration in Golang – How to Loop Through Data Structures in Go",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/How-to-perform-iteration-in-Golang-1.png"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.15.1"
+}
