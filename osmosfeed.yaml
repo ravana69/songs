@@ -3,6 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
+cacheMaxDays: 90 # Videos have slower publish cadence and small cache size. Longer lifespan is ok.
 cacheUrl: https://ravana69.github.io/songs/cache.json
 sources:
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC1H_22jpB9YKzrCGdRKIHZA
