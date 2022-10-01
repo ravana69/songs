@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-01T07:30:44.425Z</updated>
+    <updated>2022-10-01T08:34:42.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രതിസുഖ സാരമായി ദേവി HD | Dhwani | Evergreen Hit Malayalam Song | K. J. Yesudas | Jayaram | Shobhana]]></title>
+        <id>https://www.youtube.com/watch?v=Tn6aETWKyOY</id>
+        <link href="https://www.youtube.com/watch?v=Tn6aETWKyOY"/>
+        <updated>2022-10-01T08:30:13.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഗ്രാമീണതയും ചടുലതയും കൈകോർക്കുന്ന മലയാളസിനിമയിലെ എക്കാലത്തെയും മികച്ച ഗാനങ്ങൾ | SUPERHIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=BSW7rGB_l1c</id>
+        <link href="https://www.youtube.com/watch?v=BSW7rGB_l1c"/>
+        <updated>2022-10-01T07:33:17.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദാസേട്ടൻ പാടിയ മലയാളസിനിമയിലെ അസാധ്യ ഗാനങ്ങൾ | HITS OF KJ YESUDAS]]></title>
         <id>https://www.youtube.com/watch?v=PSIFCr977lw</id>
@@ -58,6 +76,15 @@
         <updated>2022-09-30T11:30:21.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KADALAAZHAM-VIDEO SONG | Kotthu | Asif Ali, Nikhila Vimal, Roshan Mathew | Sibi Malayil | Kailas]]></title>
+        <id>https://www.youtube.com/watch?v=ViC8T2pv4Go</id>
+        <link href="https://www.youtube.com/watch?v=ViC8T2pv4Go"/>
+        <updated>2022-09-30T10:52:06.000Z</updated>
+        <author>
+            <name>East Coast</name>
         </author>
     </entry>
     <entry>
