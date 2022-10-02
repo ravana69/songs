@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-02T17:30:58.794Z</updated>
+    <updated>2022-10-02T18:33:01.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പഴയതലമുറയും പുതിയ തലമുറയും ഒരുപോലെ ഇഷ്ടപെടുന്ന സംഗീതസംവിധായകൻ മോഹൻസിത്താരയുടെ ഗാനങ്ങൾ | MOHANSITHARA]]></title>
+        <id>https://www.youtube.com/watch?v=XcBLNQs5taQ</id>
+        <link href="https://www.youtube.com/watch?v=XcBLNQs5taQ"/>
+        <updated>2022-10-02T18:30:27.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vida Parayaanayi | Lyrical Video | Shubhadinam | Vijay Yesudas | Gireesh Neyyar | Arjun Rajkumar]]></title>
         <id>https://www.youtube.com/watch?v=7utojfkgTk8</id>
