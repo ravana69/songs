@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-02T11:23:05.089Z</updated>
+    <updated>2022-10-02T12:50:43.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vida Parayaanayi | Lyrical Video | Shubhadinam | Vijay Yesudas | Gireesh Neyyar | Arjun Rajkumar]]></title>
+        <id>https://www.youtube.com/watch?v=7utojfkgTk8</id>
+        <link href="https://www.youtube.com/watch?v=7utojfkgTk8"/>
+        <updated>2022-10-02T11:42:23.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponne Ponnambili Video Song | Mammootty| Mohanlal| Babi Shamili| KJ Yesudas| Ouseppachan| Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=dr0JHhEDEyk</id>
+        <link href="https://www.youtube.com/watch?v=dr0JHhEDEyk"/>
+        <updated>2022-10-02T11:30:07.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poothunilkkum #shorts #youtubeshorts #malayalamsongs #bestmelodysongs #evergreenmalayalamfilmsongs]]></title>
         <id>https://www.youtube.com/watch?v=X6wbKwb_io4</id>
