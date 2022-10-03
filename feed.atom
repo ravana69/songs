@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-03T11:24:41.012Z</updated>
+    <updated>2022-10-03T12:57:30.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aarodum Aararodum | Bhaiyya Bhaiyya | P Jayachandran | Vidyasagar | Murukan Kattakada]]></title>
+        <id>https://www.youtube.com/watch?v=wo6zJww8NZU</id>
+        <link href="https://www.youtube.com/watch?v=wo6zJww8NZU"/>
+        <updated>2022-10-03T12:00:38.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nabhassin Sarovara | P Jayachandran | മധുവിധു ഗാനങ്ങള്‍ | Songs of Intimacy | Rathisukhasare]]></title>
+        <id>https://www.youtube.com/watch?v=L-1joJ8qScs</id>
+        <link href="https://www.youtube.com/watch?v=L-1joJ8qScs"/>
+        <updated>2022-10-03T11:39:00.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muthum Pavizhavum Video song | Kavya Madhavan | Vineeth | Sujatha Mohan | Hariharan | Ouseppachan]]></title>
+        <id>https://www.youtube.com/watch?v=VLHdX4g6x4E</id>
+        <link href="https://www.youtube.com/watch?v=VLHdX4g6x4E"/>
+        <updated>2022-10-03T11:30:07.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Raappadithan Pattin | Daisy | Hareesh | Sonia | Renny Johnson - RIP Prathap Pothen Sir]]></title>
         <id>https://www.youtube.com/watch?v=iDYiND_F5wI</id>
