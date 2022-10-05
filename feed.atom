@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-05T11:24:47.395Z</updated>
+    <updated>2022-10-05T13:01:21.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ponnunni Njan | Anchil Oral Arjunan | Jayaram | Kaviyoor Ponnamma | Jagathi | Sreenivasan | Kalpana]]></title>
+        <id>https://www.youtube.com/watch?v=OWiZg3ays7U</id>
+        <link href="https://www.youtube.com/watch?v=OWiZg3ays7U"/>
+        <updated>2022-10-05T12:00:12.000Z</updated>
+        <author>
+            <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalichirichelulla | Masala Republic | Indrajith Sukumaran | Sumi Aravind |Jassie Gift|Rajeev Alunkal]]></title>
+        <id>https://www.youtube.com/watch?v=rFQCjdomewQ</id>
+        <link href="https://www.youtube.com/watch?v=rFQCjdomewQ"/>
+        <updated>2022-10-05T11:30:24.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ente Manassin | Villali Veeran | Vijay Yesudas | Shweta Mohan | SA Rajkumar | Rafeeq Ahammed]]></title>
         <id>https://www.youtube.com/watch?v=izH-v7OJkCI</id>
