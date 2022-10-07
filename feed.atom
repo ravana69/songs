@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-07T09:31:01.113Z</updated>
+    <updated>2022-10-07T10:32:46.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Villaali Veeran | Villali Veeran | Vijay Yesudas | SA Rajkumar | BK Harinarayanan]]></title>
+        <id>https://www.youtube.com/watch?v=93xXmgJc104</id>
+        <link href="https://www.youtube.com/watch?v=93xXmgJc104"/>
+        <updated>2022-10-07T10:30:03.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Pakka Naadan Premam | Audio Launch Video | Vinod Nettathanni | Sajad M | A M S Productions]]></title>
+        <id>https://www.youtube.com/watch?v=VqwFsCU-YkQ</id>
+        <link href="https://www.youtube.com/watch?v=VqwFsCU-YkQ"/>
+        <updated>2022-10-07T09:19:19.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lalanam Karalil | Daisy | P Bhaskaran | Shyam | KJ Yesudas | Malayalam Movie Songs | Melody Songs]]></title>
         <id>https://www.youtube.com/watch?v=rzLs8y6wR9k</id>
