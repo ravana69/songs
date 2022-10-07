@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-07T11:26:26.068Z</updated>
+    <updated>2022-10-07T12:59:24.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Velutha Penninte | | 1080p | Snehithan | Krishna | Nandana Manoj Bharathiraja - Mohan Sithara Hits]]></title>
+        <id>https://www.youtube.com/watch?v=pYe_5hFzEPg</id>
+        <link href="https://www.youtube.com/watch?v=pYe_5hFzEPg"/>
+        <updated>2022-10-07T12:00:39.000Z</updated>
+        <author>
+            <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aadada Aadada | Masala Republic | Anu Praveen | Renjin Raj Varma | Jassie Gift | Joy Thamalam]]></title>
+        <id>https://www.youtube.com/watch?v=32z4keCfTYg</id>
+        <link href="https://www.youtube.com/watch?v=32z4keCfTYg"/>
+        <updated>2022-10-07T11:30:00.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Villaali Veeran | Villali Veeran | Vijay Yesudas | SA Rajkumar | BK Harinarayanan]]></title>
         <id>https://www.youtube.com/watch?v=93xXmgJc104</id>
@@ -560,6 +578,15 @@
         <id>https://www.youtube.com/watch?v=pBS0TYkV3vQ</id>
         <link href="https://www.youtube.com/watch?v=pBS0TYkV3vQ"/>
         <updated>2022-09-29T06:08:14.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaanambadi Paadunnu  | Video Jukebox | വാനമ്പാടി കെ എസ് ചിത്ര ആലപിച്ച സൂപ്പർ ഹിറ്റ് സിനിമ ഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=JuhW5oUEV5k</id>
+        <link href="https://www.youtube.com/watch?v=JuhW5oUEV5k"/>
+        <updated>2022-09-29T05:52:33.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
