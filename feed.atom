@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-08T07:27:10.190Z</updated>
+    <updated>2022-10-08T08:34:38.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഹൃദയങ്ങളിൽ നിന്ന് ഹൃദയങ്ങളിലേക്ക് ആളിപ്പടരുന്ന തീപ്പൊരി വിതറും സിനിമാഗാനങ്ങൾ | SUPERHIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=g2HIAwF6jVQ</id>
+        <link href="https://www.youtube.com/watch?v=g2HIAwF6jVQ"/>
+        <updated>2022-10-08T07:57:35.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഹൃദയത്തെ തഴുകിയുണർത്തുന്ന തൊട്ടുണർത്തുന്ന മലയാളസിനിമാഗാനങ്ങൾ  | MELODIOUS FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=a1R9P8ZnC9k</id>
+        <link href="https://www.youtube.com/watch?v=a1R9P8ZnC9k"/>
+        <updated>2022-10-08T07:38:44.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കാവേരീ, പാടാമിനി | Kaaveri Padamini | Raajashilpi | Malayalam Film Song]]></title>
         <id>https://www.youtube.com/watch?v=eZgWseosWPQ</id>
