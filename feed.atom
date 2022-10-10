@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-09T23:32:12.176Z</updated>
+    <updated>2022-10-10T02:40:23.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -1984,15 +1984,6 @@
         <updated>2022-07-12T15:30:00.000Z</updated>
         <author>
             <name>Wilson Video Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innalekal Innalekal | 1080p | Karumadikuttan | Kalabhavan Mani | Nandini - Yesudas Hits]]></title>
-        <id>https://www.youtube.com/watch?v=yUzXkl7r3Sc</id>
-        <link href="https://www.youtube.com/watch?v=yUzXkl7r3Sc"/>
-        <updated>2022-07-12T12:00:45.000Z</updated>
-        <author>
-            <name>Music Zone</name>
         </author>
     </entry>
 </feed>
