@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-10T06:06:32.332Z</updated>
+    <updated>2022-10-10T07:45:05.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mulam Thumbi Ilam Thumbi | Kadathanadan Ambadi | P Bhaskaran | K Raghavan | Jayachandran |KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=fNj9O5wo5Ds</id>
+        <link href="https://www.youtube.com/watch?v=fNj9O5wo5Ds"/>
+        <updated>2022-10-10T07:34:45.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Madanapathakayil | Njan Salperu Ramankutty | Jayaram | Gayathri | Yesudas | Raveendran]]></title>
         <id>https://www.youtube.com/watch?v=p3dyCAl3UVk</id>
@@ -211,6 +220,15 @@
         <updated>2022-10-06T07:30:05.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paadiyum Paranjum - 2 | Ouseppachan Interview with Sreejith K Warrier | SoNew Ideas |പാടിയും പറഞ്ഞും]]></title>
+        <id>https://www.youtube.com/watch?v=ZGzEnkn8oOo</id>
+        <link href="https://www.youtube.com/watch?v=ZGzEnkn8oOo"/>
+        <updated>2022-10-06T03:51:49.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
