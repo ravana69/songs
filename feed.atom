@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-12T19:28:50.827Z</updated>
+    <updated>2022-10-12T20:31:42.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -1573,6 +1573,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Neeyum Nilavum | Ghazal Video | Shahabaz Aman |ഷഹബാസ് അമൻ ആലപിക്കുന്ന മനോഹരമായ ഗസൽ| Malayalam Ghazal]]></title>
+        <id>https://www.youtube.com/watch?v=5n57xL7tHms</id>
+        <link href="https://www.youtube.com/watch?v=5n57xL7tHms"/>
+        <updated>2022-09-20T04:47:03.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Karmukil Varnante | Nandanam | Navya Nair | Prithwiraj | Ranjith |]]></title>
         <id>https://www.youtube.com/watch?v=K5YjN8sO8bY</id>
         <link href="https://www.youtube.com/watch?v=K5YjN8sO8bY"/>
@@ -2191,15 +2200,6 @@
         <updated>2022-07-15T12:00:05.000Z</updated>
         <author>
             <name>Music Zone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hits of Prathap Pothan | Prathap Pothan Evergreen Hit Songs | Video Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=TPnMZxG2D9s</id>
-        <link href="https://www.youtube.com/watch?v=TPnMZxG2D9s"/>
-        <updated>2022-07-15T08:03:06.000Z</updated>
-        <author>
-            <name>Wilson Video Songs</name>
         </author>
     </entry>
 </feed>
