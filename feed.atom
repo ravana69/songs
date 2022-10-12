@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-12T11:25:57.669Z</updated>
+    <updated>2022-10-12T12:56:42.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Poovulla Meda | Pandu Pandoru Rajakumari | Jagadish | Shanti Krishna | Anju | Siddique | Oduvil]]></title>
+        <id>https://www.youtube.com/watch?v=8POlrnW3ans</id>
+        <link href="https://www.youtube.com/watch?v=8POlrnW3ans"/>
+        <updated>2022-10-12T12:00:07.000Z</updated>
+        <author>
+            <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazha Mazha Mazhaye -Song | Poppins | G Venugopal, Sithara | Ratheesh Vega | Indrajith, Padmapriya]]></title>
+        <id>https://www.youtube.com/watch?v=zfiZxen5uME</id>
+        <link href="https://www.youtube.com/watch?v=zfiZxen5uME"/>
+        <updated>2022-10-12T11:55:09.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sreepadangal | Njaan | Kottakkal Madhu | Bijibal | Rafeeq Ahammed]]></title>
+        <id>https://www.youtube.com/watch?v=sTnnbUr4HY0</id>
+        <link href="https://www.youtube.com/watch?v=sTnnbUr4HY0"/>
+        <updated>2022-10-12T11:30:25.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Badnahe | Kalimannu | Sonu Kakkar | Sukhwinder Singh| O.N.V.Kurup| M.Jayachandran | Blessey]]></title>
         <id>https://www.youtube.com/watch?v=bAFABBEQ3EM</id>
