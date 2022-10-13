@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-13T11:24:39.233Z</updated>
+    <updated>2022-10-13T13:02:34.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Orunaal Veruthe | Njangalude Veettile Athidhikal | Anitha Shaiq | Ratheesh Vega | Rafeeq Ahammed]]></title>
+        <id>https://www.youtube.com/watch?v=l6561X5ikrk</id>
+        <link href="https://www.youtube.com/watch?v=l6561X5ikrk"/>
+        <updated>2022-10-13T13:00:36.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Randu Pranaychandraray | Vellivelichathil | KS Chithra | Deepankuran | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=SvDmYNdGu18</id>
+        <link href="https://www.youtube.com/watch?v=SvDmYNdGu18"/>
+        <updated>2022-10-13T12:00:30.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അധ്യാപകനിൽ നിന്നും നായകനിലേയ്ക്ക്  | Chat With Gireesh Neyyar & Shivaram Mony | Shubhadinam]]></title>
         <id>https://www.youtube.com/watch?v=xTsRtIWFyLU</id>
@@ -40,6 +58,15 @@
         <updated>2022-10-12T16:20:27.000Z</updated>
         <author>
             <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Odeda Odeda - Lyrical Video | Shubhadinam | Shivaram Mony | Arjun Rajkumar | Indrans |Gireesh Neyyar]]></title>
+        <id>https://www.youtube.com/watch?v=RpZ6GnLBVeg</id>
+        <link href="https://www.youtube.com/watch?v=RpZ6GnLBVeg"/>
+        <updated>2022-10-12T14:55:59.000Z</updated>
+        <author>
+            <name>East Coast</name>
         </author>
     </entry>
     <entry>
