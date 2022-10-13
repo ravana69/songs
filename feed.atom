@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-13T06:04:27.950Z</updated>
+    <updated>2022-10-13T07:37:52.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നിലാവിന്റെ നീല വെളിച്ചത്തിൽ പ്രണയിക്കുന്നവർ കേൾക്കാനാഗ്രഹിക്കുന്ന സുന്ദരഗാനങ്ങൾ | ROMANTIC SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=xOM0yJkBUuY</id>
+        <link href="https://www.youtube.com/watch?v=xOM0yJkBUuY"/>
+        <updated>2022-10-13T07:30:08.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസും മനസും ഹൃദയവും ഹൃദയവും കൈമാറുന്ന അനുരാഗകഥയുടെ സംഗീതാവിഷ്‌കാരം]]></title>
+        <id>https://www.youtube.com/watch?v=1qnyh4O8kTc</id>
+        <link href="https://www.youtube.com/watch?v=1qnyh4O8kTc"/>
+        <updated>2022-10-13T07:30:01.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rakkadambin | One Man Show | Jayaram | Kalabhavan Mani | Lal | Shafi | Suresh Peters]]></title>
         <id>https://www.youtube.com/watch?v=BBMXHsNCnho</id>
