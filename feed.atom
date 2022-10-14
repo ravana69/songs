@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-14T06:14:40.489Z</updated>
+    <updated>2022-10-14T07:41:00.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ninakkayi Narumanam | Varum Varunnu Vannu | Yusufali Kecheri | Ouseppachan | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=7YCqEtZlpCo</id>
+        <link href="https://www.youtube.com/watch?v=7YCqEtZlpCo"/>
+        <updated>2022-10-14T07:30:01.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അനാദിഗായകൻ പാടുന്നൂ | Anadhi Gayagan | Five Star Hospital | Malayalam Film Song]]></title>
         <id>https://www.youtube.com/watch?v=sJyO5T2bzSE</id>
