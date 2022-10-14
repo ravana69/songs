@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-14T04:57:00.058Z</updated>
+    <updated>2022-10-14T06:14:40.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അനാദിഗായകൻ പാടുന്നൂ | Anadhi Gayagan | Five Star Hospital | Malayalam Film Song]]></title>
+        <id>https://www.youtube.com/watch?v=sJyO5T2bzSE</id>
+        <link href="https://www.youtube.com/watch?v=sJyO5T2bzSE"/>
+        <updated>2022-10-14T05:42:10.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oduvilee Sandhyayum | Kadha | Prithviraj | Kavya Madhavan | Ouseppachan | Venugopal]]></title>
         <id>https://www.youtube.com/watch?v=ZAzJMDMn1qw</id>
@@ -40,6 +49,15 @@
         <updated>2022-10-13T10:05:47.000Z</updated>
         <author>
             <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Kunju Poovinte | Biju Mangod | Sonu Gopinath | Malayalam Album Song | Musical Love Song]]></title>
+        <id>https://www.youtube.com/watch?v=RH3upcMSdJI</id>
+        <link href="https://www.youtube.com/watch?v=RH3upcMSdJI"/>
+        <updated>2022-10-13T10:02:00.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
