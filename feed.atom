@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-16T05:50:48.790Z</updated>
+    <updated>2022-10-16T06:37:27.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malayali World Cup Football Anthem : Kaalpanthane]]></title>
+        <id>https://www.youtube.com/watch?v=e-D0jRLqWrQ</id>
+        <link href="https://www.youtube.com/watch?v=e-D0jRLqWrQ"/>
+        <updated>2022-10-16T06:15:01.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunday Monday | Oru Korean Padam | Alex | Reshma Menon | Sreekumar Vasudev | Donston Alphonse]]></title>
+        <id>https://www.youtube.com/watch?v=DdDwql8cTfk</id>
+        <link href="https://www.youtube.com/watch?v=DdDwql8cTfk"/>
+        <updated>2022-10-16T06:00:07.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manninte Manamulla Naadan Pattukal | Jukebox | Malayalam Folk Songs | മനോഹരമായ നാടൻ പാട്ടുകൾ]]></title>
         <id>https://www.youtube.com/watch?v=SHh5TiNT5Bs</id>
