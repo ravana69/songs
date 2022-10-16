@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-16T04:43:16.829Z</updated>
+    <updated>2022-10-16T05:50:48.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manninte Manamulla Naadan Pattukal | Jukebox | Malayalam Folk Songs | മനോഹരമായ നാടൻ പാട്ടുകൾ]]></title>
+        <id>https://www.youtube.com/watch?v=SHh5TiNT5Bs</id>
+        <link href="https://www.youtube.com/watch?v=SHh5TiNT5Bs"/>
+        <updated>2022-10-16T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yadhuvansha | Dubai | Mammootty | Anjala Zaveri | Vidyasagar | Chithra | Joshiy]]></title>
         <id>https://www.youtube.com/watch?v=Xfa1XoWoZyg</id>
