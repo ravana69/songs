@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-17T11:26:36.429Z</updated>
+    <updated>2022-10-17T13:02:38.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mazhavil Thundupole | Njangalude Veettile Athidhikal | Sanoop Kumar | Ratheesh Vega | Rafeeq Ahammed]]></title>
+        <id>https://www.youtube.com/watch?v=jhjzoiTjHUQ</id>
+        <link href="https://www.youtube.com/watch?v=jhjzoiTjHUQ"/>
+        <updated>2022-10-17T13:00:34.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Randattangal | Tamaar Padaar | Sithara Balakrishnan | Bijibal | Santhosh Varma]]></title>
+        <id>https://www.youtube.com/watch?v=s5kdWAUX10c</id>
+        <link href="https://www.youtube.com/watch?v=s5kdWAUX10c"/>
+        <updated>2022-10-17T12:00:40.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indraneelimayolum | Vaisali | Super Hit Malayalam Movie Song | Suparna Anand | Sanjay Mitra]]></title>
+        <id>https://www.youtube.com/watch?v=rN6ET5AEs0w</id>
+        <link href="https://www.youtube.com/watch?v=rN6ET5AEs0w"/>
+        <updated>2022-10-17T12:00:39.000Z</updated>
+        <author>
+            <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നമ്മളീ കൊതുകിനെ പോലെ ആയിരിക്കണം  | Indrans, Hareesh Kanaran | Gireesh Neyyar | Shubhadinam]]></title>
+        <id>https://www.youtube.com/watch?v=o_GJCCZyHiM</id>
+        <link href="https://www.youtube.com/watch?v=o_GJCCZyHiM"/>
+        <updated>2022-10-17T11:31:01.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doctor Saare Video Song | Mammootty | Saritha | Shalini | KJ Yesudas | Johnson | Poovachal Khader]]></title>
+        <id>https://www.youtube.com/watch?v=CJN96xvG1c4</id>
+        <link href="https://www.youtube.com/watch?v=CJN96xvG1c4"/>
+        <updated>2022-10-17T11:30:04.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Holy Holy | Arabia | Gireesh Puthenchery | Ouseppachan | MG Sreekumar | Arun Ouseppachan]]></title>
         <id>https://www.youtube.com/watch?v=jLIWTOPUuho</id>
