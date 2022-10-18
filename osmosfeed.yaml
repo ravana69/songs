@@ -6,6 +6,7 @@
 cacheMaxDays: 90 # Videos have slower publish cadence and small cache size. Longer lifespan is ok.
 cacheUrl: https://ravana69.github.io/songs/cache.json
 sources:
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCoRF8GByEjmM_yHwUGIDGyQ
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCGLbP4rkR2vA58xW2M1Itvw
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCjX6XaM9EEfdH2gh90QZ8pQ
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCknXFy9YvBIUEs24xb35p4Q
