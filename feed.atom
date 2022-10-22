@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-22T07:28:40.256Z</updated>
+    <updated>2022-10-22T08:36:25.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഒത്തിരിയേറെ ഇഷ്ടമുള്ള പലരും പലദിവസങ്ങളിലും കേൾക്കുന്ന മലയാളത്തിലെ ഏറ്റവും നല്ലഗാനങ്ങൾ | MELODY SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=RMe9ZusF1R8</id>
+        <link href="https://www.youtube.com/watch?v=RMe9ZusF1R8"/>
+        <updated>2022-10-22T07:30:04.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പാട്ടു പാടാൻ നൃത്തം ആടാൻ ആഘോഷവേളകൾ അടിപൊളിയാക്കാൻ പറ്റിയ സിനിമാഗാനങ്ങൾ | MALAYALAM SUPERHIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=70xIFhK9sNQ</id>
+        <link href="https://www.youtube.com/watch?v=70xIFhK9sNQ"/>
+        <updated>2022-10-22T07:30:00.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Andharanjali grooves 🕺🏻💃🏻🍸 | #SushinShyam #Romancham | #Shorts]]></title>
         <id>https://www.youtube.com/watch?v=RiJrohM9YnU</id>
