@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-22T04:21:35.029Z</updated>
+    <updated>2022-10-22T05:46:32.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[വിനീത് ശ്രീനിവാസനും സിത്താര കൃഷ്ണകുമാറും ആദ്യമായി പാടുന്ന യുഗ്മഗാനം "എല്ലാം സെറ്റാണ് "ചിത്രത്തിൽ]]></title>
+        <id>https://www.youtube.com/watch?v=GMQgH-A_Tp8</id>
+        <link href="https://www.youtube.com/watch?v=GMQgH-A_Tp8"/>
+        <updated>2022-10-22T04:30:04.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Andharanjali vibes 🕺🏻💃🏻 | #SushinShyam #Romancham | #Shorts]]></title>
         <id>https://www.youtube.com/watch?v=c-P9XPcBq1w</id>
