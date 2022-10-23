@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-23T07:29:46.150Z</updated>
+    <updated>2022-10-23T08:34:45.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31,6 +31,15 @@
         <updated>2022-10-23T05:30:03.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kumari - Official Trailer | Aishwarya Lekshmi | Nirmal Sahadev | Prithviraj Productions]]></title>
+        <id>https://www.youtube.com/watch?v=dGzKcctHnQU</id>
+        <link href="https://www.youtube.com/watch?v=dGzKcctHnQU"/>
+        <updated>2022-10-23T05:25:19.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
