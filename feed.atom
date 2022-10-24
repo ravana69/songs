@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-24T11:28:01.736Z</updated>
+    <updated>2022-10-24T12:26:48.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chilum Chilum Thalamaay | Aadupuliyattam Movie | Najim Arshad, Rimi Tomy | Jayaram,Ramya Krishnan]]></title>
+        <id>https://www.youtube.com/watch?v=zhgAtREab9E</id>
+        <link href="https://www.youtube.com/watch?v=zhgAtREab9E"/>
+        <updated>2022-10-24T11:49:39.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pottuthottu Ponnumani Video Song | Jayaram | Sandhya | KJ Yesudas | Vidyasagar | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=fxv0v91siiw</id>
+        <link href="https://www.youtube.com/watch?v=fxv0v91siiw"/>
+        <updated>2022-10-24T11:30:09.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നിന്നെ എതിരേൽക്കുമല്ലോ പൗർണ്ണമി പെൺകൊടി | Mammootty | Mohanlal | Juhi Chawla |KJ Yesudas |KS Chithra]]></title>
         <id>https://www.youtube.com/watch?v=wd5nG9pJkFg</id>
@@ -805,6 +823,15 @@
         <updated>2022-10-15T11:30:16.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ee Manjin Kuliralayil Video Song | Louis | Indrans | Nithya Mammen | Titty Abraham | Shabu Usman]]></title>
+        <id>https://www.youtube.com/watch?v=zZYQ7zIHWNo</id>
+        <link href="https://www.youtube.com/watch?v=zZYQ7zIHWNo"/>
+        <updated>2022-10-15T11:30:10.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
         </author>
     </entry>
     <entry>
@@ -2212,6 +2239,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Taniyavartanam Video Song | Sayanna Varthakal | Sankar Sharma | Ft Rzee  | Gokul Suresh]]></title>
+        <id>https://www.youtube.com/watch?v=tu8DHRqIL8k</id>
+        <link href="https://www.youtube.com/watch?v=tu8DHRqIL8k"/>
+        <updated>2022-09-25T07:06:05.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ee Iravile Thee Choriyumee | Escape from Uganda | Rahul Nambiar | Varun Unni | Kichu J Thomas]]></title>
         <id>https://www.youtube.com/watch?v=9sggB5MgvMg</id>
         <link href="https://www.youtube.com/watch?v=9sggB5MgvMg"/>
@@ -2734,6 +2770,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NorthEast Talkies Video Song | Sayanna Varthakal | Sankar Sharma | Sreedevi Thekkedath |Arun Chandu]]></title>
+        <id>https://www.youtube.com/watch?v=fdKO2dTxGt8</id>
+        <link href="https://www.youtube.com/watch?v=fdKO2dTxGt8"/>
+        <updated>2022-09-19T06:00:08.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[അങ്ങനെ ആദ്യായിട്ട് ഞാന്‍ ഒരുത്തന്റെ വാപ്പക്ക് വിളിച്ച് | Nikhila Vimal | Kotthu Movie | #Shorts]]></title>
         <id>https://www.youtube.com/watch?v=HlWQJ-pg8SM</id>
         <link href="https://www.youtube.com/watch?v=HlWQJ-pg8SM"/>
@@ -2959,6 +3004,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sancharare Video Song | Sayanna Varthakal | Sankar Sharma | Anu Elizabeth | Bhadra Rajin]]></title>
+        <id>https://www.youtube.com/watch?v=Lxwkd-oMKJU</id>
+        <link href="https://www.youtube.com/watch?v=Lxwkd-oMKJU"/>
+        <updated>2022-09-15T05:25:35.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Muthe Muthe Kingini Muthe | Kana Kanmani | Jayaram | Padmapriya | Baby Niveditha -]]></title>
         <id>https://www.youtube.com/watch?v=75S6GEI8oI0</id>
         <link href="https://www.youtube.com/watch?v=75S6GEI8oI0"/>
@@ -3076,6 +3130,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kaduva Movie Audio Jukebox  | Jakes Bejoy | Shaji Kailas | Prithviraj Sukumaran]]></title>
+        <id>https://www.youtube.com/watch?v=XbV7OYqCqAE</id>
+        <link href="https://www.youtube.com/watch?v=XbV7OYqCqAE"/>
+        <updated>2022-09-10T06:59:39.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[മാനത്തിൻ ഒക്കത്തു തിങ്കൾക്കുടം | Maanathin Ukkathu | Oru Sumangaliyude Katha | K. J. Yesudas | Shyam]]></title>
         <id>https://www.youtube.com/watch?v=zHwkGA6JMK4</id>
         <link href="https://www.youtube.com/watch?v=zHwkGA6JMK4"/>
@@ -3184,6 +3247,24 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pularaan Marannu Video Song | Kaduva | Jakes Bejoy | Shaji Kailas | Prithviraj Sukumaran]]></title>
+        <id>https://www.youtube.com/watch?v=u_NCSw03gVs</id>
+        <link href="https://www.youtube.com/watch?v=u_NCSw03gVs"/>
+        <updated>2022-08-29T09:30:13.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sayanna Varthakal Audio Jukebox | Arun Chandu | Gokul Suresh | Prashant Pillai | Sankar Sharma]]></title>
+        <id>https://www.youtube.com/watch?v=0sNOBQL4pSA</id>
+        <link href="https://www.youtube.com/watch?v=0sNOBQL4pSA"/>
+        <updated>2022-08-27T11:30:01.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Omanathinkal Kidavo Full Video Song | HD | Spanish Masala Movie Song | REMASTERED |]]></title>
         <id>https://www.youtube.com/watch?v=DDLvzIn0JBk</id>
         <link href="https://www.youtube.com/watch?v=DDLvzIn0JBk"/>
@@ -3193,12 +3274,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kaanathe Nenjam Lyric Video | Sayanna Varthakal | Gokul Suresh | Sachin Warrier | Prashant Pillai]]></title>
+        <id>https://www.youtube.com/watch?v=0OJG3Lj5YJk</id>
+        <link href="https://www.youtube.com/watch?v=0OJG3Lj5YJk"/>
+        <updated>2022-08-19T05:41:57.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Onappattin Thalam Thullum | Quotation | Sujitha | Malayalam Super Hit Onam Song - Video Song]]></title>
         <id>https://www.youtube.com/watch?v=zfYKYdL8oSQ</id>
         <link href="https://www.youtube.com/watch?v=zfYKYdL8oSQ"/>
         <updated>2022-08-16T12:14:41.000Z</updated>
         <author>
             <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rashtrapathaaka Lyric Video | Vijay Yesudas | Class By A Soldier | SR Suraj | Kaviprasad Gopinath]]></title>
+        <id>https://www.youtube.com/watch?v=3PAjeuj5IWg</id>
+        <link href="https://www.youtube.com/watch?v=3PAjeuj5IWg"/>
+        <updated>2022-08-14T10:30:12.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaanathe Nenjam Ghazal | Sayanna Varthakal | Gokul Suresh | Prashant Pillai | Srinath Nair]]></title>
+        <id>https://www.youtube.com/watch?v=R5JTpf2ZAeM</id>
+        <link href="https://www.youtube.com/watch?v=R5JTpf2ZAeM"/>
+        <updated>2022-08-13T12:25:44.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
         </author>
     </entry>
     <entry>
@@ -3226,6 +3334,24 @@
         <updated>2022-07-31T11:30:05.000Z</updated>
         <author>
             <name>Wilson Video Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pala Palli Thiruppalli Video Song | Kaduva | Jakes Bejoy | Shaji Kailas | Prithviraj Sukumaran]]></title>
+        <id>https://www.youtube.com/watch?v=At-rmGGn7cg</id>
+        <link href="https://www.youtube.com/watch?v=At-rmGGn7cg"/>
+        <updated>2022-07-30T09:30:13.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taniyavartanam Lyric Video | Sayanna Varthakal | Sankar Sharma | Ft Rzee  | Gokul Suresh]]></title>
+        <id>https://www.youtube.com/watch?v=Of1aD02Zmgo</id>
+        <link href="https://www.youtube.com/watch?v=Of1aD02Zmgo"/>
+        <updated>2022-07-29T11:30:09.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
         </author>
     </entry>
     <entry>
