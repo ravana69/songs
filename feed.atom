@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-25T07:02:43.731Z</updated>
+    <updated>2022-10-25T08:43:44.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മഞ്ഞിൻ ചിറകുള്ള വെള്ളരിപ്രാവേ | Malayalam melody song | Swagatham | Manjin Chirakulla]]></title>
+        <id>https://www.youtube.com/watch?v=s7rtfHhvMrk</id>
+        <link href="https://www.youtube.com/watch?v=s7rtfHhvMrk"/>
+        <updated>2022-10-25T08:34:24.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vennila Kadappurathu | 1080 p | Aniyathipraavu | Ouseppachan | Shalini | Kunjako Boban | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=ud8CLUzvlqI</id>
+        <link href="https://www.youtube.com/watch?v=ud8CLUzvlqI"/>
+        <updated>2022-10-25T07:41:11.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കെ എസ് ചിത്രയും എസ് പി വെങ്കിടേഷും ഒത്തു ചേർന്ന മനോഹര ഗാനങ്ങൾ  | MALAYALAM SUPERHIT SONGS | NISARI]]></title>
+        <id>https://www.youtube.com/watch?v=wM82xrnvaRw</id>
+        <link href="https://www.youtube.com/watch?v=wM82xrnvaRw"/>
+        <updated>2022-10-25T07:34:08.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The bliss-filled #Elamalakaadinullil from #PathaamValavu  ❤️ | #Shorts]]></title>
         <id>https://www.youtube.com/watch?v=VN06XWGCgkM</id>
@@ -715,6 +742,15 @@
         <updated>2022-10-17T11:30:04.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chirikkan Marannu Nee | Malayalam Ghazal Video | Shahabaz Aman |ഷഹബാസ് അമൻ ആലപിക്കുന്ന മനോഹരമായ ഗസൽ]]></title>
+        <id>https://www.youtube.com/watch?v=mhCVqsttFv4</id>
+        <link href="https://www.youtube.com/watch?v=mhCVqsttFv4"/>
+        <updated>2022-10-17T09:09:17.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
