@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-25T11:25:42.377Z</updated>
+    <updated>2022-10-25T13:02:41.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kuthu Kuthu | Saaradhi | Anuradha Sriram | Gopi Sundar | BK Harinarayanan]]></title>
+        <id>https://www.youtube.com/watch?v=0Ctog-gRRzM</id>
+        <link href="https://www.youtube.com/watch?v=0Ctog-gRRzM"/>
+        <updated>2022-10-25T13:00:02.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Munthirivalliyil Chembakameniyil | Actually | Divya Sooraj | Gopukrishna P S]]></title>
+        <id>https://www.youtube.com/watch?v=1Z3eULEOz54</id>
+        <link href="https://www.youtube.com/watch?v=1Z3eULEOz54"/>
+        <updated>2022-10-25T12:00:01.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jugunu Re Jugunu Re Video Song | Yash Gawli | Kaazhcha | Mohan Sithara | Anwar Sadath | Melody Song]]></title>
+        <id>https://www.youtube.com/watch?v=kgQfaHIzpHg</id>
+        <link href="https://www.youtube.com/watch?v=kgQfaHIzpHg"/>
+        <updated>2022-10-25T11:30:20.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Elamalakaadinullil from #PathaamValavu 🥰 | #Shorts]]></title>
         <id>https://www.youtube.com/watch?v=l_Z6CRI03WM</id>
@@ -1228,6 +1255,15 @@
         <updated>2022-10-12T10:30:01.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soul Hits Vineeth Sreenivasan | Video Jukebox | വിനീത് ശ്രീനിവാസൻ ആലപിച്ച മനോഹര സിനിമ ഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=xMYr5cAkwEM</id>
+        <link href="https://www.youtube.com/watch?v=xMYr5cAkwEM"/>
+        <updated>2022-10-12T09:07:01.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
