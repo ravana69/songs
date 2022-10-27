@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-27T07:23:42.966Z</updated>
+    <updated>2022-10-27T08:31:59.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മനുഷ്യനാണെങ്കിൽ മനം ഇടറിപോകുന്ന മലയാള സിനിമയിലെ മറക്കാനാവാത്ത വിഷാദ ഗാനങ്ങൾ  | MALAYALAM SAD SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=Qa-jaqPNcq4</id>
+        <link href="https://www.youtube.com/watch?v=Qa-jaqPNcq4"/>
+        <updated>2022-10-27T07:30:06.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കളിയും ചിരിയും കൊഞ്ചലും നിറഞ്ഞ വാത്സല്യമൂറും മലയാള സിനിമാഗാനങ്ങൾ | MALAYALAM MELODY FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=8nH0B4h8hSU</id>
+        <link href="https://www.youtube.com/watch?v=8nH0B4h8hSU"/>
+        <updated>2022-10-27T07:30:02.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Venalkoodinullil | Newspaper Boy | Gireesh Puthenchery | Wilson | KJ Yesudas | Mukesh]]></title>
         <id>https://www.youtube.com/watch?v=x0el8omvO6s</id>
