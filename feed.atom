@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-28T08:37:40.988Z</updated>
+    <updated>2022-10-28T09:26:14.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thusharam | BK Harinarayanan | Sony Mohan | Haripad Sudheesh | New Malayalam Album Video Song | Bsai]]></title>
+        <id>https://www.youtube.com/watch?v=nlMd7CVZre0</id>
+        <link href="https://www.youtube.com/watch?v=nlMd7CVZre0"/>
+        <updated>2022-10-28T08:01:19.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ambilipoli Pole | 720 p | Andolanam | Natesh Shankar | Malayalam Song | KJ Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=2OmAxnEaYFs</id>
@@ -47,6 +56,15 @@
         <id>https://www.youtube.com/watch?v=AO6Ob3A6oZE</id>
         <link href="https://www.youtube.com/watch?v=AO6Ob3A6oZE"/>
         <updated>2022-10-27T13:21:48.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chathuram - Official Trailer | Roshan Mathew | Swasika Vijay | Sidharth Bharathan | Prashant Pillai]]></title>
+        <id>https://www.youtube.com/watch?v=_dx8zX1XlUA</id>
+        <link href="https://www.youtube.com/watch?v=_dx8zX1XlUA"/>
+        <updated>2022-10-27T13:17:16.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
         </author>
