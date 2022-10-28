@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-28T23:29:22.058Z</updated>
+    <updated>2022-10-28T23:38:46.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -3881,15 +3881,6 @@
         <id>https://www.youtube.com/watch?v=qdft6uTKFAM</id>
         <link href="https://www.youtube.com/watch?v=qdft6uTKFAM"/>
         <updated>2022-08-06T05:30:44.000Z</updated>
-        <author>
-            <name>Wilson Video Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sooryanay Thazhuki Full Video Song | HD | Sathyam Sivam Sundaram Movie Song |]]></title>
-        <id>https://www.youtube.com/watch?v=Le5dTVyxoY8</id>
-        <link href="https://www.youtube.com/watch?v=Le5dTVyxoY8"/>
-        <updated>2022-07-31T11:30:05.000Z</updated>
         <author>
             <name>Wilson Video Songs</name>
         </author>
