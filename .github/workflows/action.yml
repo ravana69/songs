@@ -20,7 +20,7 @@ jobs:
           # Options
           user: ravana69
           template: classic
-          base: ""
+          base: metadata
           config_timezone: Asia/Kolkata
           plugin_screenshot: yes
           plugin_screenshot_background: yes
