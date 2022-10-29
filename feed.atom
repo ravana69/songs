@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-29T19:19:09.878Z</updated>
+    <updated>2022-10-29T20:17:07.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31,6 +31,15 @@
         <updated>2022-10-29T11:58:40.000Z</updated>
         <author>
             <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aarppin Nadam | Wilson Piravom | George Koshy Mylapra | Malayalam Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=UevBrt05FUE</id>
+        <link href="https://www.youtube.com/watch?v=UevBrt05FUE"/>
+        <updated>2022-10-29T11:30:11.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -94,6 +103,15 @@
         <updated>2022-10-29T07:30:04.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minnal Kodiye | Lyrical Video | Flash | Mohanlal | Gopi Sundar | Rafeeque Ahammed | Smitha Nishant]]></title>
+        <id>https://www.youtube.com/watch?v=LGKUP2gGjDc</id>
+        <link href="https://www.youtube.com/watch?v=LGKUP2gGjDc"/>
+        <updated>2022-10-29T05:30:05.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
@@ -250,6 +268,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MAZHAYAY MOHANAM | SATISH NAIR | RAJESH K RAMAN |Dr. C.MOHANKUMAR |Dr.SALINI BHASKER |RAGAMUDRA ARTS]]></title>
+        <id>https://www.youtube.com/watch?v=ERTeqNdqwGU</id>
+        <link href="https://www.youtube.com/watch?v=ERTeqNdqwGU"/>
+        <updated>2022-10-27T12:30:10.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Marannittumenthino 🥰😍♥️ Aparna]]></title>
         <id>https://www.youtube.com/watch?v=INJAhcjDF6I</id>
         <link href="https://www.youtube.com/watch?v=INJAhcjDF6I"/>
@@ -385,6 +412,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ennenikken Dukham Theerumo | Elizabeth Raju | Sadhu Kochukunjupadeshi | Evergreen Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=bdTQ9Q3LK4I</id>
+        <link href="https://www.youtube.com/watch?v=bdTQ9Q3LK4I"/>
+        <updated>2022-10-26T11:30:10.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kasthoori Ente Kasthoori Video Song | Mohanlal | Urvashi | MG Sreekumar | Sujatha Mohan | Raveendran]]></title>
         <id>https://www.youtube.com/watch?v=2zTsKpSgZpY</id>
         <link href="https://www.youtube.com/watch?v=2zTsKpSgZpY"/>
@@ -430,6 +466,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Maavin Chottile | Karaoke  Video | Oru Naal Varum | Mohanlal | Murugan Kattakkada | M G Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=SayzIUqzCPQ</id>
+        <link href="https://www.youtube.com/watch?v=SayzIUqzCPQ"/>
+        <updated>2022-10-26T05:30:04.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kuthu Kuthu | Saaradhi | Anuradha Sriram | Gopi Sundar | BK Harinarayanan]]></title>
         <id>https://www.youtube.com/watch?v=0Ctog-gRRzM</id>
         <link href="https://www.youtube.com/watch?v=0Ctog-gRRzM"/>
@@ -472,6 +517,15 @@
         <updated>2022-10-25T11:30:20.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karaoke Aaradhyane Samaraadhyane | Rev. Bhakthavalsalan || Malayalam Christian Songs Karaoke]]></title>
+        <id>https://www.youtube.com/watch?v=lEthdGv3xQw</id>
+        <link href="https://www.youtube.com/watch?v=lEthdGv3xQw"/>
+        <updated>2022-10-25T11:30:09.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -574,12 +628,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jalasayyayil | Kalyani Menon | Lap Top | Rafeeque Ahammed | Sreevalsan J Menon]]></title>
+        <id>https://www.youtube.com/watch?v=QcOAVo7rpXw</id>
+        <link href="https://www.youtube.com/watch?v=QcOAVo7rpXw"/>
+        <updated>2022-10-24T12:30:09.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Chilum Chilum Thalamaay | Aadupuliyattam Movie | Najim Arshad, Rimi Tomy | Jayaram,Ramya Krishnan]]></title>
         <id>https://www.youtube.com/watch?v=zhgAtREab9E</id>
         <link href="https://www.youtube.com/watch?v=zhgAtREab9E"/>
         <updated>2022-10-24T11:49:39.000Z</updated>
         <author>
             <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yeshuve Oru Vakku Mathi Lyrics Video | Christian Lyrical Video |]]></title>
+        <id>https://www.youtube.com/watch?v=ICGoi0D-Zpc</id>
+        <link href="https://www.youtube.com/watch?v=ICGoi0D-Zpc"/>
+        <updated>2022-10-24T11:30:11.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -763,6 +835,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Karaoke Prathisandhikal Vannidumbol | Malayalam Christian Songs Karaoke | Christian Minus Tracks]]></title>
+        <id>https://www.youtube.com/watch?v=EmaEno33KbQ</id>
+        <link href="https://www.youtube.com/watch?v=EmaEno33KbQ"/>
+        <updated>2022-10-22T11:30:08.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Orunaal Veruthe | Njangalude Veettile Athidhikal | Joju Sebastian | Ratheesh Vega | Rafeeq Ahammed]]></title>
         <id>https://www.youtube.com/watch?v=3yM08UTlVz8</id>
         <link href="https://www.youtube.com/watch?v=3yM08UTlVz8"/>
@@ -835,6 +916,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Oru Kaana Kanavin | Kangaroo | Lyrical Video | Prithviraj | Kavya Madhavan | Vineeth Sreenivasan]]></title>
+        <id>https://www.youtube.com/watch?v=oHphzQaymSk</id>
+        <link href="https://www.youtube.com/watch?v=oHphzQaymSk"/>
+        <updated>2022-10-22T05:30:10.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[വിനീത് ശ്രീനിവാസനും സിത്താര കൃഷ്ണകുമാറും ആദ്യമായി പാടുന്ന യുഗ്മഗാനം "എല്ലാം സെറ്റാണ് "ചിത്രത്തിൽ]]></title>
         <id>https://www.youtube.com/watch?v=GMQgH-A_Tp8</id>
         <link href="https://www.youtube.com/watch?v=GMQgH-A_Tp8"/>
@@ -871,6 +961,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[En Nenjile | Rathrimazha | Hariharan | Kaithapram | Ramesh Narayanan | Lenin Rajendran | Vineeth]]></title>
+        <id>https://www.youtube.com/watch?v=IN09ZcjVO24</id>
+        <link href="https://www.youtube.com/watch?v=IN09ZcjVO24"/>
+        <updated>2022-10-21T12:30:09.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Karalo Veruthe Video Song | Oh Meri Laila |  Antony Varghese | Sid Sriram | Abhishek KS |Ankit Menon]]></title>
         <id>https://www.youtube.com/watch?v=Jza6qTQCpL4</id>
         <link href="https://www.youtube.com/watch?v=Jza6qTQCpL4"/>
@@ -904,6 +1003,15 @@
         <updated>2022-10-21T11:30:23.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yeshuve Nin DivyaKarunyam| Shaun Santhosh| Manoj Kanhangad| Roopa Revathi | Malayalam Christian Song]]></title>
+        <id>https://www.youtube.com/watch?v=Q0ZPubhEB8o</id>
+        <link href="https://www.youtube.com/watch?v=Q0ZPubhEB8o"/>
+        <updated>2022-10-21T11:30:07.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -1003,6 +1111,15 @@
         <updated>2022-10-20T11:30:11.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaradhyane Samaaradhyane | Rev. Bhakthavalsalan | Amaravila Youth Chorus | Malayalam Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=2BVv2apluWU</id>
+        <link href="https://www.youtube.com/watch?v=2BVv2apluWU"/>
+        <updated>2022-10-20T11:30:09.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -1132,6 +1249,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lyircal Ente Priyan Vaanil | Wilson Piravom | Pr. Joseph Mathew | Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=b0rmv1e9TTk</id>
+        <link href="https://www.youtube.com/watch?v=b0rmv1e9TTk"/>
+        <updated>2022-10-19T11:30:07.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kooriruttil Nenchukeerum | Tamaar Padaar | Vidyadharan | Bijibal | Santhosh Varma]]></title>
         <id>https://www.youtube.com/watch?v=G23vg1P5HXg</id>
         <link href="https://www.youtube.com/watch?v=G23vg1P5HXg"/>
@@ -1165,6 +1291,15 @@
         <updated>2022-10-19T05:40:47.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pancharakko| Solomante Theneechakal |Karaoke Video| Vidyasagar | Vayalar Sarathchandra Varma|Laljose]]></title>
+        <id>https://www.youtube.com/watch?v=_VNIWJn3XkE</id>
+        <link href="https://www.youtube.com/watch?v=_VNIWJn3XkE"/>
+        <updated>2022-10-19T05:30:11.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
@@ -1204,6 +1339,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Marthoman | Kangaroo Film Songs | Prithviraj | Afsal | Cicily | Raj Babu | Malayalam Movie Songs]]></title>
+        <id>https://www.youtube.com/watch?v=nsczFDjH9mQ</id>
+        <link href="https://www.youtube.com/watch?v=nsczFDjH9mQ"/>
+        <updated>2022-10-18T12:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pettennangane Vatti Theernnoru | Njaan | Sreevalsan J Menon | Bijibal | Rafeeq Ahammed]]></title>
         <id>https://www.youtube.com/watch?v=E9DC0AreZuM</id>
         <link href="https://www.youtube.com/watch?v=E9DC0AreZuM"/>
@@ -1237,6 +1381,15 @@
         <updated>2022-10-18T11:30:18.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KARAOKE | Ente Priyan Vaanil Vararaay | Malayalam Christian Songs Karaoke | Christian Minus Tracks]]></title>
+        <id>https://www.youtube.com/watch?v=4JnQA75l9mo</id>
+        <link href="https://www.youtube.com/watch?v=4JnQA75l9mo"/>
+        <updated>2022-10-18T11:30:10.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -1300,6 +1453,15 @@
         <updated>2022-10-18T06:45:19.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaradhana | Amaravila Youth Chorus | Manorama Music]]></title>
+        <id>https://www.youtube.com/watch?v=Dwga79V3dhM</id>
+        <link href="https://www.youtube.com/watch?v=Dwga79V3dhM"/>
+        <updated>2022-10-18T04:38:15.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -1402,6 +1564,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lyrical Videos | Vagdatham Cheythavan | Malayalam Christian Lyrics Videos | Christian Lyrical Videos]]></title>
+        <id>https://www.youtube.com/watch?v=MAP7GKN4gLo</id>
+        <link href="https://www.youtube.com/watch?v=MAP7GKN4gLo"/>
+        <updated>2022-10-17T11:30:11.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Doctor Saare Video Song | Mammootty | Saritha | Shalini | KJ Yesudas | Johnson | Poovachal Khader]]></title>
         <id>https://www.youtube.com/watch?v=CJN96xvG1c4</id>
         <link href="https://www.youtube.com/watch?v=CJN96xvG1c4"/>
@@ -1501,6 +1672,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Malayali World Cup Football Anthem : Kaalpanthane]]></title>
+        <id>https://www.youtube.com/watch?v=k5RgkDu7ZVs</id>
+        <link href="https://www.youtube.com/watch?v=k5RgkDu7ZVs"/>
+        <updated>2022-10-16T11:30:10.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Aathire Nin Mugham Audio Song | Gandharvam Malayalam Movie Songs| Mohanlal, Kanchan | K S Chitra]]></title>
         <id>https://www.youtube.com/watch?v=559_QDDhLzM</id>
         <link href="https://www.youtube.com/watch?v=559_QDDhLzM"/>
@@ -1516,6 +1696,15 @@
         <updated>2022-10-16T07:30:06.000Z</updated>
         <author>
             <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malayali World Cup Football Anthem : Kaalpanthane]]></title>
+        <id>https://www.youtube.com/watch?v=YyUT1m8lteo</id>
+        <link href="https://www.youtube.com/watch?v=YyUT1m8lteo"/>
+        <updated>2022-10-16T07:15:01.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
@@ -1543,6 +1732,15 @@
         <updated>2022-10-16T06:00:07.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swapnathin Kunnatheri | Lyrical Video | Nayakan | Lijo Jose Pellissery | Indrajith | Prashant Pillai]]></title>
+        <id>https://www.youtube.com/watch?v=nljdElWoKvs</id>
+        <link href="https://www.youtube.com/watch?v=nljdElWoKvs"/>
+        <updated>2022-10-16T05:30:10.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
@@ -1597,6 +1795,15 @@
         <updated>2022-10-15T11:30:16.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karaoke Vagdatham Cheythavan | Minus Tracks | Christian Minus Tracks | Christian Karaoke Tracks]]></title>
+        <id>https://www.youtube.com/watch?v=kHR5kFubD7Q</id>
+        <link href="https://www.youtube.com/watch?v=kHR5kFubD7Q"/>
+        <updated>2022-10-15T11:30:11.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -1690,12 +1897,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Makka Madeena | Adaminte Makan Abu |Shankar Mahadevan |Ramesh Narayan|Rafeeque Ahammed|Salim Ahammed]]></title>
+        <id>https://www.youtube.com/watch?v=mz8twvz4Iwg</id>
+        <link href="https://www.youtube.com/watch?v=mz8twvz4Iwg"/>
+        <updated>2022-10-14T12:30:10.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kannil Kinavithennu | 4K Video| Randu Rahasyangal |P Vijaykumar| Viswajith | Bijibal | Vaiga Nambiar]]></title>
         <id>https://www.youtube.com/watch?v=Qa9hyppdT_g</id>
         <link href="https://www.youtube.com/watch?v=Qa9hyppdT_g"/>
         <updated>2022-10-14T11:43:10.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rajadhirajan Mahimayode Lyrical | Malayalam Christian Songs Lyrics | Christian Lyrics Video]]></title>
+        <id>https://www.youtube.com/watch?v=bfZ6J0GFMJA</id>
+        <link href="https://www.youtube.com/watch?v=bfZ6J0GFMJA"/>
+        <updated>2022-10-14T11:30:10.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -1741,6 +1966,15 @@
         <updated>2022-10-14T06:30:05.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prathisandhikal - Youtube Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=iSShkuMKetk</id>
+        <link href="https://www.youtube.com/watch?v=iSShkuMKetk"/>
+        <updated>2022-10-14T06:29:43.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -1807,6 +2041,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Prathisandhikal Vannidumbol | Jinu Issac | Issac Mohan Abraham |Jose Mohan Abraham | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=rm7UZy04p0Q</id>
+        <link href="https://www.youtube.com/watch?v=rm7UZy04p0Q"/>
+        <updated>2022-10-13T11:30:13.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[അധ്യാപകനിൽ നിന്നും നായകനിലേയ്ക്ക്  | Chat With Gireesh Neyyar & Shivaram Mony | Shubhadinam]]></title>
         <id>https://www.youtube.com/watch?v=xTsRtIWFyLU</id>
         <link href="https://www.youtube.com/watch?v=xTsRtIWFyLU"/>
@@ -1840,6 +2083,15 @@
         <updated>2022-10-13T07:30:01.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allippove Mallippoove | Karaoke Video | Bhagyadevatha | Vayalar Sarathchandra Varma | Ilaiyaraaja]]></title>
+        <id>https://www.youtube.com/watch?v=6dCLXS0OEJ4</id>
+        <link href="https://www.youtube.com/watch?v=6dCLXS0OEJ4"/>
+        <updated>2022-10-13T05:30:10.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
@@ -2059,6 +2311,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Minnadi Minnadi | Video Song | Naran | K S Chitra | Mohanlal | Kaithapram | Deepak Dev | Joshiy]]></title>
+        <id>https://www.youtube.com/watch?v=ZIfflAWQZGU</id>
+        <link href="https://www.youtube.com/watch?v=ZIfflAWQZGU"/>
+        <updated>2022-10-10T12:30:12.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ladies Collegil | Mazhayethum Munpe | MG Sreekumar | Anupama | Mammootty | Shubha | Anand]]></title>
         <id>https://www.youtube.com/watch?v=O2NUL3NO34c</id>
         <link href="https://www.youtube.com/watch?v=O2NUL3NO34c"/>
@@ -2158,6 +2419,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Aale Mayakkana Kuppi | Karaoke Video | Oru Black & White Kudumbam | Ramesh Kavil |  Kalabhavan Mani]]></title>
+        <id>https://www.youtube.com/watch?v=REaskG-Cq1A</id>
+        <link href="https://www.youtube.com/watch?v=REaskG-Cq1A"/>
+        <updated>2022-10-09T05:30:04.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sararanthal Minni Nilkkum | Changathipoocha | Jayasurya | Radhika | Ouseppachan-HD Video Song]]></title>
         <id>https://www.youtube.com/watch?v=dOaXBKETB2o</id>
         <link href="https://www.youtube.com/watch?v=dOaXBKETB2o"/>
@@ -2227,6 +2497,15 @@
         <updated>2022-10-07T13:13:12.000Z</updated>
         <author>
             <name>Meghamalhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinthaka Thaaro | Valkannadi | Film Video Song | Kalabhavan Mani | S Ramesan Nair | M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=mLtmEVp4HUs</id>
+        <link href="https://www.youtube.com/watch?v=mLtmEVp4HUs"/>
+        <updated>2022-10-07T12:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
     <entry>
@@ -2437,12 +2716,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Aaranne Aaranne | Karaoke Video | Urumi | Engandiyoor Chandrasekharan | Deepak Dev | Prithviraj]]></title>
+        <id>https://www.youtube.com/watch?v=wbVHfuCAP-Q</id>
+        <link href="https://www.youtube.com/watch?v=wbVHfuCAP-Q"/>
+        <updated>2022-10-05T05:30:14.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Paandimelam Pattum | Rajamanikyam | Mammootty | Padma Priya | Anwar Rasheed | Pradeep Palluruthy]]></title>
         <id>https://www.youtube.com/watch?v=RHCgJHb1GuY</id>
         <link href="https://www.youtube.com/watch?v=RHCgJHb1GuY"/>
         <updated>2022-10-04T15:30:04.000Z</updated>
         <author>
             <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poovaname | Video Song | Thalsamayam Oru Penkutty | Unni Mukundan | Nithya Menon | Sharreth]]></title>
+        <id>https://www.youtube.com/watch?v=X3YlmItUO-w</id>
+        <link href="https://www.youtube.com/watch?v=X3YlmItUO-w"/>
+        <updated>2022-10-04T12:30:12.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
     <entry>
@@ -2653,12 +2950,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Viral Thodathe  | Solomante Theneechakal | Karaoke Video | Vidyasagar | Vinayak Sasikumar | Laljose]]></title>
+        <id>https://www.youtube.com/watch?v=oScICOGKmnE</id>
+        <link href="https://www.youtube.com/watch?v=oScICOGKmnE"/>
+        <updated>2022-10-02T05:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Amodamaay Kalikkan | Elsamma Enna Aankutty | Kunchacko Boban | Aan Agustine | Rajamani-HD Video Song]]></title>
         <id>https://www.youtube.com/watch?v=cvLRr8b24gA</id>
         <link href="https://www.youtube.com/watch?v=cvLRr8b24gA"/>
         <updated>2022-10-01T15:36:00.000Z</updated>
         <author>
             <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mutholakkunnathe | Adaminte Makan Abu | Video Song | Sujatha | Rafeeque Ahammed | Ramesh Narayan]]></title>
+        <id>https://www.youtube.com/watch?v=0_uAmr5Hx7k</id>
+        <link href="https://www.youtube.com/watch?v=0_uAmr5Hx7k"/>
+        <updated>2022-10-01T12:30:11.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
     <entry>
@@ -2815,6 +3130,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Oru Kaana Kanavin | Kangaroo | Prithviraj | Kavya Madhavan | Vineeth Sreenivasan | Movie Songs]]></title>
+        <id>https://www.youtube.com/watch?v=O4wA05CfpYc</id>
+        <link href="https://www.youtube.com/watch?v=O4wA05CfpYc"/>
+        <updated>2022-09-29T12:30:11.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Assalu Munthiriye | Polytechnic | Vineeth Sreenivasan | Gopi Sundar | Nishad]]></title>
         <id>https://www.youtube.com/watch?v=AIV3kl6daTE</id>
         <link href="https://www.youtube.com/watch?v=AIV3kl6daTE"/>
@@ -2893,6 +3217,15 @@
         <updated>2022-09-29T05:52:33.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thazhikakudame | Lyrical Video | College Kumaran | Mohanlal | M G Sreekumar | Jyotsana | Ousepachan]]></title>
+        <id>https://www.youtube.com/watch?v=wgvLvU3kMrk</id>
+        <link href="https://www.youtube.com/watch?v=wgvLvU3kMrk"/>
+        <updated>2022-09-29T05:30:08.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
@@ -2992,6 +3325,15 @@
         <updated>2022-09-27T13:00:33.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Premikumbol | Vaikom Vijayalakshmi | Malayalam Film Songs Instrumental | Veena Instrumental]]></title>
+        <id>https://www.youtube.com/watch?v=dvH8RSxtUik</id>
+        <link href="https://www.youtube.com/watch?v=dvH8RSxtUik"/>
+        <updated>2022-09-27T12:30:12.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
     <entry>
@@ -3166,6 +3508,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Otta Pathrathil | Suresh Kuttiadi | Ushanth Thavath | M G Sreekumar | Maahi Film Songs | Movie Songs]]></title>
+        <id>https://www.youtube.com/watch?v=bwRBUR7lgsU</id>
+        <link href="https://www.youtube.com/watch?v=bwRBUR7lgsU"/>
+        <updated>2022-09-24T11:30:08.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vennila Kombile Video Song | Gireesh Puthenchery | Vidyasagar | MG Sreekumar | Sujatha Mohan]]></title>
         <id>https://www.youtube.com/watch?v=2tGnHFshkWg</id>
         <link href="https://www.youtube.com/watch?v=2tGnHFshkWg"/>
@@ -3199,6 +3550,15 @@
         <updated>2022-09-24T07:43:03.000Z</updated>
         <author>
             <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhamani Mukile |LYRICAL Video| Kangaroo | Prithviraj | Vayalar Sarath | Alex Paul | Kavya Madhavan]]></title>
+        <id>https://www.youtube.com/watch?v=m61JJBXxDiM</id>
+        <link href="https://www.youtube.com/watch?v=m61JJBXxDiM"/>
+        <updated>2022-09-24T05:30:10.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
@@ -3418,6 +3778,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Karinkuzhali Pennale | Sajan Ramanandan | Vinayachandran | Venugopalji | Vimosh Venugopal | Aiswarya]]></title>
+        <id>https://www.youtube.com/watch?v=ECAn3ic2DqU</id>
+        <link href="https://www.youtube.com/watch?v=ECAn3ic2DqU"/>
+        <updated>2022-09-21T11:30:12.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[അനുരാഗിണീ ഇതാ എൻ കരളിൽ | Evergreen Malayalam Hit Song | K. J. Yesudas | HD Video Song]]></title>
         <id>https://www.youtube.com/watch?v=cyUuBB2e0Mo</id>
         <link href="https://www.youtube.com/watch?v=cyUuBB2e0Mo"/>
@@ -3487,6 +3856,15 @@
         <updated>2022-09-20T12:00:15.000Z</updated>
         <author>
             <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aanandamo | Solomante Theneechakal | Karaoke Video | Vidyasagar | Vinayak Sasikumar | Laljose]]></title>
+        <id>https://www.youtube.com/watch?v=dhk5EEBiSb0</id>
+        <link href="https://www.youtube.com/watch?v=dhk5EEBiSb0"/>
+        <updated>2022-09-20T11:30:12.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
@@ -3706,6 +4084,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Poove Venn Poove | Pradeep Tom | Elizabeth Ipe | Dhannya Pradeep Tom | Malayalam Album Songs]]></title>
+        <id>https://www.youtube.com/watch?v=0AlmXkwr5F8</id>
+        <link href="https://www.youtube.com/watch?v=0AlmXkwr5F8"/>
+        <updated>2022-09-17T12:30:11.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sathyabhama | Parthasarathy K | Sunil G Cherukadavu | Neel Kajal S | Album Songs]]></title>
         <id>https://www.youtube.com/watch?v=H6O_O0LwNWo</id>
         <link href="https://www.youtube.com/watch?v=H6O_O0LwNWo"/>
@@ -3775,6 +4162,15 @@
         <updated>2022-09-17T06:08:36.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Premikkumbol | Karaoke Video  | Salt N Pepper | Bijibal | P Jayachandran | Rafeeque Ahammed]]></title>
+        <id>https://www.youtube.com/watch?v=fjI0Y9QaJtY</id>
+        <link href="https://www.youtube.com/watch?v=fjI0Y9QaJtY"/>
+        <updated>2022-09-17T05:30:11.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
@@ -3964,6 +4360,15 @@
         <updated>2022-09-13T07:30:00.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanakuyilin |LYRICAL Video| College Kumaran | Mohanlal | Ousepachan | G Venugopal|Shibu Chakravarthy]]></title>
+        <id>https://www.youtube.com/watch?v=et0OjmLgW1k</id>
+        <link href="https://www.youtube.com/watch?v=et0OjmLgW1k"/>
+        <updated>2022-09-13T05:30:13.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
