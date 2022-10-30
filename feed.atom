@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-30T05:29:38.152Z</updated>
+    <updated>2022-10-30T06:30:23.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pularippoo Penne | Ennum Eppozhum | Vijay Yesudas | Vidyasagar | Rafeeq Ahammed]]></title>
+        <id>https://www.youtube.com/watch?v=rhtdQBu4O80</id>
+        <link href="https://www.youtube.com/watch?v=rhtdQBu4O80"/>
+        <updated>2022-10-30T06:00:26.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pattom Kanakkinu | Chakram | Prithviraj | Meera Jasmine | Lohithadas | Raveendran]]></title>
         <id>https://www.youtube.com/watch?v=ERsohVP9guM</id>
