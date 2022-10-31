@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-31T09:27:14.869Z</updated>
+    <updated>2022-10-31T10:28:59.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -40,6 +40,24 @@
         <updated>2022-10-31T07:23:08.000Z</updated>
         <author>
             <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irulkkannumay Lyric Song | Kooman | Jeethu Joseph | Asif Ali | Vishnu Shyam]]></title>
+        <id>https://www.youtube.com/watch?v=abSmxwg0nbs</id>
+        <link href="https://www.youtube.com/watch?v=abSmxwg0nbs"/>
+        <updated>2022-10-31T05:52:52.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ellam Settanu | Trailer  | Ellam Settanu | Vinu Sridhar | Amsterdam Movie International | PS Jayhari]]></title>
+        <id>https://www.youtube.com/watch?v=CPqavC-XFCk</id>
+        <link href="https://www.youtube.com/watch?v=CPqavC-XFCk"/>
+        <updated>2022-10-31T04:14:22.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
