@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-31T07:24:18.092Z</updated>
+    <updated>2022-10-31T08:36:40.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Raagadra Sandyayil Song | Chaithanyam Malayalam Movie Songs | Murali, Madhavi |K.J.Yesudas|Ravindran]]></title>
+        <id>https://www.youtube.com/watch?v=Xgoy6KztYkQ</id>
+        <link href="https://www.youtube.com/watch?v=Xgoy6KztYkQ"/>
+        <updated>2022-10-31T07:54:33.000Z</updated>
+        <author>
+            <name>Lahari Music Malayalam | T-Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[തലമുറ വ്യത്യാസമില്ലാതെ ഏവരും ഇഷ്ടപെടുന്ന മലയാള സിനിമയിലെ പ്രശസ്ത ഗാനങ്ങൾ | MALAYALAM SUPERHIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=t4ASam8WRgk</id>
+        <link href="https://www.youtube.com/watch?v=t4ASam8WRgk"/>
+        <updated>2022-10-31T07:30:08.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Raja Oru Rani |  Janmaantharam | SP Venkitesh | KS Chithra | Poovachal Khader | Malayalam Song]]></title>
+        <id>https://www.youtube.com/watch?v=idfKgr92ACU</id>
+        <link href="https://www.youtube.com/watch?v=idfKgr92ACU"/>
+        <updated>2022-10-31T07:30:05.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vasantham Varna | Narendran Makan Jayakanthan vaka | Kunchakko Boban | Asin Thottumkal | KS Chithra]]></title>
         <id>https://www.youtube.com/watch?v=Vq0v1ZRamDs</id>
@@ -4900,6 +4927,15 @@
         <updated>2022-08-06T05:30:44.000Z</updated>
         <author>
             <name>Wilson Video Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVA | Trailer | Sohanlal | Payel Mukherjee | Anokha Rajan | Award Winning Short Film]]></title>
+        <id>https://www.youtube.com/watch?v=ZLpslMxIMnQ</id>
+        <link href="https://www.youtube.com/watch?v=ZLpslMxIMnQ"/>
+        <updated>2022-08-04T03:50:19.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
