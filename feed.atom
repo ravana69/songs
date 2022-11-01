@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-01T04:42:15.234Z</updated>
+    <updated>2022-11-01T05:51:27.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Neelakkadinu Mukalile | Lyrical Video | God For Sale | Kunchacko Boban | Afzal Yusuff | Jaya Vijaya]]></title>
+        <id>https://www.youtube.com/watch?v=nSGU2SUSwyM</id>
+        <link href="https://www.youtube.com/watch?v=nSGU2SUSwyM"/>
+        <updated>2022-11-01T05:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sundara Keralam | Music Video | Anto Mathew | Sneha Nair | Siji Sanal |Keralapiravi |Malayalam Songs]]></title>
         <id>https://www.youtube.com/watch?v=upsBQnSQI9s</id>
