@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-03T11:19:52.032Z</updated>
+    <updated>2022-11-03T12:51:16.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ninne Kaanaan Kinakkal | 100 Days Of Love | Benny Dayal | Govind Menon | Santhosh Varma]]></title>
+        <id>https://www.youtube.com/watch?v=yvUPTbvScyI</id>
+        <link href="https://www.youtube.com/watch?v=yvUPTbvScyI"/>
+        <updated>2022-11-03T12:00:40.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doore Maamara Kombil Video Song | Meena | Mohanlal | KS Chithra | Vidyasagar | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=_7I6cYXITdk</id>
+        <link href="https://www.youtube.com/watch?v=_7I6cYXITdk"/>
+        <updated>2022-11-03T12:00:19.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moonum Kootty Murukki Song | Chaithanyam Malayalam Movie Songs | Murali, Madhavi | Navaz | Ravindran]]></title>
+        <id>https://www.youtube.com/watch?v=X8bx8cdLVZU</id>
+        <link href="https://www.youtube.com/watch?v=X8bx8cdLVZU"/>
+        <updated>2022-11-03T11:33:16.000Z</updated>
+        <author>
+            <name>Lahari Music Malayalam | T-Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vaadaruthe (Sad) - Video | Autorickshawkkarante Bharya| Suraj Venjaramood,Ann Augustine| Ouseppachan]]></title>
         <id>https://www.youtube.com/watch?v=_koYA5a5uOs</id>
@@ -5773,15 +5800,6 @@
         <updated>2022-08-06T05:30:44.000Z</updated>
         <author>
             <name>Wilson Video Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ലോകമെമ്പാടുമുള്ള ക്രിസ്ത്യാനികളുടെ പ്രിയഗാനങ്ങൾ popular christian devotional songs malayalam #hit]]></title>
-        <id>https://www.youtube.com/watch?v=rJhY2Kdd3tQ</id>
-        <link href="https://www.youtube.com/watch?v=rJhY2Kdd3tQ"/>
-        <updated>2022-08-06T00:30:09.000Z</updated>
-        <author>
-            <name>Old Malayalam Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
