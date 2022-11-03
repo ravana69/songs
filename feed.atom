@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-02T23:28:24.711Z</updated>
+    <updated>2022-11-03T02:11:20.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Raagadra Sandyayil Song | Chaithanyam Malayalam Movie Songs | Murali,Madhavi | K.J.Yesudas|Ravindran]]></title>
+        <id>https://www.youtube.com/watch?v=rY6bLNrDKKE</id>
+        <link href="https://www.youtube.com/watch?v=rY6bLNrDKKE"/>
+        <updated>2022-11-03T01:14:40.000Z</updated>
+        <author>
+            <name>Lahari Music Malayalam | T-Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഈ ഗാനങ്ങളിലൂടെ ദൈവകൃപ നമ്മളിൽ എത്തുന്ന പോലെ അനുഭവമേകുന്ന ഗാനങ്ങൾ | Christian Melody Songs]]></title>
+        <id>https://www.youtube.com/watch?v=XUzLmk0Z3hA</id>
+        <link href="https://www.youtube.com/watch?v=XUzLmk0Z3hA"/>
+        <updated>2022-11-03T00:30:06.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shorts - Krooshitha.... Baby John Kalayanthani - Abhijith Kollam]]></title>
         <id>https://www.youtube.com/watch?v=-naKdL6rMzA</id>
