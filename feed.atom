@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-03T17:26:20.490Z</updated>
+    <updated>2022-11-03T18:35:50.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -5836,24 +5836,6 @@
         <updated>2022-08-11T00:30:00.000Z</updated>
         <author>
             <name>Old Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaal Panthane | Lyrical Video | Anthem World Cup Football  | Dj Savyo | Mc Couper | Rony Philip]]></title>
-        <id>https://www.youtube.com/watch?v=k9-QOnx7RFM</id>
-        <link href="https://www.youtube.com/watch?v=k9-QOnx7RFM"/>
-        <updated>2022-08-06T05:55:38.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aakashagopuram Full Video Song | HD | Kalikkalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=qdft6uTKFAM</id>
-        <link href="https://www.youtube.com/watch?v=qdft6uTKFAM"/>
-        <updated>2022-08-06T05:30:44.000Z</updated>
-        <author>
-            <name>Wilson Video Songs</name>
         </author>
     </entry>
 </feed>
