@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-03T23:26:39.966Z</updated>
+    <updated>2022-11-04T02:20:44.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parayoo Gnanangane Song (M) | Chaithanyam Malayalam Movie Songs | Murali, Madhavi | K.J.Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=L2Sq1lnTHlY</id>
+        <link href="https://www.youtube.com/watch?v=L2Sq1lnTHlY"/>
+        <updated>2022-11-04T00:49:32.000Z</updated>
+        <author>
+            <name>Lahari Music Malayalam | T-Series</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Songs Of The Week | Chithra Arun| Christian Devotional Songs Malayalam | Joji Johns |Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=7r8-QxhBQ2w</id>
+        <link href="https://www.youtube.com/watch?v=7r8-QxhBQ2w"/>
+        <updated>2022-11-04T00:30:03.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pattuduthu Vannathum - Video Song| Kumari| Aishwarya Lekshmi| Nirmal Sahadev| Jakes ft. Arivu| Athul]]></title>
         <id>https://www.youtube.com/watch?v=mZNPwA31GoY</id>
