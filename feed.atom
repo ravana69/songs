@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-05T07:21:10.383Z</updated>
+    <updated>2022-11-05T08:28:43.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആ നല്ല നാളുകളുടെ ഓർമ്മകൾ പുതുക്കുന്ന തൊണ്ണൂറുകളിലെ സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | 90S SUPERHIT MOVIE SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=AvMgNbzNqw8</id>
+        <link href="https://www.youtube.com/watch?v=AvMgNbzNqw8"/>
+        <updated>2022-11-05T07:54:19.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികളുടെ ഇഷ്ടതാരങ്ങൾ ഒന്നിച്ചണിനിരക്കുന്ന മലയാളസിനിമയിലെ ജനപ്രിയഗാനങ്ങൾ| MEGA HIT SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=SV4sgXTiut4</id>
+        <link href="https://www.youtube.com/watch?v=SV4sgXTiut4"/>
+        <updated>2022-11-05T07:44:02.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Palapoo |Karaoke Video| Thirakadha | Rafeeque Ahammed | Sharreth | Prithviraj Sukumaran |Anoop Menon]]></title>
         <id>https://www.youtube.com/watch?v=VY-LH_zXC24</id>
