@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-05T11:18:22.800Z</updated>
+    <updated>2022-11-05T12:41:10.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kuruthi Nilavu - Song | Kotthu | Asif Ali, Nikhila Vimal, Roshan Mathew | Sibi Malayil | Kailas]]></title>
+        <id>https://www.youtube.com/watch?v=6Qff2CYwFSo</id>
+        <link href="https://www.youtube.com/watch?v=6Qff2CYwFSo"/>
+        <updated>2022-11-05T11:31:26.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nilaavu Thinkal | Vishwasam Athalle Ellaam | Najim Arshad | Gopi Sundar | BK Harinarayanan]]></title>
+        <id>https://www.youtube.com/watch?v=jecnpVcXUQ8</id>
+        <link href="https://www.youtube.com/watch?v=jecnpVcXUQ8"/>
+        <updated>2022-11-05T11:30:20.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannil Umma | Vineeth | Sandhya | Sujatha Mohan | Vidhu Prathap | Vidyasagar | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=7-S7pHf4uC8</id>
+        <link href="https://www.youtube.com/watch?v=7-S7pHf4uC8"/>
+        <updated>2022-11-05T11:30:03.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ambazham Thanalitta | Oru Second Class Yathra | Vineeth Sreenivasan | Mridula Warrier | Gopi Sundar]]></title>
         <id>https://www.youtube.com/watch?v=r8Y_V2shM7o</id>
