@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-06T06:28:41.401Z</updated>
+    <updated>2022-11-06T07:21:18.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ninte Nizhal Kondu | Sir CP | Sithara Krishnakumar | Sejo John | Dr Madhu Vasudevan]]></title>
+        <id>https://www.youtube.com/watch?v=YQgzBwMF1gI</id>
+        <link href="https://www.youtube.com/watch?v=YQgzBwMF1gI"/>
+        <updated>2022-11-06T07:00:19.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mukkathe Penne | Ennu Ninte Moideen | Mohammed Maqbool Mansoor | Gopi Sundar]]></title>
         <id>https://www.youtube.com/watch?v=XGVVRcr7O8o</id>
