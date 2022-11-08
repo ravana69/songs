@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-08T11:20:12.785Z</updated>
+    <updated>2022-11-08T12:53:52.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kaathu Kaathirippu - Lyrical | Padachone Ingalu Katholi | Sreenath Bhasi, Ann Sheetal | Shaan Rahman]]></title>
+        <id>https://www.youtube.com/watch?v=CLfjWFXPR1c</id>
+        <link href="https://www.youtube.com/watch?v=CLfjWFXPR1c"/>
+        <updated>2022-11-08T12:34:06.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharadambaram | Ennu Ninte Moideen | P Jayachandran | Shilpa Raj | Ramesh Narayan | Changampuzha]]></title>
+        <id>https://www.youtube.com/watch?v=nLJQclheN_c</id>
+        <link href="https://www.youtube.com/watch?v=nLJQclheN_c"/>
+        <updated>2022-11-08T12:00:28.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Olakkayyil Neeraadi Video Song | Mukesh | Vani Viswanath | KJ Yesudas, KS Chithra | Bichu Thirumala]]></title>
+        <id>https://www.youtube.com/watch?v=1qy800qC5_U</id>
+        <link href="https://www.youtube.com/watch?v=1qy800qC5_U"/>
+        <updated>2022-11-08T11:36:55.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lyrical Video Aarppin Nadam | Malayalam Christian Songs Lyrics | Christian Songs Lyrical Video]]></title>
+        <id>https://www.youtube.com/watch?v=ViFmmL3A8jU</id>
+        <link href="https://www.youtube.com/watch?v=ViFmmL3A8jU"/>
+        <updated>2022-11-08T11:30:09.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thettukalellam Enniyenni....#christiandevotionalsongsmalayalam #jojijohns #christianvideosong]]></title>
+        <id>https://www.youtube.com/watch?v=GMZC-mwt0Nc</id>
+        <link href="https://www.youtube.com/watch?v=GMZC-mwt0Nc"/>
+        <updated>2022-11-08T11:30:04.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അപാരമായ അഭിനയശേഷികൊണ്ട് മലയാളികളെ വിസ്മയിപ്പിച്ചു കടന്നു പോയ മുരളി അഭിനയിച്ച ഗാനങ്ങൾ | MURALI HITS]]></title>
         <id>https://www.youtube.com/watch?v=7Ka3q4p2J6g</id>
@@ -6457,15 +6502,6 @@
         <updated>2022-08-12T13:46:35.000Z</updated>
         <author>
             <name>Wilson Video Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവജനതയുടെ പ്രിയപ്പെട്ട ആരാധനാഗാനങ്ങൾ daily morning nonstop malayalam praise and worship songs]]></title>
-        <id>https://www.youtube.com/watch?v=aA1PTwQkiBU</id>
-        <link href="https://www.youtube.com/watch?v=aA1PTwQkiBU"/>
-        <updated>2022-08-11T00:30:00.000Z</updated>
-        <author>
-            <name>Old Malayalam Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
