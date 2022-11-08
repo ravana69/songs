@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-08T07:22:18.492Z</updated>
+    <updated>2022-11-08T08:33:41.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അപാരമായ അഭിനയശേഷികൊണ്ട് മലയാളികളെ വിസ്മയിപ്പിച്ചു കടന്നു പോയ മുരളി അഭിനയിച്ച ഗാനങ്ങൾ | MURALI HITS]]></title>
+        <id>https://www.youtube.com/watch?v=7Ka3q4p2J6g</id>
+        <link href="https://www.youtube.com/watch?v=7Ka3q4p2J6g"/>
+        <updated>2022-11-08T08:08:12.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളത്തിലെ പ്രശസ്‌തരായ  ഗായികമാർ ആലപിച്ച ഏവർക്കും ഇഷ്ടമുള്ള ഗാനങ്ങൾ  | SUPERHIT SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=BfSlUUerWp0</id>
+        <link href="https://www.youtube.com/watch?v=BfSlUUerWp0"/>
+        <updated>2022-11-08T07:50:51.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oro Kanavum | Aagathan | Karaoke Video | Kamal | Dileep |  Ouseppachan | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=nc5SPfrjMXA</id>
