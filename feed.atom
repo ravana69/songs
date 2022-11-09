@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-09T11:21:06.990Z</updated>
+    <updated>2022-11-09T12:54:39.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vaidooryakkammalaninju | Ee Puzhayum Kadannu | Dileep| Manju Warrier | Mohini | Chippy- Johnson Hits]]></title>
+        <id>https://www.youtube.com/watch?v=wJgPLCKq8gw</id>
+        <link href="https://www.youtube.com/watch?v=wJgPLCKq8gw"/>
+        <updated>2022-11-09T12:00:46.000Z</updated>
+        <author>
+            <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kandan Njanoru | Sound Thoma | Dileep, Namitha Pramod | Nadhirsha | Gopi Sundar | Thoma Style]]></title>
+        <id>https://www.youtube.com/watch?v=Yl2UCI4HVKw</id>
+        <link href="https://www.youtube.com/watch?v=Yl2UCI4HVKw"/>
+        <updated>2022-11-09T11:36:39.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chirakadi Mooliya | Actually | K S Chithra | Gopu Krishna PS | Mohamed Maqubool Mansoor|Divya Sooraj]]></title>
+        <id>https://www.youtube.com/watch?v=oyZwLjRuF4I</id>
+        <link href="https://www.youtube.com/watch?v=oyZwLjRuF4I"/>
+        <updated>2022-11-09T11:30:22.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mangalapaala Poomanam Video Song | Shruthi | KS Chithra | Johnson | Kaithapram | Oral Mathram]]></title>
+        <id>https://www.youtube.com/watch?v=Sqt7QKIQt3E</id>
+        <link href="https://www.youtube.com/watch?v=Sqt7QKIQt3E"/>
+        <updated>2022-11-09T11:30:07.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public Veedu - Video Song | Nivin Pauly | Aditi Balan | Anwar Ali | Govind Vasantha | Liju Krishna]]></title>
+        <id>https://www.youtube.com/watch?v=hE3e7ABBp7c</id>
+        <link href="https://www.youtube.com/watch?v=hE3e7ABBp7c"/>
+        <updated>2022-11-09T11:19:29.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kannondu Chollanu | Ennu Ninte Moideen | Vijay Yesudas | Shreya Ghoshal | M Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=1VHJf8z6sk4</id>
