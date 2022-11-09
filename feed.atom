@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-09T08:32:12.548Z</updated>
+    <updated>2022-11-09T09:24:15.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -2929,6 +2929,15 @@
         <updated>2022-10-19T10:30:03.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prathisandhikal Lyrical Video | Issac Mohan Abraham | Jose Mohan Abraham | Jinu Issac | Lyrics Video]]></title>
+        <id>https://www.youtube.com/watch?v=S6dxxt-8BBE</id>
+        <link href="https://www.youtube.com/watch?v=S6dxxt-8BBE"/>
+        <updated>2022-10-19T09:42:46.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
