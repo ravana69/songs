@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-10T06:30:24.766Z</updated>
+    <updated>2022-11-10T07:22:06.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -103,6 +103,24 @@
         <updated>2022-11-09T10:30:00.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yadu Hridayam| Lyrical Video| Rappakal | Mammootty | Mohan Sithara | Madhu Balakrishnan | K.S.Chitra]]></title>
+        <id>https://www.youtube.com/watch?v=EcEvw8YcoxI</id>
+        <link href="https://www.youtube.com/watch?v=EcEvw8YcoxI"/>
+        <updated>2022-11-09T09:30:41.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Premikkumbol | Lyrical Video  | Salt N Pepper | Bijibal | P Jayachandran | Rafeeque Ahammed | Neha]]></title>
+        <id>https://www.youtube.com/watch?v=327GXslkEXE</id>
+        <link href="https://www.youtube.com/watch?v=327GXslkEXE"/>
+        <updated>2022-11-09T09:30:09.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
