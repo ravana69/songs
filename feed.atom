@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-10T07:22:06.332Z</updated>
+    <updated>2022-11-10T08:37:17.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രണയത്തിന്റെ അപാരത പ്രേക്ഷകർ ദർശിച്ച സൂപ്പർഹിറ്റ് ചിത്രങ്ങളിലെ മെഗാഹിറ്റ് ഗാനങ്ങൾ | ROMANTIC HITS]]></title>
+        <id>https://www.youtube.com/watch?v=pU6RgNwIKNM</id>
+        <link href="https://www.youtube.com/watch?v=pU6RgNwIKNM"/>
+        <updated>2022-11-10T07:30:08.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളസിനിമയിലെ ഏറ്റവും മികച്ച അഭിനേത്രിയെന്ന് ജനങ്ങൾ വിധിയെഴുതിയ ഉർവശി അഭിനയിച്ച മനോഹരഗാനങ്ങൾ !]]></title>
+        <id>https://www.youtube.com/watch?v=CkpazUpoX-M</id>
+        <link href="https://www.youtube.com/watch?v=CkpazUpoX-M"/>
+        <updated>2022-11-10T07:30:01.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hey Bharatha Vamshaja Audio | Kurukshethra Malayalam Movie | Darshan,Meghana Raj | Munirathna]]></title>
         <id>https://www.youtube.com/watch?v=Y86E4yIlmV4</id>
