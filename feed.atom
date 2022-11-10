@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-09T23:28:22.955Z</updated>
+    <updated>2022-11-10T02:12:19.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഈ വർഷത്തെ ക്രിസ്മസ് ഗാനങ്ങൾ | Christian Devotional Songs Malayalam | Christmas Songs]]></title>
+        <id>https://www.youtube.com/watch?v=-do1jMLV9_M</id>
+        <link href="https://www.youtube.com/watch?v=-do1jMLV9_M"/>
+        <updated>2022-11-10T00:30:00.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Minnum Nilathinkalay | Mammootty | Rasika | Yesudas | Vidyasagar | Sujatha]]></title>
         <id>https://www.youtube.com/watch?v=b24uufEp68k</id>
@@ -6673,15 +6682,6 @@
         <updated>2022-08-13T12:25:44.000Z</updated>
         <author>
             <name>Magic Frames Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thankathinkal Kiliyayi Kurukam  Full Video Song | Indraprastham Movie Song | REMASTERED |]]></title>
-        <id>https://www.youtube.com/watch?v=vL9W6zgrO68</id>
-        <link href="https://www.youtube.com/watch?v=vL9W6zgrO68"/>
-        <updated>2022-08-12T13:46:35.000Z</updated>
-        <author>
-            <name>Wilson Video Songs</name>
         </author>
     </entry>
 </feed>
