@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-10T10:26:36.344Z</updated>
+    <updated>2022-11-10T11:21:16.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[താലം താലോലം | Evergreen Malayalam Super Hit Song | Akkacheyude Kunjuvava | S Janaki | Johnson Master]]></title>
+        <id>https://www.youtube.com/watch?v=0u9X2mVRTPY</id>
+        <link href="https://www.youtube.com/watch?v=0u9X2mVRTPY"/>
+        <updated>2022-11-10T10:37:28.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kichcha Devil'S Fury Audio Songs Jukebox | Selected Kichcha Sudeep Malayalam Songs | Malayalam Hits]]></title>
         <id>https://www.youtube.com/watch?v=rVBsaNUNrE0</id>
