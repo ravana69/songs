@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-10T23:25:56.408Z</updated>
+    <updated>2022-11-11T02:10:55.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പഴമയുടെ നന്മയുടെ പ്രഭാതഗാനങ്ങൾ daily morning worship songs | christian devotional songs malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=WLEe77OyP9Q</id>
+        <link href="https://www.youtube.com/watch?v=WLEe77OyP9Q"/>
+        <updated>2022-11-11T00:30:08.000Z</updated>
+        <author>
+            <name>Old Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Songs Of The Week | Abhijith Kollam | Christian Melody Songs Malayalam | Joji Johns | Bindhu Thomas]]></title>
+        <id>https://www.youtube.com/watch?v=AgAgC1aFvYk</id>
+        <link href="https://www.youtube.com/watch?v=AgAgC1aFvYk"/>
+        <updated>2022-11-11T00:30:06.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#KanniluKannilu from #Ayisha 💃🏻| #Shorts]]></title>
         <id>https://www.youtube.com/watch?v=ca2ZoYKjwzg</id>
@@ -247,6 +265,15 @@
         <updated>2022-11-09T09:12:57.000Z</updated>
         <author>
             <name>Magic Frames Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paadiyum Paranjum -3 | Ouseppachan Interview with Sreejith K Warrier | SoNew Ideas | പാടിയും പറഞ്ഞും]]></title>
+        <id>https://www.youtube.com/watch?v=gjqISyiMTkc</id>
+        <link href="https://www.youtube.com/watch?v=gjqISyiMTkc"/>
+        <updated>2022-11-09T08:15:33.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -6824,15 +6851,6 @@
         <id>https://www.youtube.com/watch?v=3PAjeuj5IWg</id>
         <link href="https://www.youtube.com/watch?v=3PAjeuj5IWg"/>
         <updated>2022-08-14T10:30:12.000Z</updated>
-        <author>
-            <name>Magic Frames Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaanathe Nenjam Ghazal | Sayanna Varthakal | Gokul Suresh | Prashant Pillai | Srinath Nair]]></title>
-        <id>https://www.youtube.com/watch?v=R5JTpf2ZAeM</id>
-        <link href="https://www.youtube.com/watch?v=R5JTpf2ZAeM"/>
-        <updated>2022-08-13T12:25:44.000Z</updated>
         <author>
             <name>Magic Frames Music</name>
         </author>
