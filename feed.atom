@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-11T04:45:41.006Z</updated>
+    <updated>2022-11-11T05:27:10.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kurukshethra Audio Songs Jukebox Malayalam | Darshan | Munirathna | V Harikrishna]]></title>
+        <id>https://www.youtube.com/watch?v=yp0QUoDOdGM</id>
+        <link href="https://www.youtube.com/watch?v=yp0QUoDOdGM"/>
+        <updated>2022-11-11T04:55:28.000Z</updated>
+        <author>
+            <name>Lahari Music Malayalam | T-Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പഴമയുടെ നന്മയുടെ പ്രഭാതഗാനങ്ങൾ daily morning worship songs | christian devotional songs malayalam]]></title>
         <id>https://www.youtube.com/watch?v=WLEe77OyP9Q</id>
