@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-13T05:23:13.414Z</updated>
+    <updated>2022-11-13T06:29:06.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Priyamullavane | Ennu Ninte Moideen | Madhushree Narayan | Ramesh Narayan | Rafeeq Ahammed]]></title>
+        <id>https://www.youtube.com/watch?v=boJGM4dMKZY</id>
+        <link href="https://www.youtube.com/watch?v=boJGM4dMKZY"/>
+        <updated>2022-11-13T06:00:13.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ക്രിസ്മസ് കരോൾ ഗാനങ്ങൾ | Christmas Carol Songs | Christian Devotional Songs Malayalam]]></title>
         <id>https://www.youtube.com/watch?v=LTDrlwadM7A</id>
