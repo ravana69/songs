@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-13T23:26:06.514Z</updated>
+    <updated>2022-11-14T02:04:17.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prabhatha Geethangal | Manjeri | Christian Melody Songs | Morning Prayer Songs | Wilson Piravom]]></title>
+        <id>https://www.youtube.com/watch?v=jJUpAJHWFzw</id>
+        <link href="https://www.youtube.com/watch?v=jJUpAJHWFzw"/>
+        <updated>2022-11-14T00:30:22.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ore Swaram | Ivar | Jayaram | Biju Menon | Vinayakan | BR Prasad | Sreenivas | Karthik | Sreelekha]]></title>
         <id>https://www.youtube.com/watch?v=G7PyDAdNvZ8</id>
@@ -715,6 +724,15 @@
         <updated>2022-11-08T12:00:28.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laka laka Laka  | Video Song| Laika | P Muraleedharan | Satheesh Ramachandran | Dr Ashad Sivaraman]]></title>
+        <id>https://www.youtube.com/watch?v=VO60P_PuerQ</id>
+        <link href="https://www.youtube.com/watch?v=VO60P_PuerQ"/>
+        <updated>2022-11-08T11:49:00.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -7177,15 +7195,6 @@
         <updated>2022-08-17T00:30:12.000Z</updated>
         <author>
             <name>Old Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onappattin Thalam Thullum | Quotation | Sujitha | Malayalam Super Hit Onam Song - Video Song]]></title>
-        <id>https://www.youtube.com/watch?v=zfYKYdL8oSQ</id>
-        <link href="https://www.youtube.com/watch?v=zfYKYdL8oSQ"/>
-        <updated>2022-08-16T12:14:41.000Z</updated>
-        <author>
-            <name>Music Zone</name>
         </author>
     </entry>
 </feed>
