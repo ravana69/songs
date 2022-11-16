@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-16T18:28:14.476Z</updated>
+    <updated>2022-11-16T19:18:03.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -7562,15 +7562,6 @@
         <id>https://www.youtube.com/watch?v=W0UPDw5EGVo</id>
         <link href="https://www.youtube.com/watch?v=W0UPDw5EGVo"/>
         <updated>2022-08-19T07:18:04.000Z</updated>
-        <author>
-            <name>Wilson Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manathe Mancherathil | Daivathinte Makan Malayalam Audio Song | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=jhRWySrd9U8</id>
-        <link href="https://www.youtube.com/watch?v=jhRWySrd9U8"/>
-        <updated>2022-08-19T07:15:49.000Z</updated>
         <author>
             <name>Wilson Audios</name>
         </author>
