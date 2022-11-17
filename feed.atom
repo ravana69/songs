@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-17T10:24:41.565Z</updated>
+    <updated>2022-11-17T11:18:30.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കരിങ്കാളിയല്ലേ നാടൻപാട്ട്🔥🔥ജഡ കെട്ടിയ കാർമുടിക്കെന്തിന് മുല്ലപൂവഴക് | Anusree 🥰🔥]]></title>
+        <id>https://www.youtube.com/watch?v=wFwSCk0a-dU</id>
+        <link href="https://www.youtube.com/watch?v=wFwSCk0a-dU"/>
+        <updated>2022-11-17T10:50:56.000Z</updated>
+        <author>
+            <name>Meghamalhar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കാർക്കുഴലീ തേൻകുരുവീ | Malayalam Movie Video Song | Kasthooriman | Sujatha Mohan |]]></title>
         <id>https://www.youtube.com/watch?v=QuZ1Lu5eSco</id>
@@ -247,6 +256,15 @@
         <updated>2022-11-15T11:30:26.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kooman Movie Audio Jukebox | Vishnu Shyam | Jeethu Joseph | Asif Ali]]></title>
+        <id>https://www.youtube.com/watch?v=FUV8NsP5MiM</id>
+        <link href="https://www.youtube.com/watch?v=FUV8NsP5MiM"/>
+        <updated>2022-11-15T08:57:35.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
         </author>
     </entry>
     <entry>
