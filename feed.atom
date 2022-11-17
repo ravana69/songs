@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-17T07:20:25.180Z</updated>
+    <updated>2022-11-17T08:31:37.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രണയത്തിന്റെ എല്ലാ ഭാവങ്ങളും പാട്ടിലൂടെ വർണിക്കുന്ന പ്രശസ്‌തമായ സിനിമാഗാനങ്ങൾ | ROMANTIC HIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=sU-51TEABEY</id>
+        <link href="https://www.youtube.com/watch?v=sU-51TEABEY"/>
+        <updated>2022-11-17T07:45:05.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇനിയൊരു ജന്മമുണ്ടെങ്കിൽ കേൾക്കാൻ മനസ്സ് വെമ്പുന്ന മലയാളസിനിമാഗാനങ്ങൾ  | EVERGREEN SUPERHITS | NISARI]]></title>
+        <id>https://www.youtube.com/watch?v=4Q01qGAGNP4</id>
+        <link href="https://www.youtube.com/watch?v=4Q01qGAGNP4"/>
+        <updated>2022-11-17T07:30:01.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എക്കാലത്തെയും സൂപ്പർഹിറ്റ് ക്രിസ്മസ് ഗാനങ്ങൾ | Christmas Songs Malayalam | KG Markose | Melody Songs]]></title>
         <id>https://www.youtube.com/watch?v=2soTxnWKUFA</id>
