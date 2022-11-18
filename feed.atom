@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-17T23:24:53.264Z</updated>
+    <updated>2022-11-18T02:06:51.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Songs Of The Week | KG Markose | Christian Devotional Songs Malayalam | Joji Johns | Sudeep Kumar]]></title>
+        <id>https://www.youtube.com/watch?v=8_qT__pTlyk</id>
+        <link href="https://www.youtube.com/watch?v=8_qT__pTlyk"/>
+        <updated>2022-11-18T00:30:04.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Puthiya Mugham(Kaane Kaane) | Theme Song | Prithviraj | Priyamani | Deephan | Deepak Dev | Baale]]></title>
         <id>https://www.youtube.com/watch?v=CTl6SS2msrA</id>
