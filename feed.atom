@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-18T07:20:47.153Z</updated>
+    <updated>2022-11-18T08:28:29.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ശാന്തമായ മനസ്സ് കേൾക്കുന്നവർക്ക് സമ്മാനമായി നൽകുന്ന സിനിമാഗാനങ്ങൾ | SOOTHING MELODY HITS | NISARI]]></title>
+        <id>https://www.youtube.com/watch?v=GIdzEI16Hso</id>
+        <link href="https://www.youtube.com/watch?v=GIdzEI16Hso"/>
+        <updated>2022-11-18T07:52:40.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chirimani Mulle | Lion | Deepak Dev | Kaithapram | Afsal | Jyotsna Radhakrishnan | Dileep | Kavya]]></title>
+        <id>https://www.youtube.com/watch?v=Qps2m8D6Gm4</id>
+        <link href="https://www.youtube.com/watch?v=Qps2m8D6Gm4"/>
+        <updated>2022-11-18T07:30:05.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അതിമനോഹരമായ പഴയകാല ഗാനങ്ങൾ old christian songs malayalam with lyrics ! daily worship songs malayalam]]></title>
         <id>https://www.youtube.com/watch?v=nwiulyA2H4s</id>
