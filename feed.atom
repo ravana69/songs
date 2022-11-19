@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-19T07:19:26.707Z</updated>
+    <updated>2022-11-19T08:28:13.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മിന്നും പ്രകടനം കൊണ്ട് പ്രേക്ഷകരെ  ഞെട്ടിച്ച മലയാളസിനിമയിലെ സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | SUPERHIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=5SNMYJLz7e0</id>
+        <link href="https://www.youtube.com/watch?v=5SNMYJLz7e0"/>
+        <updated>2022-11-19T07:47:11.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എത്രകേട്ടിട്ടും കൊതി തീരാത്ത മലയാളസിനിമയിലെ സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ  | FAMOUS SUPERHIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=odoo4ARAIKo</id>
+        <link href="https://www.youtube.com/watch?v=odoo4ARAIKo"/>
+        <updated>2022-11-19T07:30:16.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nalla Samayam | Official Trailer | Omar Lulu | Irshad Ali | Vijeesh]]></title>
         <id>https://www.youtube.com/watch?v=leNnwXZTcSo</id>
