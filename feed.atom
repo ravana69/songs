@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-19T03:15:15.553Z</updated>
+    <updated>2022-11-19T04:27:44.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#Maayagange 💕 #banaras #zaidkhan #heshamabdulwahab #jayathirtha #bajaneeshloknath]]></title>
+        <id>https://www.youtube.com/watch?v=xtvwJErkawk</id>
+        <link href="https://www.youtube.com/watch?v=xtvwJErkawk"/>
+        <updated>2022-11-19T04:09:37.000Z</updated>
+        <author>
+            <name>Lahari Music Malayalam | T-Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ കേൾക്കാൻ ഏറ്റവും നല്ല ഗാനങ്ങൾ daily worship songs | christian devotional songs malayalam]]></title>
         <id>https://www.youtube.com/watch?v=lddil5Yl_Yk</id>
