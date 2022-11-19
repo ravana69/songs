@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-19T11:17:49.928Z</updated>
+    <updated>2022-11-19T12:39:52.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vaalinmel Poovum Video Song | Mohanlal | Shobana | Sharreth | MG Sreekumar| Sujatha Mohan| ONV Kurup]]></title>
+        <id>https://www.youtube.com/watch?v=S1t6w5pwv5w</id>
+        <link href="https://www.youtube.com/watch?v=S1t6w5pwv5w"/>
+        <updated>2022-11-19T12:34:05.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neram Maari - Video Song | നേരം മാറി | Vivaha Avahanam | Niranj ManiyanpillaRaju, Nithaarah| Rahul R]]></title>
+        <id>https://www.youtube.com/watch?v=seqQQhqHkz8</id>
+        <link href="https://www.youtube.com/watch?v=seqQQhqHkz8"/>
+        <updated>2022-11-19T12:30:10.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ninakkente Manassile Full Video Song | HD | - Gramaphone Movie  Song | HD |]]></title>
+        <id>https://www.youtube.com/watch?v=4asNIKhfCbk</id>
+        <link href="https://www.youtube.com/watch?v=4asNIKhfCbk"/>
+        <updated>2022-11-19T12:30:02.000Z</updated>
+        <author>
+            <name>Wilson Video Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharadambaram | Ennu Ninte Moideen | Shilpa Raj | Ramesh Narayan | Changampuzha]]></title>
+        <id>https://www.youtube.com/watch?v=_5leThsqTIU</id>
+        <link href="https://www.youtube.com/watch?v=_5leThsqTIU"/>
+        <updated>2022-11-19T11:30:16.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ullasicharkkuka....#christmascarolsongs #sheejafernandez #jojijohns #carolsongs #christmassongs]]></title>
+        <id>https://www.youtube.com/watch?v=bNQWE5j0w_Y</id>
+        <link href="https://www.youtube.com/watch?v=bNQWE5j0w_Y"/>
+        <updated>2022-11-19T11:30:11.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanmaniye Nee Chirichal | Garbhasreeman | Suraj Venjaramoodu | Ouseppachan]]></title>
+        <id>https://www.youtube.com/watch?v=e2OE7UiILhA</id>
+        <link href="https://www.youtube.com/watch?v=e2OE7UiILhA"/>
+        <updated>2022-11-19T11:29:41.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pamba Ganapathi | Pattalam | MG Sreekumar | Vidyasagar |Gireesh Puthanchery]]></title>
         <id>https://www.youtube.com/watch?v=LM_nwWjspXw</id>
@@ -193,6 +247,15 @@
         <updated>2022-11-18T07:30:05.000Z</updated>
         <author>
             <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enganengaanu Video Song | Aanaparambile World Cup | Antony Varghese | Nikhil Premraj |Jakes Bejoy]]></title>
+        <id>https://www.youtube.com/watch?v=Jz1DoYSoQg8</id>
+        <link href="https://www.youtube.com/watch?v=Jz1DoYSoQg8"/>
+        <updated>2022-11-18T04:59:42.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
