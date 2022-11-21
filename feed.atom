@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-21T09:23:16.242Z</updated>
+    <updated>2022-11-21T10:25:47.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -13,6 +13,15 @@
         <updated>2022-11-21T08:20:27.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Teacher - Official Trailer | Amala Paul, Hakeem, Chemban Vinod | Vivek | Dawn Vincent]]></title>
+        <id>https://www.youtube.com/watch?v=7Jdw-u4IoD0</id>
+        <link href="https://www.youtube.com/watch?v=7Jdw-u4IoD0"/>
+        <updated>2022-11-21T08:08:43.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -409,6 +418,15 @@
         <updated>2022-11-18T04:59:42.000Z</updated>
         <author>
             <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATHMA NIYAMAKA | Fr. John Pichappilly | K.J. Antony | Shweta Mohan | Marian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=LAeOTUneb3k</id>
+        <link href="https://www.youtube.com/watch?v=LAeOTUneb3k"/>
+        <updated>2022-11-18T04:06:39.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
