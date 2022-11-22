@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-22T15:24:48.759Z</updated>
+    <updated>2022-11-22T16:33:04.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kari Raavin| Pranayakalam | Ajmal Ameer | Vimala Raman | Ouseppachan | Sayanora Philip | Franco]]></title>
+        <id>https://www.youtube.com/watch?v=GBfvNW6u0D8</id>
+        <link href="https://www.youtube.com/watch?v=GBfvNW6u0D8"/>
+        <updated>2022-11-22T15:45:08.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GOOD MORNING]]></title>
         <id>https://www.youtube.com/watch?v=2pUH7IgNJMY</id>
@@ -8194,15 +8203,6 @@
         <updated>2022-08-26T05:30:02.000Z</updated>
         <author>
             <name>Wilson Video Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aavo dhaamano Nadanpaatt | Aaa polika Nadanpaatt | Koolikett paatt | Anusree Ssus Kalady]]></title>
-        <id>https://www.youtube.com/watch?v=1aL4mFnvrLk</id>
-        <link href="https://www.youtube.com/watch?v=1aL4mFnvrLk"/>
-        <updated>2022-08-25T03:33:48.000Z</updated>
-        <author>
-            <name>Meghamalhar</name>
         </author>
     </entry>
 </feed>
