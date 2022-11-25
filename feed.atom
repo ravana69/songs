@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-24T23:23:01.001Z</updated>
+    <updated>2022-11-25T01:51:37.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[M. G. SREEKUMAR CHRISTIAN DEVOTIONAL SONGS #OWN MEDIA MUSIC#]]></title>
+        <id>https://www.youtube.com/watch?v=W11J0tbvxOw</id>
+        <link href="https://www.youtube.com/watch?v=W11J0tbvxOw"/>
+        <updated>2022-11-25T01:25:35.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Songs Of The Week | Christmas Songs Malayalam | Sanoop Kumar | Joji Johns | Carol Songs]]></title>
+        <id>https://www.youtube.com/watch?v=qk3qETue6AQ</id>
+        <link href="https://www.youtube.com/watch?v=qk3qETue6AQ"/>
+        <updated>2022-11-25T00:30:13.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ക്രൈസ്തവർക്ക് പ്രത്യാശയും ഉണർവും ഏകിയ ദൈവീക ഗാനങ്ങൾ powerful praise & worship songs malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=9v8zAg4TILI</id>
+        <link href="https://www.youtube.com/watch?v=9v8zAg4TILI"/>
+        <updated>2022-11-25T00:30:02.000Z</updated>
+        <author>
+            <name>Old Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thekku Thekku | Mammootty | Vidyasagar | Yesudas | Gireesh Puthanchery | Namrada Sirodkar]]></title>
         <id>https://www.youtube.com/watch?v=wTrb1dh27EU</id>
@@ -8435,24 +8462,6 @@
         <id>https://www.youtube.com/watch?v=u_NCSw03gVs</id>
         <link href="https://www.youtube.com/watch?v=u_NCSw03gVs"/>
         <updated>2022-08-29T09:30:13.000Z</updated>
-        <author>
-            <name>Magic Frames Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പാലാപള്ളി 🔥🔥കടുവ 🔥🔥ഒറിജിനൽ വേർഷൻ 🔥🔥 Anusree]]></title>
-        <id>https://www.youtube.com/watch?v=PYavQMCV_cM</id>
-        <link href="https://www.youtube.com/watch?v=PYavQMCV_cM"/>
-        <updated>2022-08-27T13:19:41.000Z</updated>
-        <author>
-            <name>Meghamalhar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sayanna Varthakal Audio Jukebox | Arun Chandu | Gokul Suresh | Prashant Pillai | Sankar Sharma]]></title>
-        <id>https://www.youtube.com/watch?v=0sNOBQL4pSA</id>
-        <link href="https://www.youtube.com/watch?v=0sNOBQL4pSA"/>
-        <updated>2022-08-27T11:30:01.000Z</updated>
         <author>
             <name>Magic Frames Music</name>
         </author>
