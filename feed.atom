@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-25T11:18:05.942Z</updated>
+    <updated>2022-11-25T12:41:13.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Palappoo Ithalil | Gayathri Veena by Vaikom Vijayalakshmi | Rafeeque Ahammed | Sharreth | Thirakatha]]></title>
+        <id>https://www.youtube.com/watch?v=G55CIkHsVgQ</id>
+        <link href="https://www.youtube.com/watch?v=G55CIkHsVgQ"/>
+        <updated>2022-11-25T12:30:12.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Mounamayi | 1080p | Pavam I.A.Ivachan | Siddique | Jagadish | Innocent | Sreevidya | Kavya]]></title>
+        <id>https://www.youtube.com/watch?v=x1doMOPp_HU</id>
+        <link href="https://www.youtube.com/watch?v=x1doMOPp_HU"/>
+        <updated>2022-11-25T12:00:44.000Z</updated>
+        <author>
+            <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Padachone Ingalu Katholi – Official Teaser 5 | Sreenath Bhasi,Grace Antony,Ann Sheetal | Bijith Bala]]></title>
+        <id>https://www.youtube.com/watch?v=kxjcSsy0fvI</id>
+        <link href="https://www.youtube.com/watch?v=kxjcSsy0fvI"/>
+        <updated>2022-11-25T12:00:28.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അയ്യന് തുണയായ് | Jayan (Jaya Vijaya) | Ayyappa Devotional Song |  Thiruvabharanam Vol 6 | Sabarimala]]></title>
+        <id>https://www.youtube.com/watch?v=ZDY1eZJ-Wlc</id>
+        <link href="https://www.youtube.com/watch?v=ZDY1eZJ-Wlc"/>
+        <updated>2022-11-25T11:32:16.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kandu Kothiche | Hello Namasthe | Vijay Yesudas | Deepankuran | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=KypszRSvoew</id>
+        <link href="https://www.youtube.com/watch?v=KypszRSvoew"/>
+        <updated>2022-11-25T11:30:08.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#PattuduthuVaanam 💥🔥 from #Kumari | #Shorts]]></title>
         <id>https://www.youtube.com/watch?v=QFqTwBQofaE</id>
