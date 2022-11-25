@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-25T10:23:45.152Z</updated>
+    <updated>2022-11-25T11:18:05.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#PattuduthuVaanam 💥🔥 from #Kumari | #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=QFqTwBQofaE</id>
+        <link href="https://www.youtube.com/watch?v=QFqTwBQofaE"/>
+        <updated>2022-11-25T11:00:17.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aa Oruthi Avaloruthi | Anarkali | Vineeth Sreenivasan | Manjari | Vidyasagar | Rajeev Nair]]></title>
+        <id>https://www.youtube.com/watch?v=Wbqer-sJzKI</id>
+        <link href="https://www.youtube.com/watch?v=Wbqer-sJzKI"/>
+        <updated>2022-11-25T10:30:08.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#PattuduthuVaanam - The Dark Side from #Kumari | #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=auL8Pii0h98</id>
+        <link href="https://www.youtube.com/watch?v=auL8Pii0h98"/>
+        <updated>2022-11-25T10:30:00.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#PattuduthuVaanam from #Kumari | #Shorts]]></title>
         <id>https://www.youtube.com/watch?v=QOyyZWwgqvU</id>
@@ -61,10 +88,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Akalakale - Lyrical | Ntikkakkakoru Premandaarnnu | Sharafudheen | Bhavana | Adhil]]></title>
+        <id>https://www.youtube.com/watch?v=uvuVAi4KIXc</id>
+        <link href="https://www.youtube.com/watch?v=uvuVAi4KIXc"/>
+        <updated>2022-11-25T07:04:44.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[#PublicVeedu swag from #Padavettu]]></title>
         <id>https://www.youtube.com/watch?v=3HVsM_T_CK8</id>
         <link href="https://www.youtube.com/watch?v=3HVsM_T_CK8"/>
         <updated>2022-11-25T07:00:01.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kayalum Kandalum - Video Song | The Teacher | Amala Paul, Hakkim | Anwar Ali | Vivek | Dawn Vincent]]></title>
+        <id>https://www.youtube.com/watch?v=9Lr9GpST10c</id>
+        <link href="https://www.youtube.com/watch?v=9Lr9GpST10c"/>
+        <updated>2022-11-25T06:59:58.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
         </author>
