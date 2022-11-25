@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-25T06:27:27.909Z</updated>
+    <updated>2022-11-25T07:18:39.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#PublicVeedu swag from #Padavettu]]></title>
+        <id>https://www.youtube.com/watch?v=3HVsM_T_CK8</id>
+        <link href="https://www.youtube.com/watch?v=3HVsM_T_CK8"/>
+        <updated>2022-11-25T07:00:01.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swag with #PublicVeedu from #Padavettu]]></title>
+        <id>https://www.youtube.com/watch?v=X_ReWcyyFCE</id>
+        <link href="https://www.youtube.com/watch?v=X_ReWcyyFCE"/>
+        <updated>2022-11-25T06:30:16.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M. G. SREEKUMAR CHRISTIAN DEVOTIONAL SONGS #OWN MEDIA MUSIC#]]></title>
         <id>https://www.youtube.com/watch?v=W11J0tbvxOw</id>
