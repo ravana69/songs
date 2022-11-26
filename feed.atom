@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-26T07:17:59.560Z</updated>
+    <updated>2022-11-26T08:25:58.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഒരിക്കൽ കൂടി കണ്ടിരുന്നെങ്കിലെന്ന്  ആഗ്രഹിച്ചു പോകുന്ന മലയാള ചലച്ചിത്രഗാനങ്ങൾ | SUPERHIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=TAR8vmbMuMo</id>
+        <link href="https://www.youtube.com/watch?v=TAR8vmbMuMo"/>
+        <updated>2022-11-26T07:48:36.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇതുവരെ ആരും മോശമെന്ന് പറയാത്ത മലയാളികൾക്ക് ഒരുപാട് ഇഷ്‌ടമുള്ള മലയാളസിനിമാഗാനങ്ങൾ | EVERGREEN SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=8Td-wBXRnyo</id>
+        <link href="https://www.youtube.com/watch?v=8Td-wBXRnyo"/>
+        <updated>2022-11-26T07:45:19.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cham Cham | Lyrical Video| Mallu Singh | Shreya Ghoshal | K J Yesudas | MJayachandran| Unni Mukundan]]></title>
         <id>https://www.youtube.com/watch?v=mAm1rW7ijwY</id>
@@ -175,6 +193,15 @@
         <updated>2022-11-25T07:19:44.000Z</updated>
         <author>
             <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Khedda - Official Trailer | Asha, Uthara, Sudev | Manoj Kana | Srivalsan J Menon]]></title>
+        <id>https://www.youtube.com/watch?v=XnqBltb4z3Q</id>
+        <link href="https://www.youtube.com/watch?v=XnqBltb4z3Q"/>
+        <updated>2022-11-25T07:12:48.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
