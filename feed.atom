@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-27T05:18:46.679Z</updated>
+    <updated>2022-11-27T06:26:08.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kanavil Kanavil | Salt Mango Tree | Hesham Abdul Wahab | Dr Madhu Vasudevan]]></title>
+        <id>https://www.youtube.com/watch?v=rU8FEoYf7Fg</id>
+        <link href="https://www.youtube.com/watch?v=rU8FEoYf7Fg"/>
+        <updated>2022-11-27T06:00:14.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25 നോമ്പിന്ഒരുങ്ങുന്നവർ കേൾക്കേണ്ട ഗാനങ്ങൾ | Christmas Songs Malayalam | Carol Songs]]></title>
         <id>https://www.youtube.com/watch?v=F2NTzcHr97E</id>
