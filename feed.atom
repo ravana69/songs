@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-28T01:50:09.549Z</updated>
+    <updated>2022-11-28T03:00:13.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -8833,15 +8833,6 @@
         <updated>2022-09-02T05:23:34.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kankal Neeye ❤️🥰 cover | Pavithra]]></title>
-        <id>https://www.youtube.com/watch?v=d-IFJy1RD5g</id>
-        <link href="https://www.youtube.com/watch?v=d-IFJy1RD5g"/>
-        <updated>2022-08-30T14:39:24.000Z</updated>
-        <author>
-            <name>Meghamalhar</name>
         </author>
     </entry>
 </feed>
