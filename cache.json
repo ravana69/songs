@@ -8788,6 +8788,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC1Z1-ER2nUjr66DGTEq9oMA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=6WbSTsq1V0Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6WbSTsq1V0Q",
+          "publishedOn": "2022-11-28T15:18:47.000Z",
+          "wordCount": null,
+          "title": "28 November 2022",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3So3pJ_MktM",
           "author": null,
           "description": "",
