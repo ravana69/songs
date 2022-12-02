@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-02T07:18:13.429Z</updated>
+    <updated>2022-12-02T08:25:09.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളസിനിമയിലെ അനുഭൂതി പകരുന്ന ഏവരുടെയും ഇഷ്ടഗാനങ്ങൾ  | SUPERHIT SONGS MALAYALAM | NISARI MUSIC]]></title>
+        <id>https://www.youtube.com/watch?v=AIRNwsktrb4</id>
+        <link href="https://www.youtube.com/watch?v=AIRNwsktrb4"/>
+        <updated>2022-12-02T07:30:02.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aakasha Thamara Pole | ആകാശത്താമരപോലെ | Ayal Kadha Ezhthukayanu | Mohanlal | Jagadish]]></title>
         <id>https://www.youtube.com/watch?v=foL3F7qeq48</id>
@@ -139,6 +148,15 @@
         <updated>2022-12-01T08:32:48.000Z</updated>
         <author>
             <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NAGAPANJAMI  | നാഗ പഞ്ചമി | Devotional Music Video | Jayesh Stephen | Sajith Chandran, Suvarna Manu]]></title>
+        <id>https://www.youtube.com/watch?v=QA2JizUItUU</id>
+        <link href="https://www.youtube.com/watch?v=QA2JizUItUU"/>
+        <updated>2022-12-01T08:01:08.000Z</updated>
+        <author>
+            <name>East Coast</name>
         </author>
     </entry>
     <entry>
