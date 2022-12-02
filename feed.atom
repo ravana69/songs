@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-02T08:25:09.224Z</updated>
+    <updated>2022-12-02T09:19:08.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നിന്റെ നക്ഷത്രങ്ങള്‍ എനിക്ക് വഴി കാട്ടുന്നു | Anoop Menon Dialogue | Ente Mezhuthiri Athazhangal]]></title>
+        <id>https://www.youtube.com/watch?v=8zmACcjJk-M</id>
+        <link href="https://www.youtube.com/watch?v=8zmACcjJk-M"/>
+        <updated>2022-12-02T09:03:38.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളസിനിമയിലെ അനുഭൂതി പകരുന്ന ഏവരുടെയും ഇഷ്ടഗാനങ്ങൾ  | SUPERHIT SONGS MALAYALAM | NISARI MUSIC]]></title>
         <id>https://www.youtube.com/watch?v=AIRNwsktrb4</id>
@@ -22,6 +31,15 @@
         <updated>2022-12-02T06:44:58.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nilaaviloral | Album Song | Shanu Kakkoor | Yoonus Bava | Shajeena Nazar | RealMedia Visual Creators]]></title>
+        <id>https://www.youtube.com/watch?v=9s_uV71od98</id>
+        <link href="https://www.youtube.com/watch?v=9s_uV71od98"/>
+        <updated>2022-12-02T06:02:25.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
