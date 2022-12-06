@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T06:25:18.011Z</updated>
+    <updated>2022-12-06T07:18:02.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Banaras (Malayalam) – Pennay Piravi | Zaid Khan | Sonal Monteiro | Jayathirtha | B. Ajaneesh Loknath]]></title>
+        <id>https://www.youtube.com/watch?v=gDYKwyB4W2U</id>
+        <link href="https://www.youtube.com/watch?v=gDYKwyB4W2U"/>
+        <updated>2022-12-06T06:37:38.000Z</updated>
+        <author>
+            <name>Lahari Music Malayalam | T-Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evideyum Ente Eesho | എവിടെയും എന്‍റെ ഈശോ | Aakashathinum Mele...| Releasing Soon....]]></title>
         <id>https://www.youtube.com/watch?v=cr3h5Assoe0</id>
