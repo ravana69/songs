@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T01:47:11.739Z</updated>
+    <updated>2022-12-07T02:52:47.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -562,6 +562,15 @@
         <updated>2022-12-02T09:03:38.000Z</updated>
         <author>
             <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arikin Arikil | Roy | Lyrical Video |Munna|Vinayak Sasikumar| Sithara Krishnakumar | Sooraj Santhosh]]></title>
+        <id>https://www.youtube.com/watch?v=2unD_9lUFt4</id>
+        <link href="https://www.youtube.com/watch?v=2unD_9lUFt4"/>
+        <updated>2022-12-02T08:44:09.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
@@ -2470,6 +2479,15 @@
         <updated>2022-11-17T11:56:48.000Z</updated>
         <author>
             <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palapoo |Lyrical Video| Thirakadha | Rafeeque Ahammed | Sharreth | Prithviraj Sukumaran |Anoop Menon]]></title>
+        <id>https://www.youtube.com/watch?v=srwljZH5rs4</id>
+        <link href="https://www.youtube.com/watch?v=srwljZH5rs4"/>
+        <updated>2022-11-17T11:35:01.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
