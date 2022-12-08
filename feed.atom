@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T17:18:24.642Z</updated>
+    <updated>2022-12-08T18:25:00.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -10210,24 +10210,6 @@
         <updated>2022-09-10T06:59:39.000Z</updated>
         <author>
             <name>Magic Frames Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാനത്തിൻ ഒക്കത്തു തിങ്കൾക്കുടം | Maanathin Ukkathu | Oru Sumangaliyude Katha | K. J. Yesudas | Shyam]]></title>
-        <id>https://www.youtube.com/watch?v=zHwkGA6JMK4</id>
-        <link href="https://www.youtube.com/watch?v=zHwkGA6JMK4"/>
-        <updated>2022-09-10T06:23:47.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manninmanam Eenam | Ponnona Tharangini | Yesudas | Raveendran | Sreekumaran Thamby | Sound Of Arts]]></title>
-        <id>https://www.youtube.com/watch?v=alM3xVPBb3w</id>
-        <link href="https://www.youtube.com/watch?v=alM3xVPBb3w"/>
-        <updated>2022-09-10T06:14:32.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
 </feed>
