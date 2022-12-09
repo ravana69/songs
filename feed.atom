@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-09T03:23:05.666Z</updated>
+    <updated>2022-12-09T04:25:15.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -10183,15 +10183,6 @@
         <updated>2022-09-11T05:00:09.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaroraal Pularmazhayil  | Pattalam | Mammootty | Tessa | Vidyasagar | Gireesh Puthanchery | Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=OyWx0Nrk4iM</id>
-        <link href="https://www.youtube.com/watch?v=OyWx0Nrk4iM"/>
-        <updated>2022-09-10T15:30:08.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
 </feed>
