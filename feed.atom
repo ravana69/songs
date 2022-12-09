@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-09T16:28:41.591Z</updated>
+    <updated>2022-12-09T17:18:34.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -10300,15 +10300,6 @@
         <updated>2022-09-11T15:30:02.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കൈയ്യൊന്നു പിടിച്ചപ്പോൾ കാരിരുമ്പ്‌ | Kayyonnu Pidichappol | Oru Sumangaliyude Katha| Malayalam Song]]></title>
-        <id>https://www.youtube.com/watch?v=D2xY-Qaz5AI</id>
-        <link href="https://www.youtube.com/watch?v=D2xY-Qaz5AI"/>
-        <updated>2022-09-11T05:00:09.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
