@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-10T04:24:59.329Z</updated>
+    <updated>2022-12-10T05:17:50.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലരിതളില്‍ മണിശലഭം വീണു മയങ്ങി | Vaishaka Sandye | Nadodikattu | Malayalam Film Song]]></title>
+        <id>https://www.youtube.com/watch?v=ogiQIazpZWY</id>
+        <link href="https://www.youtube.com/watch?v=ogiQIazpZWY"/>
+        <updated>2022-12-10T04:30:09.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Video Songs Malayalam | Sreya Jayadeep | Divyakarunya Geethangal | Midhila | Joji Johns]]></title>
         <id>https://www.youtube.com/watch?v=NRp0vjRyRQs</id>
