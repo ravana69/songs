@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T11:15:49.751Z</updated>
+    <updated>2022-12-11T12:36:38.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -10444,15 +10444,6 @@
         <updated>2022-09-13T05:30:13.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പഴയകാല പ്രഭാതഗാനങ്ങൾ കേട്ട് പ്രാർത്ഥിച്ചു ഉണരാം daily morning old worship songs with lyrics]]></title>
-        <id>https://www.youtube.com/watch?v=HO8u2bJ9mfc</id>
-        <link href="https://www.youtube.com/watch?v=HO8u2bJ9mfc"/>
-        <updated>2022-09-13T00:30:07.000Z</updated>
-        <author>
-            <name>Old Malayalam Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
