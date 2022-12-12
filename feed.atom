@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T06:26:05.656Z</updated>
+    <updated>2022-12-12T07:18:41.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ശബരിമലയിൽ തങ്ക സൂര്യോദയം | Sabarimalayil Thanka Sooryodayam | Hindu Devotional Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=A1lNwZnqtXg</id>
+        <link href="https://www.youtube.com/watch?v=A1lNwZnqtXg"/>
+        <updated>2022-12-12T06:48:40.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Karaoke Nakshathrangal KanthurannaRathri | Dr.Mathachan PJ |Joy Rajakumari | Christmas Carol Karaoke]]></title>
         <id>https://www.youtube.com/watch?v=0fJvzxbbcUI</id>
