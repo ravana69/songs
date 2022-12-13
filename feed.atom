@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T19:16:06.372Z</updated>
+    <updated>2022-12-13T20:21:37.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -10624,15 +10624,6 @@
         <updated>2022-09-15T11:06:33.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ilamavin Thunjathe | Ikkarayanente Maanasam | Gireesh Puthenchery | SP Venkitesh | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=QPufAKzgDV8</id>
-        <link href="https://www.youtube.com/watch?v=QPufAKzgDV8"/>
-        <updated>2022-09-15T07:30:03.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
