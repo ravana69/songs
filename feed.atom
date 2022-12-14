@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T08:26:09.458Z</updated>
+    <updated>2022-12-14T09:19:30.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -94,6 +94,15 @@
         <updated>2022-12-13T12:00:19.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freak Lookil Friendsumayi Remix Song | Nalla Samayam | Omar Lulu | Dj Musky | Kannadi Koottile]]></title>
+        <id>https://www.youtube.com/watch?v=fz7GmYTt290</id>
+        <link href="https://www.youtube.com/watch?v=fz7GmYTt290"/>
+        <updated>2022-12-13T09:55:33.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
