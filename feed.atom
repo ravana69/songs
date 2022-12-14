@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T07:18:38.327Z</updated>
+    <updated>2022-12-14T08:26:09.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രണയവസന്തം തളിരണിയുമ്പോൾ | Njan Ekananu | Malayalam Film Song | Poornima Jayaram]]></title>
+        <id>https://www.youtube.com/watch?v=zbmhbmb6kHY</id>
+        <link href="https://www.youtube.com/watch?v=zbmhbmb6kHY"/>
+        <updated>2022-12-14T08:07:52.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anchikonjathedi | Drona | Kaithapram | Deepak Dev | Sangeetha | Vinutha | Kaniha | Mammootty]]></title>
+        <id>https://www.youtube.com/watch?v=v_J8Ekec0Lw</id>
+        <link href="https://www.youtube.com/watch?v=v_J8Ekec0Lw"/>
+        <updated>2022-12-14T07:42:16.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികൾക്ക് വരദാനമായി ലഭിച്ച വാനമ്പാടി ചിത്രയുടെ കേട്ടാലും കേട്ടാലും മതി വരാത്ത ഗാനങ്ങൾ |KS CHITHRA]]></title>
+        <id>https://www.youtube.com/watch?v=Y2CkOiV8sGo</id>
+        <link href="https://www.youtube.com/watch?v=Y2CkOiV8sGo"/>
+        <updated>2022-12-14T07:41:22.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christmas Songs Malayalam | Babu Chalakkudy | Christmas Carol Songs | Joji Johns | Carol Songs]]></title>
         <id>https://www.youtube.com/watch?v=pwrsOwkMYGw</id>
