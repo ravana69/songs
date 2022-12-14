@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T19:16:21.163Z</updated>
+    <updated>2022-12-14T20:21:35.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -10714,24 +10714,6 @@
         <updated>2022-09-16T11:30:11.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പാടാത്തവരും കൂടെ പാടിപോകുന്ന ഏവർക്കും ഹൃദ്യമുള്ള  മലയാളസിനിമാഗാനങ്ങൾ  | SUPERHIT MOVIE SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=ByERbHgUA8o</id>
-        <link href="https://www.youtube.com/watch?v=ByERbHgUA8o"/>
-        <updated>2022-09-16T07:34:36.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Neelakasham | Randam Varavu | Shyam | K Jayakumar | KJ Yesudas | P . Susheela | Jayaram | Rekha]]></title>
-        <id>https://www.youtube.com/watch?v=F4hj-Kxd-r0</id>
-        <link href="https://www.youtube.com/watch?v=F4hj-Kxd-r0"/>
-        <updated>2022-09-16T07:30:01.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
