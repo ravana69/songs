@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T19:15:18.452Z</updated>
+    <updated>2022-12-15T20:19:52.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -10777,15 +10777,6 @@
         <updated>2022-09-17T08:24:30.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹൃദയം വിതുമ്പിപ്പോകുന്ന മലയാളസിനിമയിലെ നൊമ്പരമേകുന്ന ഗാനങ്ങൾ | NISARI CHITHRAGEETHAM]]></title>
-        <id>https://www.youtube.com/watch?v=JogMy1fFsHc</id>
-        <link href="https://www.youtube.com/watch?v=JogMy1fFsHc"/>
-        <updated>2022-09-17T07:51:04.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
