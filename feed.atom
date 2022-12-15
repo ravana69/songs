@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T08:26:24.895Z</updated>
+    <updated>2022-12-15T09:19:58.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മഞ്ഞപ്പട്ട് ഞൊറിഞ്ഞൂ വാനം | Manjappattu Njorinju Vaanam │Ambalavilakku (1980)│Sreekumaran Thampi]]></title>
+        <id>https://www.youtube.com/watch?v=JmmxWB3A0fc</id>
+        <link href="https://www.youtube.com/watch?v=JmmxWB3A0fc"/>
+        <updated>2022-12-15T09:11:29.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഏത് നാട്ടിൽ ചെന്നാലും മലയാളി എന്നും കേൾക്കാൻ കൊതിക്കുന്ന സ്വന്തം ഇഷ്ടഗാനങ്ങൾ | SUPERHIT SONGA]]></title>
         <id>https://www.youtube.com/watch?v=veFlqg_1FFw</id>
