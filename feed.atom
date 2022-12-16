@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T23:20:38.309Z</updated>
+    <updated>2022-12-16T01:36:20.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Songs Of The Week | P Jayachandran | Christian Devotional Songs Malayalam | Joji Johns | Melody Song]]></title>
+        <id>https://www.youtube.com/watch?v=qdlLH31Sg7A</id>
+        <link href="https://www.youtube.com/watch?v=qdlLH31Sg7A"/>
+        <updated>2022-12-16T00:30:14.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പഴമയുടെ നന്മയുടെ പ്രഭാതഗാനങ്ങൾ daily morning worship songs | christian devotional songs malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=7p6kp2RgPR4</id>
+        <link href="https://www.youtube.com/watch?v=7p6kp2RgPR4"/>
+        <updated>2022-12-16T00:30:01.000Z</updated>
+        <author>
+            <name>Old Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kanni Penne En Munnil | Hareendran Oru Nishkalankan | Manikuttan | Bhama | MG Sreekumar | Indrajith]]></title>
         <id>https://www.youtube.com/watch?v=rKbKK4yxqgU</id>
@@ -10714,51 +10732,6 @@
         <updated>2022-09-17T15:43:03.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poove Venn Poove | Pradeep Tom | Elizabeth Ipe | Dhannya Pradeep Tom | Malayalam Album Songs]]></title>
-        <id>https://www.youtube.com/watch?v=0AlmXkwr5F8</id>
-        <link href="https://www.youtube.com/watch?v=0AlmXkwr5F8"/>
-        <updated>2022-09-17T12:30:11.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sathyabhama | Parthasarathy K | Sunil G Cherukadavu | Neel Kajal S | Album Songs]]></title>
-        <id>https://www.youtube.com/watch?v=H6O_O0LwNWo</id>
-        <link href="https://www.youtube.com/watch?v=H6O_O0LwNWo"/>
-        <updated>2022-09-17T11:30:14.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THENTHULLI - VIDEO SONG | Kotthu | Asif Ali, Nikhila Vimal, Roshan Mathew | Sibi Malayil | Kailas]]></title>
-        <id>https://www.youtube.com/watch?v=x05vBvulfYA</id>
-        <link href="https://www.youtube.com/watch?v=x05vBvulfYA"/>
-        <updated>2022-09-17T11:30:14.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Raajamalli Video Song | Kunchacko Boban | Shalini | MG Sreekumar | Ouseppachan | S Ramesan Nair]]></title>
-        <id>https://www.youtube.com/watch?v=qYQUEbxW3Qg</id>
-        <link href="https://www.youtube.com/watch?v=qYQUEbxW3Qg"/>
-        <updated>2022-09-17T11:30:13.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാലേയം… മാറോടലിഞ്ഞു HD | Thacholi Varghese Chekavar | Malayalam Romantic Film Song | K.S.Chitra]]></title>
-        <id>https://www.youtube.com/watch?v=IHjwSarHrnk</id>
-        <link href="https://www.youtube.com/watch?v=IHjwSarHrnk"/>
-        <updated>2022-09-17T11:30:07.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
