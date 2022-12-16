@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T05:17:42.434Z</updated>
+    <updated>2022-12-16T06:24:16.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൂരേ മാമലയിൽ| Doore Maamalayil | Veendum | Mammootty | Jayashree | Geethu Moahndas | Mala Aravindan]]></title>
+        <id>https://www.youtube.com/watch?v=iRr1zbLad34</id>
+        <link href="https://www.youtube.com/watch?v=iRr1zbLad34"/>
+        <updated>2022-12-16T06:15:32.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Songs Of The Week | P Jayachandran | Christian Devotional Songs Malayalam | Joji Johns | Melody Song]]></title>
         <id>https://www.youtube.com/watch?v=qdlLH31Sg7A</id>
