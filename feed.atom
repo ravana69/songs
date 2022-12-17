@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-17T19:14:07.610Z</updated>
+    <updated>2022-12-17T20:18:24.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -10975,15 +10975,6 @@
         <updated>2022-09-19T10:30:11.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏതൊരു ഗായികാഗായകന്മാർക്കും പ്രിയമുള്ള മലയാളസിനിമാഗാനങ്ങൾ | MALAYALAM FILM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=A-GcfkhfM7w</id>
-        <link href="https://www.youtube.com/watch?v=A-GcfkhfM7w"/>
-        <updated>2022-09-19T07:56:03.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
