@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-17T22:17:17.473Z</updated>
+    <updated>2022-12-17T23:18:06.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -10966,15 +10966,6 @@
         <updated>2022-09-19T11:30:09.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സൈബര്‍ സെല്ല് എന്ത് ഒലക്ക ആക്കാനാണ് | Ranjith | Kotthu Moive | Asif Ali | Siby Malayil | #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=RZR7tce9ZU4</id>
-        <link href="https://www.youtube.com/watch?v=RZR7tce9ZU4"/>
-        <updated>2022-09-19T10:30:11.000Z</updated>
-        <author>
-            <name>East Coast</name>
         </author>
     </entry>
 </feed>
