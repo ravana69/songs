@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T03:20:09.183Z</updated>
+    <updated>2022-12-18T04:22:58.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -10912,15 +10912,6 @@
         <updated>2022-09-20T04:47:03.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karmukil Varnante | Nandanam | Navya Nair | Prithwiraj | Ranjith |]]></title>
-        <id>https://www.youtube.com/watch?v=K5YjN8sO8bY</id>
-        <link href="https://www.youtube.com/watch?v=K5YjN8sO8bY"/>
-        <updated>2022-09-19T15:30:04.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
 </feed>
