@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T07:17:26.130Z</updated>
+    <updated>2022-12-20T08:25:00.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രണയിച്ചിട്ടുള്ളവർ കൂടുതലറിയുന്ന കൊഞ്ചൽ ഇത്തിരി കൂടുതലുള്ള പ്രണയഗാനങ്ങൾ | ROMANTIC SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=9k0Oo9uZ8Gc</id>
+        <link href="https://www.youtube.com/watch?v=9k0Oo9uZ8Gc"/>
+        <updated>2022-12-20T07:43:04.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസിന് ഒത്തിരി ആശ്വാസമേകുന്ന മലയാളസിനിമയിലെ മധുരമുള്ള ഗാനങ്ങൾ  | PEACEFUL FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=KNb2pf-A88o</id>
+        <link href="https://www.youtube.com/watch?v=KNb2pf-A88o"/>
+        <updated>2022-12-20T07:30:03.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pulkoodorungunna Rathri Promo Video | Christmas Video Song | WIlson Piravom | New Christmas Song]]></title>
         <id>https://www.youtube.com/watch?v=TI_3KDBgE6s</id>
