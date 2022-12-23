@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T17:17:17.163Z</updated>
+    <updated>2022-12-23T18:23:22.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -11297,15 +11297,6 @@
         <id>https://www.youtube.com/watch?v=9sggB5MgvMg</id>
         <link href="https://www.youtube.com/watch?v=9sggB5MgvMg"/>
         <updated>2022-09-25T07:00:04.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evideyo Evideyo | Law Point | Najim Arshad | Mejo Joseph | Santhosh Varma]]></title>
-        <id>https://www.youtube.com/watch?v=IADQJ-vl8ik</id>
-        <link href="https://www.youtube.com/watch?v=IADQJ-vl8ik"/>
-        <updated>2022-09-25T06:00:07.000Z</updated>
         <author>
             <name>Satyam Audios</name>
         </author>
