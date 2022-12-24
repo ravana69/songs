@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-24T19:14:13.107Z</updated>
+    <updated>2022-12-24T20:18:47.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -11407,15 +11407,6 @@
         <updated>2022-09-26T09:07:29.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കുടുംബപ്രേക്ഷകരുടെ ഇഷ്ടനായകൻ ബാലചന്ദ്രമേനോൻ ചിത്രത്തിലെ സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | BALACHANDRAMENON HITS]]></title>
-        <id>https://www.youtube.com/watch?v=Tj5RPBPAbG4</id>
-        <link href="https://www.youtube.com/watch?v=Tj5RPBPAbG4"/>
-        <updated>2022-09-26T07:46:23.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
