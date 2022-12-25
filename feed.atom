@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-25T19:14:36.423Z</updated>
+    <updated>2022-12-25T20:18:48.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -11425,24 +11425,6 @@
         <updated>2022-09-27T11:27:49.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ടെൻഷൻ അകറ്റി മനസിന് ആനന്ദമേകുന്ന മലയാളസിനിമയിലെ നർമ്മപ്രധാനമായ മ്യൂസിക്കൽ എന്റെർറ്റൈനെർ |MOVIE SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=DKT03A6TD38</id>
-        <link href="https://www.youtube.com/watch?v=DKT03A6TD38"/>
-        <updated>2022-09-27T07:47:30.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കേൾക്കുന്ന മാത്രയിൽ മനസിൽ കുളിരു കോരിയിടുന്ന ആരും ഇഷ്ടപ്പെടും  സിനിമാഗാനങ്ങൾ | CHILLING SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=XhJYdsdMBHg</id>
-        <link href="https://www.youtube.com/watch?v=XhJYdsdMBHg"/>
-        <updated>2022-09-27T07:32:24.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
