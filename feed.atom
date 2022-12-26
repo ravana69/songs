@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T17:16:35.522Z</updated>
+    <updated>2022-12-26T18:22:52.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -11461,24 +11461,6 @@
         <updated>2022-09-28T07:30:01.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hridayathil Vineeth Sreenivasan |Video Jukebox|വിനീത് ശ്രീനിവാസൻ ആലപിച്ച സൂപ്പർ ഹിറ്റ് സിനിമാഗാനങ്ങൾ]]></title>
-        <id>https://www.youtube.com/watch?v=ZKajheMUUTc</id>
-        <link href="https://www.youtube.com/watch?v=ZKajheMUUTc"/>
-        <updated>2022-09-28T05:43:51.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennennum  Dasettan | Video Jukebox | ഗാനഗന്ധർവൻ ആലപിച്ച സൂപ്പർ ഹിറ്റ് സിനിമാഗാനങ്ങൾ വീഡിയോ JUKEBOX]]></title>
-        <id>https://www.youtube.com/watch?v=a_5yT22h3mc</id>
-        <link href="https://www.youtube.com/watch?v=a_5yT22h3mc"/>
-        <updated>2022-09-28T05:30:13.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
