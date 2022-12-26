@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T19:14:31.824Z</updated>
+    <updated>2022-12-26T20:19:32.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -2317,6 +2317,15 @@
         <updated>2022-12-09T04:23:44.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pularoli |Lyrical  Video| Bhaskar The Rascal | Mammootty |Deepak Dev |Vijay Yesudas|Rafeeque Ahammed]]></title>
+        <id>https://www.youtube.com/watch?v=mSCrWIcq-Hg</id>
+        <link href="https://www.youtube.com/watch?v=mSCrWIcq-Hg"/>
+        <updated>2022-12-09T04:07:15.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
@@ -11434,33 +11443,6 @@
         <updated>2022-09-28T10:30:21.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaantha Njanum Varaam | Karaoke Video | Mambazhakkalam | Gireesh Puthencherry | M.Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=-ozUneGIlkA</id>
-        <link href="https://www.youtube.com/watch?v=-ozUneGIlkA"/>
-        <updated>2022-09-28T07:59:19.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innale Ente Nenjile | Karaoke Video | Balettan | Gireesh Puthencherry | M Jayachandran | K J Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=Iy1zMchEcBU</id>
-        <link href="https://www.youtube.com/watch?v=Iy1zMchEcBU"/>
-        <updated>2022-09-28T07:58:33.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഓർമ്മകൾക്ക് സുഗന്ധേമേകുന്ന എൺപതുകളിലെ സൂപ്പർഹിറ്റ് മലയാളസിനിമാഗാനങ്ങൾ | MEMORABLE SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=8EKQp8U06oI</id>
-        <link href="https://www.youtube.com/watch?v=8EKQp8U06oI"/>
-        <updated>2022-09-28T07:30:01.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
