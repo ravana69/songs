@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T19:14:53.459Z</updated>
+    <updated>2022-12-27T20:19:45.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -11542,33 +11542,6 @@
         <updated>2022-09-29T09:40:27.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വൈശാഖസന്ധ്യേ HD | Romantic Malayalam Movie Song | Mohanlal & Shobana | HD Video Song]]></title>
-        <id>https://www.youtube.com/watch?v=yx27U2pl5dI</id>
-        <link href="https://www.youtube.com/watch?v=yx27U2pl5dI"/>
-        <updated>2022-09-29T07:48:25.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രണയത്തിന് പുതിയ മുഖം നൽകിയ സുപ്പർതാരങ്ങളുടെ ആരും മറക്കാത്ത ഗാനങ്ങൾ | SUPERHIT SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=O29oU4Om6NE</id>
-        <link href="https://www.youtube.com/watch?v=O29oU4Om6NE"/>
-        <updated>2022-09-29T07:35:10.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികളുടെ സ്വന്തം ശ്രീക്കുട്ടൻ പാടിയ എക്കാലത്തെയും മികച്ച ഗാനങ്ങൾ  | MG SREEKUMAR HITS]]></title>
-        <id>https://www.youtube.com/watch?v=inHvAzBm-f4</id>
-        <link href="https://www.youtube.com/watch?v=inHvAzBm-f4"/>
-        <updated>2022-09-29T07:30:10.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
