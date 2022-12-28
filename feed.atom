@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T19:15:12.766Z</updated>
+    <updated>2022-12-28T20:19:41.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -11605,24 +11605,6 @@
         <updated>2022-09-30T10:52:06.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒത്തിരി നല്ല ഗാനങ്ങൾ പുറത്തിറങ്ങിയ തൊണ്ണൂറുകളിലെ സൂപ്പർഹിറ്റ് ഗാനങ്ങളിൽ നിന്ന് തെരഞ്ഞെടുത്ത ഗാനങ്ങൾ]]></title>
-        <id>https://www.youtube.com/watch?v=TrEnTbnZTGU</id>
-        <link href="https://www.youtube.com/watch?v=TrEnTbnZTGU"/>
-        <updated>2022-09-30T07:35:29.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ormathan Vasantha | Daisy | Hareesh | Sonia | Yesudas Hits | Everegreen Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=S2SrrBKzJgo</id>
-        <link href="https://www.youtube.com/watch?v=S2SrrBKzJgo"/>
-        <updated>2022-09-30T07:30:04.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
