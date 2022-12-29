@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T20:20:12.937Z</updated>
+    <updated>2022-12-29T21:17:00.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -11695,15 +11695,6 @@
         <updated>2022-10-01T10:30:08.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രതിസുഖ സാരമായി ദേവി HD | Dhwani | Evergreen Hit Malayalam Song | K. J. Yesudas | Jayaram | Shobhana]]></title>
-        <id>https://www.youtube.com/watch?v=Tn6aETWKyOY</id>
-        <link href="https://www.youtube.com/watch?v=Tn6aETWKyOY"/>
-        <updated>2022-10-01T08:30:13.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
