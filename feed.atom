@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T23:20:41.635Z</updated>
+    <updated>2022-12-30T01:39:51.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Songs Of The Week | KG Markose | Christian Devotional Songs Malayalam | Joji Johns | Christian Song]]></title>
+        <id>https://www.youtube.com/watch?v=c5VKrVOPWJw</id>
+        <link href="https://www.youtube.com/watch?v=c5VKrVOPWJw"/>
+        <updated>2022-12-30T00:30:09.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chittikuruvi Kuruvi | Mullavalliyum Thenmavum | Kunchacko Boban | Ouseppachan | Unni Menon | Sujatha]]></title>
         <id>https://www.youtube.com/watch?v=dXBP07BnkeA</id>
@@ -11659,33 +11668,6 @@
         <updated>2022-10-01T15:36:00.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mutholakkunnathe | Adaminte Makan Abu | Video Song | Sujatha | Rafeeque Ahammed | Ramesh Narayan]]></title>
-        <id>https://www.youtube.com/watch?v=0_uAmr5Hx7k</id>
-        <link href="https://www.youtube.com/watch?v=0_uAmr5Hx7k"/>
-        <updated>2022-10-01T12:30:11.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irulilaai Irukanniloode | Day Night Game | Gayathri | Jinosh Antony | Vayalar Sarath Chandra Varma]]></title>
-        <id>https://www.youtube.com/watch?v=FWzJfpzYIlQ</id>
-        <link href="https://www.youtube.com/watch?v=FWzJfpzYIlQ"/>
-        <updated>2022-10-01T11:30:09.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharadendu Paadi Video Song | Dileep | Shalini | Ilayaraja | KJ Yesudas | Kaithapram | Bhavatharani]]></title>
-        <id>https://www.youtube.com/watch?v=8OZKQDaEWao</id>
-        <link href="https://www.youtube.com/watch?v=8OZKQDaEWao"/>
-        <updated>2022-10-01T11:30:06.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
