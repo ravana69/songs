@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T17:16:41.322Z</updated>
+    <updated>2022-12-30T18:22:40.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -11794,24 +11794,6 @@
         <updated>2022-10-02T07:00:10.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doore Doore | 101 Chodyangal | P Lekshmi | M K Arjunan | Shobin Kannangattu]]></title>
-        <id>https://www.youtube.com/watch?v=UM4QSGTuepw</id>
-        <link href="https://www.youtube.com/watch?v=UM4QSGTuepw"/>
-        <updated>2022-10-02T06:00:05.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viral Thodathe  | Solomante Theneechakal | Karaoke Video | Vidyasagar | Vinayak Sasikumar | Laljose]]></title>
-        <id>https://www.youtube.com/watch?v=oScICOGKmnE</id>
-        <link href="https://www.youtube.com/watch?v=oScICOGKmnE"/>
-        <updated>2022-10-02T05:30:07.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
