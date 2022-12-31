@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T15:18:17.915Z</updated>
+    <updated>2022-12-31T16:25:30.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -11837,24 +11837,6 @@
         <id>https://www.youtube.com/watch?v=zAtWy6t85UY</id>
         <link href="https://www.youtube.com/watch?v=zAtWy6t85UY"/>
         <updated>2022-10-03T04:32:30.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pattinte Pavizha Mazha | K S Harishankar |Video Jukebox|ഹരിശങ്കർ  ആലപിച്ച സൂപ്പർഹിറ്റ് സിനിമാഗാനങ്ങൾ]]></title>
-        <id>https://www.youtube.com/watch?v=e_TYFiCDJMQ</id>
-        <link href="https://www.youtube.com/watch?v=e_TYFiCDJMQ"/>
-        <updated>2022-10-03T04:23:37.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omanichomanichu | Thaara | Vishnu V Divakaran | Bineesh Puthuppanam | Dheswin Prem | Jebin J B]]></title>
-        <id>https://www.youtube.com/watch?v=XxX3VqQfPu4</id>
-        <link href="https://www.youtube.com/watch?v=XxX3VqQfPu4"/>
-        <updated>2022-10-03T04:21:25.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
