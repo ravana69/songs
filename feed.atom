@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T06:23:12.132Z</updated>
+    <updated>2022-12-31T07:16:10.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -11767,15 +11767,6 @@
         <updated>2022-10-03T04:21:25.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പഴയതലമുറയും പുതിയ തലമുറയും ഒരുപോലെ ഇഷ്ടപെടുന്ന സംഗീതസംവിധായകൻ മോഹൻസിത്താരയുടെ ഗാനങ്ങൾ | MOHANSITHARA]]></title>
-        <id>https://www.youtube.com/watch?v=XcBLNQs5taQ</id>
-        <link href="https://www.youtube.com/watch?v=XcBLNQs5taQ"/>
-        <updated>2022-10-02T18:30:27.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
