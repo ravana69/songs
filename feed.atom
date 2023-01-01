@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-01T06:23:16.614Z</updated>
+    <updated>2023-01-01T07:16:27.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malayala Manninte Janmadinam | School Diary | Nayana Nair | MG Sreekumar | M Hajamoinu]]></title>
+        <id>https://www.youtube.com/watch?v=41c6iH7R_qE</id>
+        <link href="https://www.youtube.com/watch?v=41c6iH7R_qE"/>
+        <updated>2023-01-01T07:00:00.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#NjanumEnAadu from #BulletDiaries| #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=8dxgduCoASA</id>
+        <link href="https://www.youtube.com/watch?v=8dxgduCoASA"/>
+        <updated>2023-01-01T06:30:01.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mele Arimullapoovaale | Velipadinte Pusthakam | Madhu Balakrishnan | Shaan Rahman | Manu Manjith]]></title>
         <id>https://www.youtube.com/watch?v=UXdJ6L1J7-A</id>
