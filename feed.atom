@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T18:22:59.765Z</updated>
+    <updated>2023-01-02T19:14:48.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -11947,15 +11947,6 @@
         <updated>2022-10-05T07:30:00.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Varugalamo | Dance by Dr Amrutha Mahesh | Sreevalsan J Menon | Gopalakrishna Bharathi | Manji]]></title>
-        <id>https://www.youtube.com/watch?v=LIW3vbTXYdo</id>
-        <link href="https://www.youtube.com/watch?v=LIW3vbTXYdo"/>
-        <updated>2022-10-05T07:02:56.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
