@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T11:15:45.930Z</updated>
+    <updated>2023-01-02T12:37:16.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kandu Njan | Malayalam Super Hit Movie Song | Abhimanyu | Mohanlal | Geetha - MG Sreekumar Hits]]></title>
+        <id>https://www.youtube.com/watch?v=t7_LurTfU6A</id>
+        <link href="https://www.youtube.com/watch?v=t7_LurTfU6A"/>
+        <updated>2023-01-02T12:00:32.000Z</updated>
+        <author>
+            <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uyaramillaymayanente Uyaram | Aakashamittayee | Vishwajith | Manzoor Ahamed | Rafeeq Ahammed]]></title>
+        <id>https://www.youtube.com/watch?v=7YE-slLPtpw</id>
+        <link href="https://www.youtube.com/watch?v=7YE-slLPtpw"/>
+        <updated>2023-01-02T12:00:03.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aravindha Nayana Video Song | Fahad Fazil | Sujatha Mohan | Ouseppachan | S Ramesan Nair]]></title>
+        <id>https://www.youtube.com/watch?v=x35GmbOkRmM</id>
+        <link href="https://www.youtube.com/watch?v=x35GmbOkRmM"/>
+        <updated>2023-01-02T11:30:25.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പുതുവർഷത്തിൽ മനസ്സിന് ഏറെ സന്തോഷം നൽകുന്ന ജനപ്രിയ സിനിമ ഗാനങ്ങൾ | Evergreen Malayalam Film Songs]]></title>
         <id>https://www.youtube.com/watch?v=Ple4YbbRClk</id>
@@ -11902,15 +11929,6 @@
         <updated>2022-10-05T05:30:14.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാതം ഇത്ര മനോഹരമായ ഗാനങ്ങൾ കേട്ട് തുടങ്ങാം daily morning malayalam christian worship songs]]></title>
-        <id>https://www.youtube.com/watch?v=wgHCgV0DeBI</id>
-        <link href="https://www.youtube.com/watch?v=wgHCgV0DeBI"/>
-        <updated>2022-10-05T00:30:13.000Z</updated>
-        <author>
-            <name>Old Malayalam Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
