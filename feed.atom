@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T12:37:16.461Z</updated>
+    <updated>2023-01-02T13:24:02.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Doore Doore Nilaa | Bobby | Vidhu Prathap | Ronnie Raphel | Mochitha]]></title>
+        <id>https://www.youtube.com/watch?v=x1QUPyUbcQc</id>
+        <link href="https://www.youtube.com/watch?v=x1QUPyUbcQc"/>
+        <updated>2023-01-02T13:00:32.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good morning status]]></title>
+        <id>https://www.youtube.com/watch?v=J3NamLJJpSo</id>
+        <link href="https://www.youtube.com/watch?v=J3NamLJJpSo"/>
+        <updated>2023-01-02T12:59:57.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kandu Njan | Malayalam Super Hit Movie Song | Abhimanyu | Mohanlal | Geetha - MG Sreekumar Hits]]></title>
         <id>https://www.youtube.com/watch?v=t7_LurTfU6A</id>
