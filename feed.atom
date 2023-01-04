@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T19:18:24.670Z</updated>
+    <updated>2023-01-04T20:21:06.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12082,15 +12082,6 @@
         <updated>2022-10-07T08:36:57.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈശ്വരാനുഗ്രഹത്താൽ നിറഞ്ഞു നിൽക്കുന്ന സമയത്ത് ഏവരും കേൾക്കാൻ ഇഷ്ടപെടുന്ന സിനിമാഗാനങ്ങൾ | NISARI SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=b_r68SoISSw</id>
-        <link href="https://www.youtube.com/watch?v=b_r68SoISSw"/>
-        <updated>2022-10-07T07:30:03.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
