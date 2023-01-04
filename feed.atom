@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T02:41:52.701Z</updated>
+    <updated>2023-01-04T03:21:08.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -11947,15 +11947,6 @@
         <updated>2022-10-06T15:30:01.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aanaparambile World Cup | Official Trailer | Nikhil Premraj | Antony Varghese | Balu Varghese]]></title>
-        <id>https://www.youtube.com/watch?v=rvP-7u0ICmc</id>
-        <link href="https://www.youtube.com/watch?v=rvP-7u0ICmc"/>
-        <updated>2022-10-06T14:56:26.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
