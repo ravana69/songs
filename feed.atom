@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T06:25:00.514Z</updated>
+    <updated>2023-01-06T07:16:26.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സല്ലാപമേറ്റുണർന്ന വാരിജങ്ങളും | Devanganangal | Njan Gandharvan | K. J Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=YFXqXnfbRYM</id>
+        <link href="https://www.youtube.com/watch?v=YFXqXnfbRYM"/>
+        <updated>2023-01-06T06:53:09.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[En Nenjoram | Santhosham |Video Song| K S Harisankar |Vinayak Sasikumar| P S Jayhari |Ajith V Thomas]]></title>
         <id>https://www.youtube.com/watch?v=HrQIEBMvqGM</id>
