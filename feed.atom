@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T19:15:51.839Z</updated>
+    <updated>2023-01-06T20:20:34.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12262,15 +12262,6 @@
         <updated>2022-10-09T15:33:54.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neeri neeri nenjakam #shorts  #youtubeshorts  #bestmelodysongs #malayalamsongs #malayalamfilmsongs]]></title>
-        <id>https://www.youtube.com/watch?v=_CzmGwtOkPc</id>
-        <link href="https://www.youtube.com/watch?v=_CzmGwtOkPc"/>
-        <updated>2022-10-09T07:30:05.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
