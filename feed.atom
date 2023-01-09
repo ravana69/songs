@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T22:19:06.049Z</updated>
+    <updated>2023-01-09T23:19:57.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12352,51 +12352,6 @@
         <updated>2022-10-12T11:20:08.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheruthinkal Thoni | Karaoke Video | Swantham Lekhakan | Anil Panachooran | Bijibal | Dileep]]></title>
-        <id>https://www.youtube.com/watch?v=oRPcMZ_IWCc</id>
-        <link href="https://www.youtube.com/watch?v=oRPcMZ_IWCc"/>
-        <updated>2022-10-12T11:19:44.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autorickshawkarante Bharya - Official Teaser 1 | Suraj Venjaramood | Ann Augustine | Janardhanan]]></title>
-        <id>https://www.youtube.com/watch?v=AvdYHwDWQ0Q</id>
-        <link href="https://www.youtube.com/watch?v=AvdYHwDWQ0Q"/>
-        <updated>2022-10-12T11:00:12.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chakkara Maavin | Karaoke Video | Bombay March 12 | Mammootty | Rafeeque Ahammed | Afzal Yusuff]]></title>
-        <id>https://www.youtube.com/watch?v=HzdaxrshlmQ</id>
-        <link href="https://www.youtube.com/watch?v=HzdaxrshlmQ"/>
-        <updated>2022-10-12T10:30:53.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Badnahe | Kalimannu | Sonu Kakkar | Sukhwinder Singh| O.N.V.Kurup| M.Jayachandran | Blessey]]></title>
-        <id>https://www.youtube.com/watch?v=bAFABBEQ3EM</id>
-        <link href="https://www.youtube.com/watch?v=bAFABBEQ3EM"/>
-        <updated>2022-10-12T10:30:08.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pournami Penninannu | Oru Korean Padam | KJ Yesudas | Swetha Mohan |Vasudeva Shanmugaraj |Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=7PrxBMqgiG0</id>
-        <link href="https://www.youtube.com/watch?v=7PrxBMqgiG0"/>
-        <updated>2022-10-12T10:30:01.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
         </author>
     </entry>
 </feed>
