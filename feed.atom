@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T19:16:13.697Z</updated>
+    <updated>2023-01-09T20:22:41.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12406,15 +12406,6 @@
         <updated>2022-10-12T09:07:01.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നാട്ടിൻപുറത്തെ നാൽകവലയിലും ചായക്കടയിലും സ്ഥിരമായി കേൾക്കുന്ന സിനിമാഗാനങ്ങൾ | SWEET MELODY SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=7vXq2ntJnkc</id>
-        <link href="https://www.youtube.com/watch?v=7vXq2ntJnkc"/>
-        <updated>2022-10-12T07:38:42.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
