@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T15:27:47.726Z</updated>
+    <updated>2023-01-09T16:35:05.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thulasidalamulache | Pranayakalam | KJ Yesudas | Tyagaraja | Madhu Warrier | Ajmal]]></title>
+        <id>https://www.youtube.com/watch?v=_zQeQvQyAVU</id>
+        <link href="https://www.youtube.com/watch?v=_zQeQvQyAVU"/>
+        <updated>2023-01-09T15:34:34.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aale Mayakkana Kuppi |  Oru Black & White Kudumbum | M.G.Sreekumar | Kalabhavan Mani | Ramesh Kavil]]></title>
         <id>https://www.youtube.com/watch?v=RFHOQYjJMrg</id>
