@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T02:48:06.653Z</updated>
+    <updated>2023-01-10T03:21:08.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12289,15 +12289,6 @@
         <updated>2022-10-12T16:20:27.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odeda Odeda - Lyrical Video | Shubhadinam | Shivaram Mony | Arjun Rajkumar | Indrans |Gireesh Neyyar]]></title>
-        <id>https://www.youtube.com/watch?v=RpZ6GnLBVeg</id>
-        <link href="https://www.youtube.com/watch?v=RpZ6GnLBVeg"/>
-        <updated>2022-10-12T14:55:59.000Z</updated>
-        <author>
-            <name>East Coast</name>
         </author>
     </entry>
 </feed>
