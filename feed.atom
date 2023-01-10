@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T07:17:19.386Z</updated>
+    <updated>2023-01-10T08:25:37.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികളുടെ അഭിമാനം വാനോളം ഉയർത്തിയ ഗന്ധർവ്വ ഗായകൻ യേശുദാസിന്റെ അനശ്വര ഗാനങ്ങൾ | KJ YESUDAS HITS]]></title>
+        <id>https://www.youtube.com/watch?v=0Ouyjzkza8I</id>
+        <link href="https://www.youtube.com/watch?v=0Ouyjzkza8I"/>
+        <updated>2023-01-10T08:00:35.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഏതേതോ കഥയിൽ | His Highness Abdulla| Premadavanam Malayalam Film Song | Mohanlal | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=8hRZyAXj_CM</id>
+        <link href="https://www.youtube.com/watch?v=8hRZyAXj_CM"/>
+        <updated>2023-01-10T07:27:23.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HIGUITA |Official Teaser| Suraj Venjarammodu |Dhyan Sreenivasan |Hemanth G Nair|2nd Half Productions]]></title>
         <id>https://www.youtube.com/watch?v=XkQv1gxBGG8</id>
