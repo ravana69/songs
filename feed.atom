@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T18:28:41.963Z</updated>
+    <updated>2023-01-11T19:16:42.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12604,24 +12604,6 @@
         <updated>2022-10-14T07:30:01.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paanju Paanju - Padavettu | Nivin Pauly | Aditi Balan | Anwar Ali | Govind Vasantha | Liju Krishna]]></title>
-        <id>https://www.youtube.com/watch?v=QDfvDaoNGSc</id>
-        <link href="https://www.youtube.com/watch?v=QDfvDaoNGSc"/>
-        <updated>2022-10-14T06:30:05.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prathisandhikal - Youtube Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=iSShkuMKetk</id>
-        <link href="https://www.youtube.com/watch?v=iSShkuMKetk"/>
-        <updated>2022-10-14T06:29:43.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
