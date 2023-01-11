@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T16:36:57.253Z</updated>
+    <updated>2023-01-11T17:23:48.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12631,15 +12631,6 @@
         <updated>2022-10-14T05:42:10.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ee Vazhiyil | Pallimani |Lyric Video| Vineeth Sreenivasan |KR Narayanan| Sreejith Ravi|Anil Kumbazha]]></title>
-        <id>https://www.youtube.com/watch?v=4J6lA9xmBUE</id>
-        <link href="https://www.youtube.com/watch?v=4J6lA9xmBUE"/>
-        <updated>2022-10-14T04:41:04.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
