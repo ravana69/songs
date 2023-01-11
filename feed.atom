@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T03:20:43.107Z</updated>
+    <updated>2023-01-11T04:24:38.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12469,15 +12469,6 @@
         <updated>2022-10-14T04:30:09.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oduvilee Sandhyayum | Kadha | Prithviraj | Kavya Madhavan | Ouseppachan | Venugopal]]></title>
-        <id>https://www.youtube.com/watch?v=ZAzJMDMn1qw</id>
-        <link href="https://www.youtube.com/watch?v=ZAzJMDMn1qw"/>
-        <updated>2022-10-13T15:39:09.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
 </feed>
