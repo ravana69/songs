@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T22:20:19.676Z</updated>
+    <updated>2023-01-11T23:20:12.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12566,15 +12566,6 @@
         <id>https://www.youtube.com/watch?v=BG9U76bscrA</id>
         <link href="https://www.youtube.com/watch?v=BG9U76bscrA"/>
         <updated>2022-10-14T11:30:03.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thaadi Vaykkan Aashichore | Tamaar Padaar | Arun Alat | Bijibal | Santhosh Varma]]></title>
-        <id>https://www.youtube.com/watch?v=p6EYj3v7knQ</id>
-        <link href="https://www.youtube.com/watch?v=p6EYj3v7knQ"/>
-        <updated>2022-10-14T10:30:17.000Z</updated>
         <author>
             <name>Satyam Audios</name>
         </author>
