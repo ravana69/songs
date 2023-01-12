@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T23:20:12.411Z</updated>
+    <updated>2023-01-12T01:43:32.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നിങ്ങളുടെ മിഴികൾ നിറയുമ്പോൾ ഈ ഗാനങ്ങൾ കേൾക്കാൻ മറക്കരുത് | Christian Devotional Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=kIvmwmrukzg</id>
+        <link href="https://www.youtube.com/watch?v=kIvmwmrukzg"/>
+        <updated>2023-01-12T00:30:22.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vaa Vaa Thamarapenne | Karumadikuttan | Kalabhavan Mani | MG Sreekumar | Vinayan]]></title>
         <id>https://www.youtube.com/watch?v=PDd1-4iHs1I</id>
@@ -12523,51 +12532,6 @@
         <updated>2022-10-15T04:02:15.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulli Movie Official Teaser | Jiju Asokan | Dev Mohan | T.B Raghunathan | Indrans]]></title>
-        <id>https://www.youtube.com/watch?v=0CXYn_PVkvE</id>
-        <link href="https://www.youtube.com/watch?v=0CXYn_PVkvE"/>
-        <updated>2022-10-14T12:30:10.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Makka Madeena | Adaminte Makan Abu |Shankar Mahadevan |Ramesh Narayan|Rafeeque Ahammed|Salim Ahammed]]></title>
-        <id>https://www.youtube.com/watch?v=mz8twvz4Iwg</id>
-        <link href="https://www.youtube.com/watch?v=mz8twvz4Iwg"/>
-        <updated>2022-10-14T12:30:10.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannil Kinavithennu | 4K Video| Randu Rahasyangal |P Vijaykumar| Viswajith | Bijibal | Vaiga Nambiar]]></title>
-        <id>https://www.youtube.com/watch?v=Qa9hyppdT_g</id>
-        <link href="https://www.youtube.com/watch?v=Qa9hyppdT_g"/>
-        <updated>2022-10-14T11:43:10.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rajadhirajan Mahimayode Lyrical | Malayalam Christian Songs Lyrics | Christian Lyrics Video]]></title>
-        <id>https://www.youtube.com/watch?v=bfZ6J0GFMJA</id>
-        <link href="https://www.youtube.com/watch?v=bfZ6J0GFMJA"/>
-        <updated>2022-10-14T11:30:10.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karimukilukal Chiraku Kudayum | Varsham | Sharreth | Bijibal | Santhosh Varma]]></title>
-        <id>https://www.youtube.com/watch?v=BG9U76bscrA</id>
-        <link href="https://www.youtube.com/watch?v=BG9U76bscrA"/>
-        <updated>2022-10-14T11:30:03.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
         </author>
     </entry>
 </feed>
