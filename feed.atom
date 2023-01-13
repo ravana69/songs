@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-13T18:23:52.118Z</updated>
+    <updated>2023-01-13T19:15:36.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12640,24 +12640,6 @@
         <updated>2022-10-16T07:30:06.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malayali World Cup Football Anthem : Kaalpanthane]]></title>
-        <id>https://www.youtube.com/watch?v=YyUT1m8lteo</id>
-        <link href="https://www.youtube.com/watch?v=YyUT1m8lteo"/>
-        <updated>2022-10-16T07:15:01.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maniyilanjikal Kasthoori Pooshunna | Njaan | Ratheesh | Bijibal | Rafeeq Ahammed]]></title>
-        <id>https://www.youtube.com/watch?v=Lj11YA8zd04</id>
-        <link href="https://www.youtube.com/watch?v=Lj11YA8zd04"/>
-        <updated>2022-10-16T07:00:06.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
         </author>
     </entry>
 </feed>
