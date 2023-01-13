@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T23:21:12.171Z</updated>
+    <updated>2023-01-13T01:45:53.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Songs Of The  Week | Manoj Christy | Christian Melody Songs | Wilson Piravom | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=sDqS4NAqZcc</id>
+        <link href="https://www.youtube.com/watch?v=sDqS4NAqZcc"/>
+        <updated>2023-01-13T00:30:30.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അതിമനോഹരമായ പഴയ പ്രാർത്ഥനാ ഗാനങ്ങൾ old nostalgic songs with lyrics | daily worship songs malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=GP2LmWxGkOg</id>
+        <link href="https://www.youtube.com/watch?v=GP2LmWxGkOg"/>
+        <updated>2023-01-13T00:30:03.000Z</updated>
+        <author>
+            <name>Old Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dhum Thanakidi Dhumma | Mullavalliyum Thenmavum | Kunchako Boban | Ouseppachan | Franco | Ganga]]></title>
         <id>https://www.youtube.com/watch?v=oc39HAj41d0</id>
@@ -12559,51 +12577,6 @@
         <updated>2022-10-15T15:30:07.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mandarappoove - Video Song | Kumari | Jakes Bejoy | Aishwarya Lekshmi | Nirmal Sahadev]]></title>
-        <id>https://www.youtube.com/watch?v=yc0rN0pRIlA</id>
-        <link href="https://www.youtube.com/watch?v=yc0rN0pRIlA"/>
-        <updated>2022-10-15T12:30:08.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rosappoo Rosappoo | Sujatha | M Jayachandran | Jayasurya, Kavya Madhavan | Two Wheeler (Players)]]></title>
-        <id>https://www.youtube.com/watch?v=Zy4_X5vNXDU</id>
-        <link href="https://www.youtube.com/watch?v=Zy4_X5vNXDU"/>
-        <updated>2022-10-15T11:32:56.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nee Kannil Minnum Swapnam | Villali Veeran | Renjith Govind | Jyotsna | SA Rajkumar]]></title>
-        <id>https://www.youtube.com/watch?v=rhNfnXiy4Mw</id>
-        <link href="https://www.youtube.com/watch?v=rhNfnXiy4Mw"/>
-        <updated>2022-10-15T11:30:16.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karaoke Vagdatham Cheythavan | Minus Tracks | Christian Minus Tracks | Christian Karaoke Tracks]]></title>
-        <id>https://www.youtube.com/watch?v=kHR5kFubD7Q</id>
-        <link href="https://www.youtube.com/watch?v=kHR5kFubD7Q"/>
-        <updated>2022-10-15T11:30:11.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ee Manjin Kuliralayil Video Song | Louis | Indrans | Nithya Mammen | Titty Abraham | Shabu Usman]]></title>
-        <id>https://www.youtube.com/watch?v=zZYQ7zIHWNo</id>
-        <link href="https://www.youtube.com/watch?v=zZYQ7zIHWNo"/>
-        <updated>2022-10-15T11:30:10.000Z</updated>
-        <author>
-            <name>Magic Frames Music</name>
         </author>
     </entry>
 </feed>
