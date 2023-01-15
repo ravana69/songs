@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-15T20:19:11.266Z</updated>
+    <updated>2023-01-15T21:16:12.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12550,24 +12550,6 @@
         <updated>2022-10-18T11:30:02.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്വർ‌ണ്ണമുകിലേ.. HD | Swarna Mukile Swarna Mukile | Ithu Njangalude Katha | S Janaki]]></title>
-        <id>https://www.youtube.com/watch?v=dwafXPOvAVs</id>
-        <link href="https://www.youtube.com/watch?v=dwafXPOvAVs"/>
-        <updated>2022-10-18T09:04:31.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#KhalbileHoori 🥰 #ShefeekkinteSanthosham |  #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=tTDqf4KuhRQ</id>
-        <link href="https://www.youtube.com/watch?v=tTDqf4KuhRQ"/>
-        <updated>2022-10-18T08:30:12.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
