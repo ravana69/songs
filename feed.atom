@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-14T23:18:51.197Z</updated>
+    <updated>2023-01-15T01:46:35.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ക്രിസ്തീയ ഗാനങ്ങളുടെ വിസ്മയം സൃഷ്‌ടിച്ച രണ്ടു കലാകാരന്മാരുടെ ഗാനങ്ങൾ | Christian Melody Songs]]></title>
+        <id>https://www.youtube.com/watch?v=vaDWibVDGPg</id>
+        <link href="https://www.youtube.com/watch?v=vaDWibVDGPg"/>
+        <updated>2023-01-15T00:30:27.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15 January 2023]]></title>
         <id>https://www.youtube.com/watch?v=Am2Ze1JMZYM</id>
@@ -12604,69 +12613,6 @@
         <updated>2022-10-17T14:41:16.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhavil Thundupole | Njangalude Veettile Athidhikal | Sanoop Kumar | Ratheesh Vega | Rafeeq Ahammed]]></title>
-        <id>https://www.youtube.com/watch?v=jhjzoiTjHUQ</id>
-        <link href="https://www.youtube.com/watch?v=jhjzoiTjHUQ"/>
-        <updated>2022-10-17T13:00:34.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vivaha Avahanam - Official Teaser 1 | Niranj Maniyanpilla Raju | Nithaarah | Sajan Alummoottil]]></title>
-        <id>https://www.youtube.com/watch?v=j6wEe9EDBUI</id>
-        <link href="https://www.youtube.com/watch?v=j6wEe9EDBUI"/>
-        <updated>2022-10-17T12:30:15.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Randattangal | Tamaar Padaar | Sithara Balakrishnan | Bijibal | Santhosh Varma]]></title>
-        <id>https://www.youtube.com/watch?v=s5kdWAUX10c</id>
-        <link href="https://www.youtube.com/watch?v=s5kdWAUX10c"/>
-        <updated>2022-10-17T12:00:40.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indraneelimayolum | Vaisali | Super Hit Malayalam Movie Song | Suparna Anand | Sanjay Mitra]]></title>
-        <id>https://www.youtube.com/watch?v=rN6ET5AEs0w</id>
-        <link href="https://www.youtube.com/watch?v=rN6ET5AEs0w"/>
-        <updated>2022-10-17T12:00:39.000Z</updated>
-        <author>
-            <name>Music Zone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നമ്മളീ കൊതുകിനെ പോലെ ആയിരിക്കണം  | Indrans, Hareesh Kanaran | Gireesh Neyyar | Shubhadinam]]></title>
-        <id>https://www.youtube.com/watch?v=o_GJCCZyHiM</id>
-        <link href="https://www.youtube.com/watch?v=o_GJCCZyHiM"/>
-        <updated>2022-10-17T11:31:01.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lyrical Videos | Vagdatham Cheythavan | Malayalam Christian Lyrics Videos | Christian Lyrical Videos]]></title>
-        <id>https://www.youtube.com/watch?v=MAP7GKN4gLo</id>
-        <link href="https://www.youtube.com/watch?v=MAP7GKN4gLo"/>
-        <updated>2022-10-17T11:30:11.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doctor Saare Video Song | Mammootty | Saritha | Shalini | KJ Yesudas | Johnson | Poovachal Khader]]></title>
-        <id>https://www.youtube.com/watch?v=CJN96xvG1c4</id>
-        <link href="https://www.youtube.com/watch?v=CJN96xvG1c4"/>
-        <updated>2022-10-17T11:30:04.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
