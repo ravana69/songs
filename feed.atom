@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-19T02:49:13.823Z</updated>
+    <updated>2023-01-19T03:22:53.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31,6 +31,15 @@
         <updated>2023-01-18T16:32:50.000Z</updated>
         <author>
             <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thala'al - Badru Alaina - Video Song | Ayisha | Manju Warrier | M Jayachandran | Aamir]]></title>
+        <id>https://www.youtube.com/watch?v=6jxvW8cuJV8</id>
+        <link href="https://www.youtube.com/watch?v=6jxvW8cuJV8"/>
+        <updated>2023-01-18T14:01:40.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -12442,15 +12451,6 @@
         <updated>2022-10-22T02:59:18.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mizhigal Chimmi Full Song Audio | Majnu Malayalam | Nani, Anu Immanuel |Gopi Sunder | Suchit Suresan]]></title>
-        <id>https://www.youtube.com/watch?v=tJyc_pznz8A</id>
-        <link href="https://www.youtube.com/watch?v=tJyc_pznz8A"/>
-        <updated>2022-10-21T15:04:50.000Z</updated>
-        <author>
-            <name>Lahari Music Malayalam | T-Series</name>
         </author>
     </entry>
 </feed>
