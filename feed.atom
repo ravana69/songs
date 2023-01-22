@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-22T16:25:21.516Z</updated>
+    <updated>2023-01-22T17:16:22.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12631,15 +12631,6 @@
         <updated>2022-10-25T05:30:07.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസ്സിലെന്തോ പ്രേമ പളുങ്ക് കൊട്ടാരം.. | Jishnu | Siddharth | Renuka | Afsal | Franco | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=CoQ2bQdbhPE</id>
-        <link href="https://www.youtube.com/watch?v=CoQ2bQdbhPE"/>
-        <updated>2022-10-25T04:38:06.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
