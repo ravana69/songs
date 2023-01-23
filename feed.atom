@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-23T22:18:38.196Z</updated>
+    <updated>2023-01-23T23:19:30.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12622,24 +12622,6 @@
         <updated>2022-10-26T11:30:00.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Pakaliravukal for the day 💞🥰 | #Kurup #DulquerSalmaan | #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=VRVm_VsJxK4</id>
-        <link href="https://www.youtube.com/watch?v=VRVm_VsJxK4"/>
-        <updated>2022-10-26T10:30:05.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaanakombile Kaakkakarumban | Aamayum Muyalum | MG Sreekumar | Priyadarshan]]></title>
-        <id>https://www.youtube.com/watch?v=MgCq5RzWNEE</id>
-        <link href="https://www.youtube.com/watch?v=MgCq5RzWNEE"/>
-        <updated>2022-10-26T10:30:05.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
         </author>
     </entry>
 </feed>
