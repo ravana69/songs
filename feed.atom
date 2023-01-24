@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-24T19:15:24.608Z</updated>
+    <updated>2023-01-24T20:20:22.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12604,33 +12604,6 @@
         <updated>2022-10-27T10:12:43.000Z</updated>
         <author>
             <name>Lahari Music Malayalam | T-Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pennoruthi | Karaoke Video | Ellam Settanu | Vineeth Sreenivasan | Sithara Krishnakumar | PS Jayhari]]></title>
-        <id>https://www.youtube.com/watch?v=NJJJ-ycw_44</id>
-        <link href="https://www.youtube.com/watch?v=NJJJ-ycw_44"/>
-        <updated>2022-10-27T08:03:30.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനുഷ്യനാണെങ്കിൽ മനം ഇടറിപോകുന്ന മലയാള സിനിമയിലെ മറക്കാനാവാത്ത വിഷാദ ഗാനങ്ങൾ  | MALAYALAM SAD SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=Qa-jaqPNcq4</id>
-        <link href="https://www.youtube.com/watch?v=Qa-jaqPNcq4"/>
-        <updated>2022-10-27T07:30:06.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കളിയും ചിരിയും കൊഞ്ചലും നിറഞ്ഞ വാത്സല്യമൂറും മലയാള സിനിമാഗാനങ്ങൾ | MALAYALAM MELODY FILM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=8nH0B4h8hSU</id>
-        <link href="https://www.youtube.com/watch?v=8nH0B4h8hSU"/>
-        <updated>2022-10-27T07:30:02.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
