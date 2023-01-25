@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-25T01:39:56.627Z</updated>
+    <updated>2023-01-25T02:41:47.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12487,33 +12487,6 @@
         <updated>2022-10-28T00:30:20.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OWN MEDIA MUSIC : MERY MATHA GOOD MORNING STATUS.]]></title>
-        <id>https://www.youtube.com/watch?v=j-P5YQO2IzY</id>
-        <link href="https://www.youtube.com/watch?v=j-P5YQO2IzY"/>
-        <updated>2022-10-27T14:39:36.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#ShaaruinTown ✨ #SuperSharanya  | #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=I3jxNtm7__g</id>
-        <link href="https://www.youtube.com/watch?v=I3jxNtm7__g"/>
-        <updated>2022-10-27T14:30:04.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#ShaaruinTown  from #SuperSharanya #ShaaruShaaru 💫 | #Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=0UGO_uTYbrI</id>
-        <link href="https://www.youtube.com/watch?v=0UGO_uTYbrI"/>
-        <updated>2022-10-27T14:00:02.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
