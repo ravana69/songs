@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-25T19:15:27.861Z</updated>
+    <updated>2023-01-25T20:20:11.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12577,33 +12577,6 @@
         <updated>2022-10-28T09:06:04.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thusharam | BK Harinarayanan | Sony Mohan | Haripad Sudheesh | New Malayalam Album Video Song | Bsai]]></title>
-        <id>https://www.youtube.com/watch?v=nlMd7CVZre0</id>
-        <link href="https://www.youtube.com/watch?v=nlMd7CVZre0"/>
-        <updated>2022-10-28T08:01:19.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambilipoli Pole | 720 p | Andolanam | Natesh Shankar | Malayalam Song | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=2OmAxnEaYFs</id>
-        <link href="https://www.youtube.com/watch?v=2OmAxnEaYFs"/>
-        <updated>2022-10-28T07:34:58.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏറെ സുപരിചിതമല്ലെങ്കിലും കേൾക്കുന്ന മാത്രയിൽ മനസ്സിൽ ഇടംപിടിക്കുന്ന മനോഹര ഗാനങ്ങൾ  | MALAYALAM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=1lf1dehQgLk</id>
-        <link href="https://www.youtube.com/watch?v=1lf1dehQgLk"/>
-        <updated>2022-10-28T07:30:00.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
