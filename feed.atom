@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-26T07:18:12.515Z</updated>
+    <updated>2023-01-26T08:24:27.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ജീവിതത്തിലെ ഓരോ വേളകളും മധുരം തുളുമ്പുന്നതാക്കുന്ന കേൾക്കാൻ സുഖമുള്ള ഗാനങ്ങൾ | SWEET SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=VbTfPO17bnE</id>
+        <link href="https://www.youtube.com/watch?v=VbTfPO17bnE"/>
+        <updated>2023-01-26T07:37:08.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[രാത്രിയുടെ യാമങ്ങളിൽ മുല്ലപ്പൂവിൻ ഗന്ധമേറ്റ് കിടന്നാസ്വദിക്കുന്ന  സിനിമാഗാനങ്ങൾ | SUPERHIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=DDqVNtkY678</id>
+        <link href="https://www.youtube.com/watch?v=DDqVNtkY678"/>
+        <updated>2023-01-26T07:30:03.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മഞ്ഞിൻ ചിറകുള്ള വെള്ളരിപ്രാവേ | Malayalam Melody song | Swagatham | Manjin Chirakulla]]></title>
         <id>https://www.youtube.com/watch?v=nYv1c0yONq4</id>
@@ -31,6 +49,15 @@
         <updated>2023-01-26T00:30:05.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thalatherichavar - Video | Romancham | Sushin Shyam | Johnpaul George Productions | Jithu Madhavan]]></title>
+        <id>https://www.youtube.com/watch?v=hvqnG6VjqV0</id>
+        <link href="https://www.youtube.com/watch?v=hvqnG6VjqV0"/>
+        <updated>2023-01-25T16:04:49.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
