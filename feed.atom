@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-27T18:23:19.149Z</updated>
+    <updated>2023-01-27T19:15:24.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12532,24 +12532,6 @@
         <updated>2022-10-30T08:57:04.000Z</updated>
         <author>
             <name>Meghamalhar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthennariyatha Aradhanayude Full Video Song | HD | Theerthadanam Movie Song | REMASTERED |]]></title>
-        <id>https://www.youtube.com/watch?v=3OfJ_NM1VhQ</id>
-        <link href="https://www.youtube.com/watch?v=3OfJ_NM1VhQ"/>
-        <updated>2022-10-30T07:02:03.000Z</updated>
-        <author>
-            <name>Wilson Video Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manjiloode Vannu Veezhum | 100 Days Of Love | Christine Jose | Divya S Nair | Govind Menon]]></title>
-        <id>https://www.youtube.com/watch?v=wvJFx-vngB4</id>
-        <link href="https://www.youtube.com/watch?v=wvJFx-vngB4"/>
-        <updated>2022-10-30T07:00:15.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
         </author>
     </entry>
 </feed>
