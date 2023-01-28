@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-28T21:15:56.425Z</updated>
+    <updated>2023-01-28T22:17:25.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12476,24 +12476,6 @@
         <id>https://www.youtube.com/watch?v=X0__YUbmZjc</id>
         <link href="https://www.youtube.com/watch?v=X0__YUbmZjc"/>
         <updated>2022-10-31T11:10:34.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karaoke with Lyrics | Sarvasakthananallo Ente Daivam | Malayalam Christian Devotional Songs Karaoke]]></title>
-        <id>https://www.youtube.com/watch?v=akC-MNoshHY</id>
-        <link href="https://www.youtube.com/watch?v=akC-MNoshHY"/>
-        <updated>2022-10-31T09:46:32.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lyrical Video Sarvasakthananallo | Malayalam Christian Lyircs Video |]]></title>
-        <id>https://www.youtube.com/watch?v=P9LjKkkcQUo</id>
-        <link href="https://www.youtube.com/watch?v=P9LjKkkcQUo"/>
-        <updated>2022-10-31T09:43:53.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
         </author>
