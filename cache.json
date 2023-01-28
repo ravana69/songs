@@ -4919,26 +4919,6 @@
           "wordCount": null,
           "title": "Pennoruthi | Video Song  | Ellam Settanu | Vineeth Sreenivasan | Sithara Krishnakumar | PS Jayhari",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CPqavC-XFCk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CPqavC-XFCk",
-          "publishedOn": "2022-10-31T04:14:22.000Z",
-          "wordCount": null,
-          "title": "Ellam Settanu | Trailer  | Ellam Settanu | Vinu Sridhar | Amsterdam Movie International | PS Jayhari",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XJO8KPw65L8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XJO8KPw65L8",
-          "publishedOn": "2022-10-31T04:04:42.000Z",
-          "wordCount": null,
-          "title": "Ellam Settanu | Teaser 3 | Ellam Settanu | Vinu Sridhar | Amsterdam Movie International | PS Jayhari",
-          "imageUrl": null
         }
       ]
     },
@@ -4947,6 +4927,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2y5LoW-VkSFaKdwNx9pYkQ",
       "siteUrl": "https://www.youtube.com/channel/UC2y5LoW-VkSFaKdwNx9pYkQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=PJoBvQUchFM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PJoBvQUchFM",
+          "publishedOn": "2023-01-28T15:30:06.000Z",
+          "wordCount": null,
+          "title": "Sumangali Kuruvi | Azhakiya Ravanan | Vidyasagar | Kaithapram | Mammootty | Bhanupriya | KJ Yesudas",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=CfIA-P63pbU",
           "author": null,
@@ -10978,6 +10968,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1Z1-ER2nUjr66DGTEq9oMA",
       "siteUrl": "https://www.youtube.com/channel/UC1Z1-ER2nUjr66DGTEq9oMA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=j0cMOh98Xgc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j0cMOh98Xgc",
+          "publishedOn": "2023-01-28T15:36:26.000Z",
+          "wordCount": null,
+          "title": "28 January 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=w8Y5wgfKklY",
           "author": null,
