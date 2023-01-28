@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-28T22:17:25.183Z</updated>
+    <updated>2023-01-28T23:18:40.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12458,24 +12458,6 @@
         <id>https://www.youtube.com/watch?v=ifVttgC02lY</id>
         <link href="https://www.youtube.com/watch?v=ifVttgC02lY"/>
         <updated>2022-10-31T11:34:52.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karaoke Amen Amen Ennarthupadi | Malayalam Christian Songs Karaoke | Christian Minus Tracks]]></title>
-        <id>https://www.youtube.com/watch?v=sXEIBc2t9ZU</id>
-        <link href="https://www.youtube.com/watch?v=sXEIBc2t9ZU"/>
-        <updated>2022-10-31T11:16:16.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lyrical Video Amen Amen Ennarthupadi | Rev. Kurien Thomas | Malayalam Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=X0__YUbmZjc</id>
-        <link href="https://www.youtube.com/watch?v=X0__YUbmZjc"/>
-        <updated>2022-10-31T11:10:34.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
         </author>
