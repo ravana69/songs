@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-28T19:14:27.069Z</updated>
+    <updated>2023-01-28T20:18:55.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12514,42 +12514,6 @@
         <updated>2022-10-31T08:43:57.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raagadra Sandyayil Song | Chaithanyam Malayalam Movie Songs | Murali, Madhavi |K.J.Yesudas|Ravindran]]></title>
-        <id>https://www.youtube.com/watch?v=Xgoy6KztYkQ</id>
-        <link href="https://www.youtube.com/watch?v=Xgoy6KztYkQ"/>
-        <updated>2022-10-31T07:54:33.000Z</updated>
-        <author>
-            <name>Lahari Music Malayalam | T-Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തലമുറ വ്യത്യാസമില്ലാതെ ഏവരും ഇഷ്ടപെടുന്ന മലയാള സിനിമയിലെ പ്രശസ്ത ഗാനങ്ങൾ | MALAYALAM SUPERHIT SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=t4ASam8WRgk</id>
-        <link href="https://www.youtube.com/watch?v=t4ASam8WRgk"/>
-        <updated>2022-10-31T07:30:08.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Raja Oru Rani |  Janmaantharam | SP Venkitesh | KS Chithra | Poovachal Khader | Malayalam Song]]></title>
-        <id>https://www.youtube.com/watch?v=idfKgr92ACU</id>
-        <link href="https://www.youtube.com/watch?v=idfKgr92ACU"/>
-        <updated>2022-10-31T07:30:05.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pattuduth | Keralappiravi Song | 4k | Kavitha Reghunandanan | Shiju Ediyatheril]]></title>
-        <id>https://www.youtube.com/watch?v=gBbvSymVFUM</id>
-        <link href="https://www.youtube.com/watch?v=gBbvSymVFUM"/>
-        <updated>2022-10-31T07:23:08.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
