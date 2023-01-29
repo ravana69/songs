@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-29T01:47:43.912Z</updated>
+    <updated>2023-01-29T02:48:52.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12370,15 +12370,6 @@
         <updated>2022-10-31T14:58:32.000Z</updated>
         <author>
             <name>Lahari Music Malayalam | T-Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OWN MEDIA MUSIC : GOOD MORNING STATUS]]></title>
-        <id>https://www.youtube.com/watch?v=MP8Qbqem4VU</id>
-        <link href="https://www.youtube.com/watch?v=MP8Qbqem4VU"/>
-        <updated>2022-10-31T14:33:03.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
