@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-29T19:15:13.511Z</updated>
+    <updated>2023-01-29T20:19:01.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12370,24 +12370,6 @@
         <updated>2022-11-01T08:22:02.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇടിവെട്ടി തിമിർത്തുപെയ്യുന്ന മഴയിലും മനസിന് ഹരം പകരുന്ന സിനിമാഗാനങ്ങൾ  | BEST SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=NuKvnqwhXNI</id>
-        <link href="https://www.youtube.com/watch?v=NuKvnqwhXNI"/>
-        <updated>2022-11-01T07:47:36.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളസിനിമക്ക് മറക്കാനാവാത്ത ഗാനങ്ങൾ നൽകിയ സംഗീതജ്ഞൻ രവീന്ദ്രൻ മാഷിന്റെ സുന്ദരഗാനങ്ങൾ | RAVEENDRAN]]></title>
-        <id>https://www.youtube.com/watch?v=kxHhFPZ_MpY</id>
-        <link href="https://www.youtube.com/watch?v=kxHhFPZ_MpY"/>
-        <updated>2022-11-01T07:33:45.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
