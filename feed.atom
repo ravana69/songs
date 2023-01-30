@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-30T19:15:43.101Z</updated>
+    <updated>2023-01-30T20:20:37.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12397,15 +12397,6 @@
         <updated>2022-11-02T10:04:44.000Z</updated>
         <author>
             <name>Lahari Music Malayalam | T-Series</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എത്ര വർഷങ്ങൾ കഴിഞ്ഞാലും മനസ്സിൽ നിന്ന് പടിയിറങ്ങാത്ത അത്രമേൽ മനോഹര ഗാനങ്ങൾ | EVERGREEN HIT SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=tpedv8aDtL0</id>
-        <link href="https://www.youtube.com/watch?v=tpedv8aDtL0"/>
-        <updated>2022-11-02T07:41:33.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
