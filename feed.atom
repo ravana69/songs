@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-30T23:20:42.156Z</updated>
+    <updated>2023-01-31T01:47:09.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Singer Of The Week | P Jayachandran | Christian Devotional Songs Malayalam | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=RAd_1kgtUQo</id>
+        <link href="https://www.youtube.com/watch?v=RAd_1kgtUQo"/>
+        <updated>2023-01-31T00:30:20.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mamazhayile | Mayilattam | Jayaram | Rambha | M Jayachandran | Sujatha Mohan | Gireesh Puthanchery]]></title>
         <id>https://www.youtube.com/watch?v=nVAPm2X5ePA</id>
@@ -12334,51 +12343,6 @@
         <updated>2022-11-02T15:30:27.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Melody Song | Kester | Marichavarude Orma Songs | Christian Devotional Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=kuhD8vnvKqc</id>
-        <link href="https://www.youtube.com/watch?v=kuhD8vnvKqc"/>
-        <updated>2022-11-02T13:30:25.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nizhalaadum - Video Song | Kumari | Aishwarya Lekshmi | Nirmal Sahadev | Manikandan Ayyappa]]></title>
-        <id>https://www.youtube.com/watch?v=6ZqY2zpperY</id>
-        <link href="https://www.youtube.com/watch?v=6ZqY2zpperY"/>
-        <updated>2022-11-02T12:30:10.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attharu Peyyana | Mohabbath | Hariharan | Manjari | East Coast Vijayan | Meera Jasmine]]></title>
-        <id>https://www.youtube.com/watch?v=BZRGRklKTNU</id>
-        <link href="https://www.youtube.com/watch?v=BZRGRklKTNU"/>
-        <updated>2022-11-02T11:34:15.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponnin Kilukilukkam | Aamayum Muyalum | Sankar Mahadevan | MG Sreekumar | Rajeev Alunkal]]></title>
-        <id>https://www.youtube.com/watch?v=fq_m6pR-XX0</id>
-        <link href="https://www.youtube.com/watch?v=fq_m6pR-XX0"/>
-        <updated>2022-11-02T11:30:12.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samayamithapoorva Song | Mammootty | Mohanlal | Kunchako Boban| KJ Yesudas| KS Chithra| MG Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=fGixCbm3xQQ</id>
-        <link href="https://www.youtube.com/watch?v=fGixCbm3xQQ"/>
-        <updated>2022-11-02T11:30:10.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
