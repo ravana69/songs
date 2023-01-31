@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-31T03:22:08.625Z</updated>
+    <updated>2023-01-31T04:23:48.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12325,24 +12325,6 @@
         <updated>2022-11-02T16:42:41.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kunukku Penmaniye | Mr.Butler | Dileep | Vidyasagar | Ruchitha | M.G.Sreekumar | Chithra | Innocent]]></title>
-        <id>https://www.youtube.com/watch?v=jSi2nqldYus</id>
-        <link href="https://www.youtube.com/watch?v=jSi2nqldYus"/>
-        <updated>2022-11-02T15:31:49.000Z</updated>
-        <author>
-            <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OWN MEDIA MUSIC : GOOD MORNING STATUS]]></title>
-        <id>https://www.youtube.com/watch?v=BQ3C9bkgvWk</id>
-        <link href="https://www.youtube.com/watch?v=BQ3C9bkgvWk"/>
-        <updated>2022-11-02T15:30:27.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
