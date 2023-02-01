@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-01T18:24:30.037Z</updated>
+    <updated>2023-02-01T19:16:00.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12433,15 +12433,6 @@
         <updated>2022-11-04T07:46:33.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ക്രൂശിതാ കരുണാമയാ | Krooshitha | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=-GQxY4ltNpE</id>
-        <link href="https://www.youtube.com/watch?v=-GQxY4ltNpE"/>
-        <updated>2022-11-04T06:41:18.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
