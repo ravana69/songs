@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-02T04:24:16.861Z</updated>
+    <updated>2023-02-02T05:18:14.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12316,15 +12316,6 @@
         <updated>2022-11-05T00:30:01.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azhake Azhake | Fevi]]></title>
-        <id>https://www.youtube.com/watch?v=8UPiqolyp-I</id>
-        <link href="https://www.youtube.com/watch?v=8UPiqolyp-I"/>
-        <updated>2022-11-04T17:17:41.000Z</updated>
-        <author>
-            <name>Meghamalhar</name>
         </author>
     </entry>
 </feed>
