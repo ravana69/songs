@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-04T17:16:21.136Z</updated>
+    <updated>2023-02-04T18:22:32.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12505,15 +12505,6 @@
         <updated>2022-11-07T07:30:03.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[*Manja Veyil | Etham | Praveen Chandran Moodadi | Premkumar Vadakara | Screen Creations*]]></title>
-        <id>https://www.youtube.com/watch?v=QQN2h_9-Czc</id>
-        <link href="https://www.youtube.com/watch?v=QQN2h_9-Czc"/>
-        <updated>2022-11-07T05:26:55.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
