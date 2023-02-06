@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-06T07:17:56.677Z</updated>
+    <updated>2023-02-06T08:25:41.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഏത് കഠിനമനസിനെയും ഉരുക്കി കളയുന്ന മലയാളസിനിമയിലെ മൃദുല ഗാനങ്ങൾ  | SOFT MELODY SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=QM7UzdFMFWw</id>
+        <link href="https://www.youtube.com/watch?v=QM7UzdFMFWw"/>
+        <updated>2023-02-06T07:50:07.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Song Ithiri Chakkara Nulli From the Movie Seniors]]></title>
         <id>https://www.youtube.com/watch?v=B6o9Xfa0DYg</id>
