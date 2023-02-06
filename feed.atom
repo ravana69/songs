@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-06T16:27:08.202Z</updated>
+    <updated>2023-02-06T17:17:19.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12458,24 +12458,6 @@
         <id>https://www.youtube.com/watch?v=ifiwDCzWi04</id>
         <link href="https://www.youtube.com/watch?v=ifiwDCzWi04"/>
         <updated>2022-11-09T06:15:32.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thaniye Thaniye | Lyrical Video | Laika | B T Anilkumar | Satheesh Ramachandran | Dr Ashad Sivaraman]]></title>
-        <id>https://www.youtube.com/watch?v=j2eeJMZOsQ8</id>
-        <link href="https://www.youtube.com/watch?v=j2eeJMZOsQ8"/>
-        <updated>2022-11-09T04:46:52.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ilaveyil Malarukal |Lyrical Video | Laika | Ajay Sathyan | Gemini Unnikrishnan | Dr Ashad Sivaraman]]></title>
-        <id>https://www.youtube.com/watch?v=6unFw1U1YVI</id>
-        <link href="https://www.youtube.com/watch?v=6unFw1U1YVI"/>
-        <updated>2022-11-09T04:30:25.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
