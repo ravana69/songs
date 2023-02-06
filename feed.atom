@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-06T03:21:06.895Z</updated>
+    <updated>2023-02-06T04:24:09.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -2524,6 +2524,15 @@
         <updated>2023-01-18T07:30:14.000Z</updated>
         <author>
             <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethra Sthuthichalum Mathiyavilla | Worship Songs | Teslin | Saritha K Markose | Anoop Parackal]]></title>
+        <id>https://www.youtube.com/watch?v=bGAZQ17nCOM</id>
+        <link href="https://www.youtube.com/watch?v=bGAZQ17nCOM"/>
+        <updated>2023-01-18T07:24:32.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -12343,15 +12352,6 @@
         <updated>2022-11-09T00:30:19.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chendakkoru Kolundeda | Manassinakkare | Jayaram | Nayanthaara | Innocent | Ilayaraaja]]></title>
-        <id>https://www.youtube.com/watch?v=JQHCrGXI3Ns</id>
-        <link href="https://www.youtube.com/watch?v=JQHCrGXI3Ns"/>
-        <updated>2022-11-08T15:34:59.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
 </feed>
