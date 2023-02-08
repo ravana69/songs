@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-08T07:18:18.824Z</updated>
+    <updated>2023-02-08T08:26:07.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സിൻ മടിയിലെ മാന്തളിരിൽ | Manathe Vellitheru | Lakshmi | Sreeraman | Johnson]]></title>
+        <id>https://www.youtube.com/watch?v=hkbMdPBWoZk</id>
+        <link href="https://www.youtube.com/watch?v=hkbMdPBWoZk"/>
+        <updated>2023-02-08T08:09:20.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എന്തെന്നില്ലാത്ത ഇഷ്ടത്തോടെ ആവേശത്തോടെ മനം നിറഞ്ഞാസ്വദിക്കുന്ന സിനിമാഗാനങ്ങൾ | FAVOURITE MOVIE SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=bM04WjbcQac</id>
+        <link href="https://www.youtube.com/watch?v=bM04WjbcQac"/>
+        <updated>2023-02-08T07:30:11.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keli Nilavoru Palazhi | Life is Beautiful |  Mohanlal, Geethu Mohandas, Arun | Life is Beautiful]]></title>
+        <id>https://www.youtube.com/watch?v=ouVSTzZFNHc</id>
+        <link href="https://www.youtube.com/watch?v=ouVSTzZFNHc"/>
+        <updated>2023-02-08T07:30:09.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best Of Malayalam Romantic Songs Audio Jukebox | Most Popular Romantic Hits | Malayalam Hits]]></title>
         <id>https://www.youtube.com/watch?v=kNbIFDtCBCM</id>
