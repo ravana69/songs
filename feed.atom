@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-09T19:16:23.285Z</updated>
+    <updated>2023-02-09T20:21:21.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12316,24 +12316,6 @@
         <updated>2022-11-12T11:28:29.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രേക്ഷകഹൃദയങ്ങളിൽ തീപ്പൊരി പാറിച്ച മലയാളസിനിമയിലെ സൂപ്പർഹിറ്റ് ജനപ്രിയ ഗാനങ്ങൾ | MEGAHIT SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=aTMKU3eg6Ww</id>
-        <link href="https://www.youtube.com/watch?v=aTMKU3eg6Ww"/>
-        <updated>2022-11-12T08:13:44.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ശ്രോതാവിന്റെ മനസിന് പുളകമേകുന്ന മലയാളസിനിമയിലെ പ്രശസ്‌തമായ ഗാനങ്ങൾ | EVERGREEN HIT SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=VYusRLCWn2Y</id>
-        <link href="https://www.youtube.com/watch?v=VYusRLCWn2Y"/>
-        <updated>2022-11-12T07:30:08.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
