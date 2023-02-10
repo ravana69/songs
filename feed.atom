@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-10T17:19:05.113Z</updated>
+    <updated>2023-02-10T18:25:41.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12377,15 +12377,6 @@
         <id>https://www.youtube.com/watch?v=S14z7xEPQPY</id>
         <link href="https://www.youtube.com/watch?v=S14z7xEPQPY"/>
         <updated>2022-11-13T07:00:09.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Priyamullavane | Ennu Ninte Moideen | Madhushree Narayan | Ramesh Narayan | Rafeeq Ahammed]]></title>
-        <id>https://www.youtube.com/watch?v=boJGM4dMKZY</id>
-        <link href="https://www.youtube.com/watch?v=boJGM4dMKZY"/>
-        <updated>2022-11-13T06:00:13.000Z</updated>
         <author>
             <name>Satyam Audios</name>
         </author>
