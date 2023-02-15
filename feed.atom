@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-15T22:20:11.158Z</updated>
+    <updated>2023-02-15T23:20:38.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12361,15 +12361,6 @@
         <updated>2022-11-18T11:22:08.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Chundile | Saigal Padukayanu | Ajal Udayan | M Jayachandran | Rafeeq Ahammed]]></title>
-        <id>https://www.youtube.com/watch?v=6hikRNwis8Q</id>
-        <link href="https://www.youtube.com/watch?v=6hikRNwis8Q"/>
-        <updated>2022-11-18T10:30:01.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
         </author>
     </entry>
 </feed>
