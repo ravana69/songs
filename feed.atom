@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-17T01:50:52.078Z</updated>
+    <updated>2023-02-17T02:54:16.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12253,15 +12253,6 @@
         <updated>2022-11-19T15:52:55.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOOD MORNING]]></title>
-        <id>https://www.youtube.com/watch?v=7KkKQMKp0nI</id>
-        <link href="https://www.youtube.com/watch?v=7KkKQMKp0nI"/>
-        <updated>2022-11-19T14:36:18.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
