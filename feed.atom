@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-17T23:20:13.881Z</updated>
+    <updated>2023-02-18T01:45:08.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christian Video Songs Malayalam | Rithuraj | P Jayachandran | Valiya Nombu Songs | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=Qe4x4F7f_YM</id>
+        <link href="https://www.youtube.com/watch?v=Qe4x4F7f_YM"/>
+        <updated>2023-02-18T00:30:09.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ee Kalpadavil | Out Of Syllabus | Rafeeq Ahamed | Bennet-Veetrag | Parvathy Thiruvoth | G Venugopal]]></title>
         <id>https://www.youtube.com/watch?v=SBCsmuk8kxY</id>
@@ -12298,33 +12307,6 @@
         <updated>2022-11-20T15:30:12.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Melody Songs | Elizabeth Raju |  Kester | Christian Devotional Songs Malayalam |Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=i8LLb1eS5qY</id>
-        <link href="https://www.youtube.com/watch?v=i8LLb1eS5qY"/>
-        <updated>2022-11-20T13:30:19.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kinavinte Minarathil | Adaminte Makan Abu | Hariharan |Salim Kumar| Rafeeque Ahammed |Ramesh Narayan]]></title>
-        <id>https://www.youtube.com/watch?v=B2ZBcZAOA7o</id>
-        <link href="https://www.youtube.com/watch?v=B2ZBcZAOA7o"/>
-        <updated>2022-11-20T12:30:05.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaalindhi Theeram Thannil | April 18 | Balachandra Menon | Shobana - Bichu Thirumala Hits]]></title>
-        <id>https://www.youtube.com/watch?v=L3pPU_CmpOI</id>
-        <link href="https://www.youtube.com/watch?v=L3pPU_CmpOI"/>
-        <updated>2022-11-20T12:00:12.000Z</updated>
-        <author>
-            <name>Music Zone</name>
         </author>
     </entry>
 </feed>
