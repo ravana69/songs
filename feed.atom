@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-18T07:17:28.362Z</updated>
+    <updated>2023-02-18T08:24:26.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[വയ്യാതെ കിടക്കുന്നവർ പോലും എഴുന്നേറ്റ് നൃത്തമാടും സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ  | SUPERHIT SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=UKR2hk7MRVU</id>
+        <link href="https://www.youtube.com/watch?v=UKR2hk7MRVU"/>
+        <updated>2023-02-18T07:30:09.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അന്യഭാഷാ സംഗീത സംവിധായകർ മലയാളസിനിമക്ക് സമ്മാനിച്ച ഏവരുടെയും ഇഷ്ടഗാനങ്ങൾ | SUPERHIT MOVIES]]></title>
+        <id>https://www.youtube.com/watch?v=R99drESHzs0</id>
+        <link href="https://www.youtube.com/watch?v=R99drESHzs0"/>
+        <updated>2023-02-18T07:30:04.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Viswanathashtakam ( Ganga Tharanga ) | Lakshmysree | Shiva Devotional | വിശ്വനാഥഷ്ടകം]]></title>
         <id>https://www.youtube.com/watch?v=CTDnemvBVAg</id>
