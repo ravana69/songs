@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-21T15:21:32.128Z</updated>
+    <updated>2023-02-21T15:53:51.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Katte Nee Veesaruthippol | Kattu Vannu Vilichappol | Krishnakumar | Chippy | Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=La1hgk8-gIE</id>
+        <link href="https://www.youtube.com/watch?v=La1hgk8-gIE"/>
+        <updated>2023-02-21T15:33:30.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കാവ്യഭംഗി തുളുമ്പും മലയാള സിനിമയിലെ സൂപ്പർ ഹിറ്റ്  ഗാനങ്ങൾ | EVERGREEN  MALAYALAM  FILM SONGS]]></title>
         <id>https://www.youtube.com/watch?v=AIR-4gnifKM</id>
@@ -196,6 +205,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Agnisalabhangalayi - Lyrical Video | Bhagavan | Murukan Kattakkada | Ranju Sanju | Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=zqnDBP_QsNI</id>
+        <link href="https://www.youtube.com/watch?v=zqnDBP_QsNI"/>
+        <updated>2023-02-20T11:49:31.000Z</updated>
+        <author>
+            <name>MC Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kakkothikkavile Video Song | Jayasoorya | Navya Nair| Vineeth| MG Sreekumar|Vidhu Prathap |Alex Paul]]></title>
         <id>https://www.youtube.com/watch?v=FwSRPsIHL-8</id>
         <link href="https://www.youtube.com/watch?v=FwSRPsIHL-8"/>
@@ -313,6 +331,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[En Kannil Mandaram - Moorkhan(1980) | P Jayachandran | B Manikyam | A.T Ummer]]></title>
+        <id>https://www.youtube.com/watch?v=aDcHF9AqXqI</id>
+        <link href="https://www.youtube.com/watch?v=aDcHF9AqXqI"/>
+        <updated>2023-02-19T07:30:01.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Aalam Niranjulla | Neeyum Njanum | Mridula Varier | Vinu Thomas | Salaudhin Kecherry]]></title>
         <id>https://www.youtube.com/watch?v=S4JC64lvfsY</id>
         <link href="https://www.youtube.com/watch?v=S4JC64lvfsY"/>
@@ -382,6 +409,15 @@
         <updated>2023-02-18T07:30:09.000Z</updated>
         <author>
             <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roja Malare | Randu Lokam | G Devarajan | Yusufali Kecheri | P Madhuri | Jayabharathi Movie Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Y2Yx0rQxgZs</id>
+        <link href="https://www.youtube.com/watch?v=Y2Yx0rQxgZs"/>
+        <updated>2023-02-18T07:30:07.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
     <entry>
@@ -508,6 +544,15 @@
         <updated>2023-02-17T09:59:40.000Z</updated>
         <author>
             <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കൊട്ടാരക്കൽ ശ്രീധരൻ നായരുടെ മകനായി വന്ന് സ്ഥാനം ഉറപ്പിച്ച സായ്‌കുമാറിന്റെ അനശ്വരഗാനങ്ങൾ | SAIKUMAR]]></title>
+        <id>https://www.youtube.com/watch?v=ZwUJnbqtISI</id>
+        <link href="https://www.youtube.com/watch?v=ZwUJnbqtISI"/>
+        <updated>2023-02-17T09:01:51.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
     <entry>
@@ -664,6 +709,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Keli Nilavoru Palazhi | Life is Beautiful | Vijay Yesudas | Mohanlal | Malayalam Song | Ouseppachan]]></title>
+        <id>https://www.youtube.com/watch?v=9-lxy7nb5Tw</id>
+        <link href="https://www.youtube.com/watch?v=9-lxy7nb5Tw"/>
+        <updated>2023-02-16T07:55:50.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Shwasame | Santhosham |Lyrical Video| K S Harisankar | Nithya Mammen | Vinayak Sasikumar| PS Jayhari]]></title>
         <id>https://www.youtube.com/watch?v=2ex0wr7tGYY</id>
         <link href="https://www.youtube.com/watch?v=2ex0wr7tGYY"/>
@@ -808,6 +862,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[നിരവധി ഹിറ്റ് കുടുംബ ചിത്രങ്ങൾക്ക് സംഗീതമേകിയ  സംഗീതകാരൻ ഔസേപ്പച്ചന്റെ മറക്കാത്ത ഗാനങ്ങൾ | SUPERHITS]]></title>
+        <id>https://www.youtube.com/watch?v=BlGDi8H_tWQ</id>
+        <link href="https://www.youtube.com/watch?v=BlGDi8H_tWQ"/>
+        <updated>2023-02-15T07:30:01.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ജനപ്രിയ മാരമൺ കൺവൻഷൻ ഗാനങ്ങൾ old maramon convention songs | kester | christian songs with lyrics]]></title>
         <id>https://www.youtube.com/watch?v=BJWuUVANulM</id>
         <link href="https://www.youtube.com/watch?v=BJWuUVANulM"/>
@@ -922,6 +985,15 @@
         <updated>2023-02-14T07:45:36.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ennum Ninne Poojikkam | Aniyathipravu | Kunchacko Boban | Shalini | Valentine's Day Special Song]]></title>
+        <id>https://www.youtube.com/watch?v=zrHZsVEfJoU</id>
+        <link href="https://www.youtube.com/watch?v=zrHZsVEfJoU"/>
+        <updated>2023-02-14T07:30:21.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
     <entry>
@@ -1078,6 +1150,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ഒരു വേനൽ മഴ കൊള്ളുന്ന സുഖം പോൽ ഹൃദയത്തിൽ പെയ്തിറങ്ങിയ മനോഹര ഗാനങ്ങൾ | MELODY SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=f--109wi0Yc</id>
+        <link href="https://www.youtube.com/watch?v=f--109wi0Yc"/>
+        <updated>2023-02-13T08:48:14.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ലോകമലയാളികൾ എവിടെ ഇരുന്നും ഒരുപോലെ ആസ്വദിക്കുന്ന നിത്യഹരിതങ്ങളായ സിനിമാഗാനങ്ങൾ | SUPERHIT SONGS]]></title>
         <id>https://www.youtube.com/watch?v=ObAszI74b8o</id>
         <link href="https://www.youtube.com/watch?v=ObAszI74b8o"/>
@@ -1231,6 +1312,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vaalittezhuthiya | Mohanlal, Samyuktha Varma, Geethu Mohandas | Life is Beautiful]]></title>
+        <id>https://www.youtube.com/watch?v=bpX5XC-welo</id>
+        <link href="https://www.youtube.com/watch?v=bpX5XC-welo"/>
+        <updated>2023-02-12T07:30:09.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ഏത് രാഗം പാടണം ഞാൻ  #youtubeshorts #bestmelodysongs #manjuwarrier #dileep]]></title>
         <id>https://www.youtube.com/watch?v=3odl_lgUGz0</id>
         <link href="https://www.youtube.com/watch?v=3odl_lgUGz0"/>
@@ -1321,6 +1411,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Super Actor Nammude Lalettan - Lyrical Video | Bhagavan | Sannidhanandan | Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=5M7Nbs4RSe0</id>
+        <link href="https://www.youtube.com/watch?v=5M7Nbs4RSe0"/>
+        <updated>2023-02-11T08:39:58.000Z</updated>
+        <author>
+            <name>MC Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[മലയാളസംഗീതത്തിന്റെ വസന്തകാലമായ തൊണ്ണൂറുകൾക്ക് നിറം പകർന്ന സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ  | NISARI MUSIC]]></title>
         <id>https://www.youtube.com/watch?v=l5r9zJaRp8A</id>
         <link href="https://www.youtube.com/watch?v=l5r9zJaRp8A"/>
@@ -1336,6 +1435,15 @@
         <updated>2023-02-11T07:37:44.000Z</updated>
         <author>
             <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സംഗീതത്തിന്റെ മൂല്യം അളക്കാനാവാത്തതെന്ന് തെളിയിച്ച  നിത്യശോഭയുള്ള ഗാനങ്ങൾ | SUPERHIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=gSLmMPUuIPQ</id>
+        <link href="https://www.youtube.com/watch?v=gSLmMPUuIPQ"/>
+        <updated>2023-02-11T07:30:09.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
     <entry>
@@ -1435,6 +1543,15 @@
         <updated>2023-02-10T11:30:08.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chembaka Thaikal Pootha - Kathirunna Nimisham(1978) | K J Yesudas | Kamal Haasan | Vidhubala]]></title>
+        <id>https://www.youtube.com/watch?v=PQocWm1R2Lk</id>
+        <link href="https://www.youtube.com/watch?v=PQocWm1R2Lk"/>
+        <updated>2023-02-10T07:30:05.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
     <entry>
@@ -1609,6 +1726,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ponnum Tharivala Minnum - Midumidukki(1968) | K.J Yesudas | Sreekumaran Thampi | M.S Baburaj]]></title>
+        <id>https://www.youtube.com/watch?v=5detLJwEyBY</id>
+        <link href="https://www.youtube.com/watch?v=5detLJwEyBY"/>
+        <updated>2023-02-09T07:30:01.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ജാതിമതഭേദമന്യേ ഏവരും കേൾക്കാൻ കൊതിക്കുന്ന മലയാളസിനിമയിൽ പിറവിയെടുത്ത മനോഹരഗാനങ്ങൾ | NISARI SONGS]]></title>
         <id>https://www.youtube.com/watch?v=2-gesWZ5Gqc</id>
         <link href="https://www.youtube.com/watch?v=2-gesWZ5Gqc"/>
@@ -1708,12 +1834,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Unnimaavil Ooyalitta - Lyrical Video | Vamanapuram Bus Route | MG Sreekumar | Sonu Shishupal]]></title>
+        <id>https://www.youtube.com/watch?v=8C60wP9qYoc</id>
+        <link href="https://www.youtube.com/watch?v=8C60wP9qYoc"/>
+        <updated>2023-02-08T08:41:49.000Z</updated>
+        <author>
+            <name>MC Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[മനസ്സിൻ മടിയിലെ മാന്തളിരിൽ | Manathe Vellitheru | Lakshmi | Sreeraman | Johnson]]></title>
         <id>https://www.youtube.com/watch?v=hkbMdPBWoZk</id>
         <link href="https://www.youtube.com/watch?v=hkbMdPBWoZk"/>
         <updated>2023-02-08T08:09:20.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളസിനിമയുടെ മാനസപുത്രൻ മലയാളികളുടെ ലാലേട്ടൻ അഭിനയിച്ച സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | MOHANLAL HITS]]></title>
+        <id>https://www.youtube.com/watch?v=lDAVuLe7Qy4</id>
+        <link href="https://www.youtube.com/watch?v=lDAVuLe7Qy4"/>
+        <updated>2023-02-08T07:30:14.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
     <entry>
@@ -1834,6 +1978,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kattilolangal | Kaathirunna Nimisham | MK Arjunan | Sreekumaran Thampi | P Jayachandran | Soman]]></title>
+        <id>https://www.youtube.com/watch?v=jsizGjnMhWM</id>
+        <link href="https://www.youtube.com/watch?v=jsizGjnMhWM"/>
+        <updated>2023-02-07T07:30:08.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Singer Of The Week | Abhijith Kollam  | Christian Devotional Songs Malayalam | Joji Johns]]></title>
         <id>https://www.youtube.com/watch?v=51UsGEEC8KY</id>
         <link href="https://www.youtube.com/watch?v=51UsGEEC8KY"/>
@@ -1951,6 +2104,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ഇപ്പോഴും എപ്പോഴും മനസ്സ് കൊതിക്കുന്ന മലയാള ചലച്ചിത്രഗാനങ്ങൾ  |  SUPERHIT MELODY SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=PFrkcIaQZmY</id>
+        <link href="https://www.youtube.com/watch?v=PFrkcIaQZmY"/>
+        <updated>2023-02-06T08:33:15.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Partha Mudhal Nodiyil - Teaser | Jojo | Ashish | Vineeth | Hesham | Ashik | Shweta]]></title>
         <id>https://www.youtube.com/watch?v=JWwhfFEpHZw</id>
         <link href="https://www.youtube.com/watch?v=JWwhfFEpHZw"/>
@@ -2065,6 +2227,15 @@
         <updated>2023-02-05T07:30:18.000Z</updated>
         <author>
             <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazha Peythu | Lajjaavathi | Anwar Suber | K.J.Joy | P.Susheela | P.Jayachandran | Krishnachandran]]></title>
+        <id>https://www.youtube.com/watch?v=qd35Fxl_Eio</id>
+        <link href="https://www.youtube.com/watch?v=qd35Fxl_Eio"/>
+        <updated>2023-02-05T07:30:10.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
     <entry>
@@ -2191,6 +2362,15 @@
         <updated>2023-02-04T10:37:21.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vamanapuramunde - Lyrical Video | Vamanapuram Bus Route | MG Sreekumar | Sonu Shishupal | Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=lqrRH189OA4</id>
+        <link href="https://www.youtube.com/watch?v=lqrRH189OA4"/>
+        <updated>2023-02-04T10:15:30.000Z</updated>
+        <author>
+            <name>MC Music</name>
         </author>
     </entry>
     <entry>
@@ -2650,6 +2830,15 @@
         <updated>2023-02-01T09:27:46.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niragopi Kudi Charthi - Lyrical Song | Vamanapuram Bus Route | KJ Yesudas | Sonu Sisupal]]></title>
+        <id>https://www.youtube.com/watch?v=7SbVD6ZP8ms</id>
+        <link href="https://www.youtube.com/watch?v=7SbVD6ZP8ms"/>
+        <updated>2023-02-01T08:00:03.000Z</updated>
+        <author>
+            <name>MC Music</name>
         </author>
     </entry>
     <entry>
@@ -3166,6 +3355,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Thaane En Thamburu - Lyrical Video Song | Vamanapuram Bus Route | Manjary | Sonu Sisupal]]></title>
+        <id>https://www.youtube.com/watch?v=QS9UXU9G02s</id>
+        <link href="https://www.youtube.com/watch?v=QS9UXU9G02s"/>
+        <updated>2023-01-28T09:05:22.000Z</updated>
+        <author>
+            <name>MC Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[എല്ലാത്തരം പ്രേക്ഷകരെയും  ആനന്ദിപ്പിക്കുന്ന കൊട്ടും കുരവയുമായിയെത്തും സൂപ്പർഹിറ്റ്ഗാനങ്ങൾ |SUPERHITS]]></title>
         <id>https://www.youtube.com/watch?v=8bPr1-QbgDM</id>
         <link href="https://www.youtube.com/watch?v=8bPr1-QbgDM"/>
@@ -3550,6 +3748,15 @@
         <updated>2023-01-25T08:52:27.000Z</updated>
         <author>
             <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rajavin Paarvai - Lyrical Video Song | Vamanapuram Bus Route | SP Balasubramanyam, KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=Ptx0bf9dbvA</id>
+        <link href="https://www.youtube.com/watch?v=Ptx0bf9dbvA"/>
+        <updated>2023-01-25T08:13:43.000Z</updated>
+        <author>
+            <name>MC Music</name>
         </author>
     </entry>
     <entry>
@@ -4081,6 +4288,15 @@
         <updated>2023-01-21T08:13:43.000Z</updated>
         <author>
             <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ezhai Paravakale - Lyrical Video Song | Vamanapuram Bus Route | MG Sreekumar | Sonu Shishupal]]></title>
+        <id>https://www.youtube.com/watch?v=0vlv7_Q2XxY</id>
+        <link href="https://www.youtube.com/watch?v=0vlv7_Q2XxY"/>
+        <updated>2023-01-21T08:07:34.000Z</updated>
+        <author>
+            <name>MC Music</name>
         </author>
     </entry>
     <entry>
@@ -6340,6 +6556,15 @@
         <updated>2023-01-06T10:30:08.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enni Enni Chakkakkuru - Lyrical Video Song | Vamanapuram Bus Route | MG Sreekumar | Sonu Shishupal]]></title>
+        <id>https://www.youtube.com/watch?v=eL0bp9lLjko</id>
+        <link href="https://www.youtube.com/watch?v=eL0bp9lLjko"/>
+        <updated>2023-01-06T08:00:13.000Z</updated>
+        <author>
+            <name>MC Music</name>
         </author>
     </entry>
     <entry>
@@ -11776,6 +12001,15 @@
         <updated>2022-11-28T12:30:09.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chandam Chindum - Video Song | Prathi Niraparadhiyaano | Vineeth Sreenivasan, Sithara Krishnakumar]]></title>
+        <id>https://www.youtube.com/watch?v=X8uOlpvh9Rw</id>
+        <link href="https://www.youtube.com/watch?v=X8uOlpvh9Rw"/>
+        <updated>2022-11-28T12:15:02.000Z</updated>
+        <author>
+            <name>MC Music</name>
         </author>
     </entry>
     <entry>
