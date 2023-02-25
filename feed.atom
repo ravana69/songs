@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-24T23:20:37.862Z</updated>
+    <updated>2023-02-25T01:47:06.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christian Video Songs Malayalam | Manoj Christy | Lent Songs | Valiya Nombu Songs | Midhila]]></title>
+        <id>https://www.youtube.com/watch?v=V1QxbaUhk10</id>
+        <link href="https://www.youtube.com/watch?v=V1QxbaUhk10"/>
+        <updated>2023-02-25T00:30:22.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coming Soon - Japame Jayam Devi Japame Jayam | Chottanikkara Devotional Song by Durga Viswanath]]></title>
+        <id>https://www.youtube.com/watch?v=OL8wpujnvHc</id>
+        <link href="https://www.youtube.com/watch?v=OL8wpujnvHc"/>
+        <updated>2023-02-25T00:30:21.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hemambari | Aattakadha | Vineeth | Yesudas | Gireesh Puthanchery | Kannan Perumudiyoor]]></title>
         <id>https://www.youtube.com/watch?v=lgfevC7tTWY</id>
@@ -12640,15 +12658,6 @@
         <updated>2022-11-27T14:23:41.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christmas Songs Malayalam | Aji Dennis | Joji Johns | Superhit Christmas Songs | Carol Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Lm7UM4wCfK0</id>
-        <link href="https://www.youtube.com/watch?v=Lm7UM4wCfK0"/>
-        <updated>2022-11-27T13:30:05.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
