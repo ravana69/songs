@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-28T07:18:43.915Z</updated>
+    <updated>2023-02-28T08:27:28.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കേട്ടനാൾ മുതൽ മനസിൽ കടന്നു കൂടിയ മലയാളസിനിമയിലെ സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ  | SUPERHIT MELODY SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=bBfdE-QgMJ8</id>
+        <link href="https://www.youtube.com/watch?v=bBfdE-QgMJ8"/>
+        <updated>2023-02-28T08:05:38.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കോളേജ് ക്യാമ്പസുകളിൽ തരംഗമായി കത്തി [പടർന്ന സൂപ്പർഹിറ്റ് സിനിമാഗാനങ്ങൾ | SUPERHIT COLLEGE HIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=Pp_ZLxu9Pk4</id>
+        <link href="https://www.youtube.com/watch?v=Pp_ZLxu9Pk4"/>
+        <updated>2023-02-28T08:00:57.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inku Nukarnnurangi - Kaattaruvi (1983) | KJ Yesudas | G Devarajan | Mammootty Songs]]></title>
+        <id>https://www.youtube.com/watch?v=x5AnyxN2Quc</id>
+        <link href="https://www.youtube.com/watch?v=x5AnyxN2Quc"/>
+        <updated>2023-02-28T07:42:03.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ചാക്കോച്ചന്റെ അടിപൊളി പെർഫോമൻസ് | Raakkuyil Paadi | Video Song | Kunchacko Boban, Meera Jasmine]]></title>
         <id>https://www.youtube.com/watch?v=-BwnR8vfBrg</id>
