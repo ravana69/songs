@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T12:38:15.982Z</updated>
+    <updated>2023-03-03T13:26:31.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Athirasam | Promo Classical Dance Video | Swathi Thirunal | Dr Padmesh Parasuraman | Balu R Nair]]></title>
+        <id>https://www.youtube.com/watch?v=UY8oxnPBF5o</id>
+        <link href="https://www.youtube.com/watch?v=UY8oxnPBF5o"/>
+        <updated>2023-03-03T13:00:32.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Athirasam | Promo Classical Dance Video | Swathi Thirunal | Dr Padmesh Parasuraman | Balu R Nair]]></title>
+        <id>https://www.youtube.com/watch?v=9L9i01iFmbU</id>
+        <link href="https://www.youtube.com/watch?v=9L9i01iFmbU"/>
+        <updated>2023-03-03T13:00:08.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Innale Njaanoru | Porinju Mariyam Jose | Sunil Kumar | Sethu Thankachen |Balu Thankachen|Jakes Bejoy]]></title>
         <id>https://www.youtube.com/watch?v=Wt1ynozP13s</id>
