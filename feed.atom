@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-04T15:19:13.598Z</updated>
+    <updated>2023-03-04T16:26:01.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നീ.. മാന്യനായിടുവാൻ...]]></title>
+        <id>https://www.youtube.com/watch?v=l502ZtpaRZ4</id>
+        <link href="https://www.youtube.com/watch?v=l502ZtpaRZ4"/>
+        <updated>2023-03-04T15:34:46.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thula Minnal | Sarkar Dada | Jayaram | Navya Nair | Sujatha Mohan | M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=8ZgBY3U_RQM</id>
+        <link href="https://www.youtube.com/watch?v=8ZgBY3U_RQM"/>
+        <updated>2023-03-04T15:30:02.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഏവരുടെയും ഇഷ്ടഗാനങ്ങളുടെ ലിസ്റ്റിൽ പതിഞ്ഞു പോയ മലയാളസിനിമയിലെ സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | NISARI HITS]]></title>
         <id>https://www.youtube.com/watch?v=tncokptonz0</id>
