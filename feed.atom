@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-05T23:19:44.679Z</updated>
+    <updated>2023-03-06T01:50:07.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -12694,60 +12694,6 @@
         <updated>2022-12-06T15:30:57.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 December 2022]]></title>
-        <id>https://www.youtube.com/watch?v=UU_OQAZgCQQ</id>
-        <link href="https://www.youtube.com/watch?v=UU_OQAZgCQQ"/>
-        <updated>2022-12-06T13:30:46.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sneha Sangeerthanam | Christmas Song | KG Markose | Jos Madasseril | Cristhu Das]]></title>
-        <id>https://www.youtube.com/watch?v=tsilrb8iF50</id>
-        <link href="https://www.youtube.com/watch?v=tsilrb8iF50"/>
-        <updated>2022-12-06T13:30:20.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chiriyo Chiri | Action Hero Biju | Vineeth Sreenivasan | Vaikom Vijayalakshmi | Jerry Amal Dev]]></title>
-        <id>https://www.youtube.com/watch?v=Q2mPkmSlD4Y</id>
-        <link href="https://www.youtube.com/watch?v=Q2mPkmSlD4Y"/>
-        <updated>2022-12-06T13:00:21.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Pen Kadale | Darvinte Parinamam | Nakul Krishnamoorthi | Sankar Sharma | PS Rafeeq]]></title>
-        <id>https://www.youtube.com/watch?v=WVu_tDQVPKI</id>
-        <link href="https://www.youtube.com/watch?v=WVu_tDQVPKI"/>
-        <updated>2022-12-06T12:00:16.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rahasyamai Full Video Song | HD | Puthiya Mukham Movie Song | REMASTERED |]]></title>
-        <id>https://www.youtube.com/watch?v=pJVLnyu42M4</id>
-        <link href="https://www.youtube.com/watch?v=pJVLnyu42M4"/>
-        <updated>2022-12-06T11:30:19.000Z</updated>
-        <author>
-            <name>Wilson Video Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christmas Ravalle Promo Video | Alenia | Joji Johns | Christmas Song | Gisha Song | Carol Song]]></title>
-        <id>https://www.youtube.com/watch?v=6037wGt6vno</id>
-        <link href="https://www.youtube.com/watch?v=6037wGt6vno"/>
-        <updated>2022-12-06T11:30:01.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
