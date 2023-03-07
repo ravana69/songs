@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-07T07:18:03.453Z</updated>
+    <updated>2023-03-07T08:26:25.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പലവട്ടം കേട്ടിട്ടും ഇപ്പോഴും കൊതിതീരാത്ത മലയാളസിനിമയിലെ മനം കവരും സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | SUPERHITS]]></title>
+        <id>https://www.youtube.com/watch?v=AjIwto2Ixzc</id>
+        <link href="https://www.youtube.com/watch?v=AjIwto2Ixzc"/>
+        <updated>2023-03-07T07:43:14.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[തനതായ സംഗീതത്തെ മലയാളികൾക്ക് സമ്മാനിച്ച കൈതപ്രം ജോൺസൺ ടീമിന്റെ സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | SUPERHIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=C_s-ce9R0-k</id>
+        <link href="https://www.youtube.com/watch?v=C_s-ce9R0-k"/>
+        <updated>2023-03-07T07:41:21.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharanamayyappa | Thuranna Jail | P Bhaskaran | Johnson | KJ Yesudas | Soman | Ayyappa Songs]]></title>
+        <id>https://www.youtube.com/watch?v=jxYpC6urxp0</id>
+        <link href="https://www.youtube.com/watch?v=jxYpC6urxp0"/>
+        <updated>2023-03-07T07:30:06.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Songs Of The Week | MG Sreekumar | Christian Devotional Songs Malayalam | Christian Songs]]></title>
         <id>https://www.youtube.com/watch?v=QoX24WCEwGg</id>
