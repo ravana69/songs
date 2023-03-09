@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-09T07:18:55.125Z</updated>
+    <updated>2023-03-09T08:27:06.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളസംഗീതത്തിന്റെ യുഗപുരുഷൻ ഗാനഗന്ധർവ്വൻ യേശുദാസ് ആലപിച്ച നിത്യഹരിതഗാനങ്ങൾ | YESUDAS HITS]]></title>
+        <id>https://www.youtube.com/watch?v=9iMEl10z4TE</id>
+        <link href="https://www.youtube.com/watch?v=9iMEl10z4TE"/>
+        <updated>2023-03-09T08:10:39.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choraveena Mannil Ninnum | Video Song | Arabikkatha | Sreenivasan | Indrajith | Anil Panachooran]]></title>
+        <id>https://www.youtube.com/watch?v=bxpHlDiX3Lc</id>
+        <link href="https://www.youtube.com/watch?v=bxpHlDiX3Lc"/>
+        <updated>2023-03-09T07:50:54.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മധുര സ്‌മരണകൾ അലതല്ലുന്ന മലയാളസിനിമയിലെ മൃദുല ഗാനങ്ങൾ  | SWEET MELODY SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=xdTIF1E2I88</id>
+        <link href="https://www.youtube.com/watch?v=xdTIF1E2I88"/>
+        <updated>2023-03-09T07:34:53.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈ ഗാനത്തോടൊപ്പം നമ്മുക്ക് ദൈവത്തോട് പ്രാർത്ഥിക്കാം | Christian Devotional Songs Malayalam]]></title>
         <id>https://www.youtube.com/watch?v=1R_iDmpk7Ks</id>
