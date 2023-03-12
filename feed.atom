@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-12T03:21:07.818Z</updated>
+    <updated>2023-03-12T04:23:13.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Puda Njoriyana Kaayalolam | Sudheep Kumar | Rajeev ONV | Biju Murali | Suresh Gopal | Thuruth]]></title>
+        <id>https://www.youtube.com/watch?v=QyGxf1UlezE</id>
+        <link href="https://www.youtube.com/watch?v=QyGxf1UlezE"/>
+        <updated>2023-03-12T03:30:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈ ഗാനങ്ങളിലെ ദൈവകരസ്പർശം തിരിച്ചറിയൂ | Christian Devotional Songs Malayalam]]></title>
         <id>https://www.youtube.com/watch?v=6tu-t5okwFM</id>
@@ -12703,15 +12712,6 @@
         <updated>2022-12-13T00:30:10.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hey Shinkari | Pakalpooram | Mukesh | Geethu Mohandas | KS Chithra | Raveendran | P Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=9lCJFzw6v-g</id>
-        <link href="https://www.youtube.com/watch?v=9lCJFzw6v-g"/>
-        <updated>2022-12-12T15:30:01.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
 </feed>
