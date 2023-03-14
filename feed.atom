@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-14T06:25:24.254Z</updated>
+    <updated>2023-03-14T07:19:32.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഓസ്‌കർ ജേതാവ്  കീരവാണിയുടെ ഹിറ്റ് സോങ്ങ് | M. M. Keeravani | Mammootty | Soorya Manasam]]></title>
+        <id>https://www.youtube.com/watch?v=WYwsslLiuZ8</id>
+        <link href="https://www.youtube.com/watch?v=WYwsslLiuZ8"/>
+        <updated>2023-03-14T06:55:20.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stunt Theme Audio Song | Pailwaan Malayalam | Kichcha Sudeepa | Suniel Shetty | Krishna]]></title>
+        <id>https://www.youtube.com/watch?v=II2o90jydeo</id>
+        <link href="https://www.youtube.com/watch?v=II2o90jydeo"/>
+        <updated>2023-03-14T06:26:28.000Z</updated>
+        <author>
+            <name>Lahari Music Malayalam | T-Series</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thottal Pookkum Cover | Aparna]]></title>
         <id>https://www.youtube.com/watch?v=cGh3oxjtoCU</id>
