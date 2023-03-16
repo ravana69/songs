@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-16T07:18:04.856Z</updated>
+    <updated>2023-03-16T08:25:32.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികളുടെ മനസിൽ ചേക്കേറിയ പുതിയ കാലഘട്ടത്തിലെ വിലമതിക്കാനാവാത്ത ഗാനങ്ങൾ | SUPERHIT MOVIE SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=_cycqrWZhUg</id>
+        <link href="https://www.youtube.com/watch?v=_cycqrWZhUg"/>
+        <updated>2023-03-16T07:52:15.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panchamudipuzha thandi | Sundarakilladi | Bichu thirumala | Ouseppachan | MG Sreekumar | Dileep]]></title>
+        <id>https://www.youtube.com/watch?v=O_XafrncWy0</id>
+        <link href="https://www.youtube.com/watch?v=O_XafrncWy0"/>
+        <updated>2023-03-16T07:30:09.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നീ മധുപകരു മലർചൊരിയു | Nee Madhu Pakaru... | Moodalmanju Superhit Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=mCoM4MgjAAY</id>
+        <link href="https://www.youtube.com/watch?v=mCoM4MgjAAY"/>
+        <updated>2023-03-16T07:18:38.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kappal Paattu Lyric Video | Thuramukham | Rajeev Ravi | Nivin Pauly | Shahabaz Aman | Anvar Ali]]></title>
         <id>https://www.youtube.com/watch?v=CW4ZfVkcQPk</id>
@@ -22,6 +49,15 @@
         <updated>2023-03-16T06:31:28.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaradhanayaay Maridename | K G Markose | Ashok CLG | Anuraj Adoor | Latest Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=j_yI4RrmY6s</id>
+        <link href="https://www.youtube.com/watch?v=j_yI4RrmY6s"/>
+        <updated>2023-03-16T04:36:48.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
