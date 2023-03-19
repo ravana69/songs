@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-19T16:25:22.966Z</updated>
+    <updated>2023-03-19T17:16:36.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -13135,24 +13135,6 @@
         <updated>2022-12-20T06:15:44.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christmas Polka | Usha Uthup | Christmas Carols | Evergreen Christmas Songs]]></title>
-        <id>https://www.youtube.com/watch?v=H84A6u5Xwlk</id>
-        <link href="https://www.youtube.com/watch?v=H84A6u5Xwlk"/>
-        <updated>2022-12-20T05:15:49.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blue Christmas | Usha Uthup | Christmas Carols | Evertime Christmas Songs]]></title>
-        <id>https://www.youtube.com/watch?v=n-dcGvRAeWA</id>
-        <link href="https://www.youtube.com/watch?v=n-dcGvRAeWA"/>
-        <updated>2022-12-20T05:04:41.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
