@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-19T06:25:09.670Z</updated>
+    <updated>2023-03-19T07:16:46.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rathriyil Manju Pole | Dreams | Sujatha Mohan | Vidyasagar | Gireesh Puthanchery]]></title>
+        <id>https://www.youtube.com/watch?v=xK4bkpqbDz8</id>
+        <link href="https://www.youtube.com/watch?v=xK4bkpqbDz8"/>
+        <updated>2023-03-19T07:00:19.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Song "  Arikeyonnu Kandoru Neram " from the movie Vellaripattanam]]></title>
+        <id>https://www.youtube.com/watch?v=gtqKHoR3cHo</id>
+        <link href="https://www.youtube.com/watch?v=gtqKHoR3cHo"/>
+        <updated>2023-03-19T06:30:08.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sahyasaanu Shruthi | Karumaadikkuttan | K J Yesudas | Mohan Sithara | Yusufali Kechery | Vinayan]]></title>
         <id>https://www.youtube.com/watch?v=bgn_jukKx-g</id>
@@ -13,6 +31,15 @@
         <updated>2023-03-19T06:00:12.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vellaripattanam |Official Trailer| Manju Warrier | Soubin Shahir |  Mahesh Vettiyaar |Fullon Studios]]></title>
+        <id>https://www.youtube.com/watch?v=OE0mHWhPOgY</id>
+        <link href="https://www.youtube.com/watch?v=OE0mHWhPOgY"/>
+        <updated>2023-03-19T05:09:19.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
