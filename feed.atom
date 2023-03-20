@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-20T07:18:19.099Z</updated>
+    <updated>2023-03-20T08:26:06.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളത്തിന്റെ മെഗാതാരങ്ങൾ ഒന്നിച്ചണിഞ്ഞൊരുക്കി പ്രിയ പ്രേക്ഷകർക്കേകുന്ന സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=DnDVjYOmWoo</id>
+        <link href="https://www.youtube.com/watch?v=DnDVjYOmWoo"/>
+        <updated>2023-03-20T08:01:46.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഏത് വേഷവും അനായാസം കൈകാര്യം ചെയുന്ന മികച്ച നടനായ സിദ്ധിഖ് അഭിനയിച്ച ചിത്രങ്ങളിലെ ഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=_szOZ2cMOfU</id>
+        <link href="https://www.youtube.com/watch?v=_szOZ2cMOfU"/>
+        <updated>2023-03-20T07:41:46.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prathyasaganagal Jukebox | Nonstop Christian Songs | Malayalam Christian Songs | Old Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=XowbF9uNbqg</id>
+        <link href="https://www.youtube.com/watch?v=XowbF9uNbqg"/>
+        <updated>2023-03-20T03:39:51.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Morning Prayer Songs |Christian SOngs | Chithra Arun | Naveen Bose | Prabhatha Geethangal]]></title>
         <id>https://www.youtube.com/watch?v=3H9N9e3XGIw</id>
