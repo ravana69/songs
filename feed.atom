@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-23T07:16:49.335Z</updated>
+    <updated>2023-03-23T08:24:00.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മന്ദമാരുതൻ പോലെ  തഴുകിയുണർത്തുന്ന മലയാളസിനിമയിലെ മനോഹര ഗാനങ്ങൾ | NISARI MUSIC]]></title>
+        <id>https://www.youtube.com/watch?v=ZvNfnV49SJw</id>
+        <link href="https://www.youtube.com/watch?v=ZvNfnV49SJw"/>
+        <updated>2023-03-23T07:52:05.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maravi Video Song | Thuramukham | Rajeev Ravi | Nivin Pauly | Arjun Ashokan | Indrajith | Anvar Ali]]></title>
         <id>https://www.youtube.com/watch?v=6CLQ1gUXRpM</id>
