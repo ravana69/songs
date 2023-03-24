@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T07:16:39.703Z</updated>
+    <updated>2023-03-24T08:22:22.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികളുടെ മനസ്സറിഞ്ഞു പ്രതിഭകൾ അണിയിച്ചൊരുക്കിയ ശാന്തസുന്ദര ഗാനങ്ങൾ | SOFT MELODY SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=_Mb6KpUU_2k</id>
+        <link href="https://www.youtube.com/watch?v=_Mb6KpUU_2k"/>
+        <updated>2023-03-24T08:06:23.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കനവെല്ലാം കതിരാകുവാൻ | ജോൺസൺ മാഷ് 💎കെ ജെ യേശുദാസ്🎤 പൂവച്ചൽ ഖാദർ✍️ Anuragini]]></title>
         <id>https://www.youtube.com/watch?v=JskNL62Ehbs</id>
