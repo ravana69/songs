@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T12:34:26.093Z</updated>
+    <updated>2023-03-24T13:23:00.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amme Karmegha Varnini | Kodungallur Devotional Song | Aryavrinda #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=i8sMjsCeNY0</id>
+        <link href="https://www.youtube.com/watch?v=i8sMjsCeNY0"/>
+        <updated>2023-03-24T13:15:03.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കാളി കൊടുംകാളി   Sung by Durga Viswanath  Lyrics by Siju Thuravoor]]></title>
+        <id>https://www.youtube.com/watch?v=vw88-y_Kj3M</id>
+        <link href="https://www.youtube.com/watch?v=vw88-y_Kj3M"/>
+        <updated>2023-03-24T13:00:41.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Romancham - The Journey to Success | Johnpaul George Productions | Jithu Madhavan]]></title>
         <id>https://www.youtube.com/watch?v=zwaiXvZTE5E</id>
