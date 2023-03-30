@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-29T23:18:55.866Z</updated>
+    <updated>2023-03-30T01:38:16.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മഹത്വത്തിൻ  രാജാവിനെ ആവേശത്തോടെ എതിരേൽക്കുന്ന മനോഹരങ്ങളായ ഓശാന ഗീതങ്ങൾ |Holy Week Songs |Osana 2023]]></title>
+        <id>https://www.youtube.com/watch?v=hNYaz-Cjcdw</id>
+        <link href="https://www.youtube.com/watch?v=hNYaz-Cjcdw"/>
+        <updated>2023-03-30T00:30:14.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ കേൾക്കാൻ ഏറ്റവും നല്ല ഗാനങ്ങൾ daily worship songs | christian devotional songs malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=IUpQp_T7i_g</id>
+        <link href="https://www.youtube.com/watch?v=IUpQp_T7i_g"/>
+        <updated>2023-03-30T00:30:09.000Z</updated>
+        <author>
+            <name>Old Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mohikkum Neelmizhiyode | Manthrikam | Mohanlal | Priyaraman | Thamby Kannanthanam | S.P.Venkitesh]]></title>
         <id>https://www.youtube.com/watch?v=pG1jILTVELQ</id>
@@ -13036,69 +13054,6 @@
         <updated>2022-12-30T15:31:42.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amma Marannalum | Christian Devotional Songs Malayalam |Madhu Balakrishnan | Rajesh Athikayam]]></title>
-        <id>https://www.youtube.com/watch?v=seRdp0DQy10</id>
-        <link href="https://www.youtube.com/watch?v=seRdp0DQy10"/>
-        <updated>2022-12-30T13:30:13.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All-Time Party Hits (Malayalam) - Special Playlist| Kannilu Kannilu,Thiru Thiru Thiruvananthapurathu]]></title>
-        <id>https://www.youtube.com/watch?v=7_wK3ByYVHk</id>
-        <link href="https://www.youtube.com/watch?v=7_wK3ByYVHk"/>
-        <updated>2022-12-30T13:05:42.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaithozham Amme / Fr. John Pichappilly / K.J. Antony / Shweta Mohan / Marian Song / കൈതൊഴാം അമ്മേ]]></title>
-        <id>https://www.youtube.com/watch?v=Wd0HnJsQASo</id>
-        <link href="https://www.youtube.com/watch?v=Wd0HnJsQASo"/>
-        <updated>2022-12-30T12:48:02.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public Veedu - Song Making | Padavettu | Nivin Pauly | Liju Krishna | Govind Vasantha | Anwar Ali]]></title>
-        <id>https://www.youtube.com/watch?v=Ti5qgHklI1k</id>
-        <link href="https://www.youtube.com/watch?v=Ti5qgHklI1k"/>
-        <updated>2022-12-30T12:30:25.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best of 2022 Super Hit Malayalam Movie Songs | Video Jukebox | 2022 Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=WMqT-IqAx60</id>
-        <link href="https://www.youtube.com/watch?v=WMqT-IqAx60"/>
-        <updated>2022-12-30T11:35:41.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thalolam Tharattaam | KJ Yesudas | Santhosh Keshav | Koottathil Oraal | Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=J62N2ebypPU</id>
-        <link href="https://www.youtube.com/watch?v=J62N2ebypPU"/>
-        <updated>2022-12-30T11:30:47.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ammayanathmavin Thaalam | School Diary | MG Sreekumar | M Hajamoinu]]></title>
-        <id>https://www.youtube.com/watch?v=WUOAkKPmPOM</id>
-        <link href="https://www.youtube.com/watch?v=WUOAkKPmPOM"/>
-        <updated>2022-12-30T11:30:07.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
         </author>
     </entry>
 </feed>
