@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T08:20:48.687Z</updated>
+    <updated>2023-04-02T09:15:49.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A weekend with #Thanaro 🍾| #Kasargold | #AsifAli #SunnyWayne #Vinayakan | #Shorts #YTshorts]]></title>
+        <id>https://www.youtube.com/watch?v=AFmcaDLc4Os</id>
+        <link href="https://www.youtube.com/watch?v=AFmcaDLc4Os"/>
+        <updated>2023-04-02T08:30:01.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kallanum Bhagavathiyum | Mokksha | Vishnu Unnikrishnan | Anusree | East Coast Vijayan]]></title>
         <id>https://www.youtube.com/watch?v=cCkRe9NRrv0</id>
