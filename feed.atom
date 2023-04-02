@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T07:15:02.698Z</updated>
+    <updated>2023-04-02T08:20:48.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kallanum Bhagavathiyum | Mokksha | Vishnu Unnikrishnan | Anusree | East Coast Vijayan]]></title>
+        <id>https://www.youtube.com/watch?v=cCkRe9NRrv0</id>
+        <link href="https://www.youtube.com/watch?v=cCkRe9NRrv0"/>
+        <updated>2023-04-02T08:04:02.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sandhye Kanneeril Enthe | Madanolsavam | S Janaki | ONV Kurup | Salil Chowdhary | Zarina Wahab]]></title>
+        <id>https://www.youtube.com/watch?v=vg6HtNLg9Ec</id>
+        <link href="https://www.youtube.com/watch?v=vg6HtNLg9Ec"/>
+        <updated>2023-04-02T07:30:12.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[രാത്തിങ്കൾ  പൂത്താലി ചാർത്തി #shortsyoutube #bestmelodysongs #bijumenon #mohini]]></title>
+        <id>https://www.youtube.com/watch?v=buuEjx4RxYk</id>
+        <link href="https://www.youtube.com/watch?v=buuEjx4RxYk"/>
+        <updated>2023-04-02T07:30:10.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഭഗവതിയെ കണ്ട് മനസ്സ് നിറഞ്ഞ്  പ്രേക്ഷകർ | Kallanum Bhagavathiyum | Theatre Response | Movie Review]]></title>
         <id>https://www.youtube.com/watch?v=HSUoYHwysGs</id>
