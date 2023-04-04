@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T07:16:04.105Z</updated>
+    <updated>2023-04-04T08:22:59.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൈവമേ ഭഗവതിയാ... ഭഗവതിയെ കണ്ട് അന്തംവിട്ട് പ്രേക്ഷകര്‍ | Kallanum Bhagavathiyum | Theatre Response]]></title>
+        <id>https://www.youtube.com/watch?v=KFbItKpbzfc</id>
+        <link href="https://www.youtube.com/watch?v=KFbItKpbzfc"/>
+        <updated>2023-04-04T07:31:48.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അവധിക്കാലം അടിച്ചു പൊളിക്കാൻ ഏറ്റവും നല്ല സിനിമ ഗാനങ്ങൾ  |Remastered Video Songs]]></title>
+        <id>https://www.youtube.com/watch?v=VCGCKLAXSfk</id>
+        <link href="https://www.youtube.com/watch?v=VCGCKLAXSfk"/>
+        <updated>2023-04-04T07:31:11.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neerattu en manasarani | Anupallavi | Bichu thirumala | KJ Joy | Jayachandran | Vani jayaram | Jayan]]></title>
+        <id>https://www.youtube.com/watch?v=oDp8aRHpvXo</id>
+        <link href="https://www.youtube.com/watch?v=oDp8aRHpvXo"/>
+        <updated>2023-04-04T07:30:10.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പുതിയ തലമുറക്കും പഴയ തലമുറക്കും ഭാവി തലമുറക്കും വേണ്ടി ഒരുക്കിയ എക്കാലത്തെയും മികച്ച ഗാനങ്ങൾ !]]></title>
+        <id>https://www.youtube.com/watch?v=F6mLZZLwMXE</id>
+        <link href="https://www.youtube.com/watch?v=F6mLZZLwMXE"/>
+        <updated>2023-04-04T07:30:03.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS video of the melody Manasilum Pookkaalam from Pookkaalam | Sachin Warrier | #Shorts]]></title>
         <id>https://www.youtube.com/watch?v=G1HgXnKarxs</id>
