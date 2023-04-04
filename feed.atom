@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-04T08:22:59.458Z</updated>
+    <updated>2023-04-04T09:17:37.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ayyada Maname | Video Song | Vellaripattanam | Madhu Vasudevan |Sachin Shankor Mannath | Pushpavathi]]></title>
+        <id>https://www.youtube.com/watch?v=NGzgWaJQOto</id>
+        <link href="https://www.youtube.com/watch?v=NGzgWaJQOto"/>
+        <updated>2023-04-04T08:30:01.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദൈവമേ ഭഗവതിയാ... ഭഗവതിയെ കണ്ട് അന്തംവിട്ട് പ്രേക്ഷകര്‍ | Kallanum Bhagavathiyum | Theatre Response]]></title>
         <id>https://www.youtube.com/watch?v=KFbItKpbzfc</id>
