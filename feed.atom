@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T07:15:52.807Z</updated>
+    <updated>2023-04-07T08:22:19.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മനസിനേറെ  നൊമ്പരമേകിയ മുഹൂർത്തങ്ങളുള്ള ചിത്രങ്ങളിലെ കണ്ണ് നിറയും ഗാനങ്ങൾ | SAD SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=sfj1AiR7xZ8</id>
+        <link href="https://www.youtube.com/watch?v=sfj1AiR7xZ8"/>
+        <updated>2023-04-07T07:30:20.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജനപ്രിയ ചിത്രങ്ങളിലെ ആരും കേൾക്കാൻ ആഗ്രഹിക്കുന്ന നയനമനോഹര ഗാനങ്ങൾ | EVERGREEN HIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=UV9-PTL7v24</id>
+        <link href="https://www.youtube.com/watch?v=UV9-PTL7v24"/>
+        <updated>2023-04-07T07:30:06.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനുഷ്യരെല്ലാം തീരാത്ത ദുഖത്തോടെ പങ്കുചേർന്ന കുരിശിലെ മഹായാഗത്തിന് ഗാനങ്ങൾ | Good Friday Songs]]></title>
+        <id>https://www.youtube.com/watch?v=FkVEbtpQL4I</id>
+        <link href="https://www.youtube.com/watch?v=FkVEbtpQL4I"/>
+        <updated>2023-04-07T07:30:03.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Krooshitha Karunamaya | Baby John Kalayanthani | Abhijith Kollam | Christian Devotional Song Shorts]]></title>
         <id>https://www.youtube.com/watch?v=NJWHWMn4SVk</id>
