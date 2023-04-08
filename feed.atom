@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-08T11:13:29.247Z</updated>
+    <updated>2023-04-08T12:32:04.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Madhumai Nin Mizhiyoram | Soothradharan | KJ Yesudas | Raveendran | S Ramesh Nair]]></title>
+        <id>https://www.youtube.com/watch?v=-GsXSrReCLw</id>
+        <link href="https://www.youtube.com/watch?v=-GsXSrReCLw"/>
+        <updated>2023-04-08T12:30:00.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release April 10th | Chothiyum Kannanum | Guruvayoorappa Devotional]]></title>
+        <id>https://www.youtube.com/watch?v=p5ChcCXEkbI</id>
+        <link href="https://www.youtube.com/watch?v=p5ChcCXEkbI"/>
+        <updated>2023-04-08T12:00:42.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kuppivala Kaikalum | Ee Parakkum Thalika | MG Sreekumar | Ouseppachan | Gireesh Puthanchery]]></title>
+        <id>https://www.youtube.com/watch?v=qdxsfSNl1SA</id>
+        <link href="https://www.youtube.com/watch?v=qdxsfSNl1SA"/>
+        <updated>2023-04-08T11:30:17.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poru Nee Vaarilam Video Song | Priya Raman | KS Chithra | MG Sreekumar | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=RqdW8jIGOQU</id>
+        <link href="https://www.youtube.com/watch?v=RqdW8jIGOQU"/>
+        <updated>2023-04-08T11:30:14.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ithalidum Pookkal Pole |Video Song| Laika | Sudeep Kumar | Satheesh Ramachandran | Ashad Sivaraman]]></title>
+        <id>https://www.youtube.com/watch?v=BO1GH96yiN8</id>
+        <link href="https://www.youtube.com/watch?v=BO1GH96yiN8"/>
+        <updated>2023-04-08T11:30:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കള്ളനും ഭഗവതിയും വിജയം പത്തനാപുരം സീമാസിൽ  ആഘോഷമാക്കിയപ്പോൾ  | #shorts | Kallanum Bhagavathiyum]]></title>
         <id>https://www.youtube.com/watch?v=FmW7zFczt9g</id>
@@ -13828,15 +13873,6 @@
         <updated>2023-01-09T04:39:13.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Christian Prayer Songs | Manoj Christy | Lijo Chembakassery | Prabhatha Geethangal]]></title>
-        <id>https://www.youtube.com/watch?v=9LDXaHjb-SE</id>
-        <link href="https://www.youtube.com/watch?v=9LDXaHjb-SE"/>
-        <updated>2023-01-09T00:30:02.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
