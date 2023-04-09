@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-09T21:14:14.191Z</updated>
+    <updated>2023-04-09T22:16:06.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -13855,15 +13855,6 @@
         <updated>2023-01-10T11:30:11.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Punchiri Thanchum | Lyrical Video | Bicycle Thieves | Shankar Mahadevan | Kaithapram | Deepakdev]]></title>
-        <id>https://www.youtube.com/watch?v=8_XuPG7_xvI</id>
-        <link href="https://www.youtube.com/watch?v=8_XuPG7_xvI"/>
-        <updated>2023-01-10T10:05:02.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
