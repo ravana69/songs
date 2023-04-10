@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-10T02:31:49.366Z</updated>
+    <updated>2023-04-10T03:18:41.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -13810,15 +13810,6 @@
         <updated>2023-01-10T15:30:03.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അന്യ  ഭാഷ ഗായകർ മലയാളത്തിൽ  ആലപിച്ച  ക്രിസ്തീയ  ഭക്തി  ഗാനങ്ങൾ.]]></title>
-        <id>https://www.youtube.com/watch?v=24B65b9fDXQ</id>
-        <link href="https://www.youtube.com/watch?v=24B65b9fDXQ"/>
-        <updated>2023-01-10T14:54:57.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
