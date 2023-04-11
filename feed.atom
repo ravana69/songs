@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-11T03:18:14.540Z</updated>
+    <updated>2023-04-11T04:21:28.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -13729,15 +13729,6 @@
         <updated>2023-01-12T00:30:22.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaa Vaa Thamarapenne | Karumadikuttan | Kalabhavan Mani | MG Sreekumar | Vinayan]]></title>
-        <id>https://www.youtube.com/watch?v=PDd1-4iHs1I</id>
-        <link href="https://www.youtube.com/watch?v=PDd1-4iHs1I"/>
-        <updated>2023-01-11T16:11:12.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
 </feed>
