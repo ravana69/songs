@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-16T21:14:48.978Z</updated>
+    <updated>2023-04-16T22:16:33.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -14107,24 +14107,6 @@
         <updated>2023-01-17T11:34:46.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thangum Karangal Lyrical Video | J V Peter | Kester | Malayalam Christian Lyrics Video]]></title>
-        <id>https://www.youtube.com/watch?v=v2DMJ-a96X8</id>
-        <link href="https://www.youtube.com/watch?v=v2DMJ-a96X8"/>
-        <updated>2023-01-17T09:47:13.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karuppana Kannazhaki | Mamtha Mohandas, Ratheesh Vega | Jayaram, Ramya Krishnan | Aadupuliyattam]]></title>
-        <id>https://www.youtube.com/watch?v=VMYliGncpi0</id>
-        <link href="https://www.youtube.com/watch?v=VMYliGncpi0"/>
-        <updated>2023-01-17T09:38:34.000Z</updated>
-        <author>
-            <name>East Coast</name>
         </author>
     </entry>
 </feed>
