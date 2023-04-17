@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-17T04:22:20.926Z</updated>
+    <updated>2023-04-17T05:17:31.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൂരെ ദൂരെ സാഗരം തേടി HD  |  Varavelpu Malayalam Film Song | Mohanlal | Revathi]]></title>
+        <id>https://www.youtube.com/watch?v=WICBFbdIRd0</id>
+        <link href="https://www.youtube.com/watch?v=WICBFbdIRd0"/>
+        <updated>2023-04-17T05:17:02.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anupama Sneham Karaoke | Rev.Dr. Berchmans Kodackal | Adv. Subal Paul | Christian Minus Tracks]]></title>
+        <id>https://www.youtube.com/watch?v=6qkvO11tvaQ</id>
+        <link href="https://www.youtube.com/watch?v=6qkvO11tvaQ"/>
+        <updated>2023-04-17T04:17:07.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neerolam Mele Moodum Audio Song - Dear Comrade Malayalam | Vijay Deverakonda,Rashmika|Bharat Kamma]]></title>
         <id>https://www.youtube.com/watch?v=JtDfp5p6tC8</id>
@@ -1282,6 +1300,15 @@
         <updated>2023-04-10T07:28:58.000Z</updated>
         <author>
             <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enthanee Mounam | Ole Kanda Naal | Vineeth Sreenivasan | Musthafa Gutz | Hesham Abdul Wahab]]></title>
+        <id>https://www.youtube.com/watch?v=X74QjjSghVE</id>
+        <link href="https://www.youtube.com/watch?v=X74QjjSghVE"/>
+        <updated>2023-04-10T05:59:03.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
     <entry>
@@ -2686,6 +2713,15 @@
         <updated>2023-04-04T06:40:05.000Z</updated>
         <author>
             <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AVAL | 𝔹𝕚𝕛𝕦 ℕ𝕒𝕣𝕒𝕪𝕒𝕟𝕒𝕟 | ℝ𝕒𝕕𝕙𝕚𝕜𝕒 𝔸𝕤𝕙𝕠𝕜 | 𝕂𝕒𝕝𝕖𝕤𝕙 ℙ𝕒𝕟𝕒𝕞𝕓𝕒𝕪𝕚𝕝 | Romantic Malayalam Album]]></title>
+        <id>https://www.youtube.com/watch?v=51QMuwOILOk</id>
+        <link href="https://www.youtube.com/watch?v=51QMuwOILOk"/>
+        <updated>2023-04-04T06:39:08.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
