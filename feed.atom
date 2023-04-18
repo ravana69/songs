@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T21:16:21.867Z</updated>
+    <updated>2023-04-18T22:17:28.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -14188,24 +14188,6 @@
         <updated>2023-01-19T11:30:10.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sooryanakale - Video | Vamanan | Indrans | A B Binil | Nithin George | Aby Thomas, Meenu Abhinandh]]></title>
-        <id>https://www.youtube.com/watch?v=hQNbux379C0</id>
-        <link href="https://www.youtube.com/watch?v=hQNbux379C0"/>
-        <updated>2023-01-19T09:43:33.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mele Mele Maanam...|No : 1 Snehatheeram Bangalore North | #jerryamaldev #mammootty #priyaraman]]></title>
-        <id>https://www.youtube.com/watch?v=L0GKm25lWyE</id>
-        <link href="https://www.youtube.com/watch?v=L0GKm25lWyE"/>
-        <updated>2023-01-19T09:30:06.000Z</updated>
-        <author>
-            <name>Music Zone</name>
         </author>
     </entry>
 </feed>
