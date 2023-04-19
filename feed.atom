@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T19:14:58.846Z</updated>
+    <updated>2023-04-19T20:19:36.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -14260,42 +14260,6 @@
         <updated>2023-01-20T09:54:55.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poonthenunnan Poovinu Chutttum | Rajalakshmi | Baby John Kalayanthani | Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=SthfFkY-h4A</id>
-        <link href="https://www.youtube.com/watch?v=SthfFkY-h4A"/>
-        <updated>2023-01-20T07:39:44.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonnaam Thrikkannil | Varnakkaazhchakal | K S Chithra | Mohan Sithara | Yusufali Kechery | Poornima]]></title>
-        <id>https://www.youtube.com/watch?v=5zy3RIccKDM</id>
-        <link href="https://www.youtube.com/watch?v=5zy3RIccKDM"/>
-        <updated>2023-01-20T07:30:01.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നർമ്മരസം തുളുമ്പുന്ന മലയാളസിനിമയിലെ ഏവരുടെയും ഇഷ്ടഗാനങ്ങൾ  | NISARI | MALAYALAM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=FCpZ8FHc8UM</id>
-        <link href="https://www.youtube.com/watch?v=FCpZ8FHc8UM"/>
-        <updated>2023-01-20T07:29:34.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KANNORAM | ചാരത്തൊരാൾ | Jamsheena Jamal | Shreya Ghoshal | M. Jayachandran | Murugan Kattakkada]]></title>
-        <id>https://www.youtube.com/watch?v=Z-WtpmuzhH8</id>
-        <link href="https://www.youtube.com/watch?v=Z-WtpmuzhH8"/>
-        <updated>2023-01-20T07:18:01.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
