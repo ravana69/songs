@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T19:15:01.229Z</updated>
+    <updated>2023-04-20T20:19:02.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -14287,33 +14287,6 @@
         <updated>2023-01-21T08:30:08.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളസിനിമയിലെ ഇതിഹാസ താരങ്ങൾ മമ്മൂട്ടി - മോഹൻലാൽ അഭിനയിച്ച ചിത്രങ്ങളിലെ നിത്യഹരിതഗാനങ്ങൾ]]></title>
-        <id>https://www.youtube.com/watch?v=uLkFXkMPC9U</id>
-        <link href="https://www.youtube.com/watch?v=uLkFXkMPC9U"/>
-        <updated>2023-01-21T08:13:43.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ezhai Paravakale - Lyrical Video Song | Vamanapuram Bus Route | MG Sreekumar | Sonu Shishupal]]></title>
-        <id>https://www.youtube.com/watch?v=0vlv7_Q2XxY</id>
-        <link href="https://www.youtube.com/watch?v=0vlv7_Q2XxY"/>
-        <updated>2023-01-21T08:07:34.000Z</updated>
-        <author>
-            <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരുകാലത്ത് മലയാളസിനിമയിൽ നിറഞ്ഞു നിന്ന നായികാവസന്തം ഉർവശി അഭിനയിച്ച സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | URVASHI]]></title>
-        <id>https://www.youtube.com/watch?v=4dkTchJaCkA</id>
-        <link href="https://www.youtube.com/watch?v=4dkTchJaCkA"/>
-        <updated>2023-01-21T07:48:52.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
