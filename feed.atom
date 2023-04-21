@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-21T05:17:23.911Z</updated>
+    <updated>2023-04-21T06:23:36.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -14233,15 +14233,6 @@
         <updated>2023-01-22T00:30:03.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21 January 2023]]></title>
-        <id>https://www.youtube.com/watch?v=qpgr9UgXUd8</id>
-        <link href="https://www.youtube.com/watch?v=qpgr9UgXUd8"/>
-        <updated>2023-01-21T18:22:27.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
