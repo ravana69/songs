@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T11:15:19.995Z</updated>
+    <updated>2023-04-24T12:35:57.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daivam Thanna Vidhiyalle | Snehithan | Asha G Menon | Mohan Sithara | Yusufali Kechery]]></title>
+        <id>https://www.youtube.com/watch?v=JbfHPFkl0cY</id>
+        <link href="https://www.youtube.com/watch?v=JbfHPFkl0cY"/>
+        <updated>2023-04-24T12:00:20.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Namukkum Jeevikkande - Video Song | Boomerang | Vineeth Sreenivasan | Shine Tom Chacko | Samyuktha]]></title>
+        <id>https://www.youtube.com/watch?v=E76AiR4qUEE</id>
+        <link href="https://www.youtube.com/watch?v=E76AiR4qUEE"/>
+        <updated>2023-04-24T11:43:09.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poonilavithal - Lyrical Video | Nizhal | Madhu Balakrishnan | Sarayu]]></title>
         <id>https://www.youtube.com/watch?v=U7T1C_9VNIw</id>
@@ -14233,15 +14251,6 @@
         <updated>2023-01-25T03:44:30.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manasinullile Nombaram | Christian Video Song | Manoj Christy | Joji Johns | Manoj Illavunkal]]></title>
-        <id>https://www.youtube.com/watch?v=3v1k1SNmmYU</id>
-        <link href="https://www.youtube.com/watch?v=3v1k1SNmmYU"/>
-        <updated>2023-01-24T23:30:01.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
