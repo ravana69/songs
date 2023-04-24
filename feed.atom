@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T19:14:23.311Z</updated>
+    <updated>2023-04-24T20:18:39.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -14251,33 +14251,6 @@
         <updated>2023-01-25T08:52:27.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rajavin Paarvai - Lyrical Video Song | Vamanapuram Bus Route | SP Balasubramanyam, KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=Ptx0bf9dbvA</id>
-        <link href="https://www.youtube.com/watch?v=Ptx0bf9dbvA"/>
-        <updated>2023-01-25T08:13:43.000Z</updated>
-        <author>
-            <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അഴകേ.. അന്നൊരാവണിയില്‍ | Azhake Annoravaniyil | Vazhunnor | Suresh Gopi]]></title>
-        <id>https://www.youtube.com/watch?v=Kt72htDFBt4</id>
-        <link href="https://www.youtube.com/watch?v=Kt72htDFBt4"/>
-        <updated>2023-01-25T08:01:22.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തമിഴകത്ത് നിന്ന് വന്ന മലയാളികളുടെ ഹൃദയം കവർന്ന സംഗീത സംവിധായകൻ എസ് പി വെങ്കിടേഷ് | SP VENKITESH HITS]]></title>
-        <id>https://www.youtube.com/watch?v=hS0CrS8rjC0</id>
-        <link href="https://www.youtube.com/watch?v=hS0CrS8rjC0"/>
-        <updated>2023-01-25T07:50:13.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
