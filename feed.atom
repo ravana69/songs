@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-24T23:17:57.413Z</updated>
+    <updated>2023-04-25T01:34:47.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Singer Of The Week | Biju Narayanan | Christian Devotional Songs Malayalam | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=3lHOkS2VhHw</id>
+        <link href="https://www.youtube.com/watch?v=3lHOkS2VhHw"/>
+        <updated>2023-04-25T00:30:03.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vinnile Gandharva | Rajavinte Makan | Mohanlal | Ambika | Shibu Chakravarthy | Unni Menon]]></title>
         <id>https://www.youtube.com/watch?v=EY85ZNp494E</id>
@@ -14170,60 +14179,6 @@
         <updated>2023-01-25T14:12:42.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ithiri Chakkara Nulli  | Film Song from the Malayalam Movie Seniors]]></title>
-        <id>https://www.youtube.com/watch?v=yNDv8FWo0eY</id>
-        <link href="https://www.youtube.com/watch?v=yNDv8FWo0eY"/>
-        <updated>2023-01-25T13:30:30.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Melody Songs | Wilson Piravom | Christian Devotional Songs Malayalam | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=wxbXSb62Ea8</id>
-        <link href="https://www.youtube.com/watch?v=wxbXSb62Ea8"/>
-        <updated>2023-01-25T13:30:20.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അസ്മാകം രാഷ്ട്രം | Our Nation | Ramesh Murali | Salahuddeen Kecheri | Sanskrit Patriotic Songs]]></title>
-        <id>https://www.youtube.com/watch?v=7YRQS2NsAR8</id>
-        <link href="https://www.youtube.com/watch?v=7YRQS2NsAR8"/>
-        <updated>2023-01-25T12:30:08.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kunjurangum Koottinullil | Ponnuchami | Evergreen Malayalam Movie Song | Suresh Gopi | Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=eHW3JltCREg</id>
-        <link href="https://www.youtube.com/watch?v=eHW3JltCREg"/>
-        <updated>2023-01-25T12:00:22.000Z</updated>
-        <author>
-            <name>Music Zone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paattonnu Paadallo | Angane Njanum Premichu | Vaishnav Gireesh | Hesham Abdul Wahab|BK Harinarayanan]]></title>
-        <id>https://www.youtube.com/watch?v=ePMDXQqyz5o</id>
-        <link href="https://www.youtube.com/watch?v=ePMDXQqyz5o"/>
-        <updated>2023-01-25T11:30:23.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rithupallaviyil Video Song | Mohanlal | MG Sreekumar | Ouseppachan | Kaithapram | Life is Beautiful]]></title>
-        <id>https://www.youtube.com/watch?v=4_g_N9Yh92k</id>
-        <link href="https://www.youtube.com/watch?v=4_g_N9Yh92k"/>
-        <updated>2023-01-25T11:30:01.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
