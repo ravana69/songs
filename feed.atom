@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-25T09:18:03.266Z</updated>
+    <updated>2023-04-25T10:19:52.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൂരെ ദൂരെ സാഗരം തേടി | Varavelpu Malayalam Film Song | Mohanlal | Revathi]]></title>
+        <id>https://www.youtube.com/watch?v=EfxoqSvC7qs</id>
+        <link href="https://www.youtube.com/watch?v=EfxoqSvC7qs"/>
+        <updated>2023-04-25T09:32:45.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഏത് വേഷത്തിലും ഒരുപോലെ തിളങ്ങുന്ന മലയാളികളുടെ ഇഷ്ടനടൻ ജയറാം ചിത്രങ്ങളിലെ വിനോദഗാനങ്ങൾ | JAYARAM HITS]]></title>
         <id>https://www.youtube.com/watch?v=EBWPJKxSDE0</id>
@@ -40,6 +49,33 @@
         <updated>2023-04-25T06:40:19.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kunjikaikal Thattithatti | Animation Video Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=BKwEoSMgNvU</id>
+        <link href="https://www.youtube.com/watch?v=BKwEoSMgNvU"/>
+        <updated>2023-04-25T06:21:23.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Howwa Ammachi | Animation Video Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=qJkDDZdhr5w</id>
+        <link href="https://www.youtube.com/watch?v=qJkDDZdhr5w"/>
+        <updated>2023-04-25T06:21:15.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aadidam Nrithamaadidam | Christian Animation Video | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=kHNl6CcelyI</id>
+        <link href="https://www.youtube.com/watch?v=kHNl6CcelyI"/>
+        <updated>2023-04-25T06:21:05.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
