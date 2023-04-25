@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-25T07:16:44.816Z</updated>
+    <updated>2023-04-25T08:23:16.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഏത് വേഷത്തിലും ഒരുപോലെ തിളങ്ങുന്ന മലയാളികളുടെ ഇഷ്ടനടൻ ജയറാം ചിത്രങ്ങളിലെ വിനോദഗാനങ്ങൾ | JAYARAM HITS]]></title>
+        <id>https://www.youtube.com/watch?v=EBWPJKxSDE0</id>
+        <link href="https://www.youtube.com/watch?v=EBWPJKxSDE0"/>
+        <updated>2023-04-25T07:30:03.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Kili Paattu Moolave  | Mohanlal, Padmapriya | Gireesh Puthenchery - Vadakumnadhan]]></title>
+        <id>https://www.youtube.com/watch?v=KwQHiG9qcX4</id>
+        <link href="https://www.youtube.com/watch?v=KwQHiG9qcX4"/>
+        <updated>2023-04-25T07:30:03.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രണയത്തിന് ചാരുതയും ചേലുമേകി പ്രമുഖ ഹിറ്റ് ചിത്രങ്ങളിൽ വന്ന സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ  | HIT LOVE SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=9230HnEcyLQ</id>
+        <link href="https://www.youtube.com/watch?v=9230HnEcyLQ"/>
+        <updated>2023-04-25T07:30:02.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദീപം മണിദീപം പൊൻദീപം | Deepam Mani Deepam |  Avidathepole Ivideyum | Malayalam Film Song]]></title>
         <id>https://www.youtube.com/watch?v=pIzfu8etThA</id>
@@ -409,6 +436,15 @@
         <updated>2023-04-22T11:12:16.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദേഹം മണ്ണിലുപേക്ഷിച്ചു പ്രാണൻ പ്രിയനിൽ ചേരുമ്പോൾ... | Anna Baby | Rev. O.M. Rajukutty]]></title>
+        <id>https://www.youtube.com/watch?v=x5q8BU1RVTY</id>
+        <link href="https://www.youtube.com/watch?v=x5q8BU1RVTY"/>
+        <updated>2023-04-22T09:49:13.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
