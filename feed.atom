@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-28T19:14:37.305Z</updated>
+    <updated>2023-04-28T20:18:28.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -14512,15 +14512,6 @@
         <updated>2023-01-29T11:30:11.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കളഭം തരാം ഭഗവാനെൻ മനസ്സും തരാം #shorts #youtubeshorts #vineeth #kavyamadhavan]]></title>
-        <id>https://www.youtube.com/watch?v=6RLfKRMigjA</id>
-        <link href="https://www.youtube.com/watch?v=6RLfKRMigjA"/>
-        <updated>2023-01-29T07:30:01.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
