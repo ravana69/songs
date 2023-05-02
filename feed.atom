@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-02T13:21:56.451Z</updated>
+    <updated>2023-05-02T14:16:51.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kurishinte Vazhiyil |Christian Devotional Songs Malayalam |Richukuttan |Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=pe0ykVgJuvE</id>
+        <link href="https://www.youtube.com/watch?v=pe0ykVgJuvE"/>
+        <updated>2023-05-02T13:31:00.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uyartheedum Njan Ente Kankal | Nithya Mammen | Evergreen Malayalam Christian Devotional Songs]]></title>
         <id>https://www.youtube.com/watch?v=pcprfU3oNw4</id>
