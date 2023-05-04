@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T19:14:02.977Z</updated>
+    <updated>2023-05-04T20:18:34.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -14737,24 +14737,6 @@
         <updated>2023-02-04T10:15:30.000Z</updated>
         <author>
             <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു കഥ കേൾക്കുന്ന  രസത്തോടെ കേട്ടിരിക്കാവുന്ന സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ  |  SUPERHIT MALAYALAM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=x7TPPcTWTDQ</id>
-        <link href="https://www.youtube.com/watch?v=x7TPPcTWTDQ"/>
-        <updated>2023-02-04T07:43:42.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രണയവികാരത്തെ പ്രതിബലിപ്പിച്ചു കാണിച്ച റൊമാന്റിക് ഗാനങ്ങൾ | ROMANTIC SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=HPHS9Qf-2Bw</id>
-        <link href="https://www.youtube.com/watch?v=HPHS9Qf-2Bw"/>
-        <updated>2023-02-04T07:30:13.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
