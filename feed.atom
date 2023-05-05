@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-05T05:16:48.447Z</updated>
+    <updated>2023-05-05T06:23:14.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കന്നിമണ്ണിന്റെ ഗന്ധമുയർന്നൂതെന്നൽ മദിച്ചു പാടുന്നൂ| Panjagni Malayalam Movie Song | Mohanlal| Geetha]]></title>
+        <id>https://www.youtube.com/watch?v=87XEjw2nMe0</id>
+        <link href="https://www.youtube.com/watch?v=87XEjw2nMe0"/>
+        <updated>2023-05-05T05:26:51.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intro of #NaslenKGafoor | #Neymar | #Shorts | #saregamamalayalam]]></title>
         <id>https://www.youtube.com/watch?v=SM1B4s4_UkQ</id>
