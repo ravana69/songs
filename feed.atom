@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-05T17:15:56.595Z</updated>
+    <updated>2023-05-05T18:21:36.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -14861,15 +14861,6 @@
         <id>https://www.youtube.com/watch?v=kGMJ2O5DUvY</id>
         <link href="https://www.youtube.com/watch?v=kGMJ2O5DUvY"/>
         <updated>2023-02-05T07:00:13.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaro Thaniye | Kinavalli | Roshni Suresh | Shashwath | Nishad Ahmed]]></title>
-        <id>https://www.youtube.com/watch?v=gu_P3MUesYc</id>
-        <link href="https://www.youtube.com/watch?v=gu_P3MUesYc"/>
-        <updated>2023-02-05T06:00:12.000Z</updated>
         <author>
             <name>Satyam Audios</name>
         </author>
