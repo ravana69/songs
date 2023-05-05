@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-04T23:18:33.410Z</updated>
+    <updated>2023-05-05T01:22:45.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Songs Of The Week | Jojo Alappatt | Wilson Piravom | Christian Devotional Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=xQmKqegC7Tw</id>
+        <link href="https://www.youtube.com/watch?v=xQmKqegC7Tw"/>
+        <updated>2023-05-05T00:30:24.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paal Ninavilum | Kakakum Poochakum Kalyanam | Dileep | Indrans | Pappu | Raveendran | Biju Narayanan]]></title>
         <id>https://www.youtube.com/watch?v=GqTGKcfP6w8</id>
@@ -14674,42 +14683,6 @@
         <updated>2023-02-04T13:30:10.000Z</updated>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ezhumalayum | Kunjiramante Kuppayam | Mohammad Maqbool Mansoor | Siraj | P K Gopi]]></title>
-        <id>https://www.youtube.com/watch?v=vOJu2riljSQ</id>
-        <link href="https://www.youtube.com/watch?v=vOJu2riljSQ"/>
-        <updated>2023-02-04T12:30:24.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doore Doore | M G Sreekumar | Mohanlal | Vidyasagar | Keerthi Suresh | Priyadarshan | Geethanjali]]></title>
-        <id>https://www.youtube.com/watch?v=DvbaJwYZthY</id>
-        <link href="https://www.youtube.com/watch?v=DvbaJwYZthY"/>
-        <updated>2023-02-04T12:11:31.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalakaanchi | Vaarikkuzhiyile Kolapathakam | Vaishnav Girish | Vipin Xavier|Anju Joseph|Saviolaz.C S]]></title>
-        <id>https://www.youtube.com/watch?v=y6m1xcL-Hj0</id>
-        <link href="https://www.youtube.com/watch?v=y6m1xcL-Hj0"/>
-        <updated>2023-02-04T11:30:27.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PALLIMANI | Official Trailer | Anil Kumbazha | Shwetha Menon | L A Menon (Productions Pvt Ltd)]]></title>
-        <id>https://www.youtube.com/watch?v=rYM6lFcPDys</id>
-        <link href="https://www.youtube.com/watch?v=rYM6lFcPDys"/>
-        <updated>2023-02-04T11:30:11.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
