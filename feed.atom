@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-06T11:14:24.167Z</updated>
+    <updated>2023-05-06T12:32:06.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malayude Mukalil | Vaanku | Video Song | വാങ്ക് | Kavya Prakash | 7J Films | Ouseppachan | Anaswara]]></title>
+        <id>https://www.youtube.com/watch?v=94JlPHpPyTs</id>
+        <link href="https://www.youtube.com/watch?v=94JlPHpPyTs"/>
+        <updated>2023-05-06T12:30:04.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alapanam Video Song | Live | Mamta Mohandas | Shine Tom | Priya Prakash Varrier | Alphons Joseph]]></title>
+        <id>https://www.youtube.com/watch?v=m76wh6uoGaQ</id>
+        <link href="https://www.youtube.com/watch?v=m76wh6uoGaQ"/>
+        <updated>2023-05-06T11:30:09.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saamagaanasaarame Video Song | Agnidevan | Mohanlal | MG Sreekumar | Gireesh Puthenchery |KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=4C0dtUewRl4</id>
+        <link href="https://www.youtube.com/watch?v=4C0dtUewRl4"/>
+        <updated>2023-05-06T11:30:01.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paadi Paaloottum - Lyrical Video | 3 Chaar Sou Bees | Jassie Gift | Anil Panachooran]]></title>
         <id>https://www.youtube.com/watch?v=HdwIKnRw4V0</id>
@@ -14917,15 +14944,6 @@
         <updated>2023-02-06T05:30:04.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Songs | Sr.Tesly | Prabhatha Geethangal | Christian Devotional Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=qKtgbilTX9c</id>
-        <link href="https://www.youtube.com/watch?v=qKtgbilTX9c"/>
-        <updated>2023-02-06T00:30:20.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
