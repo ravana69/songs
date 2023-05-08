@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-08T16:24:14.830Z</updated>
+    <updated>2023-05-08T17:15:41.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -15052,33 +15052,6 @@
         <updated>2023-02-08T05:55:30.000Z</updated>
         <author>
             <name>Lahari Music Malayalam - TSeries</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sona Sona | Lyrical Video | Ben Johnson | Kalabhavan Mani | Kaithapram | Deepak Dev | Anil C Menon]]></title>
-        <id>https://www.youtube.com/watch?v=xzCOx5Zyy8Y</id>
-        <link href="https://www.youtube.com/watch?v=xzCOx5Zyy8Y"/>
-        <updated>2023-02-08T04:29:54.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ramzan Nilavotha | Lyrical Video | Boy Friend | K J Yesudas | Kaithapram | M.Jayachandran | Vinayan]]></title>
-        <id>https://www.youtube.com/watch?v=YiI6a6YDyxY</id>
-        <link href="https://www.youtube.com/watch?v=YiI6a6YDyxY"/>
-        <updated>2023-02-08T04:28:02.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onnam Kombathe | Lyrical Video | Ottamandaram | Shweta Mohan | Vinod Mankara | Ramesh Narayan]]></title>
-        <id>https://www.youtube.com/watch?v=xY8Mmh-CqEY</id>
-        <link href="https://www.youtube.com/watch?v=xY8Mmh-CqEY"/>
-        <updated>2023-02-08T04:26:14.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
