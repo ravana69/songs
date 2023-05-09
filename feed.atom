@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-09T04:21:06.921Z</updated>
+    <updated>2023-05-09T05:16:45.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ammathanal | Sudhan Vachakkal | Siju Sivan | Sebi Nayarambalam | Album Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Vfro8qYNEpU</id>
+        <link href="https://www.youtube.com/watch?v=Vfro8qYNEpU"/>
+        <updated>2023-05-09T04:42:40.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[En Roja Neeye | Kushi | Vijay Deverakonda | Samantha Ruth Prabhu | Hesham Abdul Wahab | Lyrical]]></title>
+        <id>https://www.youtube.com/watch?v=XmwH3_8iUYY</id>
+        <link href="https://www.youtube.com/watch?v=XmwH3_8iUYY"/>
+        <updated>2023-05-09T02:29:22.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഇരുളേറുന്നു പാരിടത്തില്‍ ഇല്ലിനി നാളധികം]]></title>
         <id>https://www.youtube.com/watch?v=ecibMFXPiMg</id>
