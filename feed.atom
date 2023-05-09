@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-09T22:16:30.720Z</updated>
+    <updated>2023-05-09T23:17:36.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -15043,24 +15043,6 @@
         <updated>2023-02-09T11:30:16.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pranayavasantham | P Jayachandran | BK Harinarayanan | Haripad Sudhish| Balu R Nair | Romantic Album]]></title>
-        <id>https://www.youtube.com/watch?v=fNltRT2T6JI</id>
-        <link href="https://www.youtube.com/watch?v=fNltRT2T6JI"/>
-        <updated>2023-02-09T10:38:33.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ലോട്ടസ് ഒത്ത മിഴിയാല്‍ ചാട്ടുളി നീയെറിഞ്ഞാല്‍‍ | Mammootty Hits]]></title>
-        <id>https://www.youtube.com/watch?v=ULUQWPmu3vk</id>
-        <link href="https://www.youtube.com/watch?v=ULUQWPmu3vk"/>
-        <updated>2023-02-09T10:24:24.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
