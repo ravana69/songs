@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T07:16:09.215Z</updated>
+    <updated>2023-05-10T08:22:12.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[തിളക്കം ഒട്ടും കുറവില്ലാത്ത മലയാളചലച്ചിത്ര ഗാനസംഗമം | MALAYALA CHALACHITHRAGANANGAL]]></title>
+        <id>https://www.youtube.com/watch?v=xYyIGU9DqmY</id>
+        <link href="https://www.youtube.com/watch?v=xYyIGU9DqmY"/>
+        <updated>2023-05-10T07:34:03.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആരുകേട്ടാലും ഇഷ്ടപെടുമെന്ന് നിസംശയം പറയാവുന്ന മലയാളസിനിമയിലെ മികവുള്ള ഗാനങ്ങൾ | SUPERHITS]]></title>
+        <id>https://www.youtube.com/watch?v=4mykSwlUuL8</id>
+        <link href="https://www.youtube.com/watch?v=4mykSwlUuL8"/>
+        <updated>2023-05-10T07:32:43.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mazhamekha Chelin | Karaoke Video | Kadha Thudarunnu  | Ilayaraja |Vayalar Sarath| Sathyan Anthikkad]]></title>
         <id>https://www.youtube.com/watch?v=DnSnB2dbIZg</id>
