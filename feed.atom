@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-11T20:18:28.348Z</updated>
+    <updated>2023-05-11T21:15:16.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -15151,15 +15151,6 @@
         <updated>2023-02-11T11:30:05.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super Actor Nammude Lalettan - Lyrical Video | Bhagavan | Sannidhanandan | Mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=5M7Nbs4RSe0</id>
-        <link href="https://www.youtube.com/watch?v=5M7Nbs4RSe0"/>
-        <updated>2023-02-11T08:39:58.000Z</updated>
-        <author>
-            <name>MC Music</name>
         </author>
     </entry>
 </feed>
