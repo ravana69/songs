@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-16T16:23:29.165Z</updated>
+    <updated>2023-05-16T17:15:40.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -15547,33 +15547,6 @@
         <updated>2023-02-16T07:55:50.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nattumaviloru Maina |Karaoke  Video | 916 | Shreya Ghoshal | M Jayachandran | Rafeeque Ahammed]]></title>
-        <id>https://www.youtube.com/watch?v=01y27zG-U4g</id>
-        <link href="https://www.youtube.com/watch?v=01y27zG-U4g"/>
-        <updated>2023-02-16T04:50:25.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mele Vellithinkal | Karaoke Video  | Thanmathra  | Mohanlal | Blessy | Mohan Sithara | Karthik]]></title>
-        <id>https://www.youtube.com/watch?v=yIEbY68Y7Oc</id>
-        <link href="https://www.youtube.com/watch?v=yIEbY68Y7Oc"/>
-        <updated>2023-02-16T04:44:15.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassil Viriyunna | Karaoke Video| Madhuchandralekha | K J Yesudas | Kanesh Punoor | M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=51UjMXbtQrM</id>
-        <link href="https://www.youtube.com/watch?v=51UjMXbtQrM"/>
-        <updated>2023-02-16T04:42:51.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
