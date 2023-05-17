@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-17T19:13:45.132Z</updated>
+    <updated>2023-05-17T20:18:07.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -15547,24 +15547,6 @@
         <updated>2023-02-17T09:01:51.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Athirukal Marayave - Lyrical | Pendulum| Vijay Babu | Indrans| Anumol| Jean P Johnson | Rejin S Babu]]></title>
-        <id>https://www.youtube.com/watch?v=4M5TyWidQbo</id>
-        <link href="https://www.youtube.com/watch?v=4M5TyWidQbo"/>
-        <updated>2023-02-17T07:56:16.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthe oru Srinkaram | Seetha | Meera Jasmine | Shivaji | Romantic Songs | Malayalam Songs]]></title>
-        <id>https://www.youtube.com/watch?v=5nUfhG8wOcw</id>
-        <link href="https://www.youtube.com/watch?v=5nUfhG8wOcw"/>
-        <updated>2023-02-17T07:30:01.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
