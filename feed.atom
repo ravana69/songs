@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-16T23:17:00.642Z</updated>
+    <updated>2023-05-17T01:37:05.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -15448,42 +15448,6 @@
         <updated>2023-02-16T14:04:47.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naavuthanna Nadhane | New Christian Video Song | Fr.Vipin Kurishuthara CMI | Sojan Parakkal]]></title>
-        <id>https://www.youtube.com/watch?v=v1cYOkR5UxQ</id>
-        <link href="https://www.youtube.com/watch?v=v1cYOkR5UxQ"/>
-        <updated>2023-02-16T13:30:21.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muthumani Radhe | Thattumpurathu Achuthan | Vijesh Gopal | Deepankuran | Beeyar Prasad]]></title>
-        <id>https://www.youtube.com/watch?v=pwLWQLlS558</id>
-        <link href="https://www.youtube.com/watch?v=pwLWQLlS558"/>
-        <updated>2023-02-16T13:00:37.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandaraandu | Drama | Mohanlal | Vinu Thomas | BK Harinarayanan]]></title>
-        <id>https://www.youtube.com/watch?v=WUyIT0X9kNQ</id>
-        <link href="https://www.youtube.com/watch?v=WUyIT0X9kNQ"/>
-        <updated>2023-02-16T12:00:31.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akkuthikkuthaadaan Video Song | Shalini | Shobana | KS Chithra | Kaithapram| Ilayaraja |Kaliyoonjaal]]></title>
-        <id>https://www.youtube.com/watch?v=rNcvRVgec5E</id>
-        <link href="https://www.youtube.com/watch?v=rNcvRVgec5E"/>
-        <updated>2023-02-16T11:30:28.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
