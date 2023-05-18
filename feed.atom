@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-18T19:13:40.543Z</updated>
+    <updated>2023-05-18T20:18:26.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -15574,33 +15574,6 @@
         <updated>2023-02-18T11:30:02.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വയ്യാതെ കിടക്കുന്നവർ പോലും എഴുന്നേറ്റ് നൃത്തമാടും സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ  | SUPERHIT SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=UKR2hk7MRVU</id>
-        <link href="https://www.youtube.com/watch?v=UKR2hk7MRVU"/>
-        <updated>2023-02-18T07:30:09.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roja Malare | Randu Lokam | G Devarajan | Yusufali Kecheri | P Madhuri | Jayabharathi Movie Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Y2Yx0rQxgZs</id>
-        <link href="https://www.youtube.com/watch?v=Y2Yx0rQxgZs"/>
-        <updated>2023-02-18T07:30:07.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അന്യഭാഷാ സംഗീത സംവിധായകർ മലയാളസിനിമക്ക് സമ്മാനിച്ച ഏവരുടെയും ഇഷ്ടഗാനങ്ങൾ | SUPERHIT MOVIES]]></title>
-        <id>https://www.youtube.com/watch?v=R99drESHzs0</id>
-        <link href="https://www.youtube.com/watch?v=R99drESHzs0"/>
-        <updated>2023-02-18T07:30:04.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
