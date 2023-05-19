@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-19T19:13:45.899Z</updated>
+    <updated>2023-05-19T20:18:09.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -15709,24 +15709,6 @@
         <updated>2023-02-19T10:08:53.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എന്റെ ഏകാന്ത ജന്മം നീ പൊന്നാക്കുമോ! #shortsyoutube #shorts #kavyamadhavan]]></title>
-        <id>https://www.youtube.com/watch?v=7VHS8MpSA7w</id>
-        <link href="https://www.youtube.com/watch?v=7VHS8MpSA7w"/>
-        <updated>2023-02-19T07:30:01.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Kannil Mandaram - Moorkhan(1980) | P Jayachandran | B Manikyam | A.T Ummer]]></title>
-        <id>https://www.youtube.com/watch?v=aDcHF9AqXqI</id>
-        <link href="https://www.youtube.com/watch?v=aDcHF9AqXqI"/>
-        <updated>2023-02-19T07:30:01.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
