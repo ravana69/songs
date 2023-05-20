@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-20T13:18:29.412Z</updated>
+    <updated>2023-05-20T14:15:34.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chankinathoru Novunde | Christian Video Song | Joby Kavalam | Surya Narayanan | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=PArbxtCcuIM</id>
+        <link href="https://www.youtube.com/watch?v=PArbxtCcuIM"/>
+        <updated>2023-05-20T13:30:17.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Senthamizhin Naadaane - Video Song | Neymar | Mathew,Naslen| Shaan Rahman| Sudhi Maddison| V Cinemas]]></title>
         <id>https://www.youtube.com/watch?v=rDwgJvuao70</id>
@@ -15772,15 +15781,6 @@
         <updated>2023-02-20T03:43:15.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OWN MEDIA MUSIC : ONNU POTTYKARANJOTE NATHA... WILSON PIRAVAM/JOY CHERUVATHOOR/BASTIN AUGUSTIN/]]></title>
-        <id>https://www.youtube.com/watch?v=7IIBzDoMpGI</id>
-        <link href="https://www.youtube.com/watch?v=7IIBzDoMpGI"/>
-        <updated>2023-02-20T01:52:47.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
