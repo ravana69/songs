@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-22T15:18:28.619Z</updated>
+    <updated>2023-05-22T16:23:09.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chithramani Kattil | Symphony | Deepak Dev | P Jayachandran | KS Chithra | Kaithapram | IV Sasi]]></title>
+        <id>https://www.youtube.com/watch?v=r1cSdN4RAb4</id>
+        <link href="https://www.youtube.com/watch?v=r1cSdN4RAb4"/>
+        <updated>2023-05-22T15:30:11.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദൈവസ്നേഹം മാറുകില്ല...!]]></title>
         <id>https://www.youtube.com/watch?v=ItCksrk0mVw</id>
