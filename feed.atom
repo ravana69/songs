@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-23T11:14:50.246Z</updated>
+    <updated>2023-05-23T12:35:04.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pranayardra Mohajathikal | Suvarna Simhaasanam | Biju Narayanan | Ouseppachan | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=mqs7q-lye0s</id>
+        <link href="https://www.youtube.com/watch?v=mqs7q-lye0s"/>
+        <updated>2023-05-23T12:00:40.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thoo Megham Pol Hd - Video Song | Majnu Malayalam | Nani, Anu Immanuel | Chinmayi | Gopi Sunder]]></title>
         <id>https://www.youtube.com/watch?v=WShRvJln6XY</id>
@@ -15898,15 +15907,6 @@
         <updated>2023-02-23T08:38:11.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നോമ്പുകാല പ്രഭാതത്തിൽ കേൾക്കേണ്ടിയ ഗാനങ്ങൾ |Christian Devotional Songs Malayalam | Lent Songs]]></title>
-        <id>https://www.youtube.com/watch?v=oODt--5Ehcg</id>
-        <link href="https://www.youtube.com/watch?v=oODt--5Ehcg"/>
-        <updated>2023-02-23T00:30:24.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
