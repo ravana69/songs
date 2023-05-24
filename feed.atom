@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-24T07:16:00.375Z</updated>
+    <updated>2023-05-24T08:22:26.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആര് കേട്ടാലും കൂടെ പാടാൻ തോന്നുന്ന മലയാളസിനിമയിലെ അതിമനോഹര ഗാനങ്ങൾ | SUPERHIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=qLGNM97erG8</id>
+        <link href="https://www.youtube.com/watch?v=qLGNM97erG8"/>
+        <updated>2023-05-24T07:40:59.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സിലെങ്കിലും ഒരു വട്ടം പ്രണയിച്ചവർ അറിയാതെ ഓർത്തുപോകുന്ന പ്രണയഗാനങ്ങൾ | LOVE SONGS | NISARI]]></title>
+        <id>https://www.youtube.com/watch?v=w7EhxsP9q40</id>
+        <link href="https://www.youtube.com/watch?v=w7EhxsP9q40"/>
+        <updated>2023-05-24T07:30:10.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vavavo Vave HD 1080p | Ente Veedu Appoontem | Gireesh Puthenchery | Jyothirmayi | Jayaram | Kalidas]]></title>
+        <id>https://www.youtube.com/watch?v=iY66nxcuOBw</id>
+        <link href="https://www.youtube.com/watch?v=iY66nxcuOBw"/>
+        <updated>2023-05-24T07:30:10.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ശ്യാമാംബരം | Shyamambaram | Artham Movie Song | K.J.Yesudas | Mammootty | Saranya | Parvathi]]></title>
         <id>https://www.youtube.com/watch?v=boAnj3vBX4s</id>
