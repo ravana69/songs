@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-25T07:16:08.458Z</updated>
+    <updated>2023-05-25T08:21:58.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എത്രകേട്ടാലും മനം മടുക്കാത്ത അത്രമേൽ സുന്ദരങ്ങളായ മലയാളസിനിമാഗാനങ്ങൾ | MALAYALAM FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=tFH7sj3Yj2U</id>
+        <link href="https://www.youtube.com/watch?v=tFH7sj3Yj2U"/>
+        <updated>2023-05-25T07:43:37.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiger Nageswara Rao - First Look Glimpse (Malayalam) | Ravi Teja | Dulquer Salmaan | Vamsee]]></title>
+        <id>https://www.youtube.com/watch?v=OSXZ3dwqTnM</id>
+        <link href="https://www.youtube.com/watch?v=OSXZ3dwqTnM"/>
+        <updated>2023-05-25T07:31:13.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muthumazha Konchal Pole | Big B | Vineeth Sreenivasan | Jyotsna | Alphons Joseph | Jophi Tharakan]]></title>
+        <id>https://www.youtube.com/watch?v=pyqwBjPbD58</id>
+        <link href="https://www.youtube.com/watch?v=pyqwBjPbD58"/>
+        <updated>2023-05-25T07:30:17.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hey Vada Themmadi | Rasikan | Gireesh Puthenchery | Vidyasagar | Biju Narayanan | Vidhu Prathab]]></title>
+        <id>https://www.youtube.com/watch?v=XdxMxGhuPkg</id>
+        <link href="https://www.youtube.com/watch?v=XdxMxGhuPkg"/>
+        <updated>2023-05-25T07:30:06.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കുഞ്ഞാടുകൾക്കെന്നും കൂട്ടായിരുന്നിടും.... 🤍🎵 Mohanlal]]></title>
         <id>https://www.youtube.com/watch?v=1TFBxQPlibg</id>
