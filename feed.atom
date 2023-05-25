@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-25T12:36:32.185Z</updated>
+    <updated>2023-05-25T13:25:21.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[https://youtu.be/nAE3R9Y6BUg   Mayunnuvo Song sung by Sooraj Santhosh from Janaki Jaane]]></title>
+        <id>https://www.youtube.com/watch?v=Eklmj_aGYhg</id>
+        <link href="https://www.youtube.com/watch?v=Eklmj_aGYhg"/>
+        <updated>2023-05-25T13:00:16.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enniyenni Chakkakkuru | Vamanapuram Bus Route | Super Hit Song | Mohanlal |Jagathi- HBD MG Sreekumar]]></title>
         <id>https://www.youtube.com/watch?v=nDUsC3251BI</id>
