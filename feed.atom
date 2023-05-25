@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-25T11:14:26.652Z</updated>
+    <updated>2023-05-25T12:36:32.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enniyenni Chakkakkuru | Vamanapuram Bus Route | Super Hit Song | Mohanlal |Jagathi- HBD MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=nDUsC3251BI</id>
+        <link href="https://www.youtube.com/watch?v=nDUsC3251BI"/>
+        <updated>2023-05-25T12:03:50.000Z</updated>
+        <author>
+            <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beautiful song from the Movie Naran sung by K J Yesudas & Gayathri]]></title>
+        <id>https://www.youtube.com/watch?v=nUb-QeewCr4</id>
+        <link href="https://www.youtube.com/watch?v=nUb-QeewCr4"/>
+        <updated>2023-05-25T12:00:39.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[തൊട്ട് തൊട്ട് - Thotte Thotte | Karaoke With lyrics | Vidyasagar | Rafeeq Ahammed | Fahad Fasil]]></title>
+        <id>https://www.youtube.com/watch?v=LpMhntfJ3Bs</id>
+        <link href="https://www.youtube.com/watch?v=LpMhntfJ3Bs"/>
+        <updated>2023-05-25T12:00:15.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എത്രകേട്ടാലും മനം മടുക്കാത്ത അത്രമേൽ സുന്ദരങ്ങളായ മലയാളസിനിമാഗാനങ്ങൾ | MALAYALAM FILM SONGS]]></title>
         <id>https://www.youtube.com/watch?v=tFH7sj3Yj2U</id>
@@ -184,6 +211,15 @@
         <updated>2023-05-24T10:30:01.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yeshu Nadha Nee En Daivam | Vazhthunnu | K S Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=sOI012w1xiI</id>
+        <link href="https://www.youtube.com/watch?v=sOI012w1xiI"/>
+        <updated>2023-05-24T08:37:01.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -16105,24 +16141,6 @@
         <updated>2023-02-25T05:30:10.000Z</updated>
         <author>
             <name>Wilson Video Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Video Songs Malayalam | Manoj Christy | Lent Songs | Valiya Nombu Songs | Midhila]]></title>
-        <id>https://www.youtube.com/watch?v=V1QxbaUhk10</id>
-        <link href="https://www.youtube.com/watch?v=V1QxbaUhk10"/>
-        <updated>2023-02-25T00:30:22.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coming Soon - Japame Jayam Devi Japame Jayam | Chottanikkara Devotional Song by Durga Viswanath]]></title>
-        <id>https://www.youtube.com/watch?v=OL8wpujnvHc</id>
-        <link href="https://www.youtube.com/watch?v=OL8wpujnvHc"/>
-        <updated>2023-02-25T00:30:21.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
 </feed>
