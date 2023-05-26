@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-26T07:16:58.611Z</updated>
+    <updated>2023-05-26T08:22:00.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[തേൻ കിണ്ണം പൂം കിണ്ണം | Thenkinnam Pookinnam | Yakshaganam Movie Song | K J Yesudas,P Susheela]]></title>
+        <id>https://www.youtube.com/watch?v=bcirneCS8fA</id>
+        <link href="https://www.youtube.com/watch?v=bcirneCS8fA"/>
+        <updated>2023-05-26T08:09:43.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എൺപതുകളിലെ സിനിമാസംഗീത ചക്രവർത്തി ശ്യാം ഈണമിട്ട മലയാളത്തിലെ അതി പ്രശസ്‌ത ഗാനങ്ങൾ |80s HITS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=dhYX2oQE8qc</id>
+        <link href="https://www.youtube.com/watch?v=dhYX2oQE8qc"/>
+        <updated>2023-05-26T07:49:32.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masam Masam | Aparichithan | Gireesh Puthenchery | Suresh Peters | Jyotsna Radhakrishnan | Kavya]]></title>
+        <id>https://www.youtube.com/watch?v=OqIJ5gNSOwI</id>
+        <link href="https://www.youtube.com/watch?v=OqIJ5gNSOwI"/>
+        <updated>2023-05-26T07:30:39.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഓർമ്മകളെ സുഗന്ധപൂരിതമാക്കുന്ന എത്രകേട്ടാലും മതിവരാത്ത മലയാളചലച്ചിത്രഗാനങ്ങൾ | SUPERHITS]]></title>
+        <id>https://www.youtube.com/watch?v=uh8E07_vU74</id>
+        <link href="https://www.youtube.com/watch?v=uh8E07_vU74"/>
+        <updated>2023-05-26T07:30:12.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Haalaake Maarunne Song | Sulaikha Manzil |Lukman, Anarkali |Vishnu Vijay |Ashraf Hamza| Mu.Ri]]></title>
         <id>https://www.youtube.com/watch?v=3T_NMYU-M-o</id>
