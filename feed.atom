@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-25T23:17:13.424Z</updated>
+    <updated>2023-05-26T01:35:58.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Songs Of The Week | Madhu Balakrishnan | Christian Songs Malayalam | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=6kSNhsq7wqQ</id>
+        <link href="https://www.youtube.com/watch?v=6kSNhsq7wqQ"/>
+        <updated>2023-05-26T00:30:02.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25 May 2023]]></title>
         <id>https://www.youtube.com/watch?v=SIHpiaIP0lM</id>
@@ -16033,87 +16042,6 @@
         <updated>2023-02-25T15:33:38.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Superhit Songs | Valiya Nombu Songs | Kester | Peedasahana Ganangal |Joji Johns|Lent Songs]]></title>
-        <id>https://www.youtube.com/watch?v=oRDyURAylwg</id>
-        <link href="https://www.youtube.com/watch?v=oRDyURAylwg"/>
-        <updated>2023-02-25T13:30:30.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coming Soon - Japame Jayam Devi Japame Jayam | Chottanikkara Devotional Song by Durga Viswanath]]></title>
-        <id>https://www.youtube.com/watch?v=YrJtK0_ZFc4</id>
-        <link href="https://www.youtube.com/watch?v=YrJtK0_ZFc4"/>
-        <updated>2023-02-25T12:30:16.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Roohin Vaathilil | Neeyum Njanum | Amal Antony | Vinu Thomas | BK Harinarayanan]]></title>
-        <id>https://www.youtube.com/watch?v=Fg1RcQGWgDY</id>
-        <link href="https://www.youtube.com/watch?v=Fg1RcQGWgDY"/>
-        <updated>2023-02-25T12:30:07.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARIKILUMILLA NEE | Shreya Ghoshal  | East Coast Vijayan | Vijay Karun | Ennennum | Romantic Songs]]></title>
-        <id>https://www.youtube.com/watch?v=RwDS1ZXZugs</id>
-        <link href="https://www.youtube.com/watch?v=RwDS1ZXZugs"/>
-        <updated>2023-02-25T12:21:11.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നീലവാന ചോലയിൽ HD | Neelavana Cholayil Song | Premabhishekam Movie | Kamal Haasan]]></title>
-        <id>https://www.youtube.com/watch?v=PZspdCNWFj0</id>
-        <link href="https://www.youtube.com/watch?v=PZspdCNWFj0"/>
-        <updated>2023-02-25T12:00:13.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vellara Poomala Mele Video Song | Mohanlal | Revathi | Kaithapram | Johnson | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=w3KDtIp6oMQ</id>
-        <link href="https://www.youtube.com/watch?v=w3KDtIp6oMQ"/>
-        <updated>2023-02-25T11:30:30.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaane Kaane Lyric Video | 90:00 Minutes Malayalam Movie | Anju Joseph | Rafeeq Ahammed | Arya]]></title>
-        <id>https://www.youtube.com/watch?v=9FxuU5WikiA</id>
-        <link href="https://www.youtube.com/watch?v=9FxuU5WikiA"/>
-        <updated>2023-02-25T11:30:12.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mahaveeryar Audio Jukebox | Abrid Shine | Nivin Pauly | Asif Ali | Ishaan Chhabra]]></title>
-        <id>https://www.youtube.com/watch?v=NRXliSRMWHY</id>
-        <link href="https://www.youtube.com/watch?v=NRXliSRMWHY"/>
-        <updated>2023-02-25T11:30:11.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponmulam Thandiloothi | Soothrakkaran | G Sreerenjini | Wichu Balamurali]]></title>
-        <id>https://www.youtube.com/watch?v=BOTxdIQGavo</id>
-        <link href="https://www.youtube.com/watch?v=BOTxdIQGavo"/>
-        <updated>2023-02-25T11:30:05.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
         </author>
     </entry>
 </feed>
