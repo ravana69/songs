@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-27T19:13:05.128Z</updated>
+    <updated>2023-05-27T20:17:31.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -16168,24 +16168,6 @@
         <updated>2023-02-27T08:19:57.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നിത്യ സഹായ മാതാവേ | Kadamattathachan Malayalam Movie Songs | Sherin Peters | Prem Nazir | Sumithra]]></title>
-        <id>https://www.youtube.com/watch?v=kGObbkxLcaQ</id>
-        <link href="https://www.youtube.com/watch?v=kGObbkxLcaQ"/>
-        <updated>2023-02-27T07:37:39.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Othiri Othiri Snehichupoi | Kattuchembakam | KJ Yesudas | Mohan Sithara | Vinayan | Jayasurya]]></title>
-        <id>https://www.youtube.com/watch?v=dDs3aaV2cu8</id>
-        <link href="https://www.youtube.com/watch?v=dDs3aaV2cu8"/>
-        <updated>2023-02-27T07:30:11.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
