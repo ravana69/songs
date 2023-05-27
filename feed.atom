@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-27T07:14:45.904Z</updated>
+    <updated>2023-05-27T08:20:02.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[യുവതയുടെ തുടിപ്പും ആവേശവും നിറഞ്ഞു നിൽക്കുന്ന മലയാള സിനിമയിലെ താളക്കൊഴുപ്പുള്ള ഗാനങ്ങൾ | SUPERHITS]]></title>
+        <id>https://www.youtube.com/watch?v=X4HUGmCfUVE</id>
+        <link href="https://www.youtube.com/watch?v=X4HUGmCfUVE"/>
+        <updated>2023-05-27T07:33:00.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kolamayil Penkodi | Kearalahouse Udan Vilapanakku | Jayasurya | Ouseppachan | Gireesh Puthanchery]]></title>
+        <id>https://www.youtube.com/watch?v=Ot2_zC1Dmzs</id>
+        <link href="https://www.youtube.com/watch?v=Ot2_zC1Dmzs"/>
+        <updated>2023-05-27T07:30:09.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വിനോദയാത്രയിലും ആഘോഷവേളയിലും ആനന്ദം പകരുന്ന സൂപ്പർഹിറ്റ് സിനിമാഗാനങ്ങൾ | FILM SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=KZEeLqvZWiQ</id>
+        <link href="https://www.youtube.com/watch?v=KZEeLqvZWiQ"/>
+        <updated>2023-05-27T07:30:07.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Heart touching song #EnRojaNeeye | #Kushi | #VijayDeverakonda | #SamanthaRuthPrabhu | #shorts]]></title>
         <id>https://www.youtube.com/watch?v=KO0R21jdhxQ</id>
