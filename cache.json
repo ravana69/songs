@@ -18432,6 +18432,53 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "ഗാനകേളി",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSoNZUAtrsWbybDuuhy5k3Q",
+      "siteUrl": "https://www.youtube.com/channel/UCSoNZUAtrsWbybDuuhy5k3Q",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=_OquspWDyrU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=_OquspWDyrU",
+          "publishedOn": "2023-05-17T04:40:12.000Z",
+          "wordCount": null,
+          "title": "Alakalalakalaal(അല്ലിമലർക്കാവ്‌ )Vinod  velayudhan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=SodoA1j1xmc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SodoA1j1xmc",
+          "publishedOn": "2023-04-23T13:02:00.000Z",
+          "wordCount": null,
+          "title": "Mazha peythal  kuliranennu(April 19)Vinod  velayudhan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tQFTgby6G3w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tQFTgby6G3w",
+          "publishedOn": "2023-04-13T14:42:02.000Z",
+          "wordCount": null,
+          "title": "Manjakkanikkonna poovukal(ആദ്യത്തെ  അനുരാഗം )Vinod  velayudhan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=YcmR-yr0ya8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=YcmR-yr0ya8",
+          "publishedOn": "2023-04-06T17:09:49.000Z",
+          "wordCount": null,
+          "title": "Eerakombinmele-F(കുട്ടേട്ടൻ )Vinod  velayudhan",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
