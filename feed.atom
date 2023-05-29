@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-29T02:39:46.535Z</updated>
+    <updated>2023-05-29T03:18:44.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -16600,15 +16600,6 @@
         <updated>2023-02-28T15:30:01.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കനൽ എരിയും എൻ മനസ്സിൽ...]]></title>
-        <id>https://www.youtube.com/watch?v=npeDUeQc9fw</id>
-        <link href="https://www.youtube.com/watch?v=npeDUeQc9fw"/>
-        <updated>2023-02-28T15:17:52.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
