@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-29T13:20:49.878Z</updated>
+    <updated>2023-05-29T14:15:56.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Boss Party (From "Waltair Veerayya (Hindi)")]]></title>
+        <id>https://www.youtube.com/watch?v=1gMjkkUbiA4</id>
+        <link href="https://www.youtube.com/watch?v=1gMjkkUbiA4"/>
+        <updated>2023-05-29T13:36:33.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Superhit Songs | Biju Narayanan | Christian Devotional Songs Malayalam |Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=_TpY4Un3FxU</id>
+        <link href="https://www.youtube.com/watch?v=_TpY4Un3FxU"/>
+        <updated>2023-05-29T13:30:24.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[29 May 2023]]></title>
         <id>https://www.youtube.com/watch?v=lS4iuJA4LYo</id>
