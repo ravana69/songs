@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-30T09:17:09.276Z</updated>
+    <updated>2023-05-30T10:18:44.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -58,6 +58,15 @@
         <updated>2023-05-30T06:48:23.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anupama Sneham Thiruhrudhyam Tomy, Samji, Mithila Christian devotional Song Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=Kb7jGsP_0K4</id>
+        <link href="https://www.youtube.com/watch?v=Kb7jGsP_0K4"/>
+        <updated>2023-05-30T06:37:34.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
     <entry>
