@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-31T15:18:04.196Z</updated>
+    <updated>2023-05-31T16:22:37.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bolo Bolayya | CI Mahadevan 5 Adi 4 Inchu | Berny Ignatious | Kochin Haneefa | MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=9HBNeAmkZQQ</id>
+        <link href="https://www.youtube.com/watch?v=9HBNeAmkZQQ"/>
+        <updated>2023-05-31T15:30:01.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GOOD MORNING /OWN MEDIA /]]></title>
         <id>https://www.youtube.com/watch?v=P0e_Ieqpr-k</id>
