@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-01T02:10:32.388Z</updated>
+    <updated>2023-06-01T03:31:15.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Swargaminnente | Sagaram Sakshi | Mammootty | Sukanya | Lohithadas | Sibi Malayil | Sharreth]]></title>
+        <id>https://www.youtube.com/watch?v=5CCt0hduf78</id>
+        <link href="https://www.youtube.com/watch?v=5CCt0hduf78"/>
+        <updated>2023-06-01T03:30:01.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അനശ്വര ക്രിസ്തീയ ഭക്തി ഗാനങ്ങൾ | Christian Devotional Songs Malayalam | Christian Songs]]></title>
         <id>https://www.youtube.com/watch?v=X0_kl2qGdAo</id>
@@ -16708,15 +16717,6 @@
         <updated>2023-03-03T15:49:22.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Naavilaliyaan | Christian Video Song |Cherian Jose |Holy Communion Song |Saju puthenveettil]]></title>
-        <id>https://www.youtube.com/watch?v=UO2RKrVZcGM</id>
-        <link href="https://www.youtube.com/watch?v=UO2RKrVZcGM"/>
-        <updated>2023-03-03T15:30:07.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
