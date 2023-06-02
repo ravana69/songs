@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-02T03:18:31.642Z</updated>
+    <updated>2023-06-02T04:20:38.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -445,6 +445,15 @@
         <updated>2023-05-31T05:30:11.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sarvavum Mounathil | Shweta Mohan | Fr. John Pichappilly | K.J.Antony | Latest Marian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=8Zp8GA4YOFs</id>
+        <link href="https://www.youtube.com/watch?v=8Zp8GA4YOFs"/>
+        <updated>2023-05-31T04:11:21.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -1798,6 +1807,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sannidhiyil | Shorts | K.S. Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=BK3hILVGbVo</id>
+        <link href="https://www.youtube.com/watch?v=BK3hILVGbVo"/>
+        <updated>2023-05-24T08:34:01.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Madhuryamam | Shorts | K S Chithra]]></title>
         <id>https://www.youtube.com/watch?v=MRIQ0wnwWfo</id>
         <link href="https://www.youtube.com/watch?v=MRIQ0wnwWfo"/>
@@ -2848,6 +2866,15 @@
         <updated>2023-05-18T10:24:49.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paaripparannu | P. Jayachandran | P K Rosy Film Songs | Nostalgic Film Songs | Evertime Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=_WdRr2LF8y4</id>
+        <link href="https://www.youtube.com/watch?v=_WdRr2LF8y4"/>
+        <updated>2023-05-18T09:45:54.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
     <entry>
@@ -16771,24 +16798,6 @@
         <updated>2023-03-05T00:30:07.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നീ.. മാന്യനായിടുവാൻ...]]></title>
-        <id>https://www.youtube.com/watch?v=l502ZtpaRZ4</id>
-        <link href="https://www.youtube.com/watch?v=l502ZtpaRZ4"/>
-        <updated>2023-03-04T15:34:46.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thula Minnal | Sarkar Dada | Jayaram | Navya Nair | Sujatha Mohan | M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=8ZgBY3U_RQM</id>
-        <link href="https://www.youtube.com/watch?v=8ZgBY3U_RQM"/>
-        <updated>2023-03-04T15:30:02.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
 </feed>
