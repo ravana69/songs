@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-02T07:15:40.158Z</updated>
+    <updated>2023-06-02T08:21:04.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thirithazhum Sooryan | Aayiram Meni | K J Yesudas | KS Chithra | S P Venkitesh | Gireesh Puthanchery]]></title>
+        <id>https://www.youtube.com/watch?v=z6c-EogwhQE</id>
+        <link href="https://www.youtube.com/watch?v=z6c-EogwhQE"/>
+        <updated>2023-06-02T07:30:15.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കണ്ണടച്ച് കേട്ടാൽ മനമറിയാതെ തുളുമ്പിപ്പോകുന്ന മലയാളസിനിമയിലെ മനോഹര ഗാനങ്ങൾ |SUPERHIT SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=JDspGhIyDdY</id>
+        <link href="https://www.youtube.com/watch?v=JDspGhIyDdY"/>
+        <updated>2023-06-02T07:30:04.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Ponkinavileatho | Georgekutty c/o Georgekutty | Mohan Sithara | Gireesh puthenchery | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=2HYWfv0o71Q</id>
+        <link href="https://www.youtube.com/watch?v=2HYWfv0o71Q"/>
+        <updated>2023-06-02T07:30:00.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#DooreMaanjhuPoyi #majnu #Nani #AnuImmanuel  #gopisunder #haricharan #shorts #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=HJ5SZkExr6Q</id>
@@ -157,6 +184,15 @@
         <updated>2023-06-01T12:00:27.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kulire Kanave | Point Range | Sarath Appani | Dayyana Hameed | Sainu Chavakkadan | Shiji Mohammed]]></title>
+        <id>https://www.youtube.com/watch?v=Z-KWPqLcvKs</id>
+        <link href="https://www.youtube.com/watch?v=Z-KWPqLcvKs"/>
+        <updated>2023-06-01T11:58:44.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
