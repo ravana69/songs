@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-03T05:15:42.561Z</updated>
+    <updated>2023-06-03T06:21:43.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pulari Pon Praave|Lyrical Video| Flash | Mohanlal |PARVATHY|GOPI Sundar|Jakes Bejoy|Rafeeque Ahammed]]></title>
+        <id>https://www.youtube.com/watch?v=7Oz5HG6-ub8</id>
+        <link href="https://www.youtube.com/watch?v=7Oz5HG6-ub8"/>
+        <updated>2023-06-03T05:30:09.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vibing for #IlamaiKadhal Song | #Neymar | #MathewThomas, #Naslen | #ShaanRahman | #SudhiMaddison]]></title>
         <id>https://www.youtube.com/watch?v=IeoLGYrL6vI</id>
