@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-03T07:15:03.395Z</updated>
+    <updated>2023-06-03T08:20:07.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആർപ്പുവിളിയും ആഘോഷവും നിറഞ്ഞ മലയാളസിനിമയിലെ സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | EVERGREEN SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=5wo6IdLPYOQ</id>
+        <link href="https://www.youtube.com/watch?v=5wo6IdLPYOQ"/>
+        <updated>2023-06-03T07:36:13.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കുടുംബാംഗങ്ങളെപോൽ മലയാളികൾ സ്നേഹിച്ച ദിലീപിന്റെയും ജയറാമിന്റെയും സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | SUPERHITS]]></title>
+        <id>https://www.youtube.com/watch?v=J2DgVuMT1eA</id>
+        <link href="https://www.youtube.com/watch?v=J2DgVuMT1eA"/>
+        <updated>2023-06-03T07:30:07.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kuyilpattil | Aparichithan | Mammootty |  Gireesh Puthanchery | Suresh Peters - HD Video Song]]></title>
+        <id>https://www.youtube.com/watch?v=EC14TcQ9iP0</id>
+        <link href="https://www.youtube.com/watch?v=EC14TcQ9iP0"/>
+        <updated>2023-06-03T07:30:03.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pulari Pon Praave|Lyrical Video| Flash | Mohanlal |PARVATHY|GOPI Sundar|Jakes Bejoy|Rafeeque Ahammed]]></title>
         <id>https://www.youtube.com/watch?v=7Oz5HG6-ub8</id>
