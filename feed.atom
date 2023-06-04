@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-04T16:22:11.822Z</updated>
+    <updated>2023-06-04T17:14:21.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -17095,15 +17095,6 @@
         <updated>2023-03-07T07:30:06.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ellarum Video Song | Khali Purse Of Billionaires | Dhyan Sreenivasan | Tanvi Ram | Arjun Ashokan]]></title>
-        <id>https://www.youtube.com/watch?v=I3_hJkkS7CI</id>
-        <link href="https://www.youtube.com/watch?v=I3_hJkkS7CI"/>
-        <updated>2023-03-07T04:56:34.000Z</updated>
-        <author>
-            <name>Magic Frames Music</name>
         </author>
     </entry>
 </feed>
