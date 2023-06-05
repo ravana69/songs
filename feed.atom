@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-05T07:16:27.028Z</updated>
+    <updated>2023-06-05T08:22:07.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Marivillin Chirakode | Cheppu | Poovachal Khader  | KJ Yesudas | Sujatha Mohan | Mohanlal | Lissy]]></title>
+        <id>https://www.youtube.com/watch?v=VljeeYBSKTw</id>
+        <link href="https://www.youtube.com/watch?v=VljeeYBSKTw"/>
+        <updated>2023-06-05T07:30:10.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആനന്ദത്താൽ ഹൃദയം സന്തോഷിക്കുന്ന മലയാളസിനിമയിലെ സുപ്രസിദ്ധ ഗാനങ്ങൾ | MALAYALAM FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=CgwmCrloKHw</id>
+        <link href="https://www.youtube.com/watch?v=CgwmCrloKHw"/>
+        <updated>2023-06-05T07:30:04.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആഘോഷവേളകൾ ഉല്ലാസഭരിതമാക്കും ആരും കൊതിക്കും അടിപൊളി വിസ്മയഗാനങ്ങൾ | CHALACHITHRAGANANGAL]]></title>
+        <id>https://www.youtube.com/watch?v=-BnZZjDh7GE</id>
+        <link href="https://www.youtube.com/watch?v=-BnZZjDh7GE"/>
+        <updated>2023-06-05T07:30:00.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manassu Mayakki | Karaoke  Video | Oru Marubhoomi Kadha | Mohanlal | Priyadarshan | M G Sreekumar]]></title>
         <id>https://www.youtube.com/watch?v=uqqvuQMKGoI</id>
