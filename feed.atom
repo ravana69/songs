@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-05T12:38:57.963Z</updated>
+    <updated>2023-06-05T13:21:16.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pirannoree Mannum | Sayamees Irattakal | KS Chithra | SP Venkitesh | Bichu Thirumala]]></title>
+        <id>https://www.youtube.com/watch?v=MdGT-Zdp2fo</id>
+        <link href="https://www.youtube.com/watch?v=MdGT-Zdp2fo"/>
+        <updated>2023-06-05T13:00:21.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 5th of June 2023]]></title>
         <id>https://www.youtube.com/watch?v=_pJCouE5Onk</id>
