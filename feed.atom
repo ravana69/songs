@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-06T19:13:50.751Z</updated>
+    <updated>2023-06-06T20:18:08.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 7 # Athiravile Prarthana 7th of June 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=CdUAMIm0oPc</id>
+        <link href="https://www.youtube.com/watch?v=CdUAMIm0oPc"/>
+        <updated>2023-06-06T20:00:03.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 7th June 2023]]></title>
         <id>https://www.youtube.com/watch?v=UPeP6A--6S4</id>
@@ -17176,33 +17185,6 @@
         <updated>2023-03-09T09:18:20.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളസംഗീതത്തിന്റെ യുഗപുരുഷൻ ഗാനഗന്ധർവ്വൻ യേശുദാസ് ആലപിച്ച നിത്യഹരിതഗാനങ്ങൾ | YESUDAS HITS]]></title>
-        <id>https://www.youtube.com/watch?v=9iMEl10z4TE</id>
-        <link href="https://www.youtube.com/watch?v=9iMEl10z4TE"/>
-        <updated>2023-03-09T08:10:39.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choraveena Mannil Ninnum | Video Song | Arabikkatha | Sreenivasan | Indrajith | Anil Panachooran]]></title>
-        <id>https://www.youtube.com/watch?v=bxpHlDiX3Lc</id>
-        <link href="https://www.youtube.com/watch?v=bxpHlDiX3Lc"/>
-        <updated>2023-03-09T07:50:54.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മധുര സ്‌മരണകൾ അലതല്ലുന്ന മലയാളസിനിമയിലെ മൃദുല ഗാനങ്ങൾ  | SWEET MELODY SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=xdTIF1E2I88</id>
-        <link href="https://www.youtube.com/watch?v=xdTIF1E2I88"/>
-        <updated>2023-03-09T07:34:53.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
