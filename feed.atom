@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-06T15:17:58.921Z</updated>
+    <updated>2023-06-06T16:23:13.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jumba Jumba | Nadodi | Mohanlal | Silk Smitha | SP Venkatesh | KS Chithra | ONV Kuruppu]]></title>
+        <id>https://www.youtube.com/watch?v=vEr8fhxqavI</id>
+        <link href="https://www.youtube.com/watch?v=vEr8fhxqavI"/>
+        <updated>2023-06-06T15:30:12.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6 June 2023]]></title>
         <id>https://www.youtube.com/watch?v=FS1t3ZAMYBU</id>
@@ -17192,15 +17201,6 @@
         <id>https://www.youtube.com/watch?v=Uev7fP9BI3E</id>
         <link href="https://www.youtube.com/watch?v=Uev7fP9BI3E"/>
         <updated>2023-03-09T04:42:49.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Made in Caravan- Official Teaser | Indrans | Annu Antony | Jomy Kuriakose | Prijil J R | Midhun]]></title>
-        <id>https://www.youtube.com/watch?v=LDf29VqEzkw</id>
-        <link href="https://www.youtube.com/watch?v=LDf29VqEzkw"/>
-        <updated>2023-03-09T04:17:49.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
