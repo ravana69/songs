@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-06T16:23:13.017Z</updated>
+    <updated>2023-06-06T17:15:48.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -17194,15 +17194,6 @@
         <updated>2023-03-09T07:34:53.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Santhosham | Sneak Peak | Ajith V Thomas | Anu Sithara | Amith Chakkalakkal | Kalabhavan Shajon]]></title>
-        <id>https://www.youtube.com/watch?v=Uev7fP9BI3E</id>
-        <link href="https://www.youtube.com/watch?v=Uev7fP9BI3E"/>
-        <updated>2023-03-09T04:42:49.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
