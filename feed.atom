@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-06T21:16:22.951Z</updated>
+    <updated>2023-06-06T22:17:08.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -17167,24 +17167,6 @@
         <updated>2023-03-09T11:30:08.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karakkenne Thanichakkeettu Video Song | Thuramukham | Rajeev Ravi | Nivin Pauly | Poornima Indrajith]]></title>
-        <id>https://www.youtube.com/watch?v=J4n37jaZyys</id>
-        <link href="https://www.youtube.com/watch?v=J4n37jaZyys"/>
-        <updated>2023-03-09T09:45:25.000Z</updated>
-        <author>
-            <name>Magic Frames Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saint Joseph Songs | Fr. John Pichappilly | P.Jayachandran | Madhubalakrishnan | Biju Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=eyvVTPP5JYM</id>
-        <link href="https://www.youtube.com/watch?v=eyvVTPP5JYM"/>
-        <updated>2023-03-09T09:18:20.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
