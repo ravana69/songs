@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-05T23:17:44.877Z</updated>
+    <updated>2023-06-06T01:54:01.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aakulavelakalil Aapathu Nalukalil | Thunayenikkeshuve | Shorts | Sujatha]]></title>
+        <id>https://www.youtube.com/watch?v=yqe66eO8xDE</id>
+        <link href="https://www.youtube.com/watch?v=yqe66eO8xDE"/>
+        <updated>2023-06-06T01:30:31.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singer Of The Week | KG Markose |Christian Devotional Songs Malayalam | Joji Johns | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Rh44nF5e2aA</id>
+        <link href="https://www.youtube.com/watch?v=Rh44nF5e2aA"/>
+        <updated>2023-06-06T00:30:10.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഈശോയുടെ തിരുഹൃദയ വണക്കമാസം 6th June 2023 # Novena to the Sacred Heart of Jesus 6th June 2023]]></title>
+        <id>https://www.youtube.com/watch?v=JqTvrHSNz9s</id>
+        <link href="https://www.youtube.com/watch?v=JqTvrHSNz9s"/>
+        <updated>2023-06-06T00:30:04.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 6th of June 2023 # Mathavinte Japamala # Dhukhathinte Rahasyangal 6th of June  2023]]></title>
+        <id>https://www.youtube.com/watch?v=mtGjup_IJVM</id>
+        <link href="https://www.youtube.com/watch?v=mtGjup_IJVM"/>
+        <updated>2023-06-05T23:30:15.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 6 # Athiravile Prarthana 6th of June 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=GcwbbaZn3O0</id>
@@ -17050,87 +17086,6 @@
         <updated>2023-03-08T13:54:12.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കുരിശിന്റെ വഴിയിൽ നീങ്ങുമ്പോൾ നമ്മുടെ പാപങ്ങൾക്ക് പൊറുതിയേകുന്ന പീഡാസഹന ഗാനങ്ങൾ | Joji Johns Songs]]></title>
-        <id>https://www.youtube.com/watch?v=yBYUFrZ0epI</id>
-        <link href="https://www.youtube.com/watch?v=yBYUFrZ0epI"/>
-        <updated>2023-03-08T13:30:26.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Raja Oru Rani | Janmandharam (1988) | Poovachal Khader | S.P.Venkatesh | K.S.Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=2j8ReCbW70M</id>
-        <link href="https://www.youtube.com/watch?v=2j8ReCbW70M"/>
-        <updated>2023-03-08T13:30:02.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Romancham - Audio Jukebox | Sushin Shyam | Johnpaul George Productions | Jithu Madhavan]]></title>
-        <id>https://www.youtube.com/watch?v=Zjb16fiF918</id>
-        <link href="https://www.youtube.com/watch?v=Zjb16fiF918"/>
-        <updated>2023-03-08T12:30:26.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ellarum Video Song | Khali Purse Of Billionaires | Dhyan Sreenivasan | Tanvi Ram | Arjun Ashokan]]></title>
-        <id>https://www.youtube.com/watch?v=I3_hJkkS7CI</id>
-        <link href="https://www.youtube.com/watch?v=I3_hJkkS7CI"/>
-        <updated>2023-03-08T12:30:09.000Z</updated>
-        <author>
-            <name>Magic Frames Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannuneeral | Oruthee | Film Video Song | Bombay Jayashri | Vinayakan | V K Prakash | Gopi Sundar]]></title>
-        <id>https://www.youtube.com/watch?v=7ctqGsJs8iw</id>
-        <link href="https://www.youtube.com/watch?v=7ctqGsJs8iw"/>
-        <updated>2023-03-08T12:23:11.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Run Baby Run | Oruthee | VideoSong | Thakara Band | VK Prakash | Navya Nair | Saiju Kurup |Vinayakan]]></title>
-        <id>https://www.youtube.com/watch?v=sxYu71L6OgQ</id>
-        <link href="https://www.youtube.com/watch?v=sxYu71L6OgQ"/>
-        <updated>2023-03-08T12:12:00.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pon Kasavu Njoriyum | Joker | KS Chithra | Mohan Sithara |  Yusufali Kechery]]></title>
-        <id>https://www.youtube.com/watch?v=Jhrj5Z9ygGU</id>
-        <link href="https://www.youtube.com/watch?v=Jhrj5Z9ygGU"/>
-        <updated>2023-03-08T11:30:10.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponnaryan Padam Video Song | Mohanlal | Ranjitha| KS Chithra | MG Radhakrishnan| Gireesh Puthenchery]]></title>
-        <id>https://www.youtube.com/watch?v=F8nr9JuqBPM</id>
-        <link href="https://www.youtube.com/watch?v=F8nr9JuqBPM"/>
-        <updated>2023-03-08T11:30:04.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🤠🕺 #Manuja | #Romancham | #Shorts | #YTshorts]]></title>
-        <id>https://www.youtube.com/watch?v=FjdyLYglbjY</id>
-        <link href="https://www.youtube.com/watch?v=FjdyLYglbjY"/>
-        <updated>2023-03-08T11:22:48.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
