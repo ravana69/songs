@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-07T06:22:29.249Z</updated>
+    <updated>2023-06-07T07:15:59.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaradhyan Yeshupara | Christian Shorts Video | K S Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=3yplGqUpkiQ</id>
+        <link href="https://www.youtube.com/watch?v=3yplGqUpkiQ"/>
+        <updated>2023-06-07T06:56:23.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സുരഭീയാമങ്ങളേ... | Surabi Yaamangalle | Sreedharante Onnam Thirumurivu Movie Song | Mammootty]]></title>
+        <id>https://www.youtube.com/watch?v=vzYY_dF0pJE</id>
+        <link href="https://www.youtube.com/watch?v=vzYY_dF0pJE"/>
+        <updated>2023-06-07T06:49:30.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karmelile Prarthanayil | Thee pole | Persis John | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=xiYdHCeztOQ</id>
+        <link href="https://www.youtube.com/watch?v=xiYdHCeztOQ"/>
+        <updated>2023-06-07T06:30:14.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steps for #IlamaiKadhal | #Neymar | #MathewThomas, #Naslen | #ShaanRahman | #SudhiMaddison |#shorts]]></title>
         <id>https://www.youtube.com/watch?v=3qZUXI0HalA</id>
