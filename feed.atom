@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-06T23:16:56.287Z</updated>
+    <updated>2023-06-07T01:56:04.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nizhal Pole Dinangal | Christian Video Song | Joji Johns | Kalabhavan Sabu | Christian Melody Song]]></title>
+        <id>https://www.youtube.com/watch?v=hUPPjyWiqgI</id>
+        <link href="https://www.youtube.com/watch?v=hUPPjyWiqgI"/>
+        <updated>2023-06-07T00:30:17.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഈശോയുടെ തിരുഹൃദയ വണക്കമാസം 7th June 2023 # Novena to the Sacred Heart of Jesus 7th June 2023]]></title>
+        <id>https://www.youtube.com/watch?v=MHkd2gsK18I</id>
+        <link href="https://www.youtube.com/watch?v=MHkd2gsK18I"/>
+        <updated>2023-06-07T00:30:14.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 7th of June 2023 # Mathavinte Japamala # Mahimayude Rahasyangal 7th of June  2023]]></title>
+        <id>https://www.youtube.com/watch?v=gOU6K51BTR4</id>
+        <link href="https://www.youtube.com/watch?v=gOU6K51BTR4"/>
+        <updated>2023-06-06T23:30:12.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 7 # Athiravile Prarthana 7th of June 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=CdUAMIm0oPc</id>
@@ -17131,51 +17158,6 @@
         <updated>2023-03-09T15:30:04.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആരുമില്ലാത്തവർക്കായി  സ്നേഹത്തിൽ  പൊതിഞ്ഞ ക്രിസ്തീയ ഗാനങ്ങൾ | Christian Songs | Robil Rapheal]]></title>
-        <id>https://www.youtube.com/watch?v=GYTp3TuWefQ</id>
-        <link href="https://www.youtube.com/watch?v=GYTp3TuWefQ"/>
-        <updated>2023-03-09T13:30:04.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pattu Chutti Pottum Thottu | Varnakkaazhchakal | KS Chithra | Mohan Sithara | Yusufali Kechery]]></title>
-        <id>https://www.youtube.com/watch?v=_ISwYKCf1ww</id>
-        <link href="https://www.youtube.com/watch?v=_ISwYKCf1ww"/>
-        <updated>2023-03-09T13:00:23.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dhwani Tharanga Tharalam | Joker | KJ Yesudas | Mohan Sithara |  Yusufali Kechery]]></title>
-        <id>https://www.youtube.com/watch?v=TbBQ1A5-ZF4</id>
-        <link href="https://www.youtube.com/watch?v=TbBQ1A5-ZF4"/>
-        <updated>2023-03-09T12:00:22.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പുഞ്ച വയലു കൊയ്യാന്‍ പോണവളേ HD | Punchavayalu Koyyan | Nair Saab | Malayalam Film Song | Mammootty]]></title>
-        <id>https://www.youtube.com/watch?v=K7haSmVFewA</id>
-        <link href="https://www.youtube.com/watch?v=K7haSmVFewA"/>
-        <updated>2023-03-09T11:54:41.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vellinila Thullikalo Video Song | Vidyasagar | Mohanlal | Meena | KS Chithra | MG Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=GrMaEUMu-kA</id>
-        <link href="https://www.youtube.com/watch?v=GrMaEUMu-kA"/>
-        <updated>2023-03-09T11:30:08.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
