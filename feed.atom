@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-07T20:18:17.464Z</updated>
+    <updated>2023-06-07T21:15:03.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -17275,24 +17275,6 @@
         <updated>2023-03-10T09:30:11.000Z</updated>
         <author>
             <name>Magic Frames Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanmunnil - Lyrical Video | Bhagavan | Mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=mR0Mj4PUbIg</id>
-        <link href="https://www.youtube.com/watch?v=mR0Mj4PUbIg"/>
-        <updated>2023-03-10T08:39:23.000Z</updated>
-        <author>
-            <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തൊട്ടതെല്ലാം പൊന്നാക്കിയ മലയാളി ശ്രോതാക്കളുടെ ഹൃദയം കവർന്ന സംഗീതകാരൻ | HITS OF RAJAMANI]]></title>
-        <id>https://www.youtube.com/watch?v=oWKCl3U4VUM</id>
-        <link href="https://www.youtube.com/watch?v=oWKCl3U4VUM"/>
-        <updated>2023-03-10T08:30:30.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
