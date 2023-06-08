@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-08T08:21:35.038Z</updated>
+    <updated>2023-06-08T09:17:08.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Swarggeeya Rajakumaran | P.Jayachandran Paadiya Kristheeya Bhakthigaanangal | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=10KSal-WprU</id>
+        <link href="https://www.youtube.com/watch?v=10KSal-WprU"/>
+        <updated>2023-06-08T08:53:58.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ബാഗീ ജീൻസും ഷൂസുമണിഞ്ഞ്ടൗണിൽ ചെത്തി നടക്കാം 🎶🕺]]></title>
         <id>https://www.youtube.com/watch?v=j-kN-jrKLnk</id>
