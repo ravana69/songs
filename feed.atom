@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-09T10:19:07.679Z</updated>
+    <updated>2023-06-09T11:14:45.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sandhyayum Ee Chandrikayum | Vazhunnor | KJ Yesudas | Sreenivas | Ouseppachan | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=rgttfsV8-mg</id>
+        <link href="https://www.youtube.com/watch?v=rgttfsV8-mg"/>
+        <updated>2023-06-09T10:30:13.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Snehapranamam | Kristheeya Bhakthigaanangal | Audio Jukebox]]></title>
         <id>https://www.youtube.com/watch?v=2Z3ouvNFT5s</id>
