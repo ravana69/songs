@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-10T19:13:32.897Z</updated>
+    <updated>2023-06-10T20:18:38.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 11 # Athiravile Prarthana 11th of June 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=_ipLp2RWvbM</id>
+        <link href="https://www.youtube.com/watch?v=_ipLp2RWvbM"/>
+        <updated>2023-06-10T20:00:15.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 11th June 2023]]></title>
         <id>https://www.youtube.com/watch?v=JAg0DGao2fg</id>
@@ -17662,24 +17671,6 @@
         <updated>2023-03-13T09:00:40.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്വകാര്യസ്വത്തായി അഹങ്കരിച്ച എൺപതുകളിലെ ത്രസിപ്പിക്കും സിനിമാഗാനങ്ങൾ  | 80s HITS | MALAYALAM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=Z3Ny6UdMjIM</id>
-        <link href="https://www.youtube.com/watch?v=Z3Ny6UdMjIM"/>
-        <updated>2023-03-13T07:30:06.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാള സിനിമയിലെ മനസ്സിനെ താലോലിക്കുന്ന ആർദ്ര ഗാനങ്ങൾ | Malayalam Evergreen Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=OMxvq747eig</id>
-        <link href="https://www.youtube.com/watch?v=OMxvq747eig"/>
-        <updated>2023-03-13T07:30:05.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
