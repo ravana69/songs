@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-09T23:17:43.035Z</updated>
+    <updated>2023-06-10T01:44:31.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഈശോയുടെ തിരുഹൃദയ വണക്കമാസം 10th June 2023 # Novena to the Sacred Heart of Jesus 10th June 2023]]></title>
+        <id>https://www.youtube.com/watch?v=eRG1rpxApbk</id>
+        <link href="https://www.youtube.com/watch?v=eRG1rpxApbk"/>
+        <updated>2023-06-10T00:30:18.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Video Songs Malayalam |Surya Narayanan | Christian Devotional Songs | Babu Chalakkudy]]></title>
+        <id>https://www.youtube.com/watch?v=82nCZSiVN6U</id>
+        <link href="https://www.youtube.com/watch?v=82nCZSiVN6U"/>
+        <updated>2023-06-10T00:30:02.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala  10th of June  2023 # Mathavinte Japamala # Santhoshathinte Rahasyangal 10th of June  2023]]></title>
+        <id>https://www.youtube.com/watch?v=EN3PRaxIuog</id>
+        <link href="https://www.youtube.com/watch?v=EN3PRaxIuog"/>
+        <updated>2023-06-09T23:30:04.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 10 # Athiravile Prarthana 10th of June 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=C5rXBtX7lwc</id>
@@ -17509,42 +17536,6 @@
         <updated>2023-03-12T15:05:06.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karayumen Mizhikalil | Christian Video Song | Kester | Paul Chittoor | Healing Song | Christian Song]]></title>
-        <id>https://www.youtube.com/watch?v=iOzXVygVHOI</id>
-        <link href="https://www.youtube.com/watch?v=iOzXVygVHOI"/>
-        <updated>2023-03-12T13:30:14.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dhum Dhum Dhum Dhum Dhooreyetho | Short]]></title>
-        <id>https://www.youtube.com/watch?v=m-K398WUgkE</id>
-        <link href="https://www.youtube.com/watch?v=m-K398WUgkE"/>
-        <updated>2023-03-12T12:39:37.000Z</updated>
-        <author>
-            <name>ᴍᴇɢʜᴀᴍᴀʟʜᴀʀ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poonkaattinodum | Evergreen Malayalam Movie Song | Poomukhappadiyil Ninneyum Kaathu- Ilayaraja Hits]]></title>
-        <id>https://www.youtube.com/watch?v=ADU0B95tbvo</id>
-        <link href="https://www.youtube.com/watch?v=ADU0B95tbvo"/>
-        <updated>2023-03-12T12:00:06.000Z</updated>
-        <author>
-            <name>Music Zone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Velichathenthinu Veendum Video Song | Dileep | Meera Jasmine | Revathi | KJ Yesudas | Vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=xOJrhoOrGow</id>
-        <link href="https://www.youtube.com/watch?v=xOJrhoOrGow"/>
-        <updated>2023-03-12T11:30:19.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
