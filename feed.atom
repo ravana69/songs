@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-13T03:18:46.048Z</updated>
+    <updated>2023-06-13T04:21:20.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -202,6 +202,15 @@
         <updated>2023-06-12T13:00:41.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pendulum - Official Teaser | Vijay Babu | Ramesh Pisharody | Indrans | Anumol | Rejin S Babu]]></title>
+        <id>https://www.youtube.com/watch?v=TGvJYSIaDLE</id>
+        <link href="https://www.youtube.com/watch?v=TGvJYSIaDLE"/>
+        <updated>2023-06-12T12:45:48.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -1526,6 +1535,15 @@
         <updated>2023-06-07T05:30:01.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aval | Malayalam Album Songs | Biju Narayanan | Radhika Ashok | Kalesh Panambayil | #LoveSongs]]></title>
+        <id>https://www.youtube.com/watch?v=LJCq0iZoUYs</id>
+        <link href="https://www.youtube.com/watch?v=LJCq0iZoUYs"/>
+        <updated>2023-06-07T05:06:39.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
     <entry>
@@ -18065,24 +18083,6 @@
         <updated>2023-03-16T00:30:08.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kallakurumbi Chellakurumbi | Sathyam | Prithviraj | Priyamani | Sujatha | M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=wHIZH6lPzmA</id>
-        <link href="https://www.youtube.com/watch?v=wHIZH6lPzmA"/>
-        <updated>2023-03-15T15:30:10.000Z</updated>
-        <author>
-            <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 March 2023]]></title>
-        <id>https://www.youtube.com/watch?v=6dGkAwigoUs</id>
-        <link href="https://www.youtube.com/watch?v=6dGkAwigoUs"/>
-        <updated>2023-03-15T15:27:42.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
