@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-13T19:14:03.649Z</updated>
+    <updated>2023-06-13T20:18:25.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 14 # Athiravile Prarthana 14th of June 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=vlCxzGYqIdw</id>
+        <link href="https://www.youtube.com/watch?v=vlCxzGYqIdw"/>
+        <updated>2023-06-13T20:00:30.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 14th June 2023]]></title>
         <id>https://www.youtube.com/watch?v=YAjvyq0HG78</id>
@@ -18293,6 +18302,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Khali Purse Of Billionaires Audio Jukebox | Dhyan Sreenivasan |Prakash Alex |Anil Lal | Maxwell Jose]]></title>
+        <id>https://www.youtube.com/watch?v=HyAEWQ3VEGM</id>
+        <link href="https://www.youtube.com/watch?v=HyAEWQ3VEGM"/>
+        <updated>2023-03-16T12:30:10.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Varthinkal Thellalle | Dreams | Swarnalatha | Vidyasagar | Gireesh Puthanchery]]></title>
         <id>https://www.youtube.com/watch?v=T9NJlDhry44</id>
         <link href="https://www.youtube.com/watch?v=T9NJlDhry44"/>
@@ -18344,33 +18362,6 @@
         <updated>2023-03-16T08:32:31.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികളുടെ മനസിൽ ചേക്കേറിയ പുതിയ കാലഘട്ടത്തിലെ വിലമതിക്കാനാവാത്ത ഗാനങ്ങൾ | SUPERHIT MOVIE SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=_cycqrWZhUg</id>
-        <link href="https://www.youtube.com/watch?v=_cycqrWZhUg"/>
-        <updated>2023-03-16T07:52:15.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panchamudipuzha thandi | Sundarakilladi | Bichu thirumala | Ouseppachan | MG Sreekumar | Dileep]]></title>
-        <id>https://www.youtube.com/watch?v=O_XafrncWy0</id>
-        <link href="https://www.youtube.com/watch?v=O_XafrncWy0"/>
-        <updated>2023-03-16T07:30:09.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നീ മധുപകരു മലർചൊരിയു | Nee Madhu Pakaru... | Moodalmanju Superhit Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=mCoM4MgjAAY</id>
-        <link href="https://www.youtube.com/watch?v=mCoM4MgjAAY"/>
-        <updated>2023-03-16T07:18:38.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
