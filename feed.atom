@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-13T20:18:25.402Z</updated>
+    <updated>2023-06-13T21:15:01.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -18353,15 +18353,6 @@
         <updated>2023-03-16T09:23:19.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vazhthuka Nee Naname Lyrics Video | വാഴ്ത്തുക നീ മനമേ എൻ പരനെ | Malayalam Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=zQrsdD2Yqes</id>
-        <link href="https://www.youtube.com/watch?v=zQrsdD2Yqes"/>
-        <updated>2023-03-16T08:32:31.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
