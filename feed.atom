@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-14T01:45:25.373Z</updated>
+    <updated>2023-06-14T02:42:00.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -18272,15 +18272,6 @@
         <updated>2023-03-16T15:30:07.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Song "  Arikeyonnu Kandoru Neram " from the movie Vellaripattanam #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=OZQh6zvrGog</id>
-        <link href="https://www.youtube.com/watch?v=OZQh6zvrGog"/>
-        <updated>2023-03-16T14:30:08.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
