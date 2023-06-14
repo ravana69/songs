@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-14T21:15:26.868Z</updated>
+    <updated>2023-06-14T22:16:42.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -18415,16 +18415,6 @@
         <updated>2023-03-17T10:30:00.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neethimane Sneha Pithave | SAINT CARPENTER | Fr. SHAJI THUMPECHIRAYIL | MITHILA MICHAEL | JOBY JOHN]]></title>
-        <id>31644332</id>
-        <link href="https://www.youtube.com/watch?v=pPxHfUvaoo0"/>
-        <updated>2023-03-17T10:09:23.000Z</updated>
-        <summary type="html"><![CDATA[Please plug in your for an enhanced audio experience!] St. Joseph Songs Malayalam latest Karaoke ...]]></summary>
-        <author>
-            <name>Celebrants India</name>
         </author>
     </entry>
 </feed>
