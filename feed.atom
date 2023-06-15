@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-15T05:16:57.875Z</updated>
+    <updated>2023-06-15T06:23:05.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coming Soon : DJ Remix of Super Hit Malayalam Movie Songs #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=iTk4PU33NTE</id>
+        <link href="https://www.youtube.com/watch?v=iTk4PU33NTE"/>
+        <updated>2023-06-15T06:00:16.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minnadi Minnadi | Lyrical Video | Naran | Mohanlal | Kaithapram | K S Chitra | Deepak Dev]]></title>
+        <id>https://www.youtube.com/watch?v=xkkrwXTjZuU</id>
+        <link href="https://www.youtube.com/watch?v=xkkrwXTjZuU"/>
+        <updated>2023-06-15T05:30:09.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beautiful song #AyishaAyisha | #Ayisha | #ManjuWarrier | #ShreyaGhoshal | #MJayachandran | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=I6HAUHEBI-0</id>
+        <link href="https://www.youtube.com/watch?v=I6HAUHEBI-0"/>
+        <updated>2023-06-15T05:30:02.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kallan Chakkettu | Thachiledathu Chundan | Mammootty | Nandhini | Bichu Thirumala | Shajoon Kariyal]]></title>
         <id>https://www.youtube.com/watch?v=kZnlFIVvIs8</id>
