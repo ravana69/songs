@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-15T23:17:59.389Z</updated>
+    <updated>2023-06-16T01:45:24.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Songs Of The Week | Kester | Christian Devotional Songs Malayalam | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=uncqd7u9vfk</id>
+        <link href="https://www.youtube.com/watch?v=uncqd7u9vfk"/>
+        <updated>2023-06-16T00:30:32.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഈശോയുടെ തിരുഹൃദയ വണക്കമാസം 16th June 2023 # Novena to the Sacred Heart of Jesus 16th June 2023]]></title>
+        <id>https://www.youtube.com/watch?v=SL2h3yp4tz4</id>
+        <link href="https://www.youtube.com/watch?v=SL2h3yp4tz4"/>
+        <updated>2023-06-16T00:30:19.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #June 16th mother Mary morning songs #vachanam]]></title>
+        <id>https://www.youtube.com/watch?v=N6Gpm3coOBQ</id>
+        <link href="https://www.youtube.com/watch?v=N6Gpm3coOBQ"/>
+        <updated>2023-06-16T00:00:15.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 16th of June 2023 # Mathavinte Japamala # Dhukhathinte Rahasyangal 16th of June  2023]]></title>
+        <id>https://www.youtube.com/watch?v=mhYLUpAIVAs</id>
+        <link href="https://www.youtube.com/watch?v=mhYLUpAIVAs"/>
+        <updated>2023-06-15T23:30:12.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 16 # Athiravile Prarthana 16th of June 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=-5HDrLOz_dc</id>
@@ -18451,51 +18487,6 @@
         <updated>2023-03-18T14:09:00.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanneeral Thengiyille | KG Markose | Christian Video Song | Anil Paravoor | Joji Johns | Easter Song]]></title>
-        <id>https://www.youtube.com/watch?v=AoxBKitvt88</id>
-        <link href="https://www.youtube.com/watch?v=AoxBKitvt88"/>
-        <updated>2023-03-18T13:30:03.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoomanjin Nenjilothungi|Samooham|Suresh gopi|Suhasini|]]></title>
-        <id>https://www.youtube.com/watch?v=eiYLYRumvSU</id>
-        <link href="https://www.youtube.com/watch?v=eiYLYRumvSU"/>
-        <updated>2023-03-18T12:43:21.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Song "  Arikeyonnu Kandoru Neram " from the movie Vellaripattanam #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=6T7dLTP4aG4</id>
-        <link href="https://www.youtube.com/watch?v=6T7dLTP4aG4"/>
-        <updated>2023-03-18T12:00:04.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aayiram Kannumay Video Song | Nadiya Moidu | Padmini | KJ Yesudas | Bichu Thirumala | Jerry Amaldev]]></title>
-        <id>https://www.youtube.com/watch?v=YWA0I0kktYc</id>
-        <link href="https://www.youtube.com/watch?v=YWA0I0kktYc"/>
-        <updated>2023-03-18T11:30:10.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanneral Thengiyille..#kgmarkose #christiandevotionalsongsmalayalam #jojijohns #eastersongs]]></title>
-        <id>https://www.youtube.com/watch?v=aCKmjx575_w</id>
-        <link href="https://www.youtube.com/watch?v=aCKmjx575_w"/>
-        <updated>2023-03-18T11:30:00.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
