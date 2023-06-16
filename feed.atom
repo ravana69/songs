@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-16T01:45:24.324Z</updated>
+    <updated>2023-06-16T02:42:35.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -18478,15 +18478,6 @@
         <updated>2023-03-18T15:30:11.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ST. JOSEPH FEAST STATUS]]></title>
-        <id>https://www.youtube.com/watch?v=NPDxS4U6ugI</id>
-        <link href="https://www.youtube.com/watch?v=NPDxS4U6ugI"/>
-        <updated>2023-03-18T14:09:00.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
