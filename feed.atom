@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-16T09:16:58.981Z</updated>
+    <updated>2023-06-16T10:18:49.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ANAADHARE AGATHIKALE | NEW CHRISTIAN SONG | JOSE SAGAR | PAVITHRAN AMACHAL | JINO KUNNUMPURATH |]]></title>
+        <id>https://www.youtube.com/watch?v=g6YBWQ8h5ls</id>
+        <link href="https://www.youtube.com/watch?v=g6YBWQ8h5ls"/>
+        <updated>2023-06-16T09:34:30.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kallerudooram | Madhu Balakrishnan, Biju Narayanan Ennivar Paadiya Kristheeya Bhakthigaanangal |]]></title>
         <id>https://www.youtube.com/watch?v=Bp182n15qIc</id>
@@ -13,6 +22,24 @@
         <updated>2023-06-16T09:13:33.000Z</updated>
         <author>
             <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Njangade Naattile Video Song | Dark Shades of a Secret |  Anil Thalikulam | Manikandan Perumpadappu]]></title>
+        <id>https://www.youtube.com/watch?v=pj8czP_A0iU</id>
+        <link href="https://www.youtube.com/watch?v=pj8czP_A0iU"/>
+        <updated>2023-06-16T08:44:22.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thiruhrudayam | Amal Antony Agustin | Rita Paul | Malayalam Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=-pVBQbiFY6c</id>
+        <link href="https://www.youtube.com/watch?v=-pVBQbiFY6c"/>
+        <updated>2023-06-16T08:25:31.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -31,6 +58,15 @@
         <updated>2023-06-16T07:30:08.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chiriye Chiriye - Music Video | Vaisakh Vijayan, Afsana Lakshmi | Gopi Sundar | K. S. Harisankar]]></title>
+        <id>https://www.youtube.com/watch?v=rOLP4o6MItk</id>
+        <link href="https://www.youtube.com/watch?v=rOLP4o6MItk"/>
+        <updated>2023-06-16T07:16:31.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
