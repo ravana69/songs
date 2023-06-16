@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-16T17:15:25.654Z</updated>
+    <updated>2023-06-16T18:21:39.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -18613,24 +18613,6 @@
         <updated>2023-03-19T06:30:08.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sahyasaanu Shruthi | Karumaadikkuttan | K J Yesudas | Mohan Sithara | Yusufali Kechery | Vinayan]]></title>
-        <id>https://www.youtube.com/watch?v=bgn_jukKx-g</id>
-        <link href="https://www.youtube.com/watch?v=bgn_jukKx-g"/>
-        <updated>2023-03-19T06:00:12.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Athmavil Video Song | Enthada Saji | Jayasurya | Nivetha Thomas | Nithya Mammen | William Francis]]></title>
-        <id>https://www.youtube.com/watch?v=S2j3JTuOWJY</id>
-        <link href="https://www.youtube.com/watch?v=S2j3JTuOWJY"/>
-        <updated>2023-03-19T05:30:11.000Z</updated>
-        <author>
-            <name>Magic Frames Music</name>
         </author>
     </entry>
 </feed>
