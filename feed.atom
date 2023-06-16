@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-16T07:15:55.093Z</updated>
+    <updated>2023-06-16T08:21:41.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളത്തിന്റെ ഒരേയൊരു മെഗാസ്റ്റാർ മമ്മൂട്ടി അഭിനയിച്ച ജനപ്രീതിയേറെയുള്ള സിനിമാഗാനങ്ങൾ |MAMMOOTY HITS]]></title>
+        <id>https://www.youtube.com/watch?v=upZIGxu6Ot4</id>
+        <link href="https://www.youtube.com/watch?v=upZIGxu6Ot4"/>
+        <updated>2023-06-16T07:30:10.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[യാത്രകൾ ഇഷ്ടപ്പെടുന്നവർക്ക് മനസിന് കൂടുതൽ ഉത്സാഹമേകുന്ന മലയാളസിനിമാഗാനങ്ങൾ | EVERGREEN FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=OsjNM2prLJE</id>
+        <link href="https://www.youtube.com/watch?v=OsjNM2prLJE"/>
+        <updated>2023-06-16T07:30:08.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feel the music of #AyishaAyisha | #Ayisha | #ManjuWarrier | #ShreyaGhoshal | #MJayachandran]]></title>
         <id>https://www.youtube.com/watch?v=5IcZN4e1zL4</id>
@@ -13,6 +31,15 @@
         <updated>2023-06-16T05:30:03.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thirayattam | Teaser | Sajeev Kilikulam | Ragi A. R. | Ebin Pallichan  | Malayalam Film Teaser]]></title>
+        <id>https://www.youtube.com/watch?v=NQ8BjEgtoo0</id>
+        <link href="https://www.youtube.com/watch?v=NQ8BjEgtoo0"/>
+        <updated>2023-06-16T03:48:26.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
