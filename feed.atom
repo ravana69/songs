@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-17T19:13:11.229Z</updated>
+    <updated>2023-06-17T20:17:34.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 18 # Athiravile Prarthana 18th of June 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=nXbBVam3wTo</id>
+        <link href="https://www.youtube.com/watch?v=nXbBVam3wTo"/>
+        <updated>2023-06-17T20:00:13.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 18th June 2023]]></title>
         <id>https://www.youtube.com/watch?v=0izWFcLo0eg</id>
@@ -18712,24 +18721,6 @@
         <updated>2023-03-20T11:30:13.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളത്തിന്റെ മെഗാതാരങ്ങൾ ഒന്നിച്ചണിഞ്ഞൊരുക്കി പ്രിയ പ്രേക്ഷകർക്കേകുന്ന സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ]]></title>
-        <id>https://www.youtube.com/watch?v=DnDVjYOmWoo</id>
-        <link href="https://www.youtube.com/watch?v=DnDVjYOmWoo"/>
-        <updated>2023-03-20T08:01:46.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏത് വേഷവും അനായാസം കൈകാര്യം ചെയുന്ന മികച്ച നടനായ സിദ്ധിഖ് അഭിനയിച്ച ചിത്രങ്ങളിലെ ഗാനങ്ങൾ]]></title>
-        <id>https://www.youtube.com/watch?v=_szOZ2cMOfU</id>
-        <link href="https://www.youtube.com/watch?v=_szOZ2cMOfU"/>
-        <updated>2023-03-20T07:41:46.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
