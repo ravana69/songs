@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-19T04:21:32.158Z</updated>
+    <updated>2023-06-19T05:17:28.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aavanipponoonjal | Kottaram Veettile Appoottan | Jayaram | Shruthy | Rajasenan | Bearny Ignatius]]></title>
+        <id>https://www.youtube.com/watch?v=10yPcTzqzQM</id>
+        <link href="https://www.youtube.com/watch?v=10yPcTzqzQM"/>
+        <updated>2023-06-19T04:30:00.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sathyam Arakkachayakkuka | RSV | Kester | Shorts]]></title>
         <id>https://www.youtube.com/watch?v=KUlY44_A3zk</id>
