@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-21T19:13:42.623Z</updated>
+    <updated>2023-06-21T20:18:17.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 22 # Athiravile Prarthana 22nd of June 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=v-eUHRAN9vU</id>
+        <link href="https://www.youtube.com/watch?v=v-eUHRAN9vU"/>
+        <updated>2023-06-21T20:00:14.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onnu Chinthichal Cheyatha Papangal |  Tomy, Samji, Mithila Christian devotional Song Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=d1ZWgpF2ZmU</id>
+        <link href="https://www.youtube.com/watch?v=d1ZWgpF2ZmU"/>
+        <updated>2023-06-21T19:58:15.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 22nd June 2023]]></title>
         <id>https://www.youtube.com/watch?v=ejj6gf3ge2M</id>
@@ -19107,33 +19125,6 @@
         <updated>2023-03-24T09:03:20.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികളുടെ മനസ്സറിഞ്ഞു പ്രതിഭകൾ അണിയിച്ചൊരുക്കിയ ശാന്തസുന്ദര ഗാനങ്ങൾ | SOFT MELODY SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=_Mb6KpUU_2k</id>
-        <link href="https://www.youtube.com/watch?v=_Mb6KpUU_2k"/>
-        <updated>2023-03-24T08:06:23.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kolaambi | Official Trailer | T K Rajeevkumar | Renji Panicker | Nithya Menon | Nirmalyam Cinema]]></title>
-        <id>https://www.youtube.com/watch?v=n7w2xWyBrhE</id>
-        <link href="https://www.youtube.com/watch?v=n7w2xWyBrhE"/>
-        <updated>2023-03-24T07:21:51.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kolaambi | Official Trailer | TK Rajeev Kumar | Renji Panicker | Nithya Menon | Nirmalyam Cinema]]></title>
-        <id>https://www.youtube.com/watch?v=e9k3kadYk-E</id>
-        <link href="https://www.youtube.com/watch?v=e9k3kadYk-E"/>
-        <updated>2023-03-24T07:20:51.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
 </feed>
