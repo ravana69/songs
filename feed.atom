@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-22T06:22:55.826Z</updated>
+    <updated>2023-06-22T07:16:17.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Njanum Pinnoru Njanum - Official Teaser | Njanum Pinnoru Njanum | M. G. Sreekumar | M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=s6D1uB-XjfE</id>
+        <link href="https://www.youtube.com/watch?v=s6D1uB-XjfE"/>
+        <updated>2023-06-22T07:05:56.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coming Soon : DJ Remix of Super Hit Malayalam Movie Songs #shorts]]></title>
         <id>https://www.youtube.com/watch?v=0XOqYjMqe6U</id>
