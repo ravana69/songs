@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-22T19:16:27.147Z</updated>
+    <updated>2023-06-22T20:21:23.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 23 # Athiravile Prarthana 23rd of June 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=l_XX1ASz7II</id>
+        <link href="https://www.youtube.com/watch?v=l_XX1ASz7II"/>
+        <updated>2023-06-22T20:00:20.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 23rd June 2023]]></title>
         <id>https://www.youtube.com/watch?v=iyGucLgLRpY</id>
@@ -19242,33 +19251,6 @@
         <updated>2023-03-25T10:30:09.000Z</updated>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികൾ അകമറിഞ്ഞു സ്നേഹിച്ച വർണമനോഹര സിനിമാഗാനങ്ങൾ  | MALAYALAM FILM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=Vugt-dUV7-g</id>
-        <link href="https://www.youtube.com/watch?v=Vugt-dUV7-g"/>
-        <updated>2023-03-25T08:06:20.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എത്രകേട്ടാലും മനസ്സ് മടുക്കാത്ത അത്രമേൽ ഇഷ്ടമുള്ള സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ  | SUPERHIT SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=OIJ_5ZnWWT4</id>
-        <link href="https://www.youtube.com/watch?v=OIJ_5ZnWWT4"/>
-        <updated>2023-03-25T08:00:13.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enikinnu Venam | Junior Senior | Kaithapram | M Jayachandran | P Jayachandran | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=vdDjPlsozAo</id>
-        <link href="https://www.youtube.com/watch?v=vdDjPlsozAo"/>
-        <updated>2023-03-25T07:30:25.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
