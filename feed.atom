@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-24T16:25:36.358Z</updated>
+    <updated>2023-06-24T17:17:16.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -19483,42 +19483,6 @@
         <id>https://www.youtube.com/watch?v=rwfBDSOB60A</id>
         <link href="https://www.youtube.com/watch?v=rwfBDSOB60A"/>
         <updated>2023-03-27T06:00:29.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[beautiful Romantic duet song by K J Yesudas and Gayathri Ashokan from Mohanlal movie Naran]]></title>
-        <id>https://www.youtube.com/watch?v=GKkn65C-tFg</id>
-        <link href="https://www.youtube.com/watch?v=GKkn65C-tFg"/>
-        <updated>2023-03-27T05:00:08.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parayatharike Vanna Pranayame | Kolaambi Shorts | T K rajeevkumar]]></title>
-        <id>https://www.youtube.com/watch?v=BE6IY289n84</id>
-        <link href="https://www.youtube.com/watch?v=BE6IY289n84"/>
-        <updated>2023-03-27T04:36:59.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aananda Kolayil | Kolaambi | Shweta Mohan | Shorts | T K Rajeevkumar]]></title>
-        <id>https://www.youtube.com/watch?v=6ztP5drhw-w</id>
-        <link href="https://www.youtube.com/watch?v=6ztP5drhw-w"/>
-        <updated>2023-03-27T04:36:33.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Varaham Sadaham Namami | P Jayachandran | Dasavatharam #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=BXxNLi_ECgc</id>
-        <link href="https://www.youtube.com/watch?v=BXxNLi_ECgc"/>
-        <updated>2023-03-27T04:30:03.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
