@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-24T17:17:16.210Z</updated>
+    <updated>2023-06-24T18:24:29.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -20,6 +20,15 @@
         <id>https://www.youtube.com/watch?v=W5pGaMBEdww</id>
         <link href="https://www.youtube.com/watch?v=W5pGaMBEdww"/>
         <updated>2023-06-24T15:28:11.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Konnadi Penne - Video | Nadhikalil Sundari Yamuna | Aju Varghese | Arun Muraleedharan]]></title>
+        <id>https://www.youtube.com/watch?v=2x9Uest3EDg</id>
+        <link href="https://www.youtube.com/watch?v=2x9Uest3EDg"/>
+        <updated>2023-06-24T15:09:15.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
         </author>
@@ -19476,15 +19485,6 @@
         <updated>2023-03-27T06:34:23.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[beautiful Romantic duet song from the new Malayalam Movie HIGUITA]]></title>
-        <id>https://www.youtube.com/watch?v=rwfBDSOB60A</id>
-        <link href="https://www.youtube.com/watch?v=rwfBDSOB60A"/>
-        <updated>2023-03-27T06:00:29.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
