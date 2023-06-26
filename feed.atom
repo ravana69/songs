@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-26T20:21:40.529Z</updated>
+    <updated>2023-06-26T21:17:28.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -19719,15 +19719,6 @@
         <updated>2023-03-29T09:58:49.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Thanaro]]></title>
-        <id>https://www.youtube.com/watch?v=KPt29kwqURo</id>
-        <link href="https://www.youtube.com/watch?v=KPt29kwqURo"/>
-        <updated>2023-03-29T09:03:11.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
