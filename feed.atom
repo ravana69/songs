@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-27T11:16:53.456Z</updated>
+    <updated>2023-06-27T12:41:16.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Himalayan Love Story - Music Video | Binoy Nalanda | Naresh Iyer | Varun Krrishna | Joe Paul]]></title>
+        <id>https://www.youtube.com/watch?v=7DIkDfG_4D0</id>
+        <link href="https://www.youtube.com/watch?v=7DIkDfG_4D0"/>
+        <updated>2023-06-27T12:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവം നമ്മോടു കൂടെയുണ്ട് | Rev. Aneesh P Joseph | #shorts | #spiritual]]></title>
+        <id>https://www.youtube.com/watch?v=5oLIPwOf198</id>
+        <link href="https://www.youtube.com/watch?v=5oLIPwOf198"/>
+        <updated>2023-06-27T12:30:06.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 27th of June 2023]]></title>
+        <id>https://www.youtube.com/watch?v=73XzZu-CsQs</id>
+        <link href="https://www.youtube.com/watch?v=73XzZu-CsQs"/>
+        <updated>2023-06-27T12:30:04.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shaaradendu Paadi | Kaliyoonjal | G Venugopal | Ilayaraja | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=rxmUcYkihPc</id>
+        <link href="https://www.youtube.com/watch?v=rxmUcYkihPc"/>
+        <updated>2023-06-27T12:00:43.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coming Soon : DJ Remix of Super Hit Malayalam Movie Songs #shorts]]></title>
         <id>https://www.youtube.com/watch?v=YA_41ap5vOM</id>
@@ -19755,24 +19791,6 @@
         <updated>2023-03-30T04:25:41.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മഹത്വത്തിൻ  രാജാവിനെ ആവേശത്തോടെ എതിരേൽക്കുന്ന മനോഹരങ്ങളായ ഓശാന ഗീതങ്ങൾ |Holy Week Songs |Osana 2023]]></title>
-        <id>https://www.youtube.com/watch?v=hNYaz-Cjcdw</id>
-        <link href="https://www.youtube.com/watch?v=hNYaz-Cjcdw"/>
-        <updated>2023-03-30T00:30:14.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ കേൾക്കാൻ ഏറ്റവും നല്ല ഗാനങ്ങൾ daily worship songs | christian devotional songs malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=IUpQp_T7i_g</id>
-        <link href="https://www.youtube.com/watch?v=IUpQp_T7i_g"/>
-        <updated>2023-03-30T00:30:09.000Z</updated>
-        <author>
-            <name>Old Malayalam Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
