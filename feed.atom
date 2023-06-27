@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-27T16:27:00.678Z</updated>
+    <updated>2023-06-27T17:18:07.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -19773,33 +19773,6 @@
         <updated>2023-03-30T05:55:52.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jawanum Mullapoovum – Official Teaser | Sumesh Chandran | Sshivada | 2 CreativeMinds | Raghumenon]]></title>
-        <id>https://www.youtube.com/watch?v=EaQEOPNJnag</id>
-        <link href="https://www.youtube.com/watch?v=EaQEOPNJnag"/>
-        <updated>2023-03-30T05:07:27.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karthru Kaahalam | Shorts | Wilson Piravom | Elizabeth Raju]]></title>
-        <id>https://www.youtube.com/watch?v=-q3mWylvKfA</id>
-        <link href="https://www.youtube.com/watch?v=-q3mWylvKfA"/>
-        <updated>2023-03-30T04:47:36.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vedhana Thingunna | Teena Mary Abraham | Dr. Sandeep R | Lila George | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=6dwQJBqr6Fs</id>
-        <link href="https://www.youtube.com/watch?v=6dwQJBqr6Fs"/>
-        <updated>2023-03-30T04:27:55.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
