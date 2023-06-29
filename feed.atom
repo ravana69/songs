@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-29T04:24:25.455Z</updated>
+    <updated>2023-06-29T05:19:35.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ninmizhiyal |Anoop S |Sam P Francis | Shabeer Ali | Meera Reghunath | Dr.Anagha |Naveen | Love Songs]]></title>
+        <id>https://www.youtube.com/watch?v=LTWKlG2O3v0</id>
+        <link href="https://www.youtube.com/watch?v=LTWKlG2O3v0"/>
+        <updated>2023-06-29T04:34:58.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maadathakili Maadathakili | Vajram | Mammootty | Nandhini | Pramod Pappan | Yesudas | Ouseppachan]]></title>
+        <id>https://www.youtube.com/watch?v=ZScluY2FzbI</id>
+        <link href="https://www.youtube.com/watch?v=ZScluY2FzbI"/>
+        <updated>2023-06-29T04:30:10.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daivam Ezhunnelkkunnu | R S Vijayaraj | Kester]]></title>
         <id>https://www.youtube.com/watch?v=hxtzkZMM5EU</id>
