@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-30T03:24:23.667Z</updated>
+    <updated>2023-06-30T04:23:47.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -19889,24 +19889,6 @@
         <updated>2023-04-02T00:30:26.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#JawanumMullapoovum - In Cinemas Near You!]]></title>
-        <id>https://www.youtube.com/watch?v=uRs5x2ZCb3o</id>
-        <link href="https://www.youtube.com/watch?v=uRs5x2ZCb3o"/>
-        <updated>2023-04-01T15:30:12.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponnu Pennanu | Indrajith | Kalabhavan Mani | Indraja | MG Sreekumar | Sujatha | M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=MCwk8IsDlJg</id>
-        <link href="https://www.youtube.com/watch?v=MCwk8IsDlJg"/>
-        <updated>2023-04-01T15:30:05.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
     <entry>
