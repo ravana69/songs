@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-02T03:28:42.678Z</updated>
+    <updated>2023-07-02T04:22:51.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -20058,15 +20058,6 @@
         <updated>2023-04-04T00:30:22.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pattum Paadi | The Speedtrack | Dileep | Deepak Dev | Yesudas | Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=KQN67B9M0lM</id>
-        <link href="https://www.youtube.com/watch?v=KQN67B9M0lM"/>
-        <updated>2023-04-03T15:30:06.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
     <entry>
