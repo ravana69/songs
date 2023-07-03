@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-03T01:56:48.125Z</updated>
+    <updated>2023-07-03T03:00:46.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[St Thomas Day]]></title>
+        <id>https://www.youtube.com/watch?v=24NZ8ZU0ob4</id>
+        <link href="https://www.youtube.com/watch?v=24NZ8ZU0ob4"/>
+        <updated>2023-07-03T02:27:48.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദുക്റാന തിരുനാൾ ഗീതങ്ങൾ 2023 # Dhukrana Songs Malayalam # Ft. Fr. John, Fr. Vineeth, Franklin]]></title>
         <id>https://www.youtube.com/watch?v=TKX44SIPQxI</id>
@@ -20058,15 +20067,6 @@
         <updated>2023-04-04T15:30:01.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karimizhi Kuruviye Cover | Ashitha | Meesamadhavan | Dileep | Kavya Madhavan]]></title>
-        <id>https://www.youtube.com/watch?v=xSCN6gxnkQ4</id>
-        <link href="https://www.youtube.com/watch?v=xSCN6gxnkQ4"/>
-        <updated>2023-04-04T14:22:38.000Z</updated>
-        <author>
-            <name>MEGHAMALHAR</name>
         </author>
     </entry>
     <entry>
