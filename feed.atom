@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-03T12:43:29.734Z</updated>
+    <updated>2023-07-03T13:28:46.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kannippenne Penne | Mangalam Veettil Maanaseswari Gupta | Sujatha | Johnson | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=vyqN4z11-Nc</id>
+        <link href="https://www.youtube.com/watch?v=vyqN4z11-Nc"/>
+        <updated>2023-07-03T13:00:45.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 3rd of July 2023]]></title>
         <id>https://www.youtube.com/watch?v=lbstN1ZsZlo</id>
