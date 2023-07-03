@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-03T11:16:01.798Z</updated>
+    <updated>2023-07-03T12:43:29.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 3rd of July 2023]]></title>
+        <id>https://www.youtube.com/watch?v=lbstN1ZsZlo</id>
+        <link href="https://www.youtube.com/watch?v=lbstN1ZsZlo"/>
+        <updated>2023-07-03T12:30:32.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മറ്റുള്ളവർ നിങ്ങൾക്ക് ചെയ്തു തരണമെന്ന് നിങ്ങൾ ആഗ്രഹിക്കുന്നതെല്ലാം നിങ്ങൾ അവർക്കുചെയ്യുവിൻ]]></title>
+        <id>https://www.youtube.com/watch?v=v30g8agtFZ4</id>
+        <link href="https://www.youtube.com/watch?v=v30g8agtFZ4"/>
+        <updated>2023-07-03T12:30:23.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dum Dum Pattalam | My Dear Karadi | MG Sreekumar | Manju Thomas | C Thankaraj | Balu Kiriyath]]></title>
+        <id>https://www.youtube.com/watch?v=Q-71rNM95Nc</id>
+        <link href="https://www.youtube.com/watch?v=Q-71rNM95Nc"/>
+        <updated>2023-07-03T12:00:18.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peruchollaam (F) - Lyrical Video | Agninakshathram | KS Chithra | Raveendran | Shibu Chakravarthy]]></title>
         <id>https://www.youtube.com/watch?v=6b7crs64-_8</id>
@@ -745,6 +772,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[വാഗ്ദത്തങ്ങൾ തന്ന വിശ്വസ്തൻ | Kester | Reji Abraham | Christian Shorts Video]]></title>
+        <id>https://www.youtube.com/watch?v=2aBIIlaCNE8</id>
+        <link href="https://www.youtube.com/watch?v=2aBIIlaCNE8"/>
+        <updated>2023-06-30T04:31:31.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kaalangal Sambhavangal | Kester | Reji Abraham | Stephan Devassy | Malayalam Christian Songs]]></title>
         <id>https://www.youtube.com/watch?v=FhLC5plGMwY</id>
         <link href="https://www.youtube.com/watch?v=FhLC5plGMwY"/>
@@ -758,6 +794,15 @@
         <id>https://www.youtube.com/watch?v=a5Zgub5HaxQ</id>
         <link href="https://www.youtube.com/watch?v=a5Zgub5HaxQ"/>
         <updated>2023-06-30T04:31:20.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പരിശുദ്ധനായ നാഥാ | Reji Abraham | Sujatha | Christian Shorts Video]]></title>
+        <id>https://www.youtube.com/watch?v=rXi4zYOVdeI</id>
+        <link href="https://www.youtube.com/watch?v=rXi4zYOVdeI"/>
+        <updated>2023-06-30T04:30:48.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
         </author>
@@ -20121,24 +20166,6 @@
         <updated>2023-04-05T04:05:21.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദാസനെപോലെ ശൂന്യനായിതീർന്ന യേശുനാഥന്റെ ദിവ്യസ്നേഹം പാരിനു നൽകും പെസഹാഗാനങ്ങൾ | Maundy Thursday Songs]]></title>
-        <id>https://www.youtube.com/watch?v=bpybDI7IopQ</id>
-        <link href="https://www.youtube.com/watch?v=bpybDI7IopQ"/>
-        <updated>2023-04-05T00:30:23.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അതിമനോഹരമായ പഴയ പ്രാർത്ഥനാ ഗാനങ്ങൾ old nostalgic songs with lyrics | daily worship songs malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=CP14O4vwPZo</id>
-        <link href="https://www.youtube.com/watch?v=CP14O4vwPZo"/>
-        <updated>2023-04-05T00:30:07.000Z</updated>
-        <author>
-            <name>Old Malayalam Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
