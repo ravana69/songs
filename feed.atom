@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-03T03:00:46.542Z</updated>
+    <updated>2023-07-03T04:23:47.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -20049,24 +20049,6 @@
         <updated>2023-04-05T00:30:07.000Z</updated>
         <author>
             <name>Old Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daddy My Daddy | Daddycool | Mammootty | Shwetha Mohan | Santhosh Varma | Bijipal]]></title>
-        <id>https://www.youtube.com/watch?v=Tb-hCo_7xIc</id>
-        <link href="https://www.youtube.com/watch?v=Tb-hCo_7xIc"/>
-        <updated>2023-04-04T15:30:11.000Z</updated>
-        <author>
-            <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mahimayode Uyarthu Ente Yeshu | Easter Song | Gladvin A Devas | Amal Jose | Christian Video Song]]></title>
-        <id>https://www.youtube.com/watch?v=8dTrvYFttJM</id>
-        <link href="https://www.youtube.com/watch?v=8dTrvYFttJM"/>
-        <updated>2023-04-04T15:30:01.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
