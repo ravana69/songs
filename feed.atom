@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-04T11:17:20.118Z</updated>
+    <updated>2023-07-04T12:42:37.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 4th of July 2023]]></title>
+        <id>https://www.youtube.com/watch?v=9jUH7ax14EI</id>
+        <link href="https://www.youtube.com/watch?v=9jUH7ax14EI"/>
+        <updated>2023-07-04T12:30:03.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഞാൻ നിങ്ങളെ സ്നേഹിച്ചതുപോലെ നിങ്ങളും പരസ്പരം സ്നേഹിക്കണം | Rev. Aneesh P Joseph |#shorts]]></title>
+        <id>https://www.youtube.com/watch?v=0AhOVJAJgnQ</id>
+        <link href="https://www.youtube.com/watch?v=0AhOVJAJgnQ"/>
+        <updated>2023-07-04T12:30:00.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kocharimulla | Thiruvithamkoor Thirumanassu | KJ Yesudas | Premkumar Vadakara | P K Gopi]]></title>
+        <id>https://www.youtube.com/watch?v=J9dtUAYI-dY</id>
+        <link href="https://www.youtube.com/watch?v=J9dtUAYI-dY"/>
+        <updated>2023-07-04T12:00:13.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Punchiri Thanchum | Beautiful Romantic Song by Shankar Mahadevan from Bicycle Thieves #shorts]]></title>
         <id>https://www.youtube.com/watch?v=FxAXElTv2GA</id>
@@ -382,6 +409,15 @@
         <updated>2023-07-03T05:07:38.000Z</updated>
         <author>
             <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aswasamekuvan | Dr.Preemus Perinchery | Eldridge Isaacs | Saritha Sujith | Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=V_RtpEEDkL8</id>
+        <link href="https://www.youtube.com/watch?v=V_RtpEEDkL8"/>
+        <updated>2023-07-03T04:42:41.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -20174,24 +20210,6 @@
         <updated>2023-04-06T06:30:10.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈ ലോകജീവിതം ദുസ്സഹമായി തോന്നുന്നവർ ഈ ഗാനങ്ങൾ കേൾക്കുക | Christian  Songs Malayalam | Easter Songs]]></title>
-        <id>https://www.youtube.com/watch?v=pOcMLC8ikC4</id>
-        <link href="https://www.youtube.com/watch?v=pOcMLC8ikC4"/>
-        <updated>2023-04-06T00:30:27.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coming Soon | Chothiyum Kannanum | Guruvayoorappa Devotional Song by Chothi Shalu]]></title>
-        <id>https://www.youtube.com/watch?v=PneF2W4FfnM</id>
-        <link href="https://www.youtube.com/watch?v=PneF2W4FfnM"/>
-        <updated>2023-04-06T00:15:03.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
     <entry>
