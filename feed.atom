@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-05T06:27:29.327Z</updated>
+    <updated>2023-07-05T07:19:20.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[முதல் நீ முடிவும் நீ - தமிழ் பாடல்வரிகள் | தர்புகா சிவா]]></title>
+        <id>https://www.youtube.com/watch?v=tUxmZfOLIq4</id>
+        <link href="https://www.youtube.com/watch?v=tUxmZfOLIq4"/>
+        <updated>2023-07-05T07:00:32.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[இறைவி - காதல் கப்பல் தமிழ் பாடல்வரிகள் | சந்தோஷ் நாராயணன்]]></title>
+        <id>https://www.youtube.com/watch?v=K_wwaPqDmeA</id>
+        <link href="https://www.youtube.com/watch?v=K_wwaPqDmeA"/>
+        <updated>2023-07-05T07:00:07.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paattinte Palkadavil | Lyrical Video | Living Together | Shreya Ghoshal | Kaithapram| M Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=JAc4CZ5a56g</id>
