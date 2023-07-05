@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-05T18:26:27.736Z</updated>
+    <updated>2023-07-05T19:16:30.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 6th July 2023]]></title>
+        <id>https://www.youtube.com/watch?v=MzgivhzYCfI</id>
+        <link href="https://www.youtube.com/watch?v=MzgivhzYCfI"/>
+        <updated>2023-07-05T19:00:13.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=oWEojtqKW-Q</id>
+        <link href="https://www.youtube.com/watch?v=oWEojtqKW-Q"/>
+        <updated>2023-07-05T18:30:49.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ennu Varum Nee | Kannaki | Nandita Das | Lal | KS Chithra | Kaithapram | Siddique]]></title>
         <id>https://www.youtube.com/watch?v=IIZWb-Z0hBo</id>
@@ -20192,33 +20210,6 @@
         <updated>2023-04-07T07:30:03.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Krooshitha Karunamaya | Baby John Kalayanthani | Abhijith Kollam | Christian Devotional Song Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=NJWHWMn4SVk</id>
-        <link href="https://www.youtube.com/watch?v=NJWHWMn4SVk"/>
-        <updated>2023-04-07T07:04:39.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mizhineer Oppunna Sneham | Kester | Shorts | Manorama Music]]></title>
-        <id>https://www.youtube.com/watch?v=DmBc8KPLyfI</id>
-        <link href="https://www.youtube.com/watch?v=DmBc8KPLyfI"/>
-        <updated>2023-04-07T07:01:46.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinnumvenntharathil - Audio Song | Jeevitha Samaram | K.J. Yesudas, S. Janaki | Saregama Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=ahfHKNLhKqM</id>
-        <link href="https://www.youtube.com/watch?v=ahfHKNLhKqM"/>
-        <updated>2023-04-07T06:30:01.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
