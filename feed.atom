@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-06T18:24:02.921Z</updated>
+    <updated>2023-07-06T19:15:44.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 7th July 2023]]></title>
+        <id>https://www.youtube.com/watch?v=DD6j-RBorM4</id>
+        <link href="https://www.youtube.com/watch?v=DD6j-RBorM4"/>
+        <updated>2023-07-06T19:00:05.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=gFf0zJftFm8</id>
+        <link href="https://www.youtube.com/watch?v=gFf0zJftFm8"/>
+        <updated>2023-07-06T18:30:38.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doo Doo Durudoo | Sharjah To Sharjah | Jayaram | Aishwarya | Mohan Sithara | MG Sreekumar |]]></title>
         <id>https://www.youtube.com/watch?v=VREXQJL3aL0</id>
@@ -20399,33 +20417,6 @@
         <updated>2023-04-08T07:30:09.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carol Video Song - Kallanum Bhagavathiyum | Vishnu Unnikrishnan,Ansuree,Mokksha | East Coast VIjayan]]></title>
-        <id>https://www.youtube.com/watch?v=XqmIpq7S64w</id>
-        <link href="https://www.youtube.com/watch?v=XqmIpq7S64w"/>
-        <updated>2023-04-08T07:06:21.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vikrant Rona Dialogues Jukebox [Malayalam] | Kichcha Sudeepa | B Ajaneesh Loknath | Anup Bhandari]]></title>
-        <id>https://www.youtube.com/watch?v=1c-TIAD2xyY</id>
-        <link href="https://www.youtube.com/watch?v=1c-TIAD2xyY"/>
-        <updated>2023-04-08T06:56:01.000Z</updated>
-        <author>
-            <name>Lahari Music Malayalam - TSeries</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urvasi Urvasi - Audio Song | Lahari | P. Madhuri | G. Devarajan | Saregama Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=gFPcAzFjeek</id>
-        <link href="https://www.youtube.com/watch?v=gFPcAzFjeek"/>
-        <updated>2023-04-08T06:30:12.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
