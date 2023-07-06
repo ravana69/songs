@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-06T05:20:41.513Z</updated>
+    <updated>2023-07-06T06:27:25.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Junile Nilamazhayil | Riya Das | Unplugged Cover]]></title>
+        <id>https://www.youtube.com/watch?v=iYDIbMvLXhc</id>
+        <link href="https://www.youtube.com/watch?v=iYDIbMvLXhc"/>
+        <updated>2023-07-06T05:33:46.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dance together with #LoveYouMuthe | #Padmini | #JakesBejoy | #KunchackoBoban | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=KcjbATldO9o</id>
+        <link href="https://www.youtube.com/watch?v=KcjbATldO9o"/>
+        <updated>2023-07-06T05:30:05.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കർത്താവിൽ പ്രത്യാശ തന്ന സുന്ദര ഗാനങ്ങൾ | Christian Devotional Songs Malayalam | Wilson Piravom]]></title>
         <id>https://www.youtube.com/watch?v=ZnqVBmiCCtE</id>
