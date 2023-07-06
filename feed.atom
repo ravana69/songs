@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-06T03:04:41.896Z</updated>
+    <updated>2023-07-06T04:25:28.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -20120,15 +20120,6 @@
         <updated>2023-04-08T00:30:02.000Z</updated>
         <author>
             <name>Old Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manjum Thazhvaravum | Indriyam | Berny-Ignatius | Vijay Yesudas | S Ramesan Nair | Nandu]]></title>
-        <id>https://www.youtube.com/watch?v=S07lJO2qS5k</id>
-        <link href="https://www.youtube.com/watch?v=S07lJO2qS5k"/>
-        <updated>2023-04-07T15:30:06.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
     <entry>
