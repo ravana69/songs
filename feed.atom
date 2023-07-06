@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-06T07:19:17.701Z</updated>
+    <updated>2023-07-06T08:26:39.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Eeshoykkenthoru Sneham | Daivasneham Vilichothunna Kristheeya Bhakthigaanangal  Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=iW8NMSQNycY</id>
+        <link href="https://www.youtube.com/watch?v=iW8NMSQNycY"/>
+        <updated>2023-07-06T08:06:06.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നിങ്ങൾ കേൾക്കാനാഗ്രഹിച്ച എൺപതുകളിലെ മനം മയക്കുന്ന ഗാനങ്ങൾ  | 80s HITS]]></title>
+        <id>https://www.youtube.com/watch?v=M3m8OWf-b9Q</id>
+        <link href="https://www.youtube.com/watch?v=M3m8OWf-b9Q"/>
+        <updated>2023-07-06T07:30:04.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[விடுதலை - காட்டுமல்லி தமிழ் பாடல்வரிகள் | இளையராஜா]]></title>
         <id>https://www.youtube.com/watch?v=fGMA8t9SjVY</id>
