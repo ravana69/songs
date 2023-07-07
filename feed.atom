@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-07T08:25:30.628Z</updated>
+    <updated>2023-07-07T09:19:45.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#PranayamaniThooval Videosong | Sujatha | Vidyasagar | Azhakiyaravanan]]></title>
+        <id>https://www.youtube.com/watch?v=JN6VHX0dg8Y</id>
+        <link href="https://www.youtube.com/watch?v=JN6VHX0dg8Y"/>
+        <updated>2023-07-07T09:07:59.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[സർവ്വമലയാളികളും ഒരു മനസോടെ ഇരുകൈയ്യും നീട്ടി സ്വീകരിച്ച എക്കാലത്തെയും മികച്ചഗാനങ്ങൾ | EVERGREEN HITS]]></title>
         <id>https://www.youtube.com/watch?v=cTcKCCbsd_k</id>
