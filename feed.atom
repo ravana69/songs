@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-07T07:18:19.235Z</updated>
+    <updated>2023-07-07T08:25:30.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സർവ്വമലയാളികളും ഒരു മനസോടെ ഇരുകൈയ്യും നീട്ടി സ്വീകരിച്ച എക്കാലത്തെയും മികച്ചഗാനങ്ങൾ | EVERGREEN HITS]]></title>
+        <id>https://www.youtube.com/watch?v=cTcKCCbsd_k</id>
+        <link href="https://www.youtube.com/watch?v=cTcKCCbsd_k"/>
+        <updated>2023-07-07T07:37:53.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vida Parayukayaano | Big B | Shreya Ghoshal | Alphons Joseph | Santhosh Varma | Mammootty]]></title>
+        <id>https://www.youtube.com/watch?v=jLvnAlTgRLc</id>
+        <link href="https://www.youtube.com/watch?v=jLvnAlTgRLc"/>
+        <updated>2023-07-07T07:30:13.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#LoveYouMuthe dance video | #Padmini | #JakesBejoy | #KunchackoBoban | #shorts #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=xIGcvVvyc1c</id>
