@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-08T05:18:33.068Z</updated>
+    <updated>2023-07-08T06:24:07.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pada Nooru Pala Ooru - Video Song | Neymar| Mathew,Naslen| Deepak Blue| Shaan Rahman| Sudhi Maddison]]></title>
+        <id>https://www.youtube.com/watch?v=PnJQy3fH3gE</id>
+        <link href="https://www.youtube.com/watch?v=PnJQy3fH3gE"/>
+        <updated>2023-07-08T05:37:47.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mukilvarna Mukunda | Lyrical Video | Bahubali 2 - The Conclusion | Swetha Mohan | M M Keeravani]]></title>
+        <id>https://www.youtube.com/watch?v=7xjFxIlUydI</id>
+        <link href="https://www.youtube.com/watch?v=7xjFxIlUydI"/>
+        <updated>2023-07-08T05:30:12.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Video Songs Malayalam | Madhu Balakrishnan | Christian Superhit Songs | Rithuraj]]></title>
         <id>https://www.youtube.com/watch?v=xAEByiqNyvE</id>
