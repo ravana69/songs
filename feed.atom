@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-08T03:01:16.283Z</updated>
+    <updated>2023-07-08T04:23:31.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -20363,24 +20363,6 @@
         <updated>2023-04-10T00:30:26.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninneyere Drohichu Njan | Baby John Kalayanthani | Abhijith Kollam | Christian Song Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=iUA_7cHUuzc</id>
-        <link href="https://www.youtube.com/watch?v=iUA_7cHUuzc"/>
-        <updated>2023-04-09T16:17:51.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeevan Nalki  Snehichu Nee | Baby John Kalayanthani | Abhijith Kollam | Christian Devotional Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=vomyhH9Wgag</id>
-        <link href="https://www.youtube.com/watch?v=vomyhH9Wgag"/>
-        <updated>2023-04-09T15:52:18.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
