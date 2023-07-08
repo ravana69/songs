@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-08T07:17:02.198Z</updated>
+    <updated>2023-07-08T08:22:56.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളസിനിമയിലെ സൂപ്പർഹിറ്റ് ചലച്ചിത്രഗാനങ്ങൾ | SUPERHIT SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=RjyKwkX6VkQ</id>
+        <link href="https://www.youtube.com/watch?v=RjyKwkX6VkQ"/>
+        <updated>2023-07-08T07:37:31.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[തന്റെ പ്രണയിനിക്ക് ഏറ്റവും ഇഷ്‌ടമുള്ള മലയാളസിനിമയിലെ 10 പ്രണയഗാനങ്ങൾ | MALAYALAM FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=7_YHjSICyuI</id>
+        <link href="https://www.youtube.com/watch?v=7_YHjSICyuI"/>
+        <updated>2023-07-08T07:34:03.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒന്നിനൊന്ന് മെച്ചമാം സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ കൊണ്ട് തീർത്ത ഗാനശേഖരം | EVERGREEN SUPERHIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=kVBq_L8Llow</id>
+        <link href="https://www.youtube.com/watch?v=kVBq_L8Llow"/>
+        <updated>2023-07-08T07:30:18.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pada Nooru Pala Ooru - Video Song | Neymar| Mathew,Naslen| Deepak Blue| Shaan Rahman| Sudhi Maddison]]></title>
         <id>https://www.youtube.com/watch?v=PnJQy3fH3gE</id>
