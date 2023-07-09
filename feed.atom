@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-09T21:16:00.094Z</updated>
+    <updated>2023-07-09T22:18:10.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -20354,15 +20354,6 @@
         <updated>2023-04-11T11:30:07.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Namasthe Saranye - Video Song | Kallanum Bhagavathiyum | Vishnu Unnikrishan | East Coast Vijayan]]></title>
-        <id>https://www.youtube.com/watch?v=cwEjEWmrgM4</id>
-        <link href="https://www.youtube.com/watch?v=cwEjEWmrgM4"/>
-        <updated>2023-04-11T09:41:14.000Z</updated>
-        <author>
-            <name>East Coast</name>
         </author>
     </entry>
     <entry>
