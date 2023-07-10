@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-10T12:41:35.748Z</updated>
+    <updated>2023-07-10T13:28:51.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആധിയും , വ്യാധിയും നീക്കി എന്നിലെന്നും കനിയേണമേ ...]]></title>
+        <id>https://www.youtube.com/watch?v=Q68cTO5_3q8</id>
+        <link href="https://www.youtube.com/watch?v=Q68cTO5_3q8"/>
+        <updated>2023-07-10T13:23:22.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enikku Paduvaan | Parayam | KJ Yesudas | Mohan Sithara | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=zebgKR2aq6c</id>
+        <link href="https://www.youtube.com/watch?v=zebgKR2aq6c"/>
+        <updated>2023-07-10T13:00:56.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈ  ഭാരം ഒരു അനുഗ്രഹമല്ലേ? |  Rev. Aneesh P Joseph | #shorts #jesusshorts]]></title>
         <id>https://www.youtube.com/watch?v=RraTQrDWvVc</id>
