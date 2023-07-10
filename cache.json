@@ -5706,16 +5706,6 @@
           "wordCount": null,
           "title": "Ishtam Ishtam Enikkishtam | Amrutham | Jayaram | Padmapriya | Kaithapram | Chithra",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0iixWVYPngI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0iixWVYPngI",
-          "publishedOn": "2023-04-11T15:30:00.000Z",
-          "wordCount": null,
-          "title": "Tham Thaka Thakida | Kshnakathu | Niyas | Sharreth | Kaithapram | KJ Yesudas | Athira |",
-          "imageUrl": null
         }
       ]
     },
@@ -9851,6 +9841,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCXQ1x1oyK0ArXXjoJYEmu4A",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=sb4tGfbAITU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=sb4tGfbAITU",
+          "publishedOn": "2023-07-10T02:08:44.000Z",
+          "wordCount": null,
+          "title": "ദേവാധി ദേവസുതൻ | George Peter Chittur | Libin Scaria | Shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=m8abWdNL4vw",
           "author": null,
           "description": "",
@@ -11928,16 +11928,6 @@
           "publishedOn": "2023-04-13T03:25:28.000Z",
           "wordCount": null,
           "title": "Kodaakodi Golamellam Padachavan | Fr. SeveriosThomas | Shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=REiCIgE2VrI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=REiCIgE2VrI",
-          "publishedOn": "2023-04-11T15:20:00.000Z",
-          "wordCount": null,
-          "title": "Aarum Sahayamilla | Fr. Severios Thomas | Shorts",
           "imageUrl": null
         }
       ]

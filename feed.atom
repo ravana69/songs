@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-10T03:04:33.913Z</updated>
+    <updated>2023-07-10T04:24:25.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദേവാധി ദേവസുതൻ | George Peter Chittur | Libin Scaria | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=sb4tGfbAITU</id>
+        <link href="https://www.youtube.com/watch?v=sb4tGfbAITU"/>
+        <updated>2023-07-10T02:08:44.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala 10th of July  2023 # Mathavinte Japamala # Santhoshathinte Rahasyangal 10th of July 2023]]></title>
         <id>https://www.youtube.com/watch?v=zsKpuTe5H5g</id>
@@ -20309,24 +20318,6 @@
         <updated>2023-04-11T16:54:31.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tham Thaka Thakida | Kshnakathu | Niyas | Sharreth | Kaithapram | KJ Yesudas | Athira |]]></title>
-        <id>https://www.youtube.com/watch?v=0iixWVYPngI</id>
-        <link href="https://www.youtube.com/watch?v=0iixWVYPngI"/>
-        <updated>2023-04-11T15:30:00.000Z</updated>
-        <author>
-            <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aarum Sahayamilla | Fr. Severios Thomas | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=REiCIgE2VrI</id>
-        <link href="https://www.youtube.com/watch?v=REiCIgE2VrI"/>
-        <updated>2023-04-11T15:20:00.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
