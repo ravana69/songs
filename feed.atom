@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-10T18:25:16.153Z</updated>
+    <updated>2023-07-10T19:15:52.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 11th July 2023]]></title>
+        <id>https://www.youtube.com/watch?v=tQHcImb1xBs</id>
+        <link href="https://www.youtube.com/watch?v=tQHcImb1xBs"/>
+        <updated>2023-07-10T19:00:25.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=4xVHw9wbUu0</id>
+        <link href="https://www.youtube.com/watch?v=4xVHw9wbUu0"/>
+        <updated>2023-07-10T18:30:04.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കൊഞ്ചും നിന്ഇ മ്പം | Konjum Nin Impam Thalavattom | Evergreen Hit Songs | Yesudas, Chithra]]></title>
         <id>https://www.youtube.com/watch?v=n0ZPd490DQM</id>
@@ -20462,15 +20480,6 @@
         <updated>2023-04-12T07:30:06.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കൂട്ടിൽ നിന്നും മേട്ടിൽ വന്ന | Malayalam Evergreen Film Song | താളവട്ടം | K. J. Yesudas | Mohanlal.]]></title>
-        <id>https://www.youtube.com/watch?v=jq6en3uke4U</id>
-        <link href="https://www.youtube.com/watch?v=jq6en3uke4U"/>
-        <updated>2023-04-12T06:38:40.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
     <entry>
