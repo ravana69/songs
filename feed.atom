@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-11T03:24:24.729Z</updated>
+    <updated>2023-07-11T04:24:12.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -20426,15 +20426,6 @@
         <updated>2023-04-13T00:30:01.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ishtam Ishtam Enikkishtam | Amrutham | Jayaram | Padmapriya | Kaithapram | Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=6rg4lPbi2Wg</id>
-        <link href="https://www.youtube.com/watch?v=6rg4lPbi2Wg"/>
-        <updated>2023-04-12T15:30:02.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
     <entry>
