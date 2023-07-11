@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-11T09:19:34.930Z</updated>
+    <updated>2023-07-11T10:22:11.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -758,6 +758,15 @@
         <id>https://www.youtube.com/watch?v=Etm9uu1bX1E</id>
         <link href="https://www.youtube.com/watch?v=Etm9uu1bX1E"/>
         <updated>2023-07-08T05:03:59.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannuneerin Thazhvarayil | Riya Das | Charles John | Malayalam Christian Shorts Video]]></title>
+        <id>https://www.youtube.com/watch?v=QPHZWxpdn4M</id>
+        <link href="https://www.youtube.com/watch?v=QPHZWxpdn4M"/>
+        <updated>2023-07-08T04:56:24.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
         </author>
