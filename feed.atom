@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-13T17:17:49.952Z</updated>
+    <updated>2023-07-13T18:24:47.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -20606,51 +20606,6 @@
         <updated>2023-04-15T07:30:03.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanne Vanne Pailwaan - Theme Audio Song | Pailwaan Malayalam | Kichcha Sudeepa | Krishna]]></title>
-        <id>https://www.youtube.com/watch?v=gUvmoiEC_Yk</id>
-        <link href="https://www.youtube.com/watch?v=gUvmoiEC_Yk"/>
-        <updated>2023-04-15T06:15:56.000Z</updated>
-        <author>
-            <name>Lahari Music Malayalam - TSeries</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pranapriya Yeshunadha | Shorts | Seline Jose]]></title>
-        <id>https://www.youtube.com/watch?v=w-AiDss_blM</id>
-        <link href="https://www.youtube.com/watch?v=w-AiDss_blM"/>
-        <updated>2023-04-15T06:15:09.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thallapetta Enne Ninte | Shorts | Seline Jose]]></title>
-        <id>https://www.youtube.com/watch?v=qjrlRQOg7tw</id>
-        <link href="https://www.youtube.com/watch?v=qjrlRQOg7tw"/>
-        <updated>2023-04-15T06:14:42.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Sneham Ninakku Mathram | Pranapriya | Shorts | Seline Jose]]></title>
-        <id>https://www.youtube.com/watch?v=OAl_luESLnA</id>
-        <link href="https://www.youtube.com/watch?v=OAl_luESLnA"/>
-        <updated>2023-04-15T06:12:38.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Dhanavum Maanamellam | Pranapriya | Seline Jose]]></title>
-        <id>https://www.youtube.com/watch?v=Pv3vknXjliA</id>
-        <link href="https://www.youtube.com/watch?v=Pv3vknXjliA"/>
-        <updated>2023-04-15T06:11:01.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
