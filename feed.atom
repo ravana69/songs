@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-14T09:19:25.552Z</updated>
+    <updated>2023-07-14T10:21:20.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Iphone Song (Telugu Lyric Video [From "Ramabanam"])]]></title>
+        <id>https://www.youtube.com/watch?v=zQ59VCzaEWk</id>
+        <link href="https://www.youtube.com/watch?v=zQ59VCzaEWk"/>
+        <updated>2023-07-14T09:29:50.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yashwanth Nag - Sau Sara (Telugu Lyric Video [From "Pareshan"])]]></title>
+        <id>https://www.youtube.com/watch?v=HyXbpS2dFUE</id>
+        <link href="https://www.youtube.com/watch?v=HyXbpS2dFUE"/>
+        <updated>2023-07-14T09:24:05.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nachavule Nachavule (Telugu Lyric Video [From "Virupaksha"])]]></title>
+        <id>https://www.youtube.com/watch?v=yHZGR1FS5nA</id>
+        <link href="https://www.youtube.com/watch?v=yHZGR1FS5nA"/>
+        <updated>2023-07-14T09:22:39.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ശ്രോതാക്കളുടെ ആവശ്യപ്രകാരം തെരഞ്ഞെടുത്ത ഈ ആഴ്ച്ചയിലെ മനസ്സ് മടുക്കാത്ത മലയാളസിനിമാഗാനങ്ങൾ | NISARI]]></title>
         <id>https://www.youtube.com/watch?v=xiFsM-bHzlw</id>
