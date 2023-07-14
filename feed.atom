@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-14T07:17:56.234Z</updated>
+    <updated>2023-07-14T08:24:43.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ശ്രോതാക്കളുടെ ആവശ്യപ്രകാരം തെരഞ്ഞെടുത്ത ഈ ആഴ്ച്ചയിലെ മനസ്സ് മടുക്കാത്ത മലയാളസിനിമാഗാനങ്ങൾ | NISARI]]></title>
+        <id>https://www.youtube.com/watch?v=xiFsM-bHzlw</id>
+        <link href="https://www.youtube.com/watch?v=xiFsM-bHzlw"/>
+        <updated>2023-07-14T07:30:14.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manthramothiram Mayamothiram | Ponnapuram Kotta | Vayalar | G Devarajan | Yesudas | Prem Nazir]]></title>
+        <id>https://www.youtube.com/watch?v=ZknVKVAgk4k</id>
+        <link href="https://www.youtube.com/watch?v=ZknVKVAgk4k"/>
+        <updated>2023-07-14T07:30:14.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BALIVEDHIYIL | NEW CHRISTIAN SONG | TESLIN SHAJI | LOJESH ABRAHAM VANIYAPPARA | ZION CLASSICS]]></title>
         <id>https://www.youtube.com/watch?v=H0xAA3GDL_E</id>
@@ -49,6 +67,15 @@
         <updated>2023-07-14T04:19:47.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yeshuve Ninmukham | Sajitha Binu | Fr. John Painunkal | Berny & Tansen | Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=mrJsKAtrgOY</id>
+        <link href="https://www.youtube.com/watch?v=mrJsKAtrgOY"/>
+        <updated>2023-07-14T04:00:47.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
