@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-15T05:19:31.790Z</updated>
+    <updated>2023-07-15T06:24:37.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#KanniluKannilu 💜💗 | #Ayisha  | #Shorts #YTshorts]]></title>
+        <id>https://www.youtube.com/watch?v=k2QFBOQTpIQ</id>
+        <link href="https://www.youtube.com/watch?v=k2QFBOQTpIQ"/>
+        <updated>2023-07-15T05:30:09.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manassinullil Mayangi | Vasanthamalika | Mukesh | Uma Shankari | M.G.Sreekumar | Chithra]]></title>
         <id>https://www.youtube.com/watch?v=Bq8RG9Z2sRs</id>
