@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-16T02:09:50.624Z</updated>
+    <updated>2023-07-16T03:33:11.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -20930,24 +20930,6 @@
         <updated>2023-04-17T15:46:16.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nilavinte | Agnidevan | Mohanlal | Revathy |  Gireesh Puthanchery | MG Radakrishnan |]]></title>
-        <id>https://www.youtube.com/watch?v=px1lLila0Ks</id>
-        <link href="https://www.youtube.com/watch?v=px1lLila0Ks"/>
-        <updated>2023-04-17T15:30:16.000Z</updated>
-        <author>
-            <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17 April 2023]]></title>
-        <id>https://www.youtube.com/watch?v=Xtt9elOYSOY</id>
-        <link href="https://www.youtube.com/watch?v=Xtt9elOYSOY"/>
-        <updated>2023-04-17T14:15:50.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
     <entry>
