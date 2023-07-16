@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-16T22:18:14.884Z</updated>
+    <updated>2023-07-16T23:18:41.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 17 shorts  # Athiravile Prarthana 17th of July 2023 Morning Prayer shorts]]></title>
+        <id>https://www.youtube.com/watch?v=coqPC_PzsAw</id>
+        <link href="https://www.youtube.com/watch?v=coqPC_PzsAw"/>
+        <updated>2023-07-16T23:00:16.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 17 # Athiravile Prarthana 17th of July 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=VqRKXruloAk</id>
@@ -20930,24 +20939,6 @@
         <updated>2023-04-18T11:30:03.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paathiyil | Chathurmukham | Amritha Jayakumar | Manju Warrier | Sunny Wayne | Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=hBd47TDvp2w</id>
-        <link href="https://www.youtube.com/watch?v=hBd47TDvp2w"/>
-        <updated>2023-04-18T10:46:27.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayakondu | Chathurmukham | Shweta Mohan | Manju Warrier | Sunny Wayne | Jiss Toms Movies]]></title>
-        <id>https://www.youtube.com/watch?v=39RK3cCdpgo</id>
-        <link href="https://www.youtube.com/watch?v=39RK3cCdpgo"/>
-        <updated>2023-04-18T10:39:04.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
     <entry>
