@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-17T03:30:46.689Z</updated>
+    <updated>2023-07-17T04:24:12.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[En Priyan Yeshuvin | Sumi Sunny | Christian Devotional Shorts Video]]></title>
+        <id>https://www.youtube.com/watch?v=b2nyaGpd49o</id>
+        <link href="https://www.youtube.com/watch?v=b2nyaGpd49o"/>
+        <updated>2023-07-17T03:30:02.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shorts | Punya Maha Sannidhe | Pappachan Olivilanu | #latestmalayalam #music #malayalammoviesongs]]></title>
         <id>https://www.youtube.com/watch?v=NIMosCkK3i8</id>
