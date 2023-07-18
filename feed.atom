@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-18T07:17:14.946Z</updated>
+    <updated>2023-07-18T08:23:50.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hridayavaniyile Gaayikayo | Yesudas | Sindhu Devi | Kottayam Kunjachan | Shyam | Evergreen Songs]]></title>
+        <id>https://www.youtube.com/watch?v=RDpbzFxc3Tw</id>
+        <link href="https://www.youtube.com/watch?v=RDpbzFxc3Tw"/>
+        <updated>2023-07-18T07:30:11.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒരു കാലത്തു  ഏവരുടെയും ചുണ്ടിൽ തത്തിക്കളിച്ച സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ |Evergreen Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=hK9YAs3ZyUE</id>
+        <link href="https://www.youtube.com/watch?v=hK9YAs3ZyUE"/>
+        <updated>2023-07-18T07:30:08.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇന്നലേ.... ഇന്നലെ എന്റെ നെഞ്ചിലെ കുഞ്ഞു മണ്‍ വിളക്കൂതിയില്ലേ... ✨️🦋❤️]]></title>
+        <id>https://www.youtube.com/watch?v=qx04EsgxfPc</id>
+        <link href="https://www.youtube.com/watch?v=qx04EsgxfPc"/>
+        <updated>2023-07-18T07:19:14.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഉറങ്ങാന്‍ പോകുമ്പോള്‍ കേള്‍ക്കാവുന്ന ഗാനങ്ങള്‍ # Malayalam Christian songs for Sleep #worshipsongs]]></title>
         <id>https://www.youtube.com/watch?v=9KxhcdS93OI</id>
@@ -13,6 +40,15 @@
         <updated>2023-07-18T07:10:28.000Z</updated>
         <author>
             <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karaoke Karayodu Cherkkunna Nadhan | Libin Baby | Roy John Chirackal | Christian Karaoke Tracks]]></title>
+        <id>https://www.youtube.com/watch?v=JhqGZqOm8iQ</id>
+        <link href="https://www.youtube.com/watch?v=JhqGZqOm8iQ"/>
+        <updated>2023-07-18T06:39:46.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
