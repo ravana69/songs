@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-18T20:19:30.337Z</updated>
+    <updated>2023-07-18T21:14:07.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -21119,24 +21119,6 @@
         <updated>2023-04-20T10:17:50.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noolilla Pattam Pole | Jassie Gift | Wilson Thomas | Anto Francis | Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=fpoTmGLRaJw</id>
-        <link href="https://www.youtube.com/watch?v=fpoTmGLRaJw"/>
-        <updated>2023-04-20T08:38:35.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nenjin Poothalam | Aadiyum Ammuvum | Wilson Thomas | Anto Francis | K. K. Nishad |  Janaki M. Nair]]></title>
-        <id>https://www.youtube.com/watch?v=ErF29QEvLdI</id>
-        <link href="https://www.youtube.com/watch?v=ErF29QEvLdI"/>
-        <updated>2023-04-20T08:37:35.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
