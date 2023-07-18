@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-18T03:25:34.656Z</updated>
+    <updated>2023-07-18T04:22:05.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -265,6 +265,24 @@
         <updated>2023-07-17T04:30:04.000Z</updated>
         <author>
             <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snehathin Kankulir Kazhchaye | Kester | Christian Shorts Video]]></title>
+        <id>https://www.youtube.com/watch?v=94FsEG5AWyQ</id>
+        <link href="https://www.youtube.com/watch?v=94FsEG5AWyQ"/>
+        <updated>2023-07-17T03:31:38.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karayodu Cherkkunna Nadhan | Christian Devotional Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=JwCsKt7QFeE</id>
+        <link href="https://www.youtube.com/watch?v=JwCsKt7QFeE"/>
+        <updated>2023-07-17T03:30:59.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -3136,6 +3154,15 @@
         <updated>2023-07-06T07:00:12.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Varika - Abum Song | Sharreth | Sumi Sunny | Sherdin Thomas | Vishnu Gopan | Malayalam Music Video]]></title>
+        <id>https://www.youtube.com/watch?v=sTfkkYYNW9A</id>
+        <link href="https://www.youtube.com/watch?v=sTfkkYYNW9A"/>
+        <updated>2023-07-06T06:36:37.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -20903,15 +20930,6 @@
         <updated>2023-04-19T18:47:49.000Z</updated>
         <author>
             <name>OPM Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kilukkampetti | Mark Antony | Suresh Gopi | NF Varghese | KJ Yesudas | Berny Ignatius]]></title>
-        <id>https://www.youtube.com/watch?v=RTr-S8IqTB0</id>
-        <link href="https://www.youtube.com/watch?v=RTr-S8IqTB0"/>
-        <updated>2023-04-19T15:30:09.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
     <entry>
