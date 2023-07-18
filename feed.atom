@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-18T22:17:10.132Z</updated>
+    <updated>2023-07-18T23:17:05.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 19 shorts  # Athiravile Prarthana 19th of July 2023 Morning Prayer shorts]]></title>
+        <id>https://www.youtube.com/watch?v=n2wLQ8uUt98</id>
+        <link href="https://www.youtube.com/watch?v=n2wLQ8uUt98"/>
+        <updated>2023-07-18T23:00:21.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 19 # Athiravile Prarthana 19th of July 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=Q6b7CnYuOXQ</id>
@@ -21092,33 +21101,6 @@
         <updated>2023-04-20T11:30:03.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നിന്നുള്ളിലെ മോഹം സ്വന്തമാക്കി ഞാനും | പൂങ്കാറ്റിനോടും കിളികളോടും | Evergreen Malayalam Film Song]]></title>
-        <id>https://www.youtube.com/watch?v=oFIupKCjjzw</id>
-        <link href="https://www.youtube.com/watch?v=oFIupKCjjzw"/>
-        <updated>2023-04-20T10:34:12.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തുമ്പീ നിൻ മോഹം | Thumbi Nin Moham | Neelagiri | Malayalam Film Song | Mammootty]]></title>
-        <id>https://www.youtube.com/watch?v=KcyGozLkdR4</id>
-        <link href="https://www.youtube.com/watch?v=KcyGozLkdR4"/>
-        <updated>2023-04-20T10:21:59.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rajakkanmarude Rajave - Audio Song | Christian Devotional | K.J. Yesudas | Kottayam Joy]]></title>
-        <id>https://www.youtube.com/watch?v=2ArFzcJNW40</id>
-        <link href="https://www.youtube.com/watch?v=2ArFzcJNW40"/>
-        <updated>2023-04-20T10:17:50.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
