@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-18T04:22:05.814Z</updated>
+    <updated>2023-07-18T05:18:00.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ANAADHARE AGATHIKALE |NEW CHRISTIAN SONG | JOSE SAGAR | PAVITHRAN AMACHAL |JINO KUNNUMPURATH| REEL 1]]></title>
+        <id>https://www.youtube.com/watch?v=2DvGSRr9j2M</id>
+        <link href="https://www.youtube.com/watch?v=2DvGSRr9j2M"/>
+        <updated>2023-07-18T04:30:01.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nadha | Elizabeth Raju | Prem Sagar | R P Hansaraj | Latest Malayalam Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Eaxw5enQJ94</id>
+        <link href="https://www.youtube.com/watch?v=Eaxw5enQJ94"/>
+        <updated>2023-07-18T04:21:24.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Punya Maha Sannidhe | Pappachan Olivilanu | Shorts #latestmalayalam #music #malayalammoviesongs]]></title>
         <id>https://www.youtube.com/watch?v=VyAJR4hHDao</id>
@@ -3946,6 +3964,15 @@
         <updated>2023-07-03T04:30:03.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polika Polika | Higuita | Video Song| Dhanya Suresh  | Rahul Raj | Sunil Mathai | Suraj Venjarammodu]]></title>
+        <id>https://www.youtube.com/watch?v=7SwXDPtPWkg</id>
+        <link href="https://www.youtube.com/watch?v=7SwXDPtPWkg"/>
+        <updated>2023-07-03T04:05:41.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
     <entry>
