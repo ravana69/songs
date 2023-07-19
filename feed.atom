@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-19T15:18:33.539Z</updated>
+    <updated>2023-07-19T16:23:23.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mandara cheppundo |Johnson Master| Short Cover version | Ashitha]]></title>
+        <id>https://www.youtube.com/watch?v=YYeTa9RJdOs</id>
+        <link href="https://www.youtube.com/watch?v=YYeTa9RJdOs"/>
+        <updated>2023-07-19T16:19:44.000Z</updated>
+        <author>
+            <name>MEGHAMALHAR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനശാന്തിയാം മഴ തൂകണേ ...]]></title>
+        <id>https://www.youtube.com/watch?v=gjML8dPQb14</id>
+        <link href="https://www.youtube.com/watch?v=gjML8dPQb14"/>
+        <updated>2023-07-19T15:46:17.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ലോകമെമ്പാടുമുള്ള മലയാളികൾ കൂടുതൽ ആവശ്യപ്പെട്ട സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ |Evergreen Malayalam Film Songs]]></title>
         <id>https://www.youtube.com/watch?v=w_72De6rwmc</id>
@@ -21227,15 +21245,6 @@
         <updated>2023-04-21T04:30:04.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thathamma Pattinte Chelu | | Nizam | Naiga Sonu | Praveen M Kumar | Shrijith Menon | Ramzan Songs]]></title>
-        <id>https://www.youtube.com/watch?v=f6yVxv6CC0A</id>
-        <link href="https://www.youtube.com/watch?v=f6yVxv6CC0A"/>
-        <updated>2023-04-21T04:01:38.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
