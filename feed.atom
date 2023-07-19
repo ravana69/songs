@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-19T07:16:38.626Z</updated>
+    <updated>2023-07-19T08:21:53.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -490,6 +490,15 @@
         <updated>2023-07-17T11:46:30.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mohanlal Dance Hits | Malayalam Film Songs | Non Stop Video Song | Celebration Songs | MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=OMLSH3USi70</id>
+        <link href="https://www.youtube.com/watch?v=OMLSH3USi70"/>
+        <updated>2023-07-17T11:19:44.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
