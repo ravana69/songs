@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-20T16:23:31.399Z</updated>
+    <updated>2023-07-20T17:15:49.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കാൽവരിക്കുന്നിൽ നാഥൻ യാഗമായ് മാറി ....]]></title>
+        <id>https://www.youtube.com/watch?v=O_BB1PEJ5wY</id>
+        <link href="https://www.youtube.com/watch?v=O_BB1PEJ5wY"/>
+        <updated>2023-07-20T16:44:01.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[https://youtu.be/5UVhKYEsesA | വാനമ്പാടി @ 60 | Celebrating 60 Music Years of K S Chithra]]></title>
         <id>https://www.youtube.com/watch?v=pAmxgB6yU0c</id>
@@ -21353,15 +21362,6 @@
         <updated>2023-04-22T05:30:16.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambalakkara Thechikavil | Black 2004 | Ranjith | Alex Paul | MG Sreekumar | Mammootty | Rahman]]></title>
-        <id>https://www.youtube.com/watch?v=h0OOz3B343A</id>
-        <link href="https://www.youtube.com/watch?v=h0OOz3B343A"/>
-        <updated>2023-04-22T04:30:16.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
     <entry>
