@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-20T03:18:13.877Z</updated>
+    <updated>2023-07-20T04:21:08.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -21200,15 +21200,6 @@
         <updated>2023-04-21T18:30:18.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nirangale Paadoo | Aham | Mohanlal | Urvashi | Remya Krishnan | Raveendran | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=AhLUM8XWgoc</id>
-        <link href="https://www.youtube.com/watch?v=AhLUM8XWgoc"/>
-        <updated>2023-04-21T15:31:04.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
     <entry>
