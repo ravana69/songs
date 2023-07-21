@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-21T17:15:36.335Z</updated>
+    <updated>2023-07-21T18:22:44.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ശ്രീരാമ സ്തുതി ഗീതം |  | Sree Rama Sthuthi Geetham | Sreerama Devotional Song]]></title>
+        <id>https://www.youtube.com/watch?v=30v7-dJ7EFU</id>
+        <link href="https://www.youtube.com/watch?v=30v7-dJ7EFU"/>
+        <updated>2023-07-21T18:08:13.000Z</updated>
+        <author>
+            <name>Wilson Video Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[തിരയെ പുണരുന്ന തീരം പോലെന്നെ ,തഴുകി തലോടുന്ന സ്നേഹം .]]></title>
         <id>https://www.youtube.com/watch?v=OzpKmV0H-2M</id>
@@ -21479,42 +21488,6 @@
         <updated>2023-04-23T07:30:06.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പാട്ടുപെട്ടി  Vol 4 | Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=JFqqetmCZ8M</id>
-        <link href="https://www.youtube.com/watch?v=JFqqetmCZ8M"/>
-        <updated>2023-04-23T06:00:05.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#PalaPalaaMinnerunne feels | #Dasara | #KeerthySuresh #Nani | #Shorts #YTshorts]]></title>
-        <id>https://www.youtube.com/watch?v=bmDSpYmUCv0</id>
-        <link href="https://www.youtube.com/watch?v=bmDSpYmUCv0"/>
-        <updated>2023-04-23T05:30:07.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhaneer Thullikal | Karaoke Video | Beautiful |Unni Menon | V K Prakash | Jayasoorya | Anoop Menon]]></title>
-        <id>https://www.youtube.com/watch?v=z7zMlkX8KQY</id>
-        <link href="https://www.youtube.com/watch?v=z7zMlkX8KQY"/>
-        <updated>2023-04-23T05:30:07.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moovanthithan Lyric Video | Pulli Movie | Bijibal | Madhu Balakrishnan | Jiju Asokan]]></title>
-        <id>https://www.youtube.com/watch?v=W7q-n_V1lyg</id>
-        <link href="https://www.youtube.com/watch?v=W7q-n_V1lyg"/>
-        <updated>2023-04-23T05:25:16.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
     <entry>
