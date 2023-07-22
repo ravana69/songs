@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-22T15:16:21.555Z</updated>
+    <updated>2023-07-22T16:21:14.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഒരു വാക്കുപോലും എനിക്കെതിരായ് നീ ഉരിയാടിയില്ലല്ലോ ... നാഥാ]]></title>
+        <id>https://www.youtube.com/watch?v=g7Uxt_b2BPQ</id>
+        <link href="https://www.youtube.com/watch?v=g7Uxt_b2BPQ"/>
+        <updated>2023-07-22T16:16:41.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മനസ്സിൽ തങ്ങിനിൽക്കുന്ന മനോഹര ഗാനങ്ങൾ |Evergreen Malayalam Film Songs |M G Sreekumar |Rajamani]]></title>
         <id>https://www.youtube.com/watch?v=kcjAfOzkgMc</id>
@@ -21668,15 +21677,6 @@
         <updated>2023-04-24T07:30:08.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Himalayan Love Story | Romantic Album]]></title>
-        <id>https://www.youtube.com/watch?v=OwvBVoe2WJw</id>
-        <link href="https://www.youtube.com/watch?v=OwvBVoe2WJw"/>
-        <updated>2023-04-24T04:01:54.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
