@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-23T03:18:18.241Z</updated>
+    <updated>2023-07-23T04:20:17.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -21659,15 +21659,6 @@
         <updated>2023-04-25T00:30:03.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vinnile Gandharva | Rajavinte Makan | Mohanlal | Ambika | Shibu Chakravarthy | Unni Menon]]></title>
-        <id>https://www.youtube.com/watch?v=EY85ZNp494E</id>
-        <link href="https://www.youtube.com/watch?v=EY85ZNp494E"/>
-        <updated>2023-04-24T15:30:02.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
     <entry>
