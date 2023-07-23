@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-23T19:13:17.811Z</updated>
+    <updated>2023-07-23T20:17:18.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന July 24 # Athiravile Prarthana 24th of July 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=NmEzLmyf1kU</id>
+        <link href="https://www.youtube.com/watch?v=NmEzLmyf1kU"/>
+        <updated>2023-07-23T20:00:05.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 24th July 2023]]></title>
         <id>https://www.youtube.com/watch?v=6XbyFdq6aBw</id>
@@ -21524,33 +21533,6 @@
         <updated>2023-04-25T09:32:45.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏത് വേഷത്തിലും ഒരുപോലെ തിളങ്ങുന്ന മലയാളികളുടെ ഇഷ്ടനടൻ ജയറാം ചിത്രങ്ങളിലെ വിനോദഗാനങ്ങൾ | JAYARAM HITS]]></title>
-        <id>https://www.youtube.com/watch?v=EBWPJKxSDE0</id>
-        <link href="https://www.youtube.com/watch?v=EBWPJKxSDE0"/>
-        <updated>2023-04-25T07:30:03.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Kili Paattu Moolave  | Mohanlal, Padmapriya | Gireesh Puthenchery - Vadakumnadhan]]></title>
-        <id>https://www.youtube.com/watch?v=KwQHiG9qcX4</id>
-        <link href="https://www.youtube.com/watch?v=KwQHiG9qcX4"/>
-        <updated>2023-04-25T07:30:03.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രണയത്തിന് ചാരുതയും ചേലുമേകി പ്രമുഖ ഹിറ്റ് ചിത്രങ്ങളിൽ വന്ന സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ  | HIT LOVE SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=9230HnEcyLQ</id>
-        <link href="https://www.youtube.com/watch?v=9230HnEcyLQ"/>
-        <updated>2023-04-25T07:30:02.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
     <entry>
