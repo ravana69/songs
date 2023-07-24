@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-24T13:22:37.964Z</updated>
+    <updated>2023-07-24T14:17:43.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[https://youtu.be/A7AdylLiJhU | വാനമ്പാടി @ 60 | Celebrating 60 Music Years of K S Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=RP3-1gwbuBI</id>
+        <link href="https://www.youtube.com/watch?v=RP3-1gwbuBI"/>
+        <updated>2023-07-24T13:30:19.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ragam Thaanam |Sooryagaayathri |ReMastered Video Song |Raveendran |K J Yesudas |O N V Kurup]]></title>
+        <id>https://www.youtube.com/watch?v=nVMGvvi3Cis</id>
+        <link href="https://www.youtube.com/watch?v=nVMGvvi3Cis"/>
+        <updated>2023-07-24T13:30:18.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Superhit Songs | Elizabeth Raju | Joji Johns | Christian Songs Malayalam | Wilson Piravom]]></title>
+        <id>https://www.youtube.com/watch?v=Hudf6rjS7r8</id>
+        <link href="https://www.youtube.com/watch?v=Hudf6rjS7r8"/>
+        <updated>2023-07-24T13:30:09.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaashmeera Sandhye | Manjupoloru Penkutti | Sankar Mahadevan | Alphons Joseph | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=6GBPvYqV9RI</id>
