@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-24T01:39:25.260Z</updated>
+    <updated>2023-07-24T02:36:35.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -21443,24 +21443,6 @@
         <updated>2023-04-25T15:45:55.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannu Kuzhanje Ninnu Marinje | Kuppi Paattu | Corona Dhavan | Lukman Avaran | Sreenath Bhasi | CC]]></title>
-        <id>https://www.youtube.com/watch?v=BdP1xssAGEY</id>
-        <link href="https://www.youtube.com/watch?v=BdP1xssAGEY"/>
-        <updated>2023-04-25T14:30:08.000Z</updated>
-        <author>
-            <name>Magic Frames Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEASER | Chillane | Ranjini Jose]]></title>
-        <id>https://www.youtube.com/watch?v=9DsYMp5jqVg</id>
-        <link href="https://www.youtube.com/watch?v=9DsYMp5jqVg"/>
-        <updated>2023-04-25T13:52:26.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
