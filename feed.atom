@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-24T03:18:34.281Z</updated>
+    <updated>2023-07-24T04:21:10.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -1030,6 +1030,15 @@
         <updated>2023-07-20T04:03:13.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nithyajeevanekunna Vachanam | Saly Saju | Saju Kuriakose | New Malayalam Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=bB1eHJHqcnE</id>
+        <link href="https://www.youtube.com/watch?v=bB1eHJHqcnE"/>
+        <updated>2023-07-20T03:55:05.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -3811,6 +3820,15 @@
         <updated>2023-07-10T06:26:32.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non Stop Malayalam Movie Songs | Film Songs Video Jukebox | Malayalam Film Video Songs]]></title>
+        <id>https://www.youtube.com/watch?v=3Qlc7DQZY7c</id>
+        <link href="https://www.youtube.com/watch?v=3Qlc7DQZY7c"/>
+        <updated>2023-07-10T04:45:22.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
     <entry>
@@ -21434,15 +21452,6 @@
         <updated>2023-04-26T00:30:11.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thinkalpoo Virinjuvo | Manthrikumaran | Mukesh | Sangeetha | Mohan Sithara | Biju Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=nU406pXYDR8</id>
-        <link href="https://www.youtube.com/watch?v=nU406pXYDR8"/>
-        <updated>2023-04-25T15:45:55.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
     <entry>
