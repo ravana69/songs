@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-26T06:21:45.152Z</updated>
+    <updated>2023-07-26T07:15:35.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sanjeev, Biju Narayanan - Raajayogam Vannupoi (Lyric Video)]]></title>
+        <id>https://www.youtube.com/watch?v=wZ8NBi_93hg</id>
+        <link href="https://www.youtube.com/watch?v=wZ8NBi_93hg"/>
+        <updated>2023-07-26T07:00:34.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raveendran, K.J. Yesudas - They They Cholli (Lyric Video)]]></title>
+        <id>https://www.youtube.com/watch?v=qViLLVid_fo</id>
+        <link href="https://www.youtube.com/watch?v=qViLLVid_fo"/>
+        <updated>2023-07-26T07:00:32.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raveendran, K.J. Yesudas - Shokamookamaai (Lyric Video)]]></title>
+        <id>https://www.youtube.com/watch?v=JpCoh6D9Xds</id>
+        <link href="https://www.youtube.com/watch?v=JpCoh6D9Xds"/>
+        <updated>2023-07-26T07:00:16.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanjeev, K.J. Yesudas, K.S. Chithra - Kalichiri Than Praayam (Version, 1) (Lyric Video)]]></title>
+        <id>https://www.youtube.com/watch?v=JHokD15BPBI</id>
+        <link href="https://www.youtube.com/watch?v=JHokD15BPBI"/>
+        <updated>2023-07-26T07:00:14.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanjeev, K.S. Chithra - Kalichiri Than Praayam (Version, 2) (Lyric Video)]]></title>
+        <id>https://www.youtube.com/watch?v=eYi4LAmu58g</id>
+        <link href="https://www.youtube.com/watch?v=eYi4LAmu58g"/>
+        <updated>2023-07-26T07:00:13.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raveendran, K.J. Yesudas - Kaduvaaye Kiduva (Lyric Video)]]></title>
+        <id>https://www.youtube.com/watch?v=Q3r9VRTNGXo</id>
+        <link href="https://www.youtube.com/watch?v=Q3r9VRTNGXo"/>
+        <updated>2023-07-26T07:00:09.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raveendran, K.J. Yesudas - Kallan Chakkettu (Version, 2) (Lyric Video)]]></title>
+        <id>https://www.youtube.com/watch?v=Rvey6-Ml4yk</id>
+        <link href="https://www.youtube.com/watch?v=Rvey6-Ml4yk"/>
+        <updated>2023-07-26T07:00:09.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raveendran, K.J. Yesudas, K.S. Chithra - Kallan Chakkettu (Version, 1) (Lyric Video)]]></title>
+        <id>https://www.youtube.com/watch?v=Qe-TtRufMTQ</id>
+        <link href="https://www.youtube.com/watch?v=Qe-TtRufMTQ"/>
+        <updated>2023-07-26T07:00:08.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanjeev, Biju Narayanan - Raajayogam Swanthamaai (Lyric Video)]]></title>
+        <id>https://www.youtube.com/watch?v=CtV-y0NSJRQ</id>
+        <link href="https://www.youtube.com/watch?v=CtV-y0NSJRQ"/>
+        <updated>2023-07-26T07:00:06.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raveendran, K.J. Yesudas - Shaiva Sankethame (Lyric Video)]]></title>
+        <id>https://www.youtube.com/watch?v=Bal0RBxyj_Q</id>
+        <link href="https://www.youtube.com/watch?v=Bal0RBxyj_Q"/>
+        <updated>2023-07-26T07:00:04.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kannil Nila Mugam Video Song | Sooryamanasam | Mammootty | Jagathy Sreekumar]]></title>
         <id>https://www.youtube.com/watch?v=dFw57P_XzAc</id>
