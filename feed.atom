@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-26T05:16:20.550Z</updated>
+    <updated>2023-07-26T06:21:45.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kannil Nila Mugam Video Song | Sooryamanasam | Mammootty | Jagathy Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=dFw57P_XzAc</id>
+        <link href="https://www.youtube.com/watch?v=dFw57P_XzAc"/>
+        <updated>2023-07-26T06:00:10.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feel the Song #MazhaPattu | #Padavettu | #NivinPauly | #AditiBalan | #AnwarAli | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=ePkeY8xbozg</id>
+        <link href="https://www.youtube.com/watch?v=ePkeY8xbozg"/>
+        <updated>2023-07-26T05:30:15.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Akaleyo Nee Shorts | Grandmaster | Mohanlal | Priyamani | Vijay Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=8r35B6iLwD4</id>
@@ -448,12 +466,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PRANAYALEKHANAM | NAZRETHIL JOSE VARGHESE | MANKUZHY AJITHKUMAR | LOVE SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=qkxjax1nZos</id>
+        <link href="https://www.youtube.com/watch?v=qkxjax1nZos"/>
+        <updated>2023-07-24T06:34:37.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mesmerizing #MazhaPattu | #Padavettu | #NivinPauly | #AditiBalan | #AnwarAli | #shorts #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=Z3JKwsMFruo</id>
         <link href="https://www.youtube.com/watch?v=Z3JKwsMFruo"/>
         <updated>2023-07-24T05:30:07.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pullu | Teaser | Riyaz Raz | Praveen Kelikkoden | Shabith | Aji Vavachan | Latest Film Teaser]]></title>
+        <id>https://www.youtube.com/watch?v=NJkcvEZj_IQ</id>
+        <link href="https://www.youtube.com/watch?v=NJkcvEZj_IQ"/>
+        <updated>2023-07-24T05:18:04.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -21551,15 +21587,6 @@
         <updated>2023-04-28T00:30:08.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pottithakarnna | MS Baburaj | P Bhaskaran | KS Chithra | Dolby Atmos]]></title>
-        <id>https://www.youtube.com/watch?v=jOnVeaBKkcQ</id>
-        <link href="https://www.youtube.com/watch?v=jOnVeaBKkcQ"/>
-        <updated>2023-04-27T17:33:12.000Z</updated>
-        <author>
-            <name>OPM Records</name>
         </author>
     </entry>
     <entry>
