@@ -2,15 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-27T02:27:59.978Z</updated>
+    <updated>2023-07-27T03:17:03.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[https://youtu.be/iWDRj6XSiuQ | വാനമ്പാടി @ 60 | Celebrating 60 Music Years of K S Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=dVNBysZxW1Y</id>
+        <link href="https://www.youtube.com/watch?v=dVNBysZxW1Y"/>
+        <updated>2023-07-27T02:30:17.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ponnodu Poovai |വാനമ്പാടി @ 60|Celebratinbg 60 Musical Years of K S Chithra |Sharreth |Beeyar Prasad]]></title>
         <id>https://www.youtube.com/watch?v=AGKHZ9nEinI</id>
         <link href="https://www.youtube.com/watch?v=AGKHZ9nEinI"/>
         <updated>2023-07-27T01:44:03.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mohanaragatharangam |വാനമ്പാടി @ 60|Celebratinbg 60 Musical Years of K S Chithra | O N V Kurup]]></title>
+        <id>https://www.youtube.com/watch?v=OhGWMPpZWfk</id>
+        <link href="https://www.youtube.com/watch?v=OhGWMPpZWfk"/>
+        <updated>2023-07-27T01:42:24.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
@@ -382,6 +400,15 @@
         <updated>2023-07-26T05:03:55.000Z</updated>
         <author>
             <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kan Munnilai Song | Digital Village | Vineeth Sreenivasan | Hari S R | Fahad Nandu & Ulsav Rajeev]]></title>
+        <id>https://www.youtube.com/watch?v=SLEElauIqLk</id>
+        <link href="https://www.youtube.com/watch?v=SLEElauIqLk"/>
+        <updated>2023-07-26T03:32:33.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -21713,24 +21740,6 @@
         <updated>2023-04-28T15:30:04.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dhoom Dhaam Dhosthay - Full Video | Dasara (Malayalam) | Nani, Keerthy Suresh | Santhosh Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=fpitOd21z2s</id>
-        <link href="https://www.youtube.com/watch?v=fpitOd21z2s"/>
-        <updated>2023-04-28T14:40:55.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good morning]]></title>
-        <id>https://www.youtube.com/watch?v=5ShasUb3MrU</id>
-        <link href="https://www.youtube.com/watch?v=5ShasUb3MrU"/>
-        <updated>2023-04-28T14:39:10.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
     <entry>
