@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-28T11:14:01.089Z</updated>
+    <updated>2023-07-28T12:35:21.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pullu Teaser | Riyaz Raz | Praveen Kelikkoden | Shabith | Aji Vavachan| Latest Malayalam Film Teaser]]></title>
+        <id>https://www.youtube.com/watch?v=fEnKoIoejGE</id>
+        <link href="https://www.youtube.com/watch?v=fEnKoIoejGE"/>
+        <updated>2023-07-28T12:30:09.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 28th of July 2023]]></title>
+        <id>https://www.youtube.com/watch?v=BgGh1wWgX0M</id>
+        <link href="https://www.youtube.com/watch?v=BgGh1wWgX0M"/>
+        <updated>2023-07-28T12:30:06.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mehruba Mehruba | Perumazhakaalam | Afsal  | M Jayachandran | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=OTbDUxORxL8</id>
+        <link href="https://www.youtube.com/watch?v=OTbDUxORxL8"/>
+        <updated>2023-07-28T11:30:16.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swapnangal Kanaan | Oomapenninu Uriyaadapayyan | Jayasurya | Kavya Madhavan | Vinayan | MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=JLMA_fvZ2SU</id>
+        <link href="https://www.youtube.com/watch?v=JLMA_fvZ2SU"/>
+        <updated>2023-07-28T11:30:08.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ettunila Pattanam | Kakkakarumban | Alex | Franco | M Jayachandran | Gireesh Puthenchery]]></title>
         <id>https://www.youtube.com/watch?v=CAy8arJjauc</id>
@@ -22370,15 +22406,6 @@
         <updated>2023-04-30T03:18:03.000Z</updated>
         <author>
             <name>OPM Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹൃദയങ്ങളെ തൊട്ട അനുഗ്രഹീത ഗാനങ്ങൾ |  | Christian Devotional Songs Malayalam | MG Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=vqtWfw0HHw0</id>
-        <link href="https://www.youtube.com/watch?v=vqtWfw0HHw0"/>
-        <updated>2023-04-30T00:30:27.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
