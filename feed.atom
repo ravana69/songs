@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-28T06:22:05.804Z</updated>
+    <updated>2023-07-28T07:15:27.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kaithapram, K.J. Yesudas - Iniyennu Kaanum Makale (Lyric Video)]]></title>
+        <id>https://www.youtube.com/watch?v=0pOSwjwqlSs</id>
+        <link href="https://www.youtube.com/watch?v=0pOSwjwqlSs"/>
+        <updated>2023-07-28T07:15:04.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaithapram, Sujatha - Thennilaavilen (Version, 1) (Lyric Video)]]></title>
+        <id>https://www.youtube.com/watch?v=WjxvMaNG8p0</id>
+        <link href="https://www.youtube.com/watch?v=WjxvMaNG8p0"/>
+        <updated>2023-07-28T07:14:52.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaithapram, K.J. Yesudas - Gopaalike Nee Kanduvo (Lyric Video)]]></title>
+        <id>https://www.youtube.com/watch?v=5Flsk644D3U</id>
+        <link href="https://www.youtube.com/watch?v=5Flsk644D3U"/>
+        <updated>2023-07-28T07:14:48.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaithapram, K.J. Yesudas - Kanne Urangurangu (Lyric Video)]]></title>
+        <id>https://www.youtube.com/watch?v=dnkCjQNXE6w</id>
+        <link href="https://www.youtube.com/watch?v=dnkCjQNXE6w"/>
+        <updated>2023-07-28T07:14:43.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanjeev, Biju Narayanan, K.S. Chithra - Kamaladalam Moodum (Version, 2) (Lyric Video)]]></title>
+        <id>https://www.youtube.com/watch?v=nRZHJeBZ2vY</id>
+        <link href="https://www.youtube.com/watch?v=nRZHJeBZ2vY"/>
+        <updated>2023-07-28T07:14:17.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beautiful lyrics #MazhaPattu | #Padavettu | #NivinPauly | #AditiBalan | #AnwarAli| #shorts #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=cjuMt-GSx50</id>
