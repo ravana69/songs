@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-29T04:19:31.283Z</updated>
+    <updated>2023-07-29T05:15:25.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aave Mariya | Aalambamarulunna Kristheeya Bhakthigaanangal | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=tsUKjmmDydI</id>
+        <link href="https://www.youtube.com/watch?v=tsUKjmmDydI"/>
+        <updated>2023-07-29T04:59:32.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chirichente Manassile  | Anuragakottaram 1998 | K.J Yesudas, K.S Chithra | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=mgP0hfzf7SE</id>
+        <link href="https://www.youtube.com/watch?v=mgP0hfzf7SE"/>
+        <updated>2023-07-29T04:30:26.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ammoomakili Vayadi | Chandralekha | Mohanlal | Sukanya | Chithra | Bearny Ignatius | Fazil]]></title>
+        <id>https://www.youtube.com/watch?v=O1dTwdvlzK4</id>
+        <link href="https://www.youtube.com/watch?v=O1dTwdvlzK4"/>
+        <updated>2023-07-29T04:30:05.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഇനിമേൽ എനിക്കില്ലോർ ഭയം | Sadhu Kochukunjupadeshi | Shorts]]></title>
         <id>https://www.youtube.com/watch?v=IrT352lr9TY</id>
@@ -22503,24 +22530,6 @@
         <id>https://www.youtube.com/watch?v=Oj5sGrcFkoU</id>
         <link href="https://www.youtube.com/watch?v=Oj5sGrcFkoU"/>
         <updated>2023-04-30T17:30:02.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കൂട്ടുകാരോടി അകന്നപ്പോഴും | Immanuel Henry | Denilo Dennis]]></title>
-        <id>https://www.youtube.com/watch?v=fT5WAQBFIWA</id>
-        <link href="https://www.youtube.com/watch?v=fT5WAQBFIWA"/>
-        <updated>2023-04-30T17:03:51.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shorts | വിശ്വാസ നായകൻ | Immanuel Henry | Sibi Thomas | Denilo Dennis]]></title>
-        <id>https://www.youtube.com/watch?v=aUBTmb-_XUQ</id>
-        <link href="https://www.youtube.com/watch?v=aUBTmb-_XUQ"/>
-        <updated>2023-04-30T16:21:28.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
         </author>
