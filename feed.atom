@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-30T22:15:23.828Z</updated>
+    <updated>2023-07-30T23:15:56.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 31 shorts  # Athiravile Prarthana 31st of July 2023 Morning Prayer shorts]]></title>
+        <id>https://www.youtube.com/watch?v=ZoyTVGn0Uog</id>
+        <link href="https://www.youtube.com/watch?v=ZoyTVGn0Uog"/>
+        <updated>2023-07-30T23:00:27.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥനJuly 31 # Athiravile Prarthana 31st of July 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=qT80XcZ_4iA</id>
@@ -22919,24 +22928,6 @@
         <updated>2023-05-02T11:34:30.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആടുന്നും ഈടുന്നും വന്നോര് ആടാനും പാടാനും കൂട്ടാണ് തത്തമ്മ പെണ്ണാള് | Thathamma Chelolu |Madanolsavam]]></title>
-        <id>https://www.youtube.com/watch?v=qxE00SyvJ8g</id>
-        <link href="https://www.youtube.com/watch?v=qxE00SyvJ8g"/>
-        <updated>2023-05-02T11:10:56.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vennila Kadappurathu Video Song Aniyathipraavu | Kunchacko Boban | K. J. Yesudas | M. G. Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=zxwNfvyGNR0</id>
-        <link href="https://www.youtube.com/watch?v=zxwNfvyGNR0"/>
-        <updated>2023-05-02T11:00:08.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
         </author>
     </entry>
     <entry>
