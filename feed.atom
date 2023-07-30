@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-30T05:15:32.074Z</updated>
+    <updated>2023-07-30T05:37:11.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Good Vibes of #MazhaPattu | #Padavettu | #NivinPauly | #AditiBalan | #AnwarAli | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=ggycWzPLi1c</id>
+        <link href="https://www.youtube.com/watch?v=ggycWzPLi1c"/>
+        <updated>2023-07-30T05:30:12.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Assalayi Assalayi Nee Shorts | Lollipop | Prithwiraj | Bhavana | Jayasurya]]></title>
         <id>https://www.youtube.com/watch?v=uaYcDkHIqiQ</id>
@@ -238,6 +247,15 @@
         <updated>2023-07-29T12:30:07.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ayyayyo ennarikilitha Video Song | Aarambham | S Janaki | Sumalatha | Sukumaran |]]></title>
+        <id>https://www.youtube.com/watch?v=8rqUXBNfG7Q</id>
+        <link href="https://www.youtube.com/watch?v=8rqUXBNfG7Q"/>
+        <updated>2023-07-29T12:15:00.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
         </author>
     </entry>
     <entry>
@@ -508,6 +526,15 @@
         <updated>2023-07-28T12:30:06.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ayyayyo ennarikilitha | Aarambham | S Janaki | Sumalatha |Sukumaran | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=7jL5-SUTSrs</id>
+        <link href="https://www.youtube.com/watch?v=7jL5-SUTSrs"/>
+        <updated>2023-07-28T12:15:01.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
         </author>
     </entry>
     <entry>
@@ -886,6 +913,15 @@
         <updated>2023-07-27T12:16:53.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aandholanam Dholanam Video Song | K. J. Yesudas | K. S. Chithra | Sargam | Vineeth | Rambha |]]></title>
+        <id>https://www.youtube.com/watch?v=S_XE0e8Z8S8</id>
+        <link href="https://www.youtube.com/watch?v=S_XE0e8Z8S8"/>
+        <updated>2023-07-27T12:15:02.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
         </author>
     </entry>
     <entry>
@@ -1519,6 +1555,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Alare Govinda.. | Kakkakuyil | Video Song Shorts | MohanLal | M G Sreekumar #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=rxB5AVtCoFI</id>
+        <link href="https://www.youtube.com/watch?v=rxB5AVtCoFI"/>
+        <updated>2023-07-26T06:28:52.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kannil Nila Mugam Video Song | Sooryamanasam | Mammootty | Jagathy Sreekumar]]></title>
         <id>https://www.youtube.com/watch?v=dFw57P_XzAc</id>
         <link href="https://www.youtube.com/watch?v=dFw57P_XzAc"/>
@@ -1714,6 +1759,15 @@
         <updated>2023-07-25T12:30:35.000Z</updated>
         <author>
             <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innale Mayangumbol Video Song | Anweshichu Kandethiyilla | K J Yesudas | Sathyan | KR Vijaya]]></title>
+        <id>https://www.youtube.com/watch?v=cY1nxAoDQRg</id>
+        <link href="https://www.youtube.com/watch?v=cY1nxAoDQRg"/>
+        <updated>2023-07-25T12:15:02.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
         </author>
     </entry>
     <entry>
@@ -1987,6 +2041,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Aandholanam  Song | K. J. Yesudas | K. S. Chithra | Sargam | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=njgZ2KWURdw</id>
+        <link href="https://www.youtube.com/watch?v=njgZ2KWURdw"/>
+        <updated>2023-07-24T12:15:02.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Attu Mazha Chaattum | Kakkakarumban | Ilanko | M Jayachandran | Gireesh Puthenchery]]></title>
         <id>https://www.youtube.com/watch?v=gvI1f3s8YP8</id>
         <link href="https://www.youtube.com/watch?v=gvI1f3s8YP8"/>
@@ -2212,6 +2275,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Padayoramayiram Viedo Song | Welcome to kodaikanal | MG Sreekumar | Minmini | Jagadish |]]></title>
+        <id>https://www.youtube.com/watch?v=qFSLOYXiHbw</id>
+        <link href="https://www.youtube.com/watch?v=qFSLOYXiHbw"/>
+        <updated>2023-07-23T12:15:02.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Anthimana Koodaram | Palayam | MG Sreekumar | Manoj K Jayan | Jagadeesh | Urvashi]]></title>
         <id>https://www.youtube.com/watch?v=cSqTGPZn6jA</id>
         <link href="https://www.youtube.com/watch?v=cSqTGPZn6jA"/>
@@ -2425,6 +2497,15 @@
         <updated>2023-07-22T12:30:02.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mandharacheppundo Song | Mohanlal | Dasharatham | M . G Sreekumar | K.S Chitra | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=_2FkZ6jJTu4</id>
+        <link href="https://www.youtube.com/watch?v=_2FkZ6jJTu4"/>
+        <updated>2023-07-22T12:15:02.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
         </author>
     </entry>
     <entry>
@@ -2770,6 +2851,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Thriprayaarappa Sree Rama Video Song | Ormakal Marikkumo | Vani Jairam | Jayan |]]></title>
+        <id>https://www.youtube.com/watch?v=FdXE8hBPyGk</id>
+        <link href="https://www.youtube.com/watch?v=FdXE8hBPyGk"/>
+        <updated>2023-07-21T12:15:01.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ila Kozhiyum Sisiram | Panthayakozhi | Narain | Pooja | Biju Narayanan | Alex Paul | Lal]]></title>
         <id>https://www.youtube.com/watch?v=GcPib4yNwoM</id>
         <link href="https://www.youtube.com/watch?v=GcPib4yNwoM"/>
@@ -3064,6 +3154,15 @@
         <updated>2023-07-20T12:30:17.000Z</updated>
         <author>
             <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thriprayaarappa Sree Rama | Ormakal Marikkumo | Vani Jairam | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=eY1g1Q7MpG8</id>
+        <link href="https://www.youtube.com/watch?v=eY1g1Q7MpG8"/>
+        <updated>2023-07-20T12:15:04.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
         </author>
     </entry>
     <entry>
@@ -3391,6 +3490,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kannaadi Aadyamaayen Video Song | Sargam | KS Chithra | Vineeth | Rambha]]></title>
+        <id>https://www.youtube.com/watch?v=3_Vc4jwo3L0</id>
+        <link href="https://www.youtube.com/watch?v=3_Vc4jwo3L0"/>
+        <updated>2023-07-19T12:15:00.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sukhamanee Nilavu | Nammal | Sidharth | Jishnu | Renuka Menon | Kamal | Vidhu Prathap]]></title>
         <id>https://www.youtube.com/watch?v=ZUyEcQMHWsQ</id>
         <link href="https://www.youtube.com/watch?v=ZUyEcQMHWsQ"/>
@@ -3688,6 +3796,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pathayoram | Welcome to kodaikanal | M. G. Sreekumar | Minmini | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=rAlK3Vk5ALA</id>
+        <link href="https://www.youtube.com/watch?v=rAlK3Vk5ALA"/>
+        <updated>2023-07-18T12:15:05.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Njaan Parayam  | Parayam | Renjini Jose | Hema | Mohan Sithara | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=NkorGC7EQsI</id>
         <link href="https://www.youtube.com/watch?v=NkorGC7EQsI"/>
@@ -3982,6 +4099,15 @@
         <updated>2023-07-17T12:30:04.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swayam Marannuvo Video Song  | Welcome to kodaikanal |  MG Sreekumar | Usharaj]]></title>
+        <id>https://www.youtube.com/watch?v=aN2PINqYoTg</id>
+        <link href="https://www.youtube.com/watch?v=aN2PINqYoTg"/>
+        <updated>2023-07-17T12:15:00.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
         </author>
     </entry>
     <entry>
@@ -4300,6 +4426,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Manjanaathi Kunnummel | Kadathu | S. Janaki | Roja Ramani |#shorts]]></title>
+        <id>https://www.youtube.com/watch?v=ZwX_sE_X30o</id>
+        <link href="https://www.youtube.com/watch?v=ZwX_sE_X30o"/>
+        <updated>2023-07-16T12:15:03.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[രാമായണ വിചാരം by സരിത അയ്യർ( രാമായണം നൽകുന്ന സദ്ചിന്തകളും സന്ദേശങ്ങളും) കർക്കടകമാസത്തിൽ എല്ലാ ദിനവും]]></title>
         <id>https://www.youtube.com/watch?v=zinR6hk7Vec</id>
         <link href="https://www.youtube.com/watch?v=zinR6hk7Vec"/>
@@ -4531,6 +4666,15 @@
         <updated>2023-07-15T12:30:02.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manjanaathi Kunnummel Video Song  | Kadathu | S. Janaki | Roja Ramani]]></title>
+        <id>https://www.youtube.com/watch?v=EHr5mN8FrsQ</id>
+        <link href="https://www.youtube.com/watch?v=EHr5mN8FrsQ"/>
+        <updated>2023-07-15T12:15:01.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
         </author>
     </entry>
     <entry>
