@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-30T03:16:57.470Z</updated>
+    <updated>2023-07-30T04:19:15.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -22703,15 +22703,6 @@
         <updated>2023-05-02T00:30:14.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manja Kiliye Kandalo | Sahodaran Sahadevan | Mukesh | Geethu Mohandas |]]></title>
-        <id>https://www.youtube.com/watch?v=XpQrWoiKWEY</id>
-        <link href="https://www.youtube.com/watch?v=XpQrWoiKWEY"/>
-        <updated>2023-05-01T16:04:24.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
     <entry>
