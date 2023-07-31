@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-31T19:14:04.438Z</updated>
+    <updated>2023-07-31T20:17:46.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന August 1 # Athiravile Prarthana 1st of August 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=S9_E9bDwnoE</id>
+        <link href="https://www.youtube.com/watch?v=S9_E9bDwnoE"/>
+        <updated>2023-07-31T20:00:16.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 1st August 2023]]></title>
         <id>https://www.youtube.com/watch?v=ZvYPMww2zPM</id>
@@ -23135,33 +23144,6 @@
         <updated>2023-05-03T08:56:10.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു വട്ടം കൂടി കേട്ടെങ്കിലോയെന്ന് മനസ് ആഗ്രഹിക്കുന്ന മലയാളസിനിമാഗാനങ്ങൾ | NISARI MUSIC | SUPERHITS]]></title>
-        <id>https://www.youtube.com/watch?v=sHwWiek3mfQ</id>
-        <link href="https://www.youtube.com/watch?v=sHwWiek3mfQ"/>
-        <updated>2023-05-03T07:30:11.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viral Thottaal Viriyunna | Phantom | P Jayachandran | K S Chithra | Deva | Gireesh Puthanchery]]></title>
-        <id>https://www.youtube.com/watch?v=DxAfz_NDYPs</id>
-        <link href="https://www.youtube.com/watch?v=DxAfz_NDYPs"/>
-        <updated>2023-05-03T07:30:05.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു വലിയ ഇടവേളക്ക് ശേഷം കേൾക്കുമ്പോൾ മനസ്സ് കോരിതരിക്കുന്ന എൺപതുകളിലെ സൂപ്പർഹിറ്റ്ഗാനങ്ങൾ |80's HITS]]></title>
-        <id>https://www.youtube.com/watch?v=7rNh6hh6DC0</id>
-        <link href="https://www.youtube.com/watch?v=7rNh6hh6DC0"/>
-        <updated>2023-05-03T07:30:03.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
     <entry>
