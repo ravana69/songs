@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-02T05:16:08.299Z</updated>
+    <updated>2023-08-02T06:22:11.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manju Mazha | Lyrical  Video | Aagathan | Shreya Ghoshal  | Kaithapram | Ouseppachan | Dileep]]></title>
+        <id>https://www.youtube.com/watch?v=1zyaEpARYrY</id>
+        <link href="https://www.youtube.com/watch?v=1zyaEpARYrY"/>
+        <updated>2023-08-02T05:30:08.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponmaanam Ee Kaikalil | Anuragakottaram 1998 | Ilayaraja | Biju Narayanan | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=DsXyPIifYMI</id>
+        <link href="https://www.youtube.com/watch?v=DsXyPIifYMI"/>
+        <updated>2023-08-02T05:19:25.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sundhariye Chembaka | Shorts | Panthayakozhi | Narein | Pooja | Short Video]]></title>
         <id>https://www.youtube.com/watch?v=iu8lrtpalq4</id>
