@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-02T03:17:15.418Z</updated>
+    <updated>2023-08-02T04:20:00.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -290,6 +290,15 @@
         <id>https://www.youtube.com/watch?v=dW3rLxHW1u4</id>
         <link href="https://www.youtube.com/watch?v=dW3rLxHW1u4"/>
         <updated>2023-08-01T01:30:09.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivame Thriyekane | Chithra Arun | P D John | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=orfV6dJwUb0</id>
+        <link href="https://www.youtube.com/watch?v=orfV6dJwUb0"/>
+        <updated>2023-08-01T01:07:02.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
         </author>
@@ -1604,6 +1613,15 @@
         <id>https://www.youtube.com/watch?v=K0I6Hb1ps9E</id>
         <link href="https://www.youtube.com/watch?v=K0I6Hb1ps9E"/>
         <updated>2023-07-28T03:04:44.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദിവ്യകാരുണ്യമേ ബലിവേദിയിൽ| Fr. Vipin Kurishuthara CMI | Fr. Vinil Kurishuthara CMF | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=XIaoNmER4r8</id>
+        <link href="https://www.youtube.com/watch?v=XIaoNmER4r8"/>
+        <updated>2023-07-28T03:04:13.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
         </author>
@@ -23081,15 +23099,6 @@
         <updated>2023-05-05T00:30:24.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paal Ninavilum | Kakakum Poochakum Kalyanam | Dileep | Indrans | Pappu | Raveendran | Biju Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=GqTGKcfP6w8</id>
-        <link href="https://www.youtube.com/watch?v=GqTGKcfP6w8"/>
-        <updated>2023-05-04T15:30:03.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
     <entry>
