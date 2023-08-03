@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-03T19:13:07.755Z</updated>
+    <updated>2023-08-03T20:17:31.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 4 # Athiravile Prarthana 4th of August 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=KsR9aiIQz6M</id>
+        <link href="https://www.youtube.com/watch?v=KsR9aiIQz6M"/>
+        <updated>2023-08-03T20:00:05.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 4th August 2023]]></title>
         <id>https://www.youtube.com/watch?v=dwSkRtNc6S0</id>
@@ -23558,42 +23567,6 @@
         <updated>2023-05-06T10:06:12.000Z</updated>
         <author>
             <name>MEGHAMALHAR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മായാമഞ്ചലില്‍ | Mayamanchalil | Ottayal Pattalam Malayalam Movie Song | Mukesh | Madhoo]]></title>
-        <id>https://www.youtube.com/watch?v=Z2k049uwslc</id>
-        <link href="https://www.youtube.com/watch?v=Z2k049uwslc"/>
-        <updated>2023-05-06T08:03:08.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മോഹം മൂത്ത് മൂത്ത് കേട്ട് കേട്ട് മത്തുപിടിച്ച മലയാളത്തിലെ പ്രശസ്തഗാനങ്ങൾ | SUPERHIT SONGS | NISARI]]></title>
-        <id>https://www.youtube.com/watch?v=wu9vmop-EVs</id>
-        <link href="https://www.youtube.com/watch?v=wu9vmop-EVs"/>
-        <updated>2023-05-06T07:46:11.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannu Nattu | Kathavasheshan | Vidhyadharan | P Jayachandran | M Jayachandran | Gireesh Puthenchery]]></title>
-        <id>https://www.youtube.com/watch?v=oRLnbLd6p-I</id>
-        <link href="https://www.youtube.com/watch?v=oRLnbLd6p-I"/>
-        <updated>2023-05-06T07:30:09.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ക്യാപ്ഷൻ പോലെ തന്നെ മനസിൽ പൂത്തുലയുന്ന മലയാളസിനിമയിലെ മിന്നൽ ഗാനങ്ങൾ | SUPERHIT SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=NshHwQAgf_Y</id>
-        <link href="https://www.youtube.com/watch?v=NshHwQAgf_Y"/>
-        <updated>2023-05-06T07:30:05.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
     <entry>
