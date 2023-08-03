@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-02T23:16:12.480Z</updated>
+    <updated>2023-08-03T01:25:34.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japamala 3rd of August 2023 # Mathavinte Japamala # Prakashathinte Rahasyangal 3rd of August 2023]]></title>
+        <id>https://www.youtube.com/watch?v=W3nktjKPW8A</id>
+        <link href="https://www.youtube.com/watch?v=W3nktjKPW8A"/>
+        <updated>2023-08-03T00:30:16.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കെസ്റ്ററിന്റെ എക്കാലത്തെയും സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | Kester | Christian Devotional Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=HjfpZDK4WjE</id>
+        <link href="https://www.youtube.com/watch?v=HjfpZDK4WjE"/>
+        <updated>2023-08-03T00:30:12.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #August 3rd mother Mary songs Malayalam 2023]]></title>
+        <id>https://www.youtube.com/watch?v=QtGs0amkyvE</id>
+        <link href="https://www.youtube.com/watch?v=QtGs0amkyvE"/>
+        <updated>2023-08-03T00:15:00.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 3rd of August shorts  # Athiravile Prarthana 3rd of August 2023 shorts]]></title>
         <id>https://www.youtube.com/watch?v=8eD5JAdvins</id>
@@ -23288,60 +23315,6 @@
         <updated>2023-05-05T13:30:21.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആടുന്നും ഈടുന്നും വന്നോര് ആടാനും പാടാനും കൂട്ടാണ് തത്തമ്മ പെണ്ണാള് | Thathamma Chelolu |Madanolsavam]]></title>
-        <id>https://www.youtube.com/watch?v=EppPZZaZeds</id>
-        <link href="https://www.youtube.com/watch?v=EppPZZaZeds"/>
-        <updated>2023-05-05T12:30:12.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prathiphalam Thanneeduvan | M.E.Cherian | Evergreen Malayalam Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=oGyY4gt_5pE</id>
-        <link href="https://www.youtube.com/watch?v=oGyY4gt_5pE"/>
-        <updated>2023-05-05T12:12:41.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nillu Nillu Ente Neelakuyile | Rain Rain Come Again | Evergreen Malayalam Fast Song | Jassie Gift]]></title>
-        <id>https://www.youtube.com/watch?v=OdKDPZIM8oo</id>
-        <link href="https://www.youtube.com/watch?v=OdKDPZIM8oo"/>
-        <updated>2023-05-05T12:00:12.000Z</updated>
-        <author>
-            <name>Music Zone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kallu Pattu - Video Song | Boomerang |  | Shine Tom Chacko | Samyuktha]]></title>
-        <id>https://www.youtube.com/watch?v=t3Npj3x-Xcw</id>
-        <link href="https://www.youtube.com/watch?v=t3Npj3x-Xcw"/>
-        <updated>2023-05-05T11:31:20.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ormayiloru Sisiram Video Song | Mohanlal | Karthika | Unni Menon | Shyam | Bichu Thirumala]]></title>
-        <id>https://www.youtube.com/watch?v=qXWSEOvSIXQ</id>
-        <link href="https://www.youtube.com/watch?v=qXWSEOvSIXQ"/>
-        <updated>2023-05-05T11:30:16.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kasthoori Kattoothi - Video Song | Within Seconds | Indrans, Alencier | Renjin Raj]]></title>
-        <id>https://www.youtube.com/watch?v=J_8xMISGgkk</id>
-        <link href="https://www.youtube.com/watch?v=J_8xMISGgkk"/>
-        <updated>2023-05-05T11:30:08.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
