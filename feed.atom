@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-04T09:16:25.545Z</updated>
+    <updated>2023-08-04T10:18:07.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Making of #KushiTitle Song (Malayalam) | #VijayDeverakonda, #Samantha | #HeshamAbdulWahab | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Ad01_HEqZEk</id>
+        <link href="https://www.youtube.com/watch?v=Ad01_HEqZEk"/>
+        <updated>2023-08-04T09:57:43.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viral Thottal Viriyunna Video Song | KS Chithra | P Jayachandran | Gireesh Puthenchery | Deva]]></title>
+        <id>https://www.youtube.com/watch?v=fmi5lOmAqls</id>
+        <link href="https://www.youtube.com/watch?v=fmi5lOmAqls"/>
+        <updated>2023-08-04T09:52:23.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manathudichoru Malagha | Kelkkaan Kothikkunna Kristheeya Bhakthigaanangal | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=uETh1191k40</id>
+        <link href="https://www.youtube.com/watch?v=uETh1191k40"/>
+        <updated>2023-08-04T09:47:04.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങാന്‍ പോകുമ്പോള്‍ കേള്‍ക്കാവുന്ന ഗാനങ്ങള്‍ # Malayalam Christian songs for Sleep #worshipsongs]]></title>
+        <id>https://www.youtube.com/watch?v=I0EBIfUVl_s</id>
+        <link href="https://www.youtube.com/watch?v=I0EBIfUVl_s"/>
+        <updated>2023-08-04T09:30:05.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളികളെ കോരിത്തരിപ്പിച്ച മലയാള സിനിമയിലെ മനം മയക്കും ഗാനങ്ങൾ |Evergreen Malayalam Film Songs]]></title>
         <id>https://www.youtube.com/watch?v=u9Y1Kpw-DRU</id>
@@ -418,6 +454,15 @@
         <updated>2023-08-03T07:18:34.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Madhuvarna Pynkili - Video Song | Munna | Indrans | Jagatheesh | Sibu | Mridula Warrier | Vijesh]]></title>
+        <id>https://www.youtube.com/watch?v=_9NMtlzIU0A</id>
+        <link href="https://www.youtube.com/watch?v=_9NMtlzIU0A"/>
+        <updated>2023-08-03T07:18:09.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
