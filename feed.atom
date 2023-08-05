@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-05T13:17:48.222Z</updated>
+    <updated>2023-08-05T14:14:10.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thoo Vennilavo Video Song | Johnson | Sujatha Mohan | G Venugopal | Kaithapram | Sreeja | Mukesh]]></title>
+        <id>https://www.youtube.com/watch?v=e_hnfRuVxvs</id>
+        <link href="https://www.youtube.com/watch?v=e_hnfRuVxvs"/>
+        <updated>2023-08-05T14:05:03.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പുതു തലമുറയെ മാത്രമല്ല ഏവരെയും ഹരം  കൊള്ളിക്കും ഗാനങ്ങൾ  |Re Mastered Video Songs  | Kavya Madhavan]]></title>
+        <id>https://www.youtube.com/watch?v=_PTJb7XvTwA</id>
+        <link href="https://www.youtube.com/watch?v=_PTJb7XvTwA"/>
+        <updated>2023-08-05T13:30:25.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dyovin Sammanam | New Christian Video Song | Shymol Alex |Joji Johns | Lijosh Vezhappilly |Communion]]></title>
+        <id>https://www.youtube.com/watch?v=iVcHLZncBkk</id>
+        <link href="https://www.youtube.com/watch?v=iVcHLZncBkk"/>
+        <updated>2023-08-05T13:30:13.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chandhanamukile | വാനമ്പാടി @ 60 | Celebratinbg 60 Musical Years of K S Chithra | M Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=R8fllo1MzR8</id>
