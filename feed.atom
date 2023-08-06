@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-06T17:13:29.591Z</updated>
+    <updated>2023-08-06T18:19:14.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികൾ മറക്കാത്ത എം ജി രാധാകൃഷ്ണൻറെ പാട്ടുകൾ |കെ ജെ യേശുദാസ് |M G Radhakrishnan | Remastered songs]]></title>
+        <id>https://www.youtube.com/watch?v=NXCHGAZGLIk</id>
+        <link href="https://www.youtube.com/watch?v=NXCHGAZGLIk"/>
+        <updated>2023-08-06T18:10:35.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കർത്താവെ നീയെന്നെ കൈവിടല്ലേ... നീ നല്ല ഇടയനല്ലേ ...!]]></title>
         <id>https://www.youtube.com/watch?v=JaZ8FWSxCpQ</id>
@@ -23909,15 +23918,6 @@
         <updated>2023-05-09T08:21:26.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Jeevane | Dr. Karishma George | Sophia George | Latest Malayalam Christian Devotional Song]]></title>
-        <id>https://www.youtube.com/watch?v=XJtT2dFrLMg</id>
-        <link href="https://www.youtube.com/watch?v=XJtT2dFrLMg"/>
-        <updated>2023-05-09T06:10:58.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
