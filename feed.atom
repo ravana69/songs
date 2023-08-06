@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-06T11:13:27.482Z</updated>
+    <updated>2023-08-06T12:30:28.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നിങ്ങളുടെ  പ്രശ്നങ്ങളാണ് നിങ്ങളെ കരുത്തുള്ളവരാക്കി രൂപപ്പെടുത്തുന്നത് | Rev. Aneesh P Joseph]]></title>
+        <id>https://www.youtube.com/watch?v=8u99RySA9Fw</id>
+        <link href="https://www.youtube.com/watch?v=8u99RySA9Fw"/>
+        <updated>2023-08-06T12:30:04.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veena Poove Video Song | KJ Yesudas | Sheela | Jeevikkaan Marannu Poya Sthree |]]></title>
+        <id>https://www.youtube.com/watch?v=jyFMKmWjpoU</id>
+        <link href="https://www.youtube.com/watch?v=jyFMKmWjpoU"/>
+        <updated>2023-08-06T12:15:05.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palapoovithalil | Thirakkatha | Sharreth | Nishad | Shweta Mohan | Anoop Menon | Priyamani | Ranjith]]></title>
+        <id>https://www.youtube.com/watch?v=y9Z_shuhAqo</id>
+        <link href="https://www.youtube.com/watch?v=y9Z_shuhAqo"/>
+        <updated>2023-08-06T12:00:49.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chingamasam Video Song | Dileep | Vidyasagar | Gireesh Puthenchery | Rimi Tomy | Shankar Mahadevan]]></title>
         <id>https://www.youtube.com/watch?v=NBSQ6xytDn0</id>
@@ -23864,15 +23891,6 @@
         <updated>2023-05-09T01:30:25.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ലോകമെമ്പാടുമുള്ള മലയാളികൾ എന്നും കേൾക്കുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ |Christian Devotional Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=Z9Lq9yplMPs</id>
-        <link href="https://www.youtube.com/watch?v=Z9Lq9yplMPs"/>
-        <updated>2023-05-09T00:30:10.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
