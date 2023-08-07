@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-07T21:14:12.753Z</updated>
+    <updated>2023-08-07T22:16:04.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -24143,24 +24143,6 @@
         <updated>2023-05-10T10:30:09.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanachiraku Tharu | Achayans | Najim Arshad | Rimi Tomy | Jayaram | Unni Mukundan | Ratheesh Vega]]></title>
-        <id>https://www.youtube.com/watch?v=cXopN8fH8u4</id>
-        <link href="https://www.youtube.com/watch?v=cXopN8fH8u4"/>
-        <updated>2023-05-10T10:10:57.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പാര്‍വണേന്ദുമുഖി HD | Parvanendu Mukhi | Parinayam | Malayalam Film Song]]></title>
-        <id>https://www.youtube.com/watch?v=47_3E9XCPHs</id>
-        <link href="https://www.youtube.com/watch?v=47_3E9XCPHs"/>
-        <updated>2023-05-10T09:41:14.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
     <entry>
