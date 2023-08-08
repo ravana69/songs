@@ -11688,26 +11688,6 @@
           "wordCount": null,
           "title": "Divyakarunyame | Fr. Vipin Kurishuthara CMI | Fr. Vinil Kurishuthara CMF | Malayalam Christian Songs",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DE2gH6lSTXo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DE2gH6lSTXo",
-          "publishedOn": "2023-05-11T04:14:49.000Z",
-          "wordCount": null,
-          "title": "Thiruvosthi Roopan | Mithila Michael | Riny Roy | Roy Panikulam | Sebastian Joseph Varakukalayil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=4ifUm3RDn_E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4ifUm3RDn_E",
-          "publishedOn": "2023-05-11T03:38:56.000Z",
-          "wordCount": null,
-          "title": "Karthavin Karamenne | Maria Kolady | Johnson P. Samuel | Malayalam Christian Devotional Songs",
-          "imageUrl": null
         }
       ]
     },
@@ -11716,6 +11696,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1Z1-ER2nUjr66DGTEq9oMA",
       "siteUrl": "https://www.youtube.com/channel/UC1Z1-ER2nUjr66DGTEq9oMA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=9UKGoQnxYys",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9UKGoQnxYys",
+          "publishedOn": "2023-08-08T16:09:48.000Z",
+          "wordCount": null,
+          "title": "കൂടുവിട്ടെങ്ങോ ... അലഞ്ഞ കുഞ്ഞാടു ഞാൻ .",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=LuJSGJniByc",
           "author": null,
