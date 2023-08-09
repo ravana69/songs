@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-09T09:18:21.398Z</updated>
+    <updated>2023-08-09T10:19:17.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[വിരൽ തൊട്ടാൽ വിരിയുന്ന പെൺപൂവേ...]]></title>
+        <id>https://www.youtube.com/watch?v=p6UUyG7Ch3I</id>
+        <link href="https://www.youtube.com/watch?v=p6UUyG7Ch3I"/>
+        <updated>2023-08-09T10:00:48.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ചിരിയുടെ ഗോഡ്‌ഫാദറിന് പ്രണാമം | പൂക്കാലം വന്നൂ പൂക്കാലം | Godfather Malayalam Movie Song | Siddique]]></title>
+        <id>https://www.youtube.com/watch?v=obmlntBt8tg</id>
+        <link href="https://www.youtube.com/watch?v=obmlntBt8tg"/>
+        <updated>2023-08-09T09:52:43.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങാന്‍ പോകുമ്പോള്‍ കേള്‍ക്കാവുന്ന ഗാനങ്ങള്‍ # Malayalam Christian songs for Sleep #worshipsongs]]></title>
+        <id>https://www.youtube.com/watch?v=1Fepku4hBEA</id>
+        <link href="https://www.youtube.com/watch?v=1Fepku4hBEA"/>
+        <updated>2023-08-09T09:30:01.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yathra | Janmapunyamekunna Kristheeya Bhakthigaanangal | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=lPATMNx8r3o</id>
+        <link href="https://www.youtube.com/watch?v=lPATMNx8r3o"/>
+        <updated>2023-08-09T09:20:17.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oraayiram Kinaakkalal | Ramji Rao Speaking (1989) | Bichu Thirumala | S Balakrishnan | Mukesh]]></title>
         <id>https://www.youtube.com/watch?v=rVboXaR5Evs</id>
