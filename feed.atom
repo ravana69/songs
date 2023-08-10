@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-10T22:15:38.038Z</updated>
+    <updated>2023-08-10T23:16:16.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 11th of August shorts  # Athiravile Prarthana 11th of August 2023 shorts]]></title>
+        <id>https://www.youtube.com/watch?v=MhX0kOvHdPY</id>
+        <link href="https://www.youtube.com/watch?v=MhX0kOvHdPY"/>
+        <updated>2023-08-10T23:00:18.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന August 11 # Athiravile Prarthana 11th of August 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=tVWRvA0IMxM</id>
@@ -24467,24 +24476,6 @@
         <updated>2023-05-13T11:30:19.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജോലിത്തിരക്കെല്ലാം കഴിഞ്ഞു ശാന്തമായി ഉറങ്ങാൻ കൊതിക്കുന്നവർ കേൾക്കുന്ന മനോഹരഗാനങ്ങൾ | NISARI SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=wdcFGql8mIs</id>
-        <link href="https://www.youtube.com/watch?v=wdcFGql8mIs"/>
-        <updated>2023-05-13T10:30:16.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pullikkarinkaali Video Song | Madanolsavam | Suraj Venjaramoodu | Vaisakh Sugunan | Christo Xavier]]></title>
-        <id>https://www.youtube.com/watch?v=RzQjusVOtW4</id>
-        <link href="https://www.youtube.com/watch?v=RzQjusVOtW4"/>
-        <updated>2023-05-13T10:30:09.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
