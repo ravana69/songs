@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-11T08:20:14.915Z</updated>
+    <updated>2023-08-11T09:15:56.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Puthumazhaye Paadunnu | Vidhu Prathap | Sam Shiva | August 27 | Ajit Ravi Pegasus | Jebitha Ajit]]></title>
+        <id>https://www.youtube.com/watch?v=PplAVP4Q0nI</id>
+        <link href="https://www.youtube.com/watch?v=PplAVP4Q0nI"/>
+        <updated>2023-08-11T07:41:34.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പണ്ടു കേട്ട് മതി മറന്ന് ഇപ്പോൾ വീണ്ടും ഓർമ്മയിലെത്തുന്ന മനോഹരഗാനങ്ങൾ | NISARI | EVERGREEN SONGS]]></title>
         <id>https://www.youtube.com/watch?v=xBvFX8qA26c</id>
