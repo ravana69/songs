@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-11T22:16:07.897Z</updated>
+    <updated>2023-08-11T23:16:23.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 12th of August shorts  # Athiravile Prarthana 12th of August 2023 shorts]]></title>
+        <id>https://www.youtube.com/watch?v=buxdcpJfIqY</id>
+        <link href="https://www.youtube.com/watch?v=buxdcpJfIqY"/>
+        <updated>2023-08-11T23:00:16.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 12 # Athiravile Prarthana 12th of August 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=XQ4jeX2voEE</id>
@@ -24629,15 +24638,6 @@
         <updated>2023-05-14T11:30:08.000Z</updated>
         <author>
             <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanne Kanmaniye | Music Mug | 4 Musics | Tessy Thomas | Biby Mathew | Eldhose Alias]]></title>
-        <id>https://www.youtube.com/watch?v=ebOAShvVN3I</id>
-        <link href="https://www.youtube.com/watch?v=ebOAShvVN3I"/>
-        <updated>2023-05-14T10:30:22.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
