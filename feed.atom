@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-12T13:17:03.315Z</updated>
+    <updated>2023-08-12T14:13:29.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Poomaariyil|Jhonnie walker|Jeet Upendra|Rani|Mammotty|]]></title>
+        <id>https://www.youtube.com/watch?v=r0TX4eyUP34</id>
+        <link href="https://www.youtube.com/watch?v=r0TX4eyUP34"/>
+        <updated>2023-08-12T13:55:24.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Superhit Songs | Wilson Piravom | Midhila Michael | Christian Melody Songs | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=6zRSBXrwesE</id>
+        <link href="https://www.youtube.com/watch?v=6zRSBXrwesE"/>
+        <updated>2023-08-12T13:30:02.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഓക്സിജൻ സ്പെഷ്യൽ ഓണം ഓഫർ 2023 | Oxygen Special Onam Offer 2023 | ONAM 2023 | Dulquer Salmaan]]></title>
         <id>https://www.youtube.com/watch?v=hlxK_WnlOwg</id>
@@ -24737,15 +24755,6 @@
         <updated>2023-05-15T07:29:17.000Z</updated>
         <author>
             <name>Lahari Music Malayalam - TSeries</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പറക്കശീലം വരുത്താൻ മക്കളെ | Elizabeth Raju | Evergreen Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=bcjrmB_2NSw</id>
-        <link href="https://www.youtube.com/watch?v=bcjrmB_2NSw"/>
-        <updated>2023-05-15T01:30:19.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
