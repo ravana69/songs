@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-12T19:12:04.619Z</updated>
+    <updated>2023-08-12T20:15:41.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന August 13 # Athiravile Prarthana 13th of August 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=GuZ25r0jGXs</id>
+        <link href="https://www.youtube.com/watch?v=GuZ25r0jGXs"/>
+        <updated>2023-08-12T20:00:04.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 13th August 2023]]></title>
         <id>https://www.youtube.com/watch?v=r0rD2MZO-ok</id>
@@ -24764,33 +24773,6 @@
         <updated>2023-05-15T10:21:43.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mashe Edo Mashe | Keralahouse Udan Vilpanakku | Jayasurya | Cochin Haneefa | Jyotsna | MG Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=yf-KMNc43lk</id>
-        <link href="https://www.youtube.com/watch?v=yf-KMNc43lk"/>
-        <updated>2023-05-15T07:30:21.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neelathadakangalo | Balram v/s Tharadas | Jassie Gift | Kaithapram | KJ Yesudas | Mammootty]]></title>
-        <id>https://www.youtube.com/watch?v=r7XVzU_MGjY</id>
-        <link href="https://www.youtube.com/watch?v=r7XVzU_MGjY"/>
-        <updated>2023-05-15T07:30:17.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comrade Anthem Audio Song | Dear Comrade Malayalam | Vijay Deverakonda | Rashmika | Bharat Kamma]]></title>
-        <id>https://www.youtube.com/watch?v=TnZHhxRNAYk</id>
-        <link href="https://www.youtube.com/watch?v=TnZHhxRNAYk"/>
-        <updated>2023-05-15T07:29:17.000Z</updated>
-        <author>
-            <name>Lahari Music Malayalam - TSeries</name>
         </author>
     </entry>
     <entry>
