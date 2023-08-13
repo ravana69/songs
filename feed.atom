@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-13T21:13:15.086Z</updated>
+    <updated>2023-08-13T22:14:57.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -24719,24 +24719,6 @@
         <updated>2023-05-16T10:30:23.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannamthumbi | Kaakkothikavile Apooppanthaadikal | Bichu Thirumala | Ouseppachan | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=6SZPO0V-Glo</id>
-        <link href="https://www.youtube.com/watch?v=6SZPO0V-Glo"/>
-        <updated>2023-05-16T09:48:29.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaval Malagha | Kesterum Sreyayum Paadiya Kristheeya Bhakthigaanangal]]></title>
-        <id>https://www.youtube.com/watch?v=8ZAe-oUG-iQ</id>
-        <link href="https://www.youtube.com/watch?v=8ZAe-oUG-iQ"/>
-        <updated>2023-05-16T09:37:33.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
