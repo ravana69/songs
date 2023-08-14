@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-14T05:16:02.313Z</updated>
+    <updated>2023-08-14T06:21:59.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vibe for the trend #Aadharanjali | #Romancham | #SushinShyam | #JithuMadhavan | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=dgfgV5wn0as</id>
+        <link href="https://www.youtube.com/watch?v=dgfgV5wn0as"/>
+        <updated>2023-08-14T05:30:10.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thandodinja Thamara | Lyrical Video | Aaha | Vijay Yesudas | Sayanora | Indrajith |Bibin Paul Samuel]]></title>
+        <id>https://www.youtube.com/watch?v=CJCiFnQxHWY</id>
+        <link href="https://www.youtube.com/watch?v=CJCiFnQxHWY"/>
+        <updated>2023-08-14T05:30:08.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[O Priye |  Aniyathipraavu 1997 | S. Ramesan Nair | K. J. Yesudas | Malayalam Movie Song]]></title>
         <id>https://www.youtube.com/watch?v=YQivJwO_-xk</id>
