@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-15T19:12:57.494Z</updated>
+    <updated>2023-08-15T20:17:21.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 16 # Athiravile Prarthana 16th of August 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=SVHjCzGgbLU</id>
+        <link href="https://www.youtube.com/watch?v=SVHjCzGgbLU"/>
+        <updated>2023-08-15T20:00:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 16th August 2023]]></title>
         <id>https://www.youtube.com/watch?v=JGUZ98NTZf0</id>
@@ -25061,33 +25070,6 @@
         <updated>2023-05-18T08:46:24.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anuvadhikkillavan Thakaruvanay | Merin Gregory | Denilo Dennis | Stephy Jilesh | New Christian Song]]></title>
-        <id>https://www.youtube.com/watch?v=bsj2qK_yHrQ</id>
-        <link href="https://www.youtube.com/watch?v=bsj2qK_yHrQ"/>
-        <updated>2023-05-18T08:05:20.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Ponkinavileatho | Georgekutty c/o Georgekutty | Mohan Sithara | Gireesh puthenchery | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=tgHG1X3hgf4</id>
-        <link href="https://www.youtube.com/watch?v=tgHG1X3hgf4"/>
-        <updated>2023-05-18T07:30:24.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valam Pirinju | Mayajalam | Bichu Thirumala | SP Venkitesh | S Janaki | Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=L-iaNhrUIu8</id>
-        <link href="https://www.youtube.com/watch?v=L-iaNhrUIu8"/>
-        <updated>2023-05-18T07:30:07.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
     <entry>
