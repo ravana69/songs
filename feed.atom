@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-15T05:15:54.517Z</updated>
+    <updated>2023-08-15T06:21:19.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trendy #Aadharanjali | #Romancham | #SushinShyam | #JithuMadhavan | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=XYWrPrGkyCg</id>
+        <link href="https://www.youtube.com/watch?v=XYWrPrGkyCg"/>
+        <updated>2023-08-15T05:30:15.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[വന്ദേമാതരം..| ഓരോ ഭാരതീയൻറെയും മനസ്സിൽ ജ്വലിക്കുന്ന സ്വാതന്ത്ര്യസമരചരിത്രം ഗാനങ്ങളായ്..| Remastered]]></title>
         <id>https://www.youtube.com/watch?v=xbxWqnZeBmk</id>
