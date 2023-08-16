@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-16T19:12:58.566Z</updated>
+    <updated>2023-08-16T20:16:00.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 17 # Athiravile Prarthana 17th of August 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=p72t4eI2odk</id>
+        <link href="https://www.youtube.com/watch?v=p72t4eI2odk"/>
+        <updated>2023-08-16T20:00:28.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 17th August 2023]]></title>
         <id>https://www.youtube.com/watch?v=Dy7WZ3HeCS0</id>
@@ -25214,33 +25223,6 @@
         <updated>2023-05-19T08:49:42.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#MadhuPole Vertical Lyrical Video #DearComrade Malayalam #sidsriram #VijayDeverakonda #Rashmika]]></title>
-        <id>https://www.youtube.com/watch?v=5_cAY-wn644</id>
-        <link href="https://www.youtube.com/watch?v=5_cAY-wn644"/>
-        <updated>2023-05-19T07:30:49.000Z</updated>
-        <author>
-            <name>Lahari Music Malayalam - TSeries</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു ഹംസദൂതുപോൽ മനസിലേക്ക് പറന്നെത്തുന്ന കേൾക്കാൻ കൊതിക്കും സിനിമാഗാനങ്ങൾ | EVERGREEN HITS | NISARI]]></title>
-        <id>https://www.youtube.com/watch?v=G13HSLX_Qjg</id>
-        <link href="https://www.youtube.com/watch?v=G13HSLX_Qjg"/>
-        <updated>2023-05-19T07:30:07.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesmerizing #LaamaLaama - Promo Song | #BhagavanDasanteRamarajyam | #SoorajSanthosh | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=-0teKHFO3DM</id>
-        <link href="https://www.youtube.com/watch?v=-0teKHFO3DM"/>
-        <updated>2023-05-19T07:15:00.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
