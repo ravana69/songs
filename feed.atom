@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T19:13:13.384Z</updated>
+    <updated>2023-08-17T20:17:06.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 18 # Athiravile Prarthana 18th of August 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=cNFXPMrbtks</id>
+        <link href="https://www.youtube.com/watch?v=cNFXPMrbtks"/>
+        <updated>2023-08-17T20:00:10.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 18th August 2023]]></title>
         <id>https://www.youtube.com/watch?v=ThPcMQHo5nM</id>
@@ -25394,33 +25403,6 @@
         <updated>2023-05-20T08:32:42.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vida Parayukayaano | Big B | Shreya Ghoshal | Alphons Joseph | Santhosh Varma | Mammootty]]></title>
-        <id>https://www.youtube.com/watch?v=oCXd2rM4EO4</id>
-        <link href="https://www.youtube.com/watch?v=oCXd2rM4EO4"/>
-        <updated>2023-05-20T07:32:42.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്വപ്നങ്ങൾക്ക് നിറം പകർന്ന മലയാളസിനിമയിലെ മനോഹരഗാനങ്ങൾ | MALAYALAM FILM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=Iqg1bzC0H9E</id>
-        <link href="https://www.youtube.com/watch?v=Iqg1bzC0H9E"/>
-        <updated>2023-05-20T07:30:04.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[താളക്കൊഴുപ്പും മേളക്കൊഴുപ്പും കൊണ്ട് മലയാളികളുടെ ഹൃദയം കവർന്ന സൂപ്പർഹിറ്റ് സിനിമാഗാനങ്ങൾ | SUPERHITS]]></title>
-        <id>https://www.youtube.com/watch?v=82p1FyK2I7g</id>
-        <link href="https://www.youtube.com/watch?v=82p1FyK2I7g"/>
-        <updated>2023-05-20T07:30:01.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
     <entry>
