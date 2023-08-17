@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T16:21:55.442Z</updated>
+    <updated>2023-08-17T17:14:37.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നിന്റെ കൽപ്പന കാത്തിടാനായ് ഞാനൊരുങ്ങുന്നു.]]></title>
+        <id>https://www.youtube.com/watch?v=WzQfuqhDQj0</id>
+        <link href="https://www.youtube.com/watch?v=WzQfuqhDQj0"/>
+        <updated>2023-08-17T16:22:19.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vijanamoru Theeram - Lyrical | Kushi (Malayalam) | Vijay Deverakonda,Samantha| Hesham Abdul Wahab]]></title>
         <id>https://www.youtube.com/watch?v=j1oOgs4LJ5A</id>
@@ -25430,15 +25439,6 @@
         <updated>2023-05-20T05:30:08.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vennila Kadappurath | Aniyathipravu | Kunchacko Boban | Shalini | Yesudas | Ouseppachan | Fazil]]></title>
-        <id>https://www.youtube.com/watch?v=5hxbQASv1D0</id>
-        <link href="https://www.youtube.com/watch?v=5hxbQASv1D0"/>
-        <updated>2023-05-20T04:30:02.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
     <entry>
