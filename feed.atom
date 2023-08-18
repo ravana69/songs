@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-18T14:15:14.416Z</updated>
+    <updated>2023-08-18T15:16:32.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pottuthotta Ponnumani Video Song | Jayaram | KJ Yesudas | Vidyasagar | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=z-I6wT5kLuU</id>
+        <link href="https://www.youtube.com/watch?v=z-I6wT5kLuU"/>
+        <updated>2023-08-18T15:00:54.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പൊന്നുപോലെയീ ജീവൻ , തന്നെനിക്കെൻ നാഥൻ :]]></title>
+        <id>https://www.youtube.com/watch?v=FfgN-g0NsN4</id>
+        <link href="https://www.youtube.com/watch?v=FfgN-g0NsN4"/>
+        <updated>2023-08-18T14:57:09.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O Priye Priye | Aniyathipravu | Kunchacko Boban | Shalini | Fazil | Ouseppachan | Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=keWR6soGQJk</id>
+        <link href="https://www.youtube.com/watch?v=keWR6soGQJk"/>
+        <updated>2023-08-18T14:45:02.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Superhit Songs | Rajkumar Radhakrishnan | Wilson Piravom |Christian Melody Songs Malayalam]]></title>
         <id>https://www.youtube.com/watch?v=2waDXBHDIzg</id>
@@ -292,6 +319,15 @@
         <updated>2023-08-17T20:00:10.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Njandu Pudikkanu | Tribal Song | ഞണ്ടു പുടിക്കണു | Anjana Teacher | Abhijith | 4K Video]]></title>
+        <id>https://www.youtube.com/watch?v=QnqjLdi6DvM</id>
+        <link href="https://www.youtube.com/watch?v=QnqjLdi6DvM"/>
+        <updated>2023-08-17T19:18:05.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
