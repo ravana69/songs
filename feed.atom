@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-19T22:14:39.253Z</updated>
+    <updated>2023-08-19T23:15:26.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 20th of August shorts  # Athiravile Prarthana 20th of August 2023 shorts]]></title>
+        <id>https://www.youtube.com/watch?v=MfB6KC6bcTg</id>
+        <link href="https://www.youtube.com/watch?v=MfB6KC6bcTg"/>
+        <updated>2023-08-19T23:00:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 20 # Athiravile Prarthana 20th of August 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=vAkZi7N6T20</id>
@@ -25790,24 +25799,6 @@
         <updated>2023-05-22T11:29:45.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മേഘം പൂത്തുതുടങ്ങി 🎶😍 Megham Poothu Thudangi | Video Song | Pranaya Vilasam | Arjun Ashokan]]></title>
-        <id>https://www.youtube.com/watch?v=k1ruUP0DTu0</id>
-        <link href="https://www.youtube.com/watch?v=k1ruUP0DTu0"/>
-        <updated>2023-05-22T10:30:24.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Metamorphosis | Making of Padavettu | Nivin Pauly, Aditi Balan | Liju Krishna | Subhaash Karun]]></title>
-        <id>https://www.youtube.com/watch?v=DJBWaqSRdi0</id>
-        <link href="https://www.youtube.com/watch?v=DJBWaqSRdi0"/>
-        <updated>2023-05-22T10:30:04.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
