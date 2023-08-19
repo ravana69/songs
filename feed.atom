@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-19T11:12:35.684Z</updated>
+    <updated>2023-08-19T12:28:55.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Puliyilakkarayolum | Jaathakam | KJ Yesudas |Jayaram | Shari |#shorts]]></title>
+        <id>https://www.youtube.com/watch?v=7oilS95KFeg</id>
+        <link href="https://www.youtube.com/watch?v=7oilS95KFeg"/>
+        <updated>2023-08-19T12:15:00.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pottuthottu Ponnumani | Alice in Wonderland | Cicily | Vidyasagar | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=U9SM_-sS6sw</id>
+        <link href="https://www.youtube.com/watch?v=U9SM_-sS6sw"/>
+        <updated>2023-08-19T12:00:19.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എൻ പ്രിയൻ വലംകരത്തിൽ | Thomas Mathew Karunagappally | KG Markose #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=EwBG0lu-BBI</id>
+        <link href="https://www.youtube.com/watch?v=EwBG0lu-BBI"/>
+        <updated>2023-08-19T11:31:57.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Karineela Kannilenthadi |Romantic Melody by Vineeth Sreenivasan&Sujatha #shorts #vineethsreenivasan]]></title>
         <id>https://www.youtube.com/watch?v=OC06a5dFEAw</id>
@@ -472,6 +499,15 @@
         <updated>2023-08-18T04:30:06.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Njan Ninne Kaividumo | KS Chithra | Christian Devotional | Shorts #christiandevotional #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=5LAah8nLYI4</id>
+        <link href="https://www.youtube.com/watch?v=5LAah8nLYI4"/>
+        <updated>2023-08-18T01:36:27.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
