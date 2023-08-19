@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-19T06:19:44.955Z</updated>
+    <updated>2023-08-19T07:13:50.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Njan Ente Soukhyavum | Christian Devotional Shorts  #christiandevotionalsongs #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=wr7TYAZITxA</id>
+        <link href="https://www.youtube.com/watch?v=wr7TYAZITxA"/>
+        <updated>2023-08-19T07:00:07.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thathamma Peru Video Song | Dosth | Kunchacko Boban - Kavya | Vidyasagar | KJ Yesudas -Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=xu8V6tKW4jc</id>
+        <link href="https://www.youtube.com/watch?v=xu8V6tKW4jc"/>
+        <updated>2023-08-19T06:53:20.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[May Masam Junoday | Alice In Wonderland | Vidyasagar | Jayaram | Kathal Sandya | Vineeth]]></title>
         <id>https://www.youtube.com/watch?v=yTMtVwf6Nj0</id>
