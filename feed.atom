@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-20T16:20:04.456Z</updated>
+    <updated>2023-08-20T17:13:29.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നിന്നെ മാത്രം ധ്യാനിച്ചു ധ്യാനിച്ചു മനസു തളർന്നാൽ തളർന്നിടട്ടെ !]]></title>
+        <id>https://www.youtube.com/watch?v=8NeZxBWbRGE</id>
+        <link href="https://www.youtube.com/watch?v=8NeZxBWbRGE"/>
+        <updated>2023-08-20T16:44:22.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Varika | Sharreth | Sumi Sunny #latestmalayalam #malayalammoviesongs #manoramamusic]]></title>
         <id>https://www.youtube.com/watch?v=cQ_WnKZcEt0</id>
@@ -25844,42 +25853,6 @@
         <updated>2023-05-23T06:00:06.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puthumazhayil | Lyrical Video | Ithramathram | K S Chithra | Rafeeque Ahammed | Jaison J Nair]]></title>
-        <id>https://www.youtube.com/watch?v=cq7SOXhK1O4</id>
-        <link href="https://www.youtube.com/watch?v=cq7SOXhK1O4"/>
-        <updated>2023-05-23T04:51:56.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karineela Kannilenthedi | Lyrical Video | Chakkaramuthu | Vineeth Sreenivasan | Sujatha | Dileep]]></title>
-        <id>https://www.youtube.com/watch?v=4AIX4rfT2Po</id>
-        <link href="https://www.youtube.com/watch?v=4AIX4rfT2Po"/>
-        <updated>2023-05-23T04:49:59.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eeran Marum | Lyrical Video | Uncle | Mammootty | Shreya Ghoshal | Bijibal | Rafeeque Ahammed]]></title>
-        <id>https://www.youtube.com/watch?v=uWFCb6Ehg1k</id>
-        <link href="https://www.youtube.com/watch?v=uWFCb6Ehg1k"/>
-        <updated>2023-05-23T04:48:14.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njerukkathin Appan Njan | Shorts | K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=afIw5Fuotno</id>
-        <link href="https://www.youtube.com/watch?v=afIw5Fuotno"/>
-        <updated>2023-05-23T04:30:01.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
