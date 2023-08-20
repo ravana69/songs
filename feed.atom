@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-20T06:19:49.720Z</updated>
+    <updated>2023-08-20T07:13:46.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #August 20th daily mother Mary prayer and songs]]></title>
+        <id>https://www.youtube.com/watch?v=QfolUy03j7I</id>
+        <link href="https://www.youtube.com/watch?v=QfolUy03j7I"/>
+        <updated>2023-08-20T07:00:16.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalakkatha  | Remix |DJ Savyo| Ayyappanum Koshiyum  #shorts #djsaviofficial #jakesbejoy #prithviraj]]></title>
+        <id>https://www.youtube.com/watch?v=FQRTbuySGcY</id>
+        <link href="https://www.youtube.com/watch?v=FQRTbuySGcY"/>
+        <updated>2023-08-20T06:30:03.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പാട്ടുപെട്ടി - Paattupetti Vol 21 | Malayalam Film Songs]]></title>
         <id>https://www.youtube.com/watch?v=XgSMSrVsVBw</id>
