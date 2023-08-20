@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-20T17:13:29.589Z</updated>
+    <updated>2023-08-20T18:18:47.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -25835,24 +25835,6 @@
         <updated>2023-05-23T06:30:08.000Z</updated>
         <author>
             <name>Tips Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhacharal | Najim Arshad | Rejeeb Shan | Shobitha | Mujeeb Kottukkal |Akshzy | Musical Video Album]]></title>
-        <id>https://www.youtube.com/watch?v=6x-Ylhi64xY</id>
-        <link href="https://www.youtube.com/watch?v=6x-Ylhi64xY"/>
-        <updated>2023-05-23T06:01:35.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesmerising #EnRojaNeeye song | #Kushi | #VijayDeverakonda | #SamanthaRuthPrabhu |#HeshamAbdulWahab]]></title>
-        <id>https://www.youtube.com/watch?v=MsMipPTu79g</id>
-        <link href="https://www.youtube.com/watch?v=MsMipPTu79g"/>
-        <updated>2023-05-23T06:00:06.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
