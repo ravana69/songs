@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-21T06:22:00.165Z</updated>
+    <updated>2023-08-21T07:15:34.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Olikannum Neetti Video Song | Prabhu | Indraja | KS Chithra | MG Sreekumar | Mohan Sithara |Yusufali]]></title>
+        <id>https://www.youtube.com/watch?v=0QjBq0-tNec</id>
+        <link href="https://www.youtube.com/watch?v=0QjBq0-tNec"/>
+        <updated>2023-08-21T06:41:45.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhamani Ithalukal | August 27 | Nazeer Minnale | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=9b7LGqdcwSU</id>
+        <link href="https://www.youtube.com/watch?v=9b7LGqdcwSU"/>
+        <updated>2023-08-21T06:21:33.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പുതുമഴയേ പാടുന്നോ | Vidhu Prathap | Sam Shiva | August 27 #malayalammoviesongs #latestmalayalam]]></title>
+        <id>https://www.youtube.com/watch?v=AGv8bv27Yfo</id>
+        <link href="https://www.youtube.com/watch?v=AGv8bv27Yfo"/>
+        <updated>2023-08-21T06:19:10.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Filming Lovely 🎥⚡ #BehindTheScenes]]></title>
         <id>https://www.youtube.com/watch?v=umqc3jxGYYw</id>
