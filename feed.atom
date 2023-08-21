@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-21T20:17:27.077Z</updated>
+    <updated>2023-08-21T21:14:17.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=kgEuSJt9oW8</id>
+        <link href="https://www.youtube.com/watch?v=kgEuSJt9oW8"/>
+        <updated>2023-08-21T20:18:27.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന August 22 # Athiravile Prarthana 22nd of August 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=wQIrcKUxA2E</id>
@@ -25817,132 +25826,6 @@
         <updated>2023-05-24T09:53:16.000Z</updated>
         <author>
             <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keerthikkun Njan | Vazhthunnu Njan | Shorts | K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=WPJisVH5P44</id>
-        <link href="https://www.youtube.com/watch?v=WPJisVH5P44"/>
-        <updated>2023-05-24T08:37:25.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshu Nadha Nee En Daivam | Vazhthunnu | K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=sOI012w1xiI</id>
-        <link href="https://www.youtube.com/watch?v=sOI012w1xiI"/>
-        <updated>2023-05-24T08:37:01.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വാഴ്ത്തുന്നു ഞാൻ | Vazhthunnu Njan | K.S. Chithra | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=dlMtzs3drec</id>
-        <link href="https://www.youtube.com/watch?v=dlMtzs3drec"/>
-        <updated>2023-05-24T08:36:48.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saranamavan Tharum Than | Thunayenikkeshuve | Shorts | Sujatha]]></title>
-        <id>https://www.youtube.com/watch?v=KI4SRhTfc_Y</id>
-        <link href="https://www.youtube.com/watch?v=KI4SRhTfc_Y"/>
-        <updated>2023-05-24T08:36:10.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pakayente Kanikalilum | Thunayenikkeshuve | Shorts | Sujatha]]></title>
-        <id>https://www.youtube.com/watch?v=fgzg-tT1wSI</id>
-        <link href="https://www.youtube.com/watch?v=fgzg-tT1wSI"/>
-        <updated>2023-05-24T08:35:56.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മരുഭൂമിയിൽ മന്ന ഒരുക്കിയവൻ | Shorts | K.S. Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=39bCVSgdvQg</id>
-        <link href="https://www.youtube.com/watch?v=39bCVSgdvQg"/>
-        <updated>2023-05-24T08:35:17.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panchavarnnakkilivaalan Video Song | Kannappanunni | KJ Yesudas | Vani Jairam | Prem Nazir | Sheela]]></title>
-        <id>https://www.youtube.com/watch?v=6GFxDE3G_cY</id>
-        <link href="https://www.youtube.com/watch?v=6GFxDE3G_cY"/>
-        <updated>2023-05-24T08:34:59.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഞാൻ നിന്നെ കൈവിടുമോ | Shorts | K.S. Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=hxIODCAkRaw</id>
-        <link href="https://www.youtube.com/watch?v=hxIODCAkRaw"/>
-        <updated>2023-05-24T08:34:57.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ithratholam Ente Bhaviye | Shorts | Kester]]></title>
-        <id>https://www.youtube.com/watch?v=4oWiydqqWtM</id>
-        <link href="https://www.youtube.com/watch?v=4oWiydqqWtM"/>
-        <updated>2023-05-24T08:34:35.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ithratholam Enne Aazhamay | Shorts | Kester]]></title>
-        <id>https://www.youtube.com/watch?v=qhO-naKiEUU</id>
-        <link href="https://www.youtube.com/watch?v=qhO-naKiEUU"/>
-        <updated>2023-05-24T08:34:23.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sannidhiyil | Shorts | K.S. Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=BK3hILVGbVo</id>
-        <link href="https://www.youtube.com/watch?v=BK3hILVGbVo"/>
-        <updated>2023-05-24T08:34:01.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhuryamam | Shorts | K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=MRIQ0wnwWfo</id>
-        <link href="https://www.youtube.com/watch?v=MRIQ0wnwWfo"/>
-        <updated>2023-05-24T08:33:47.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nin Karathin | Shorts | K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=7n53mQstx2Y</id>
-        <link href="https://www.youtube.com/watch?v=7n53mQstx2Y"/>
-        <updated>2023-05-24T08:33:38.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആരാധ്യൻ യേശുപരാ | Shorts | K S CHithra]]></title>
-        <id>https://www.youtube.com/watch?v=kpXZ_uSQFDM</id>
-        <link href="https://www.youtube.com/watch?v=kpXZ_uSQFDM"/>
-        <updated>2023-05-24T08:33:10.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
