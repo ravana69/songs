@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-21T08:21:55.276Z</updated>
+    <updated>2023-08-21T09:16:54.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Varadanangal Music Video | Lalu Ambalamukku | Sam Thomas | Jijeesh Ushanadarajan]]></title>
+        <id>https://www.youtube.com/watch?v=yDahIWrW9FI</id>
+        <link href="https://www.youtube.com/watch?v=yDahIWrW9FI"/>
+        <updated>2023-08-21T06:56:19.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Olikannum Neetti Video Song | Prabhu | Indraja | KS Chithra | MG Sreekumar | Mohan Sithara |Yusufali]]></title>
         <id>https://www.youtube.com/watch?v=0QjBq0-tNec</id>
@@ -466,10 +475,37 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[കെരീത്തുതോട്ടിലെ വെള്ളം വറ്റിയാലും  #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=pbTFaww4JeY</id>
+        <link href="https://www.youtube.com/watch?v=pbTFaww4JeY"/>
+        <updated>2023-08-19T11:32:44.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എരിയും തീച്ചുള എതിരായ് എരിഞ്ഞാൽ #manoramachristiandevotionalsongs #christiandevotionalshorts]]></title>
+        <id>https://www.youtube.com/watch?v=tU7UgAlb-ZQ</id>
+        <link href="https://www.youtube.com/watch?v=tU7UgAlb-ZQ"/>
+        <updated>2023-08-19T11:32:27.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[എൻ പ്രിയൻ വലംകരത്തിൽ | Thomas Mathew Karunagappally | KG Markose #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=EwBG0lu-BBI</id>
         <link href="https://www.youtube.com/watch?v=EwBG0lu-BBI"/>
         <updated>2023-08-19T11:31:57.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഗർജ്ജിക്കും സിംഹങ്ങൾ വസിക്കും ഗുഹയിൽ | Thomas Mathew Karunagapally | KG Markose #christianshorts]]></title>
+        <id>https://www.youtube.com/watch?v=HE1DPsRTaGo</id>
+        <link href="https://www.youtube.com/watch?v=HE1DPsRTaGo"/>
+        <updated>2023-08-19T11:31:41.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
         </author>
