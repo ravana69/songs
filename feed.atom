@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-22T15:17:25.149Z</updated>
+    <updated>2023-08-22T16:21:50.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -26168,24 +26168,6 @@
         <updated>2023-05-25T05:37:36.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thaniye Thaniye | Laika | Lyrical Video | B T Anil Kumar | Satheesh Ramachandran | Gayathri Jyothish]]></title>
-        <id>https://www.youtube.com/watch?v=9jZnEQ0k4ME</id>
-        <link href="https://www.youtube.com/watch?v=9jZnEQ0k4ME"/>
-        <updated>2023-05-25T04:14:12.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nandhi Nandhi Nadha | നീയെന്നെ തേടി വന്നു | Neeyenne Thedi Vannu | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=zoGdyPVNXSg</id>
-        <link href="https://www.youtube.com/watch?v=zoGdyPVNXSg"/>
-        <updated>2023-05-25T03:30:09.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
