@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-22T14:15:44.118Z</updated>
+    <updated>2023-08-22T15:17:25.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പുതുമഴയേ പാടുന്നോ | Vidhu Prathap | Sam Shiva | August 27 #malayalammoviesongs #latestmalayalam]]></title>
+        <id>https://www.youtube.com/watch?v=Ekwaa4Xfpjc</id>
+        <link href="https://www.youtube.com/watch?v=Ekwaa4Xfpjc"/>
+        <updated>2023-08-22T14:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദിനം ദിനം ദിനം നീ വാഴ്ത്തുക | Rev. ART Athisayam | Mithila Michael #christiandevotionalsongs #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Tl_QqZgGbnI</id>
+        <link href="https://www.youtube.com/watch?v=Tl_QqZgGbnI"/>
+        <updated>2023-08-22T14:21:58.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ente Ellam Ellam Alle | Dileep | Kavya | KJ Yesudas | Sujatha Mohan | Vidyasagar-Gireesh Puthenchery]]></title>
         <id>https://www.youtube.com/watch?v=Keq2-fPQD3s</id>
@@ -1579,6 +1597,15 @@
         <updated>2023-08-18T04:30:06.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Njan Ninne Kaividumo | KS Chithra | Christian Devotional | Shorts #christiandevotional #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=5mCtCYFEaiA</id>
+        <link href="https://www.youtube.com/watch?v=5mCtCYFEaiA"/>
+        <updated>2023-08-18T01:46:38.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
