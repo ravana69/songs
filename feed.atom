@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-23T16:22:00.836Z</updated>
+    <updated>2023-08-23T17:14:21.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആവണിപ്പൂചെണ്ട്  | ഉത്സവഗാനങ്ങൾ | K J Yesudas | Remastered  festival songs | AAVANIPPOOCHENDU]]></title>
+        <id>https://www.youtube.com/watch?v=fEwRjcHTLy8</id>
+        <link href="https://www.youtube.com/watch?v=fEwRjcHTLy8"/>
+        <updated>2023-08-23T17:04:18.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Varika | Sharreth | Sumi Sunny #latestmalayalam #malayalammoviesongs #manoramamusic]]></title>
         <id>https://www.youtube.com/watch?v=GL38HBlRAtA</id>
@@ -26276,24 +26285,6 @@
         <updated>2023-05-26T06:00:15.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayunnuvo Song sung by Sooraj Santhosh from Janaki Jaane   https://youtu.be/nAE3R9Y6BUg]]></title>
-        <id>https://www.youtube.com/watch?v=j9eL-fzEZMo</id>
-        <link href="https://www.youtube.com/watch?v=j9eL-fzEZMo"/>
-        <updated>2023-05-26T04:30:20.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maane Malaramban | Ayal Kadha Ezhuthukayanu | Mohanlal | Nandhini | Raveendran | Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=a4c3oqOEgGY</id>
-        <link href="https://www.youtube.com/watch?v=a4c3oqOEgGY"/>
-        <updated>2023-05-26T04:30:01.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
     <entry>
