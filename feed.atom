@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-23T05:15:51.443Z</updated>
+    <updated>2023-08-23T06:21:47.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ennamme Onnu Kaanan Video Song | Nammal | KJ Yesudas | Mohan Sithara | Kaithapram | Suhasini]]></title>
+        <id>https://www.youtube.com/watch?v=EsfRQ3_YwHQ</id>
+        <link href="https://www.youtube.com/watch?v=EsfRQ3_YwHQ"/>
+        <updated>2023-08-23T05:37:04.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pularithuruthil | Onam Video Song |  Sujatha Mohan  | Chittoor Gopi | Kannan]]></title>
+        <id>https://www.youtube.com/watch?v=oZLKiRQha8A</id>
+        <link href="https://www.youtube.com/watch?v=oZLKiRQha8A"/>
+        <updated>2023-08-23T05:30:10.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaro Nilaavayi |Karaoke Video| Pattanathil Bhootham| Mammootty | Shaan Rahman | Gireesh Puthencherry]]></title>
+        <id>https://www.youtube.com/watch?v=Qms3j8nNqeo</id>
+        <link href="https://www.youtube.com/watch?v=Qms3j8nNqeo"/>
+        <updated>2023-08-23T05:30:09.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chithira Thoniyil Akkarepokan | Malayalam Movie Songs | Kayalum Kayarum  #malayalamsongs #evergreen]]></title>
         <id>https://www.youtube.com/watch?v=xsj8PJGt34o</id>
