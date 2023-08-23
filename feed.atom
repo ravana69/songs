@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-23T11:13:52.143Z</updated>
+    <updated>2023-08-23T12:33:15.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൈവമേ എന്റെ ജീവിതത്തിൽ എന്ത് സംഭവിച്ചാലും അതങ്ങയുടെ തീരുമാനമാണെന്ന് തിരിച്ചറിയുന്നു]]></title>
+        <id>https://www.youtube.com/watch?v=eXWosYPM4PI</id>
+        <link href="https://www.youtube.com/watch?v=eXWosYPM4PI"/>
+        <updated>2023-08-23T12:30:31.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 23rd of August 2023]]></title>
+        <id>https://www.youtube.com/watch?v=-A0NkEtOHm0</id>
+        <link href="https://www.youtube.com/watch?v=-A0NkEtOHm0"/>
+        <updated>2023-08-23T12:30:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poo Pookkum Osai | Minsara Kanavu | Sujatha Mohan | Kajol | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=qM7Dt-H_V7o</id>
+        <link href="https://www.youtube.com/watch?v=qM7Dt-H_V7o"/>
+        <updated>2023-08-23T12:00:43.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karimukilin | Thaskaraveeran | Franko | Balu | Ouseppachan | ONV Kurup]]></title>
+        <id>https://www.youtube.com/watch?v=pvCyGJ8-mPw</id>
+        <link href="https://www.youtube.com/watch?v=pvCyGJ8-mPw"/>
+        <updated>2023-08-23T11:30:23.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ചിത്തിരത്തോണിയിൽ അക്കരെ പോകാൻ | Chithira thoniyil akkarepokan | Kayalum Kayarum Movie | Jayabarathi]]></title>
+        <id>https://www.youtube.com/watch?v=kULepu6PyHI</id>
+        <link href="https://www.youtube.com/watch?v=kULepu6PyHI"/>
+        <updated>2023-08-23T11:30:19.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Atham Pathonam Onam| Onam Song by Radhika Thilak #shorts]]></title>
         <id>https://www.youtube.com/watch?v=mT143mMeVns</id>
@@ -26204,33 +26249,6 @@
         <updated>2023-05-26T01:50:58.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പെന്തക്കുസ്താ അഭിഷേകപ്രാർത്ഥനയും നൊവേനയും  Day 8 May 26 # Novena to The Holy Spirit Day 8]]></title>
-        <id>https://www.youtube.com/watch?v=k1BQrKZcj1Q</id>
-        <link href="https://www.youtube.com/watch?v=k1BQrKZcj1Q"/>
-        <updated>2023-05-26T00:30:17.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Songs Of The Week | Madhu Balakrishnan | Christian Songs Malayalam | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=6kSNhsq7wqQ</id>
-        <link href="https://www.youtube.com/watch?v=6kSNhsq7wqQ"/>
-        <updated>2023-05-26T00:30:02.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിന്‍റെ വണക്കമാസവും ജപമാല പ്രാർത്ഥനയും 26th May 2023 # Vanakkamasam Prayer May 26 # Japamala]]></title>
-        <id>https://www.youtube.com/watch?v=QziHC9mYh-k</id>
-        <link href="https://www.youtube.com/watch?v=QziHC9mYh-k"/>
-        <updated>2023-05-25T23:30:04.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
     <entry>
