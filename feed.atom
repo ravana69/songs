@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-24T01:12:35.147Z</updated>
+    <updated>2023-08-24T02:21:21.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മുമ്പിൽ ചെങ്കടൽ ആർത്തിരച്ചാൽ | Thomas Mathew Karunagappally #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=oEVIkrDXJyc</id>
+        <link href="https://www.youtube.com/watch?v=oEVIkrDXJyc"/>
+        <updated>2023-08-24T02:00:18.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കാൽവറി രക്തമേ യേശുവിൻ രക്തമേ | Mithila Michael | Rev.ART Athisayam #christiandevotionalsongs #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=kS6FuKrnxPg</id>
+        <link href="https://www.youtube.com/watch?v=kS6FuKrnxPg"/>
+        <updated>2023-08-24T01:30:15.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം August 24th daily mother mary songs]]></title>
         <id>https://www.youtube.com/watch?v=HzjIgyi6bLI</id>
