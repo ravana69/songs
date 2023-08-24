@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-24T17:15:06.072Z</updated>
+    <updated>2023-08-24T18:21:12.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -26384,24 +26384,6 @@
         <updated>2023-05-27T07:00:52.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heart touching song #EnRojaNeeye | #Kushi | #VijayDeverakonda | #SamanthaRuthPrabhu | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=KO0R21jdhxQ</id>
-        <link href="https://www.youtube.com/watch?v=KO0R21jdhxQ"/>
-        <updated>2023-05-27T06:00:05.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neelavelicham Jukebox | MS Baburaj | P Bhaskaran | KS Chithra | Shahabaz Aman | Bijibal, Rex Vijayan]]></title>
-        <id>https://www.youtube.com/watch?v=jcGEX2LxSFw</id>
-        <link href="https://www.youtube.com/watch?v=jcGEX2LxSFw"/>
-        <updated>2023-05-27T05:37:30.000Z</updated>
-        <author>
-            <name>OPM Records</name>
         </author>
     </entry>
     <entry>
