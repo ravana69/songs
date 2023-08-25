@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-25T22:16:04.035Z</updated>
+    <updated>2023-08-25T23:17:13.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം August 26th daily mother Mary songs #daily mother m]]></title>
+        <id>https://www.youtube.com/watch?v=-HmAR_srEyo</id>
+        <link href="https://www.youtube.com/watch?v=-HmAR_srEyo"/>
+        <updated>2023-08-25T23:15:00.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 26th of August shorts  # Athiravile Prarthana 26th of August 2023 shorts]]></title>
+        <id>https://www.youtube.com/watch?v=nhNbg9-R_ps</id>
+        <link href="https://www.youtube.com/watch?v=nhNbg9-R_ps"/>
+        <updated>2023-08-25T23:00:50.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 26 # Athiravile Prarthana 26th of August 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=Kg5LvWIXVKI</id>
