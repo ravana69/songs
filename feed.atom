@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-26T11:12:56.355Z</updated>
+    <updated>2023-08-26T12:29:49.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Darling Darling Video Song | Azhakulla Saleena | KJ Yesudas | Vayalar | Prem Nazir]]></title>
+        <id>https://www.youtube.com/watch?v=jc0wyxSTqtU</id>
+        <link href="https://www.youtube.com/watch?v=jc0wyxSTqtU"/>
+        <updated>2023-08-26T12:15:03.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maveli Naadu Vanidum Kalam | Non Stop  Onam Video  Songs | മാവേലി നാട് വാണീടും കാലം | Music Video]]></title>
+        <id>https://www.youtube.com/watch?v=UKegqipNX-8</id>
+        <link href="https://www.youtube.com/watch?v=UKegqipNX-8"/>
+        <updated>2023-08-26T12:11:16.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vidhi Than Kanalay | Lyric Video | Colossians | Shamalraj | Priya Jerson | Murali Shankar]]></title>
+        <id>https://www.youtube.com/watch?v=A5m4WtCqU0c</id>
+        <link href="https://www.youtube.com/watch?v=A5m4WtCqU0c"/>
+        <updated>2023-08-26T11:30:05.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oru Pennithaa - Lyrical | Kushi (Malayalam) | Vijay Deverakonda,Samantha| Hesham Abdul Wahab]]></title>
         <id>https://www.youtube.com/watch?v=vF9PzrIwZPs</id>
