@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-26T12:29:49.463Z</updated>
+    <updated>2023-08-26T13:17:44.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 26th of August 2023]]></title>
+        <id>https://www.youtube.com/watch?v=lmNs4rwXu9Y</id>
+        <link href="https://www.youtube.com/watch?v=lmNs4rwXu9Y"/>
+        <updated>2023-08-26T12:30:24.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആത്മീയത മൗനമായിരിപ്പാനുള്ള ക്ഷണം കൂടിയാണ് | Rev. Aneesh P Joseph | #shortvideo #jesus]]></title>
+        <id>https://www.youtube.com/watch?v=YcTgBwud5Vg</id>
+        <link href="https://www.youtube.com/watch?v=YcTgBwud5Vg"/>
+        <updated>2023-08-26T12:30:18.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Darling Darling Video Song | Azhakulla Saleena | KJ Yesudas | Vayalar | Prem Nazir]]></title>
         <id>https://www.youtube.com/watch?v=jc0wyxSTqtU</id>
@@ -26672,24 +26690,6 @@
         <updated>2023-05-29T01:30:03.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിന്‍റെ വണക്കമാസവും ജപമാല പ്രാർത്ഥനയും 29th May 2023 # Vanakkamasam Prayer May 29 # Japamala]]></title>
-        <id>https://www.youtube.com/watch?v=dRUdqnwHd6c</id>
-        <link href="https://www.youtube.com/watch?v=dRUdqnwHd6c"/>
-        <updated>2023-05-29T00:30:29.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Morning Prayer Songs | Biju Narayanan | Vani Jairam | Prabhatha geethangal | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=__3pwBtEH08</id>
-        <link href="https://www.youtube.com/watch?v=__3pwBtEH08"/>
-        <updated>2023-05-29T00:30:11.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
