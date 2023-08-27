@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-27T04:19:05.593Z</updated>
+    <updated>2023-08-27T05:15:00.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaro Nee Aaro | Beautiful Romantic Duet by K J Yesudas&Shweta Mohan  #shorts #kjyesudas #shwetamohan]]></title>
+        <id>https://www.youtube.com/watch?v=VroFz7uv6gc</id>
+        <link href="https://www.youtube.com/watch?v=VroFz7uv6gc"/>
+        <updated>2023-08-27T04:30:23.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medakkonnaykku | Abhayam Thedi 1986 | Shyam | Unni Menon, Lathika | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=KTl-0nwIN28</id>
+        <link href="https://www.youtube.com/watch?v=KTl-0nwIN28"/>
+        <updated>2023-08-27T04:30:14.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Payippattattile | Onam Song by M G Sreekumar #shorts #mgsreekumar #onam #festivalmusic #onamsongs]]></title>
+        <id>https://www.youtube.com/watch?v=EvesIngSFOg</id>
+        <link href="https://www.youtube.com/watch?v=EvesIngSFOg"/>
+        <updated>2023-08-27T04:30:04.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Payippattattile | Onas song by M G Sreekumar #shorts #mgsreekumar #onamsongs #onam #festivalsongs]]></title>
         <id>https://www.youtube.com/watch?v=glrJM0rADzo</id>
