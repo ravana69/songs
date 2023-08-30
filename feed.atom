@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-30T15:18:04.187Z</updated>
+    <updated>2023-08-30T16:22:48.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -26807,15 +26807,6 @@
         <updated>2023-06-02T04:25:47.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Sankadangal SakalavumTheernnupoyi | Anna Baby | M.E Cherian | Evergreen Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Jl5bsyYTYgY</id>
-        <link href="https://www.youtube.com/watch?v=Jl5bsyYTYgY"/>
-        <updated>2023-06-02T03:38:51.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
