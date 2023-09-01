@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-01T13:20:18.460Z</updated>
+    <updated>2023-09-01T14:16:11.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മരിയൻ വിശുദ്ധവാരത്തിൽ  ലോകമെങ്ങും കേൾക്കാൻ ആഗ്രഹിക്കുന്ന പ്രശസ്ത ഗാനങ്ങൾ |Mariyan Songs |Christian]]></title>
+        <id>https://www.youtube.com/watch?v=xe1XZryvquY</id>
+        <link href="https://www.youtube.com/watch?v=xe1XZryvquY"/>
+        <updated>2023-09-01T13:30:20.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജനപ്രിയ നായകന്റെ ജനസമ്മിതി വാനോളം ഉയർത്തിയ ദിലീപ് ചിത്രങ്ങളിലെ അടിപൊളി ഹിറ്റ് ഗാനങ്ങൾ | DILEEP HITS]]></title>
+        <id>https://www.youtube.com/watch?v=UlCYnDk55Kw</id>
+        <link href="https://www.youtube.com/watch?v=UlCYnDk55Kw"/>
+        <updated>2023-09-01T13:30:10.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 1st of September 2023]]></title>
         <id>https://www.youtube.com/watch?v=uMSG-408rrA</id>
@@ -625,6 +643,15 @@
         <updated>2023-08-30T09:33:31.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malayalam Evergreen Hits | Chithra | Vidyasagar | Ousepachan | MG Sreekumar | Bichu Thirumala]]></title>
+        <id>https://www.youtube.com/watch?v=7VS0Btsd89g</id>
+        <link href="https://www.youtube.com/watch?v=7VS0Btsd89g"/>
+        <updated>2023-08-30T09:30:26.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
@@ -26906,15 +26933,6 @@
         <updated>2023-06-04T05:00:30.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valamidamaayirangal | Thunayenikkeshuve | Shorts | Sujatha]]></title>
-        <id>https://www.youtube.com/watch?v=94qIxehtwjI</id>
-        <link href="https://www.youtube.com/watch?v=94qIxehtwjI"/>
-        <updated>2023-06-04T01:30:04.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
