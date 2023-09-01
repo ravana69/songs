@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-01T09:16:48.160Z</updated>
+    <updated>2023-09-01T10:18:27.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kushi (Malayalam) - Full Album | | Vijay Devarakonda | Samantha | Hesham Abdul Wahab]]></title>
+        <id>https://www.youtube.com/watch?v=3Qn6ynQ8qJ4</id>
+        <link href="https://www.youtube.com/watch?v=3Qn6ynQ8qJ4"/>
+        <updated>2023-09-01T09:49:47.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ananda Snehapravahame | Kristheeya Bhakthigaanangal | Christian Devotional Songs | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=W21HjDToVKc</id>
+        <link href="https://www.youtube.com/watch?v=W21HjDToVKc"/>
+        <updated>2023-09-01T09:28:15.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മനസ്സിൽ മായാത്ത മുറിവുകൾ നൽകിയ ഓര്മകളുണർത്തും മലയാളസിനിമാഗാനങ്ങൾ | SAD SONGS MALAYALAM]]></title>
         <id>https://www.youtube.com/watch?v=4ujRyibGGuw</id>
@@ -31,6 +49,15 @@
         <updated>2023-09-01T07:26:16.000Z</updated>
         <author>
             <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thanaro - Video Song | Kasargold | Asif Ali, Sunny Wayne, Vinayakan | Niranj Suresh | Mridul Nair]]></title>
+        <id>https://www.youtube.com/watch?v=Epzle-snXAk</id>
+        <link href="https://www.youtube.com/watch?v=Epzle-snXAk"/>
+        <updated>2023-09-01T06:47:22.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
