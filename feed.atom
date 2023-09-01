@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-01T10:18:27.042Z</updated>
+    <updated>2023-09-01T11:13:57.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൂരേ മാമലയിൽ പൂത്തൊരു ചെമ്പകത്തിൻപൂവാകെ നുള്ളി പൂമാല കോർക്കുന്നതാരോ  #love #malayalamsongs]]></title>
+        <id>https://www.youtube.com/watch?v=7i-DbZGVjkI</id>
+        <link href="https://www.youtube.com/watch?v=7i-DbZGVjkI"/>
+        <updated>2023-09-01T10:46:40.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kushi (Malayalam) - Full Album | | Vijay Devarakonda | Samantha | Hesham Abdul Wahab]]></title>
         <id>https://www.youtube.com/watch?v=3Qn6ynQ8qJ4</id>
@@ -13,6 +22,15 @@
         <updated>2023-09-01T09:49:47.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aa Kanum Pongiyirikkana | Mukalpparappu | Lyrical Video| JP Thavarool | Siby Padiyara | Geogy Thomas]]></title>
+        <id>https://www.youtube.com/watch?v=2WP2unABWkQ</id>
+        <link href="https://www.youtube.com/watch?v=2WP2unABWkQ"/>
+        <updated>2023-09-01T09:42:20.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
