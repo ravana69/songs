@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-02T08:19:47.793Z</updated>
+    <updated>2023-09-02T09:14:55.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ലാത്തിരി പൂത്തിരി | Lathiri Poothiri Punchiri Cheppo | Nokketha Doorathu Kannum Nattu | Nadiya Moidu]]></title>
+        <id>https://www.youtube.com/watch?v=Ssu9VvNkv_M</id>
+        <link href="https://www.youtube.com/watch?v=Ssu9VvNkv_M"/>
+        <updated>2023-09-02T09:09:51.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dhwadashiyil Mani | Madhuranombarakkattu | Biju Menon | Vidyasagar | DD 5.1 Audio | Kamal]]></title>
+        <id>https://www.youtube.com/watch?v=xCiail7jT94</id>
+        <link href="https://www.youtube.com/watch?v=xCiail7jT94"/>
+        <updated>2023-09-02T09:00:39.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാള സിനിമയിലെ താരരാജാക്കന്മാരെ  ഒന്നിച്ചണിനിരത്തിയ സൂപ്പർഹിറ്റ് സിനിമ ഗാനങ്ങൾ |Re Mastered Songs]]></title>
         <id>https://www.youtube.com/watch?v=fwCMCDyKUbI</id>
