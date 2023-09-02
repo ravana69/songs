@@ -13135,16 +13135,6 @@
           "wordCount": null,
           "title": "GOOD MORNING -OWN MEDIA MUSIC -",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ViRulF_HnJo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ViRulF_HnJo",
-          "publishedOn": "2023-06-04T14:31:43.000Z",
-          "wordCount": null,
-          "title": "OWN MEDIA - GOO MORNING",
-          "imageUrl": null
         }
       ]
     },
@@ -19764,6 +19754,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfLtFVqkGB-9IJaaP7au_wA",
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jqfxgAG58mM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jqfxgAG58mM",
+          "publishedOn": "2023-09-02T02:31:21.000Z",
+          "wordCount": null,
+          "title": "Amma Sukruthangal Day 2",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=p6k6HpQvipw",
           "author": null,
