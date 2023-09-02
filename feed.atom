@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-02T05:14:57.182Z</updated>
+    <updated>2023-09-02T06:20:18.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Choolamadichu Karangi Video Song | KS Chithra | Gireesh Puthenchery| Vidyasagar |Summer in Bethlehem]]></title>
+        <id>https://www.youtube.com/watch?v=eno8Mx-d404</id>
+        <link href="https://www.youtube.com/watch?v=eno8Mx-d404"/>
+        <updated>2023-09-02T06:03:46.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഏതോ ഹരിത നികുഞ്ജത്തിൽപല്ലവിയായതു നീയല്ലോ  | Shyaamameghame Nee | Adhipan Malayalam Movie Song #song]]></title>
+        <id>https://www.youtube.com/watch?v=5l2Yfl2tLNY</id>
+        <link href="https://www.youtube.com/watch?v=5l2Yfl2tLNY"/>
+        <updated>2023-09-02T06:00:30.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kizhakkumala | Lyrical Video | Kadha Thudarunnu | Ilayaraja | Vayalar Sarath | Sathyan Anthikkad]]></title>
+        <id>https://www.youtube.com/watch?v=2pqbATwyopQ</id>
+        <link href="https://www.youtube.com/watch?v=2pqbATwyopQ"/>
+        <updated>2023-09-02T05:30:01.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manjum Thaazhvaaravum | Indriyam 2000 | Vijay Yesudas | Malayalam Movie Song]]></title>
         <id>https://www.youtube.com/watch?v=wW8JVbMAN48</id>
