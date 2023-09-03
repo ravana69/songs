@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-03T04:19:31.504Z</updated>
+    <updated>2023-09-03T05:15:37.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Peelimukil Thazhvarayil | Kusruthikuruppu | Jayaram | Meena | Yesudas | Johnson | Venugopan]]></title>
+        <id>https://www.youtube.com/watch?v=vSMfAV9R0-k</id>
+        <link href="https://www.youtube.com/watch?v=vSMfAV9R0-k"/>
+        <updated>2023-09-03T04:30:30.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inimel Enikkillor Bhayam | ഇനിമേൽ എനിക്കില്ലോർ ഭയം | Shorts #malayalamchristiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=PGJlHIhghZU</id>
+        <link href="https://www.youtube.com/watch?v=PGJlHIhghZU"/>
+        <updated>2023-09-03T04:30:07.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poove Mehaboobe | Aayudham 2008 | Bijibal | K. J. Yesudas, Manjari | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=EbatUyGL1GQ</id>
+        <link href="https://www.youtube.com/watch?v=EbatUyGL1GQ"/>
+        <updated>2023-09-03T04:30:04.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dhwadashiyil Mani | Madhuranombarakkattu | Biju Menon | DD 5.1 Audio | Vidyasagar | Samyukutha Varma]]></title>
         <id>https://www.youtube.com/watch?v=eRVneFVHtug</id>
