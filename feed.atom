@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-04T07:16:24.821Z</updated>
+    <updated>2023-09-04T08:22:03.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങാന്‍ പോകുമ്പോള്‍ കേള്‍ക്കാവുന്ന ഗാനങ്ങള്‍ # Malayalam Christian songs for Sleep #worshipsongs]]></title>
+        <id>https://www.youtube.com/watch?v=pWrlrXfSKI0</id>
+        <link href="https://www.youtube.com/watch?v=pWrlrXfSKI0"/>
+        <updated>2023-09-04T07:30:14.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എന്നും മനസ്സിൽ തുടി കൊട്ടി പാടും മലയാളസിനിമയിലെ പ്രശസ്തമായ സെമി ക്ലാസിക്കൽ ഗാനങ്ങൾ | MELODY HITS]]></title>
+        <id>https://www.youtube.com/watch?v=Hs-AILUeMSk</id>
+        <link href="https://www.youtube.com/watch?v=Hs-AILUeMSk"/>
+        <updated>2023-09-04T07:30:03.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഇളം മഞ്ഞിൻ കുളിരുമായൊരു കുയിൽ..മിഴിചെപ്പിൽ വിരഹ കദന കടൽ..  #malayalamsongs #love]]></title>
         <id>https://www.youtube.com/watch?v=z2r4CnZ0kKo</id>
@@ -27066,15 +27084,6 @@
         <id>https://www.youtube.com/watch?v=gOU6K51BTR4</id>
         <link href="https://www.youtube.com/watch?v=gOU6K51BTR4"/>
         <updated>2023-06-06T23:30:12.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 7 # Athiravile Prarthana 7th of June 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=CdUAMIm0oPc</id>
-        <link href="https://www.youtube.com/watch?v=CdUAMIm0oPc"/>
-        <updated>2023-06-06T20:00:03.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
