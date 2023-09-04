@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-04T11:14:06.791Z</updated>
+    <updated>2023-09-04T12:34:09.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മനുഷ്യർ നിന്നെ താഴ്ത്തും തോറും ദൈവം നിന്നെ ഉയർത്തും. | Rev. Aneesh P Joseph | #shortvideo #jesus]]></title>
+        <id>https://www.youtube.com/watch?v=mLoNFmSFIf0</id>
+        <link href="https://www.youtube.com/watch?v=mLoNFmSFIf0"/>
+        <updated>2023-09-04T12:30:31.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Varika | Sharreth | Sumi Sunny | Sherdin Thomas | Vishnu Gopan | Malayalam Video Album]]></title>
+        <id>https://www.youtube.com/watch?v=2eRDjaAvazg</id>
+        <link href="https://www.youtube.com/watch?v=2eRDjaAvazg"/>
+        <updated>2023-09-04T12:30:10.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 4th of September 2023]]></title>
+        <id>https://www.youtube.com/watch?v=2aTYBvUZGUM</id>
+        <link href="https://www.youtube.com/watch?v=2aTYBvUZGUM"/>
+        <updated>2023-09-04T12:30:03.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poovarashin Kuda Nivarthi |  Dilliwala Rajakumaran | Jayaram | Manju Warrier |  #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=tkzbvC004VQ</id>
+        <link href="https://www.youtube.com/watch?v=tkzbvC004VQ"/>
+        <updated>2023-09-04T12:15:06.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tharakameda Thurakkunnu | Kristheeya Bhakthigaanangal | Christian Devotional Songs| Audio jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=5RF7hBpoQII</id>
+        <link href="https://www.youtube.com/watch?v=5RF7hBpoQII"/>
+        <updated>2023-09-04T12:09:30.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muttathe Mulle Chollu | Mayavi | Manjari | Alex Paul | Vayalar Sarathchandra Varma]]></title>
+        <id>https://www.youtube.com/watch?v=gZ1-7f_nhRw</id>
+        <link href="https://www.youtube.com/watch?v=gZ1-7f_nhRw"/>
+        <updated>2023-09-04T12:00:34.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ശ്രുതിലയ മധുരം സുരഭില നിമിഷം | Sruthilaya Madhuram | Poovachal Khader | Yesudas | Menaka | Shankar]]></title>
         <id>https://www.youtube.com/watch?v=noAxcpRRlYI</id>
@@ -27086,42 +27140,6 @@
         <updated>2023-06-07T01:00:00.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nizhal Pole Dinangal | Christian Video Song | Joji Johns | Kalabhavan Sabu | Christian Melody Song]]></title>
-        <id>https://www.youtube.com/watch?v=hUPPjyWiqgI</id>
-        <link href="https://www.youtube.com/watch?v=hUPPjyWiqgI"/>
-        <updated>2023-06-07T00:30:17.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈശോയുടെ തിരുഹൃദയ വണക്കമാസം 7th June 2023 # Novena to the Sacred Heart of Jesus 7th June 2023]]></title>
-        <id>https://www.youtube.com/watch?v=MHkd2gsK18I</id>
-        <link href="https://www.youtube.com/watch?v=MHkd2gsK18I"/>
-        <updated>2023-06-07T00:30:14.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #june 7th  2023 #vachanam audios official]]></title>
-        <id>https://www.youtube.com/watch?v=kS75fE_CeAg</id>
-        <link href="https://www.youtube.com/watch?v=kS75fE_CeAg"/>
-        <updated>2023-06-06T23:45:02.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 7th of June 2023 # Mathavinte Japamala # Mahimayude Rahasyangal 7th of June  2023]]></title>
-        <id>https://www.youtube.com/watch?v=gOU6K51BTR4</id>
-        <link href="https://www.youtube.com/watch?v=gOU6K51BTR4"/>
-        <updated>2023-06-06T23:30:12.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
     <entry>
