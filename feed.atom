@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-05T19:13:25.471Z</updated>
+    <updated>2023-09-05T20:17:30.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന September 6 # Athiravile Prarthana 6th of September 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=1UHt-S0C-BU</id>
+        <link href="https://www.youtube.com/watch?v=1UHt-S0C-BU"/>
+        <updated>2023-09-05T20:00:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 6th SEP 2023]]></title>
         <id>https://www.youtube.com/watch?v=rMwirnCaib4</id>
@@ -27293,42 +27302,6 @@
         <updated>2023-06-08T08:53:58.000Z</updated>
         <author>
             <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ബാഗീ ജീൻസും ഷൂസുമണിഞ്ഞ്ടൗണിൽ ചെത്തി നടക്കാം 🎶🕺]]></title>
-        <id>https://www.youtube.com/watch?v=j-kN-jrKLnk</id>
-        <link href="https://www.youtube.com/watch?v=j-kN-jrKLnk"/>
-        <updated>2023-06-08T07:56:38.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aayiram Ponpanam |Mayajaalam | K J Yesudas | S P Venkitesh | Thirumala | Mukesh | Jagathy Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=zEGFrizqsjY</id>
-        <link href="https://www.youtube.com/watch?v=zEGFrizqsjY"/>
-        <updated>2023-06-08T07:30:19.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പുതിയ തലമുറയിലെ പ്രമുഖർ മലയാള സിനിമയ്ക്കു നൽകിയ കരുത്തുറ്റ ഗാനങ്ങൾ |Remastered Video Songs |Alphonse]]></title>
-        <id>https://www.youtube.com/watch?v=nfFFWFuUQbg</id>
-        <link href="https://www.youtube.com/watch?v=nfFFWFuUQbg"/>
-        <updated>2023-06-08T07:30:10.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രേക്ഷകർ ഒന്നടങ്കം മനസ്സ് തുറന്നാസ്വദിച്ച മലയാളസിനിമയിലെ അത്യുഗ്രൻ ഗാനങ്ങൾ | MALAYALAM FILM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=7i0T6Qva1f4</id>
-        <link href="https://www.youtube.com/watch?v=7i0T6Qva1f4"/>
-        <updated>2023-06-08T07:30:02.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
     <entry>
