@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-06T02:21:30.273Z</updated>
+    <updated>2023-09-06T03:17:26.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ithuvareyenne | Chithra Arun | M E Cherian  #malayalamchristiansongs #devotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=N-XGsh3fJcU</id>
+        <link href="https://www.youtube.com/watch?v=N-XGsh3fJcU"/>
+        <updated>2023-09-06T02:30:08.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8 നോമ്പ് പ്രാർത്ഥനയും ഗാനങ്ങളും  # 8 Nombu Mariyan Gaanangal # Mother Mary songs 6th September 2023]]></title>
         <id>https://www.youtube.com/watch?v=kVca1TjbGjo</id>
@@ -27245,15 +27254,6 @@
         <id>https://www.youtube.com/watch?v=9mLbJFfN6B0</id>
         <link href="https://www.youtube.com/watch?v=9mLbJFfN6B0"/>
         <updated>2023-06-08T15:44:42.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[p . JAYACHANDRAN HITS CHRISTIAN DEVOTIONAL SONGS |OWN MEDIA MUSIC |]]></title>
-        <id>https://www.youtube.com/watch?v=rt3wkinj4_Y</id>
-        <link href="https://www.youtube.com/watch?v=rt3wkinj4_Y"/>
-        <updated>2023-06-08T14:23:33.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
         </author>
