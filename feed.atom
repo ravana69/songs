@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-06T09:17:02.914Z</updated>
+    <updated>2023-09-06T10:18:44.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നോവ് | NOVU | BASTIN AUGUSTIN JOY CHERUVATHOOR |OWN MEDIA MUSIC|]]></title>
+        <id>https://www.youtube.com/watch?v=ck1sjXR9e-I</id>
+        <link href="https://www.youtube.com/watch?v=ck1sjXR9e-I"/>
+        <updated>2023-09-06T09:42:41.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kolakuzhal Vili Ketto Video Song | Nivedyam | Vinu Mohan | Bhama | Shweta Mohan | Vijay Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=C4Ucyo4BLIg</id>
