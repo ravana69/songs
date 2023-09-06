@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-06T10:18:44.227Z</updated>
+    <updated>2023-09-06T11:14:13.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thaane Paadum Veene | Arabikkatha | Rajeev Kodamballi | TR Soumya | Bijibal | Anil Panachooran]]></title>
+        <id>https://www.youtube.com/watch?v=OftpR160OhQ</id>
+        <link href="https://www.youtube.com/watch?v=OftpR160OhQ"/>
+        <updated>2023-09-06T10:30:13.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kushi (Malayalam) Title Song - Full Video | Vijay Deverakonda, Samantha | Hesham Abdul Wahab]]></title>
+        <id>https://www.youtube.com/watch?v=2dSLQM46Hgw</id>
+        <link href="https://www.youtube.com/watch?v=2dSLQM46Hgw"/>
+        <updated>2023-09-06T09:44:24.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നോവ് | NOVU | BASTIN AUGUSTIN JOY CHERUVATHOOR |OWN MEDIA MUSIC|]]></title>
         <id>https://www.youtube.com/watch?v=ck1sjXR9e-I</id>
