@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-08T04:20:39.968Z</updated>
+    <updated>2023-09-08T05:15:59.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Broohi Krishna Ghana Shyama | Ingane Oru Nilapakshi 2000 | K. S. Chithra | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=OaQzJmwVsy0</id>
+        <link href="https://www.youtube.com/watch?v=OaQzJmwVsy0"/>
+        <updated>2023-09-08T05:10:45.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amme En Aasrayame | മാതാവിന്റെ പിറവി തിരുന്നാൾ മംഗളങ്ങൾ  | #shorts | #christianshorts #mathavu]]></title>
+        <id>https://www.youtube.com/watch?v=1S_tFN0qbQo</id>
+        <link href="https://www.youtube.com/watch?v=1S_tFN0qbQo"/>
+        <updated>2023-09-08T05:04:31.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maymaasam June | Alice In Wonderland | Jayaram | Laya | Karthik | Vidyasagar]]></title>
+        <id>https://www.youtube.com/watch?v=K8zVlBJ_Ii0</id>
+        <link href="https://www.youtube.com/watch?v=K8zVlBJ_Ii0"/>
+        <updated>2023-09-08T04:30:10.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8 nombu gaanangal #mother mary 8 nombu evergreen songs malayaalm 8th sep 2023]]></title>
         <id>https://www.youtube.com/watch?v=rLWb1Vy40wI</id>
