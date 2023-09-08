@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-08T05:15:59.322Z</updated>
+    <updated>2023-09-08T06:22:04.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parudeesa | Mother Mary Song Malayalam 2023 | Feat. Bro. Jojo, Fr Prince, Bro. Manu]]></title>
+        <id>https://www.youtube.com/watch?v=NW_CGQn8GdA</id>
+        <link href="https://www.youtube.com/watch?v=NW_CGQn8GdA"/>
+        <updated>2023-09-08T06:15:11.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gange Thudiyil Video Song | Mohanlal | KJ Yesudas | Gireesh Puthenchery | Raveendran| Vadakkumnadhan]]></title>
+        <id>https://www.youtube.com/watch?v=DY5fg1Msg4Y</id>
+        <link href="https://www.youtube.com/watch?v=DY5fg1Msg4Y"/>
+        <updated>2023-09-08T05:42:47.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nilave Nilave | Chattakaari | Beautiful Song by Shreya Ghoshal #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=BVu1hAyXDGQ</id>
+        <link href="https://www.youtube.com/watch?v=BVu1hAyXDGQ"/>
+        <updated>2023-09-08T05:30:02.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RATHRIKALA JAPAM | NEW CHRISTIAN SONG | KESTER | FR. PHINIL EZHARATH CMI | FR. JOSEPH VATTAKKATTU]]></title>
+        <id>https://www.youtube.com/watch?v=assmhuzw_7E</id>
+        <link href="https://www.youtube.com/watch?v=assmhuzw_7E"/>
+        <updated>2023-09-08T05:28:24.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Broohi Krishna Ghana Shyama | Ingane Oru Nilapakshi 2000 | K. S. Chithra | Malayalam Movie Song]]></title>
         <id>https://www.youtube.com/watch?v=OaQzJmwVsy0</id>
@@ -463,6 +499,15 @@
         <updated>2023-09-07T06:59:36.000Z</updated>
         <author>
             <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thaarake | Janaki Jaane | Lyrical Video | Vineeth Sreenivasan | Vinayak Sasikumar | Sibi Mathew Alex]]></title>
+        <id>https://www.youtube.com/watch?v=w0Kvx9I8pU0</id>
+        <link href="https://www.youtube.com/watch?v=w0Kvx9I8pU0"/>
+        <updated>2023-09-07T06:27:35.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
