@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-08T19:13:07.824Z</updated>
+    <updated>2023-09-08T20:17:39.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  September 9 # Athiravile Prarthana 9th of September 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=iqREu9nGI0I</id>
+        <link href="https://www.youtube.com/watch?v=iqREu9nGI0I"/>
+        <updated>2023-09-08T20:00:29.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ottamuri Vakkumayi - Rainy Lofi | Romancham | Sushin Shyam | Pradeep Kumar | AJX]]></title>
         <id>https://www.youtube.com/watch?v=Dj94vRM2CMA</id>
@@ -27787,24 +27796,6 @@
         <updated>2023-06-11T12:30:09.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neelavelicham Original Soundtrack | Aashiq Abu | Bijibal | Rex Vijayan | OPM Records]]></title>
-        <id>https://www.youtube.com/watch?v=j7uvbyyE1V4</id>
-        <link href="https://www.youtube.com/watch?v=j7uvbyyE1V4"/>
-        <updated>2023-06-11T07:44:35.000Z</updated>
-        <author>
-            <name>OPM Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kallyana Kachery | Maayajalam | Bichu Thirumala | SP Venkitesh | KJ Yesudas | Mukesh | Film songs]]></title>
-        <id>https://www.youtube.com/watch?v=4TSWTGlXqS8</id>
-        <link href="https://www.youtube.com/watch?v=4TSWTGlXqS8"/>
-        <updated>2023-06-11T07:30:00.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
     <entry>
