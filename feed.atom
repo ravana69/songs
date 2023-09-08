@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-08T07:15:42.226Z</updated>
+    <updated>2023-09-08T08:21:07.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അരളിയും കദളിയും പൂവിടും കാടിന്റെകരളിലിരുന്നു പൊൻ‌മുരളിയൂതുംഅറിയാത്ത പാട്ടുകാരാ..  #AraliyumKadaliyum]]></title>
+        <id>https://www.youtube.com/watch?v=6ntGiUALGYU</id>
+        <link href="https://www.youtube.com/watch?v=6ntGiUALGYU"/>
+        <updated>2023-09-08T08:03:56.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങാന്‍ പോകുമ്പോള്‍ കേള്‍ക്കാവുന്ന ഗാനങ്ങള്‍ # Malayalam Christian songs for Sleep #worshipsongs]]></title>
+        <id>https://www.youtube.com/watch?v=tFAdHTCvuc8</id>
+        <link href="https://www.youtube.com/watch?v=tFAdHTCvuc8"/>
+        <updated>2023-09-08T07:30:16.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chanchalakshi | Paalattu Kunjikannan | Yusufali Kecheri | G Devarajan | KJ Yesudas | Jayabharathi]]></title>
+        <id>https://www.youtube.com/watch?v=pH8Bi0ej8Bc</id>
+        <link href="https://www.youtube.com/watch?v=pH8Bi0ej8Bc"/>
+        <updated>2023-09-08T07:30:14.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[യേശു എൻ പക്ഷമായ് തീർന്നതിനാൽ... #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=wQ3UxVzp5FM</id>
@@ -121,6 +148,15 @@
         <updated>2023-09-08T04:30:10.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Madhuratharam Thiruvedam | Sithara Krishnakumar | Mahakavi K V Simon | Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=ILlay4v96AU</id>
+        <link href="https://www.youtube.com/watch?v=ILlay4v96AU"/>
+        <updated>2023-09-08T04:03:21.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -27497,15 +27533,6 @@
         <id>https://www.youtube.com/watch?v=7GO7WVt4Wx8</id>
         <link href="https://www.youtube.com/watch?v=7GO7WVt4Wx8"/>
         <updated>2023-06-10T23:30:01.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 11 # Athiravile Prarthana 11th of June 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=_ipLp2RWvbM</id>
-        <link href="https://www.youtube.com/watch?v=_ipLp2RWvbM"/>
-        <updated>2023-06-10T20:00:15.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
