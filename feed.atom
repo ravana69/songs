@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-09T19:12:25.823Z</updated>
+    <updated>2023-09-09T20:16:11.637Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന September 10 # Athiravile Prarthana 10th of September 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=gp5-xUUEDxM</id>
+        <link href="https://www.youtube.com/watch?v=gp5-xUUEDxM"/>
+        <updated>2023-09-09T20:00:11.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 10th SEP 2023]]></title>
         <id>https://www.youtube.com/watch?v=uEW0Ji6XSHg</id>
@@ -27994,33 +28003,6 @@
         <updated>2023-06-12T08:55:38.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian | Kester Paadiya Kristheeya Bhakthigaanangal | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=jEsah7a8EVU</id>
-        <link href="https://www.youtube.com/watch?v=jEsah7a8EVU"/>
-        <updated>2023-06-12T07:51:18.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളസിനിമയിൽ വെന്നിക്കൊടി പാറിച്ച നായികമാർ അഭിനയിച്ച എക്കാലത്തെയും മികച്ച ഗാനങ്ങൾ | EVERGREEN HITS]]></title>
-        <id>https://www.youtube.com/watch?v=rtX7ikEkf6k</id>
-        <link href="https://www.youtube.com/watch?v=rtX7ikEkf6k"/>
-        <updated>2023-06-12T07:30:12.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മഴയുടെ നനുത്ത ശബ്‌ദം ആസ്വദിച്ചുകൊണ്ട് പഴയ ഓർമ്മകളെ അയവെറുക്കാൻ കെല്പ്പുള്ള ഗാനങ്ങൾ | FILM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=dtTLSnwssQk</id>
-        <link href="https://www.youtube.com/watch?v=dtTLSnwssQk"/>
-        <updated>2023-06-12T07:30:10.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
     <entry>
