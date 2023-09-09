@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-09T06:20:11.738Z</updated>
+    <updated>2023-09-09T07:14:21.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anthikallu Pole | Praavu | Video Song | Bijibal | Jaison J Nair | B K Harinarayanan | Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Mwr2HpNFvyA</id>
+        <link href="https://www.youtube.com/watch?v=Mwr2HpNFvyA"/>
+        <updated>2023-09-09T06:42:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kopam - Official Trailer | Malayalam Movie | Nedumudi Venu | K Mahendran | Rajesh Vijay]]></title>
         <id>https://www.youtube.com/watch?v=wWNd-qqZfiw</id>
@@ -27796,24 +27805,6 @@
         <updated>2023-06-11T20:00:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 12th June 2023]]></title>
-        <id>https://www.youtube.com/watch?v=VIQREvTP8lU</id>
-        <link href="https://www.youtube.com/watch?v=VIQREvTP8lU"/>
-        <updated>2023-06-11T19:00:10.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=WoekTqlDY2c</id>
-        <link href="https://www.youtube.com/watch?v=WoekTqlDY2c"/>
-        <updated>2023-06-11T18:30:23.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
     <entry>
