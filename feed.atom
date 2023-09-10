@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-10T04:19:51.761Z</updated>
+    <updated>2023-09-10T05:15:26.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chimmi Chimmi | Krishnadiya | Urumi #shorts #cover #urumisong #deepakdev #malayalamcover]]></title>
+        <id>https://www.youtube.com/watch?v=teivW9aKaU4</id>
+        <link href="https://www.youtube.com/watch?v=teivW9aKaU4"/>
+        <updated>2023-09-10T04:30:31.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadalariyilla Karayariyilla | Kannur | Manoj K Jayan | Vani Viswanath | Kaithapram | Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=hg4IDuhFxnk</id>
+        <link href="https://www.youtube.com/watch?v=hg4IDuhFxnk"/>
+        <updated>2023-09-10T04:30:25.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shivaranjinee O Priyasakhee | Ingane Oru Nilapakshi 2000 | K. S. Chithra | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=HvsisJnKRXI</id>
+        <link href="https://www.youtube.com/watch?v=HvsisJnKRXI"/>
+        <updated>2023-09-10T04:30:06.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എങ്ങിനെ ഈ ഗാനങ്ങളൊക്കെ മറക്കാൻ കഴിയും | Christian Devotional Songs Malayalam | Manoj Christy]]></title>
         <id>https://www.youtube.com/watch?v=zriy7n60Lms</id>
