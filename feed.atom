@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-11T12:34:48.960Z</updated>
+    <updated>2023-09-11T13:21:34.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thaam Thakida Theyyare | Nivedyam | Pradeep Palluruthy | Vijay Yesudas | M Jayachandran|CJ Kuttappan]]></title>
+        <id>https://www.youtube.com/watch?v=zDKbityTASM</id>
+        <link href="https://www.youtube.com/watch?v=zDKbityTASM"/>
+        <updated>2023-09-11T13:00:47.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alaye - Lyrical Video | Kasargold | Asif Ali, Sunny Wayne, Vinayakan | Vishnu Vijay | Benny Dayal]]></title>
+        <id>https://www.youtube.com/watch?v=aqAz_yXM5tg</id>
+        <link href="https://www.youtube.com/watch?v=aqAz_yXM5tg"/>
+        <updated>2023-09-11T13:00:10.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vibe on loop for #NeelaNilave | #RDX | #KapilKapilan | #SamCS | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=FDzbk_h8Plw</id>
+        <link href="https://www.youtube.com/watch?v=FDzbk_h8Plw"/>
+        <updated>2023-09-11T12:55:22.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മറ്റുള്ളവരുടെ സംതൃപ്തിയല്ല നമ്മുടെ സംതൃപ്തിയാണ് പ്രധാനം | Rev. Aneesh P Joseph | #shorts #jesus]]></title>
         <id>https://www.youtube.com/watch?v=V__AqSbW3Cc</id>
@@ -27589,15 +27616,6 @@
         <updated>2023-06-14T05:30:05.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #june   14th  mother Mary morning songs #vachanam a]]></title>
-        <id>https://www.youtube.com/watch?v=QzwmZi2TvaU</id>
-        <link href="https://www.youtube.com/watch?v=QzwmZi2TvaU"/>
-        <updated>2023-06-14T00:45:01.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
         </author>
     </entry>
     <entry>
