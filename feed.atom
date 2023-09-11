@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-11T22:16:07.269Z</updated>
+    <updated>2023-09-11T23:17:44.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=79gv8H7t7Wc</id>
+        <link href="https://www.youtube.com/watch?v=79gv8H7t7Wc"/>
+        <updated>2023-09-11T23:00:03.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  September 12 Athiravile Prarthana 12th of September 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=2DN_XHitXIU</id>
@@ -27625,24 +27634,6 @@
         <updated>2023-06-14T11:26:26.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aadimegha Choodu Vatti - Lyrical Video | Alibhai | MG Sreekumar | Shaji Kailas | Mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=90xJqGwhvcw</id>
-        <link href="https://www.youtube.com/watch?v=90xJqGwhvcw"/>
-        <updated>2023-06-14T10:39:24.000Z</updated>
-        <author>
-            <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chellathathe | Manasinakkare |  KS Chithra | Ilayaraja | Gireesh Puthanchery]]></title>
-        <id>https://www.youtube.com/watch?v=0UGZKs6q57c</id>
-        <link href="https://www.youtube.com/watch?v=0UGZKs6q57c"/>
-        <updated>2023-06-14T10:30:00.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
         </author>
     </entry>
     <entry>
