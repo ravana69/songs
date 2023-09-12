@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-11T23:17:44.224Z</updated>
+    <updated>2023-09-12T01:13:10.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japamala 12th of September 2023 Mathavinte Japamala # Dhukhathinte Rahasyangal 12th of September 23]]></title>
+        <id>https://www.youtube.com/watch?v=R9hhlr0-JhA</id>
+        <link href="https://www.youtube.com/watch?v=R9hhlr0-JhA"/>
+        <updated>2023-09-12T00:30:19.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singer Of The Week | Alenia | Christian Devotional Songs Malayalam | Joji Johns | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=PGkPZEJQbSA</id>
+        <link href="https://www.youtube.com/watch?v=PGkPZEJQbSA"/>
+        <updated>2023-09-12T00:30:10.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #september 12th mother mary hits 2023]]></title>
+        <id>https://www.youtube.com/watch?v=07sAVMcjWjI</id>
+        <link href="https://www.youtube.com/watch?v=07sAVMcjWjI"/>
+        <updated>2023-09-11T23:45:01.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=79gv8H7t7Wc</id>
@@ -27580,60 +27607,6 @@
         <updated>2023-06-14T13:30:18.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 14th of June 2023]]></title>
-        <id>https://www.youtube.com/watch?v=czCsn1FrW2o</id>
-        <link href="https://www.youtube.com/watch?v=czCsn1FrW2o"/>
-        <updated>2023-06-14T12:30:31.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വിഷമകരമായ അനുഭവങ്ങളിൽ ദൈവം ഒരിക്കലും നിന്നെ കൈവിടത്തില്ല | Rev. Aneesh P Joseph |#shorts  #spiritual]]></title>
-        <id>https://www.youtube.com/watch?v=QqEl43joWs0</id>
-        <link href="https://www.youtube.com/watch?v=QqEl43joWs0"/>
-        <updated>2023-06-14T12:30:13.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roohin Nizhale - Video Song | Pendulum | Vijay Babu, Indrans, Anumol | Jean P Johnson | Rejin S Babu]]></title>
-        <id>https://www.youtube.com/watch?v=64t4Ofdtdkw</id>
-        <link href="https://www.youtube.com/watch?v=64t4Ofdtdkw"/>
-        <updated>2023-06-14T12:30:11.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neyyel Daivam Vasikkunnidam | Kester Paadiya Kristheeya Bhakthigaanangal | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=dJ_SwfEU1mQ</id>
-        <link href="https://www.youtube.com/watch?v=dJ_SwfEU1mQ"/>
-        <updated>2023-06-14T12:29:10.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassil Midhuna Mazha | Nandanam | MG Sreekumar | Raveendran | Gireesh Puthanchery]]></title>
-        <id>https://www.youtube.com/watch?v=YyHuA2U3avI</id>
-        <link href="https://www.youtube.com/watch?v=YyHuA2U3avI"/>
-        <updated>2023-06-14T11:30:19.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hai Hai Hailassa | Video Song | Pullipulikalum Attinkuttiyum | Kunchacko Boban, Namitha | Vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=W7-sDZHMBIU</id>
-        <link href="https://www.youtube.com/watch?v=W7-sDZHMBIU"/>
-        <updated>2023-06-14T11:26:26.000Z</updated>
-        <author>
-            <name>East Coast</name>
         </author>
     </entry>
     <entry>
