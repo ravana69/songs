@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-12T06:22:31.260Z</updated>
+    <updated>2023-09-12T07:15:46.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Swargathile Appam | Divyadaanathinte Mahathwamothunna Kristheeya Bhakthigaanangal | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=Ubgdps4-Nx4</id>
+        <link href="https://www.youtube.com/watch?v=Ubgdps4-Nx4"/>
+        <updated>2023-09-12T07:03:14.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paranjilla Njan | Beautiful Song sung by K J Yesudas #shorts]]></title>
         <id>https://www.youtube.com/watch?v=WqH3y0Yc5kg</id>
@@ -27562,33 +27571,6 @@
         <updated>2023-06-14T20:00:07.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 15th June 2023]]></title>
-        <id>https://www.youtube.com/watch?v=T_u0LQkZX4k</id>
-        <link href="https://www.youtube.com/watch?v=T_u0LQkZX4k"/>
-        <updated>2023-06-14T19:00:11.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthathishayame Daivathin Sneham | Merin Gregory | PV Thommy | Malayalam Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=S3HY5iOr15k</id>
-        <link href="https://www.youtube.com/watch?v=S3HY5iOr15k"/>
-        <updated>2023-06-14T18:30:23.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=S7IyASMCtAw</id>
-        <link href="https://www.youtube.com/watch?v=S7IyASMCtAw"/>
-        <updated>2023-06-14T18:30:21.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
     <entry>
