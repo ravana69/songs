@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-12T12:33:47.454Z</updated>
+    <updated>2023-09-12T13:21:37.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thulasee Dala | Pranayakaalam | KJ Yesudas | Ouseppachan | Rafeeq Ahamad]]></title>
+        <id>https://www.youtube.com/watch?v=beflqMh0dCM</id>
+        <link href="https://www.youtube.com/watch?v=beflqMh0dCM"/>
+        <updated>2023-09-12T13:00:24.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ashubha Mangalakaari - Moombahton Mix | Super Sharanya | Justin Varghese | The Independeners]]></title>
+        <id>https://www.youtube.com/watch?v=At39BfiQQL4</id>
+        <link href="https://www.youtube.com/watch?v=At39BfiQQL4"/>
+        <updated>2023-09-12T13:00:16.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 12th of September 2023]]></title>
         <id>https://www.youtube.com/watch?v=L-ZSbhOS0wE</id>
