@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-12T13:21:37.643Z</updated>
+    <updated>2023-09-12T14:16:44.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Karuna Chaivaan Video Song | Aananda Bhairavi | Arjun B Krishna | Irayimman Thampi | Classical Song]]></title>
+        <id>https://www.youtube.com/watch?v=kxc6HcMUp3U</id>
+        <link href="https://www.youtube.com/watch?v=kxc6HcMUp3U"/>
+        <updated>2023-09-12T13:51:25.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innente Kannerellam | Christian Melody Songs | Manoj Christy | Joji Johns | Fr.Mathew Kareethara]]></title>
+        <id>https://www.youtube.com/watch?v=bzNBfaVOvBY</id>
+        <link href="https://www.youtube.com/watch?v=bzNBfaVOvBY"/>
+        <updated>2023-09-12T13:30:16.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thulasee Dala | Pranayakaalam | KJ Yesudas | Ouseppachan | Rafeeq Ahamad]]></title>
         <id>https://www.youtube.com/watch?v=beflqMh0dCM</id>
