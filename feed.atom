@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-13T19:13:37.326Z</updated>
+    <updated>2023-09-13T20:15:38.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  September 14 Athiravile Prarthana 14th of September 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=PRdqjmCbteA</id>
+        <link href="https://www.youtube.com/watch?v=PRdqjmCbteA"/>
+        <updated>2023-09-13T20:00:05.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 14th SEP 2023]]></title>
         <id>https://www.youtube.com/watch?v=5P23mN2UTbA</id>
@@ -27796,33 +27805,6 @@
         <updated>2023-06-16T08:25:31.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളത്തിന്റെ ഒരേയൊരു മെഗാസ്റ്റാർ മമ്മൂട്ടി അഭിനയിച്ച ജനപ്രീതിയേറെയുള്ള സിനിമാഗാനങ്ങൾ |MAMMOOTY HITS]]></title>
-        <id>https://www.youtube.com/watch?v=upZIGxu6Ot4</id>
-        <link href="https://www.youtube.com/watch?v=upZIGxu6Ot4"/>
-        <updated>2023-06-16T07:30:10.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[യാത്രകൾ ഇഷ്ടപ്പെടുന്നവർക്ക് മനസിന് കൂടുതൽ ഉത്സാഹമേകുന്ന മലയാളസിനിമാഗാനങ്ങൾ | EVERGREEN FILM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=OsjNM2prLJE</id>
-        <link href="https://www.youtube.com/watch?v=OsjNM2prLJE"/>
-        <updated>2023-06-16T07:30:08.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chiriye Chiriye - Music Video | Vaisakh Vijayan, Afsana Lakshmi | Gopi Sundar | K. S. Harisankar]]></title>
-        <id>https://www.youtube.com/watch?v=rOLP4o6MItk</id>
-        <link href="https://www.youtube.com/watch?v=rOLP4o6MItk"/>
-        <updated>2023-06-16T07:16:31.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
