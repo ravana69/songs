@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-15T22:15:48.372Z</updated>
+    <updated>2023-09-15T23:16:06.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=e6i3le34Clg</id>
+        <link href="https://www.youtube.com/watch?v=e6i3le34Clg"/>
+        <updated>2023-09-15T23:00:31.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  September 16 Athiravile Prarthana 16th of September 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=rIDmabCFW4A</id>
@@ -27904,15 +27913,6 @@
         <updated>2023-06-18T12:30:11.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chethoharam /ചേതോഹരം / KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=LN4X2x455-Y</id>
-        <link href="https://www.youtube.com/watch?v=LN4X2x455-Y"/>
-        <updated>2023-06-18T10:21:25.000Z</updated>
-        <author>
-            <name>elpida songs</name>
         </author>
     </entry>
     <entry>
