@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-15T21:14:22.431Z</updated>
+    <updated>2023-09-15T22:15:48.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -27913,15 +27913,6 @@
         <updated>2023-06-18T10:21:25.000Z</updated>
         <author>
             <name>elpida songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unnai Kaanadhu Naan cover |Vishwaroopam |  Bhairavi Music Band]]></title>
-        <id>https://www.youtube.com/watch?v=blYhQ__EkGg</id>
-        <link href="https://www.youtube.com/watch?v=blYhQ__EkGg"/>
-        <updated>2023-06-18T10:04:07.000Z</updated>
-        <author>
-            <name>MEGHAMALHAR</name>
         </author>
     </entry>
     <entry>
