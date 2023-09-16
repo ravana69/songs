@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-16T17:13:41.948Z</updated>
+    <updated>2023-09-16T18:19:58.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -28129,24 +28129,6 @@
         <updated>2023-06-19T06:35:40.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bhasuri | Lyrical Video |  Rathrimazha |  Ramesh Narayanan | Kaithapram |  Srinivas | Sujatha]]></title>
-        <id>https://www.youtube.com/watch?v=CUtwv6yoF48</id>
-        <link href="https://www.youtube.com/watch?v=CUtwv6yoF48"/>
-        <updated>2023-06-19T05:30:10.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Group Dance for #LaamaLaama - Promo Song | #BhagavanDasanteRamarajyam | #SoorajSanthosh | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=hUhgJpPVU5E</id>
-        <link href="https://www.youtube.com/watch?v=hUhgJpPVU5E"/>
-        <updated>2023-06-19T05:30:09.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
