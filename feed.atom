@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-16T18:19:58.549Z</updated>
+    <updated>2023-09-16T19:13:48.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 17th SEP 2023]]></title>
+        <id>https://www.youtube.com/watch?v=759Mb2kPq_k</id>
+        <link href="https://www.youtube.com/watch?v=759Mb2kPq_k"/>
+        <updated>2023-09-16T19:00:02.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=dSoPSFXlWGA</id>
+        <link href="https://www.youtube.com/watch?v=dSoPSFXlWGA"/>
+        <updated>2023-09-16T18:30:33.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നിന്റെ സ്നേഹ പ്രശോഭ തൂകുന്ന നാളമെന്നിൽ തെളിക്കണെ...]]></title>
         <id>https://www.youtube.com/watch?v=8JNQnZbiQWA</id>
@@ -28120,15 +28138,6 @@
         <updated>2023-06-19T07:51:21.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Para Para Velukkanunde Song | Dark Shades of a Secret | Resmi Sateesh | Vineesh Mani | Joy Thamalam]]></title>
-        <id>https://www.youtube.com/watch?v=JQOvk2TIoJc</id>
-        <link href="https://www.youtube.com/watch?v=JQOvk2TIoJc"/>
-        <updated>2023-06-19T06:35:40.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
