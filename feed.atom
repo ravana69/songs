@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-16T16:20:23.090Z</updated>
+    <updated>2023-09-16T17:13:41.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നിന്റെ സ്നേഹ പ്രശോഭ തൂകുന്ന നാളമെന്നിൽ തെളിക്കണെ...]]></title>
+        <id>https://www.youtube.com/watch?v=8JNQnZbiQWA</id>
+        <link href="https://www.youtube.com/watch?v=8JNQnZbiQWA"/>
+        <updated>2023-09-16T16:51:52.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perfect steps for #NeelaNilave | #RDX | #KapilKapilan | #SamCS | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=Jt_tLNqP4Zc</id>
+        <link href="https://www.youtube.com/watch?v=Jt_tLNqP4Zc"/>
+        <updated>2023-09-16T16:38:32.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ennullame Sthuthikka Nee Parane | Anna Baby | Kurian Master | Christian Devotional Songs Malayalam]]></title>
         <id>https://www.youtube.com/watch?v=ZOeSUcsJJEU</id>
@@ -28129,15 +28147,6 @@
         <updated>2023-06-19T05:30:09.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aavanipponoonjal | Kottaram Veettile Appoottan | Jayaram | Shruthy | Rajasenan | Bearny Ignatius]]></title>
-        <id>https://www.youtube.com/watch?v=10yPcTzqzQM</id>
-        <link href="https://www.youtube.com/watch?v=10yPcTzqzQM"/>
-        <updated>2023-06-19T04:30:00.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
     <entry>
