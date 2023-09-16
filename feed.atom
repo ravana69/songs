@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-16T06:20:56.059Z</updated>
+    <updated>2023-09-16T07:14:07.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -353,6 +353,15 @@
         <id>https://www.youtube.com/watch?v=xAJ0EeMU0Jg</id>
         <link href="https://www.youtube.com/watch?v=xAJ0EeMU0Jg"/>
         <updated>2023-09-15T03:49:23.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Johny Mone Johny | Animated Film Songs | Felix Devassia | Dulquer Salman | Animation Video Songs]]></title>
+        <id>https://www.youtube.com/watch?v=0c7Rx8PguTk</id>
+        <link href="https://www.youtube.com/watch?v=0c7Rx8PguTk"/>
+        <updated>2023-09-15T03:37:02.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
         </author>
@@ -27931,24 +27940,6 @@
         <updated>2023-06-18T20:00:05.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 19th June 2023]]></title>
-        <id>https://www.youtube.com/watch?v=4kh2DF-L-e8</id>
-        <link href="https://www.youtube.com/watch?v=4kh2DF-L-e8"/>
-        <updated>2023-06-18T19:00:03.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=1xN8Ip3ccEs</id>
-        <link href="https://www.youtube.com/watch?v=1xN8Ip3ccEs"/>
-        <updated>2023-06-18T18:30:03.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
     <entry>
