@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-16T19:13:48.031Z</updated>
+    <updated>2023-09-16T20:16:21.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന September 17 # Athiravile Prarthana 17th of September 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=nS4prJsmb2Q</id>
+        <link href="https://www.youtube.com/watch?v=nS4prJsmb2Q"/>
+        <updated>2023-09-16T20:00:13.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 17th SEP 2023]]></title>
         <id>https://www.youtube.com/watch?v=759Mb2kPq_k</id>
@@ -28129,15 +28138,6 @@
         <updated>2023-06-19T09:03:26.000Z</updated>
         <author>
             <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികളുടെ ഇഷ്ട ഗാനങ്ങൾ കോർത്തിണക്കിയ ഗാനമാല | Evegreen Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Tn0flH4Ylxw</id>
-        <link href="https://www.youtube.com/watch?v=Tn0flH4Ylxw"/>
-        <updated>2023-06-19T07:51:21.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
     <entry>
