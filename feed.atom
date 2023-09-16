@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-16T05:15:27.099Z</updated>
+    <updated>2023-09-16T06:20:56.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manikkuyile Video Song| Valkannadi | Kalabhavan Mani | Geethu Mohandas | KJ Yesudas | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=MD-6R-QO8yY</id>
+        <link href="https://www.youtube.com/watch?v=MD-6R-QO8yY"/>
+        <updated>2023-09-16T05:37:00.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannadi Kayalinoram | Oruthee | Lyrical Video | P Jayachandran | Harinarayanan B K  | Gopi Sundar]]></title>
+        <id>https://www.youtube.com/watch?v=lOW-ojWSaQc</id>
+        <link href="https://www.youtube.com/watch?v=lOW-ojWSaQc"/>
+        <updated>2023-09-16T05:30:19.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കൊതിച്ചു പോയി കണ്ടു കണ്ടു കൊതിച്ചു പോയിവാർതിങ്കൾ നെഞ്ചിലേറ്റി മെയ് തലോടും സ്വർണ്ണമാനേ #mohanlal]]></title>
         <id>https://www.youtube.com/watch?v=5CG2HWad_AQ</id>
