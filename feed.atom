@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-16T04:19:47.992Z</updated>
+    <updated>2023-09-16T05:15:27.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കൊതിച്ചു പോയി കണ്ടു കണ്ടു കൊതിച്ചു പോയിവാർതിങ്കൾ നെഞ്ചിലേറ്റി മെയ് തലോടും സ്വർണ്ണമാനേ #mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=5CG2HWad_AQ</id>
+        <link href="https://www.youtube.com/watch?v=5CG2HWad_AQ"/>
+        <updated>2023-09-16T05:15:00.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kilukkam Petty Kalapila | Mark Antony | Sureshgopi | Kaveri | Yesudas | Bearny Ignatius]]></title>
+        <id>https://www.youtube.com/watch?v=tbguV7CEHq0</id>
+        <link href="https://www.youtube.com/watch?v=tbguV7CEHq0"/>
+        <updated>2023-09-16T04:30:18.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chellakkaatte Mullathayyinu Maala | Ingane Oru Nilapakshi 2000 | M.G.Sreekumar | MalayalamMovie Song]]></title>
+        <id>https://www.youtube.com/watch?v=SfJn0rM3ZNo</id>
+        <link href="https://www.youtube.com/watch?v=SfJn0rM3ZNo"/>
+        <updated>2023-09-16T04:30:14.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Njanennum Sthuthikkum |Shorts #manoramachristiandevotionalsongs #shorts]]></title>
         <id>https://www.youtube.com/watch?v=sASDkq6axpE</id>
