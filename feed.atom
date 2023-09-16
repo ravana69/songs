@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-16T07:14:07.586Z</updated>
+    <updated>2023-09-16T08:19:25.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പലവട്ടം കേട്ടതാണെങ്കിലും പിന്നെയും പലതവണ കേൾക്കാൻ രസമുള്ള മലയാള ചലച്ചിത്ര ഗാനങ്ങൾ | EVERGREEN HITS]]></title>
+        <id>https://www.youtube.com/watch?v=b6hHNwQBWvY</id>
+        <link href="https://www.youtube.com/watch?v=b6hHNwQBWvY"/>
+        <updated>2023-09-16T07:34:25.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങാന്‍ പോകുമ്പോള്‍ കേള്‍ക്കാവുന്ന ഗാനങ്ങള്‍ # Malayalam Christian songs for Sleep #worshipsongs]]></title>
+        <id>https://www.youtube.com/watch?v=TlkW6yxZw8U</id>
+        <link href="https://www.youtube.com/watch?v=TlkW6yxZw8U"/>
+        <updated>2023-09-16T07:30:07.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പലവട്ടം കേട്ടിട്ടും ഇപ്പോഴും കൊതിതീരാത്ത മലയാളസിനിമയിലെ മനം കവരും സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | SUPERHITS]]></title>
+        <id>https://www.youtube.com/watch?v=qQo06_SRn8Y</id>
+        <link href="https://www.youtube.com/watch?v=qQo06_SRn8Y"/>
+        <updated>2023-09-16T07:29:42.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manikkuyile Video Song| Valkannadi | Kalabhavan Mani | Geethu Mohandas | KJ Yesudas | Sujatha Mohan]]></title>
         <id>https://www.youtube.com/watch?v=MD-6R-QO8yY</id>
@@ -166,6 +193,15 @@
         <updated>2023-09-15T13:31:07.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Janalinarike - Lyrical Video | Nadhikalil Sundari Yamuna | Arun Muraleedharan]]></title>
+        <id>https://www.youtube.com/watch?v=oBk0Af7FXB0</id>
+        <link href="https://www.youtube.com/watch?v=oBk0Af7FXB0"/>
+        <updated>2023-09-15T12:55:53.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -27929,15 +27965,6 @@
         <id>https://www.youtube.com/watch?v=EeWr-0cL9pE</id>
         <link href="https://www.youtube.com/watch?v=EeWr-0cL9pE"/>
         <updated>2023-06-18T23:30:01.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 19 # Athiravile Prarthana 19th of June 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=DMRPS4-qZKw</id>
-        <link href="https://www.youtube.com/watch?v=DMRPS4-qZKw"/>
-        <updated>2023-06-18T20:00:05.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
