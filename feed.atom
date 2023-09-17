@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-17T12:30:33.666Z</updated>
+    <updated>2023-09-17T13:17:43.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manikuyile Manikuyile | Valkkannadi | DD 5.1 Audio  Kalabhavan Mani | M.Jayachandran | Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=hFclYxx2eKs</id>
+        <link href="https://www.youtube.com/watch?v=hFclYxx2eKs"/>
+        <updated>2023-09-17T12:50:32.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mangalappala Poomanam|Oral Mathram|Shruthi|Praveena|Kavya Madhavan|Thilakan|]]></title>
+        <id>https://www.youtube.com/watch?v=z80gHFkbHAU</id>
+        <link href="https://www.youtube.com/watch?v=z80gHFkbHAU"/>
+        <updated>2023-09-17T12:35:56.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ellarum Chollanu- HD Video Song | Sathyan | Miss Kumari | K Raghavan | Janamma David]]></title>
         <id>https://www.youtube.com/watch?v=mja1p0NUU0k</id>
