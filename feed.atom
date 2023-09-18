@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-18T03:17:52.610Z</updated>
+    <updated>2023-09-18T04:23:38.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -28102,24 +28102,6 @@
         <updated>2023-06-20T16:48:21.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nannavoolla | Doctor Love | Kunchacko Boban | Bhavana | Benny Dayal | Vinu Thomas | Bhagath Manuel]]></title>
-        <id>https://www.youtube.com/watch?v=Z2xUUEYC0EI</id>
-        <link href="https://www.youtube.com/watch?v=Z2xUUEYC0EI"/>
-        <updated>2023-06-20T16:22:38.000Z</updated>
-        <author>
-            <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nee Entae Nadhanae | Worship Song | Kings & Queens Band | D media Kottayam | Karoke]]></title>
-        <id>https://www.youtube.com/watch?v=vze8dTNZ704</id>
-        <link href="https://www.youtube.com/watch?v=vze8dTNZ704"/>
-        <updated>2023-06-20T16:11:29.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
     <entry>
