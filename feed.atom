@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-18T04:23:38.067Z</updated>
+    <updated>2023-09-18T05:16:41.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aval Chirichal | Vilakku Vaangiya Veena | Prem Nazeer | Yesudas | Sharada | Sreekumaran Thampi]]></title>
+        <id>https://www.youtube.com/watch?v=EZcHDcuak4Q</id>
+        <link href="https://www.youtube.com/watch?v=EZcHDcuak4Q"/>
+        <updated>2023-09-18T04:30:05.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എനിക്കെന്‍റെ ആശ്രയം | Franco | RSV #shortsvideo  #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=kHSk27ejZjQ</id>
@@ -28093,15 +28102,6 @@
         <updated>2023-06-20T18:30:17.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 June 2023]]></title>
-        <id>https://www.youtube.com/watch?v=lR4k4euEf00</id>
-        <link href="https://www.youtube.com/watch?v=lR4k4euEf00"/>
-        <updated>2023-06-20T16:48:21.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
     <entry>
