@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-19T22:16:07.578Z</updated>
+    <updated>2023-09-19T23:16:30.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=E4T380f1jME</id>
+        <link href="https://www.youtube.com/watch?v=E4T380f1jME"/>
+        <updated>2023-09-19T23:00:07.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന September 20 # Athiravile Prarthana 20th of September 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=IeeJNcVLntQ</id>
@@ -28246,33 +28255,6 @@
         <updated>2023-06-22T12:00:00.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ee Lokam Muzhuvanum | ഈ ലോകം മുഴുവനും | K G Markose | Sunny Stephen]]></title>
-        <id>https://www.youtube.com/watch?v=lhJXT1Ea3f0</id>
-        <link href="https://www.youtube.com/watch?v=lhJXT1Ea3f0"/>
-        <updated>2023-06-22T11:06:45.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sakala Sambathum | Shorts | K G Markose | Sunny Stephen]]></title>
-        <id>https://www.youtube.com/watch?v=FkIafawuCWQ</id>
-        <link href="https://www.youtube.com/watch?v=FkIafawuCWQ"/>
-        <updated>2023-06-22T11:06:13.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ee lokam Muzhuvanum | KG Markose | Sunny Stephen | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=7OybncH9rdo</id>
-        <link href="https://www.youtube.com/watch?v=7OybncH9rdo"/>
-        <updated>2023-06-22T11:05:43.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
