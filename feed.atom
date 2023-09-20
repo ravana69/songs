@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-20T04:21:06.791Z</updated>
+    <updated>2023-09-20T05:16:21.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kadha Kadha Kilipennu | Rappakal | Mammootty | Nayanthara | Kamal | Mohan Sithara | Sarada]]></title>
+        <id>https://www.youtube.com/watch?v=M8tyso8BOe4</id>
+        <link href="https://www.youtube.com/watch?v=M8tyso8BOe4"/>
+        <updated>2023-09-20T04:39:35.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swarga Gayike Ithile |  Mooladhanam | Sathyan | Sharada | Yesudas | P.Bhaskaran | Classic Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=KyBKQKcx6eg</id>
+        <link href="https://www.youtube.com/watch?v=KyBKQKcx6eg"/>
+        <updated>2023-09-20T04:30:06.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ruhiyante | Onnum Mindatha Bharya 1984 | S.Janaki, Jolly Abraham, Satheesh Babu | MalayalamMovieSong]]></title>
         <id>https://www.youtube.com/watch?v=vKvWMMmCJw0</id>
