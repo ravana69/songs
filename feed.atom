@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-20T19:13:57.506Z</updated>
+    <updated>2023-09-20T20:18:06.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന September 21 # Athiravile Prarthana 21st of September 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=qGbx36cloBA</id>
+        <link href="https://www.youtube.com/watch?v=qGbx36cloBA"/>
+        <updated>2023-09-20T20:00:22.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 21st SEP 2023]]></title>
         <id>https://www.youtube.com/watch?v=0OmvDK-bwfc</id>
@@ -28444,33 +28453,6 @@
         <updated>2023-06-23T09:21:26.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fede |  Snehaswaroopanaaya Yeshuvinte Bhakthigaanangal | Christian Devotional Songs | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=9aKflocbVpY</id>
-        <link href="https://www.youtube.com/watch?v=9aKflocbVpY"/>
-        <updated>2023-06-23T07:59:36.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു വട്ടം കൂടി കേട്ടെങ്കിലോയെന്ന് മനസ്സ് പറയുന്ന  തൊണ്ണൂറുകളിലെ സൂപ്പർഹിറ്റ് മെലഡിഗാനങ്ങൾ | 90s HITS]]></title>
-        <id>https://www.youtube.com/watch?v=rxk2z1AuXYY</id>
-        <link href="https://www.youtube.com/watch?v=rxk2z1AuXYY"/>
-        <updated>2023-06-23T07:30:14.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mashe Edo Mashe | Keralahouse Udan Vilpanakku | Jayasurya | Cochin Haneefa | Jyotsna | MG Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=vRi6hxKpowc</id>
-        <link href="https://www.youtube.com/watch?v=vRi6hxKpowc"/>
-        <updated>2023-06-23T07:30:11.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
     <entry>
