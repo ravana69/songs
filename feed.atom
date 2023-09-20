@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-20T01:15:16.917Z</updated>
+    <updated>2023-09-20T02:22:16.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anayatha Oru Agniyaay... #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=_sfh4Cdk_Ys</id>
+        <link href="https://www.youtube.com/watch?v=_sfh4Cdk_Ys"/>
+        <updated>2023-09-20T01:30:22.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alannal Theeratha Snehathin Kadha | Nasrayan Feat. Chithra Arun, Samji Arattupuzha, Tomy C Madathil]]></title>
         <id>https://www.youtube.com/watch?v=I0f207WGjH4</id>
@@ -28201,24 +28210,6 @@
         <updated>2023-06-22T14:33:32.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unarvin Varam Labhippaan |Binoy Chacko | Convention song|Praise And Worship Song]]></title>
-        <id>https://www.youtube.com/watch?v=lFaVECH8e3c</id>
-        <link href="https://www.youtube.com/watch?v=lFaVECH8e3c"/>
-        <updated>2023-06-22T13:30:20.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muthu Mazha Konjal Pole Video Song | Big B | Mamta | Amal Neerad | Vineeth Sreenivasan | Jyotsna]]></title>
-        <id>https://www.youtube.com/watch?v=vTMZKD78mrg</id>
-        <link href="https://www.youtube.com/watch?v=vTMZKD78mrg"/>
-        <updated>2023-06-22T13:16:05.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
     <entry>
