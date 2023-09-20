@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-20T05:16:21.339Z</updated>
+    <updated>2023-09-20T06:23:05.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mele Vellithinkal |  Thanmathra | Beautiful Romantic song by Karthik #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=DB_8PBo__78</id>
+        <link href="https://www.youtube.com/watch?v=DB_8PBo__78"/>
+        <updated>2023-09-20T05:30:03.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kadha Kadha Kilipennu | Rappakal | Mammootty | Nayanthara | Kamal | Mohan Sithara | Sarada]]></title>
         <id>https://www.youtube.com/watch?v=M8tyso8BOe4</id>
@@ -28228,15 +28237,6 @@
         <updated>2023-06-22T18:30:03.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാത്രിമഴപോലെ മനസ്സ് കുളിരുന്ന ഗാനങ്ങൾ | നിശാഗീതങ്ങൾ | കെ ജെ യേശുദാസ് | Remastered Movie songs]]></title>
-        <id>https://www.youtube.com/watch?v=KZjqfhD9AUw</id>
-        <link href="https://www.youtube.com/watch?v=KZjqfhD9AUw"/>
-        <updated>2023-06-22T17:31:40.000Z</updated>
-        <author>
-            <name>Tharangini Sound of arts Dubai</name>
         </author>
     </entry>
     <entry>
