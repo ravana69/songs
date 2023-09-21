@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-21T13:26:19.729Z</updated>
+    <updated>2023-09-21T14:16:59.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chundathu Chethipoo Video Song | Mammootty | Bhavana | Rambha | Mukesh | MG Sreekumar | Deepak Dev]]></title>
+        <id>https://www.youtube.com/watch?v=P-zHzCxhktA</id>
+        <link href="https://www.youtube.com/watch?v=P-zHzCxhktA"/>
+        <updated>2023-09-21T14:00:20.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇന്നു ഞാനറിയും , നിൻ തിരുസ്നേഹം ഒന്നുമാത്രമെ ശാശ്വതം.]]></title>
+        <id>https://www.youtube.com/watch?v=yqv8WJQ8wZY</id>
+        <link href="https://www.youtube.com/watch?v=yqv8WJQ8wZY"/>
+        <updated>2023-09-21T13:31:08.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നിലാവിന്‍ പൊന്‍‌കതിരാല്‍ നെയ്തെടുത്തു നിന്റെ ലാവണ്യം #malayalamsongs #yesudas #jayaram #shobana]]></title>
+        <id>https://www.youtube.com/watch?v=Tyzsc1tq6yY</id>
+        <link href="https://www.youtube.com/watch?v=Tyzsc1tq6yY"/>
+        <updated>2023-09-21T13:30:25.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവസ്നേഹത്തിന്റെ അരൂപിയുള്ള ക്രിസ്തീയ ഗാനങ്ങൾ | Christian Devotional Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=CVpW1UPX8hI</id>
+        <link href="https://www.youtube.com/watch?v=CVpW1UPX8hI"/>
+        <updated>2023-09-21T13:30:04.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aa Raavil Ninnodu Njaan | Orkkuka Vallappozhum | Sudeep Kumar | M Jayachandran | Changampuzha]]></title>
         <id>https://www.youtube.com/watch?v=tOjnih-D438</id>
@@ -28480,15 +28516,6 @@
         <updated>2023-06-24T05:30:20.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vazhiyil Veenidathe - Asadhyamayavaye | Shorts |  K G Markose | Fr. Justin Jose]]></title>
-        <id>https://www.youtube.com/watch?v=FfBKWLW9aWo</id>
-        <link href="https://www.youtube.com/watch?v=FfBKWLW9aWo"/>
-        <updated>2023-06-24T01:30:04.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
