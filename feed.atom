@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-21T05:16:32.999Z</updated>
+    <updated>2023-09-21T06:23:01.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aniyathipravinu | Aniyathipravu | Kunchakko Boban | Shalini | Fazil | Chithra | Ouseppachan]]></title>
+        <id>https://www.youtube.com/watch?v=LaOvrjYbMP8</id>
+        <link href="https://www.youtube.com/watch?v=LaOvrjYbMP8"/>
+        <updated>2023-09-21T05:39:55.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snehithe Varunnu | Mukalparappu  | Video Song | Siby Padiyara | Pramod Sarang | JP Thavarool]]></title>
+        <id>https://www.youtube.com/watch?v=LknNBnGS1Jg</id>
+        <link href="https://www.youtube.com/watch?v=LknNBnGS1Jg"/>
+        <updated>2023-09-21T05:20:00.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vasantham Vannu | Onnum Mindatha Bharya 1984 | K. J. Yesudas, S. Janaki | Malayalam Movie Song]]></title>
         <id>https://www.youtube.com/watch?v=_lEsR-Aa-5w</id>
@@ -373,6 +391,15 @@
         <updated>2023-09-20T05:30:03.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRAAVU FILM MAKING VIDEO | NAVAZ ALI | P R RAJASEKHARAN | CET CINEMA | MANJU MOLE]]></title>
+        <id>https://www.youtube.com/watch?v=mgvYe6t-07w</id>
+        <link href="https://www.youtube.com/watch?v=mgvYe6t-07w"/>
+        <updated>2023-09-20T04:44:30.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
