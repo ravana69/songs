@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-22T10:19:06.950Z</updated>
+    <updated>2023-09-22T11:14:12.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഓർമയിലൊരുശിശിരം | Ormayil Oru Shishiram | Romantic Song | Gandhinagar 2nd Street Song | Mohanlal]]></title>
+        <id>https://www.youtube.com/watch?v=GHbOBlwRuQU</id>
+        <link href="https://www.youtube.com/watch?v=GHbOBlwRuQU"/>
+        <updated>2023-09-22T10:32:40.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ശ്രീരാഗമോ തേടുന്നു നീ ഈ വീണതൻ പൊൻ തന്തിയിൽ #mohanlal #malayalamsongs #sreeragamo]]></title>
         <id>https://www.youtube.com/watch?v=qwymGJaCkrc</id>
