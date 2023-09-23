@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-23T04:19:25.101Z</updated>
+    <updated>2023-09-23T05:15:09.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്ലാവിലപ്പൊൻ‌തളികയിൽ പാൽപ്പായസച്ചോറുണ്ണുവാൻ #malayalamsongs #mohanlal #yesudas #romantic]]></title>
+        <id>https://www.youtube.com/watch?v=QzwbkjAYlxk</id>
+        <link href="https://www.youtube.com/watch?v=QzwbkjAYlxk"/>
+        <updated>2023-09-23T04:30:19.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sukhamevide | Vilakku Vaangiya Veena | Prem Nazeer | Sreekumaran thapi | Dakshinamoorthy | Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=RxtKOYJGYOI</id>
+        <link href="https://www.youtube.com/watch?v=RxtKOYJGYOI"/>
+        <updated>2023-09-23T04:30:11.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swarna Dala Kodikal | Manjukalavum Kazhinju 1998 | K. J. Yesudas | Malayalam Movie Song]]></title>
         <id>https://www.youtube.com/watch?v=rCd-MtFX8-M</id>
