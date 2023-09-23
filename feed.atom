@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-23T14:13:56.738Z</updated>
+    <updated>2023-09-23T15:15:30.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നയനാമൃതം രൂപം കർണ്ണാമൃതം നാദം .]]></title>
+        <id>https://www.youtube.com/watch?v=79muYK2UvWs</id>
+        <link href="https://www.youtube.com/watch?v=79muYK2UvWs"/>
+        <updated>2023-09-23T14:20:52.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[En Karalil Thamasichal Video Song | Nammal | Afsal , Franco | Mohan Sithara | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=piwyIpEag1Y</id>
