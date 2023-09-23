@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-23T08:19:33.476Z</updated>
+    <updated>2023-09-23T09:15:10.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ithratholam Yahova Sahayichu #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=JoEbGi8o-AI</id>
+        <link href="https://www.youtube.com/watch?v=JoEbGi8o-AI"/>
+        <updated>2023-09-23T08:51:08.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അസാധാരണ ഗാനങ്ങളെന്ന് മലയാളികൾ വിലയിരുത്തിയ മറക്കാനാവാത്ത മെലഡി ഗാനങ്ങൾ  | MELODY HITS MALAYALAM]]></title>
         <id>https://www.youtube.com/watch?v=rbjp09x1RS0</id>
@@ -1735,6 +1744,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Adipoli Cinemapattukal | Malayalam Film Songs | Jukebox | Non Stop Movie Songs]]></title>
+        <id>https://www.youtube.com/watch?v=_5hkM2Khex8</id>
+        <link href="https://www.youtube.com/watch?v=_5hkM2Khex8"/>
+        <updated>2023-09-18T09:04:48.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ambilikkalayoru | Uncle Bun | Pazhavila Ramesan | Raveendran | KJ Yesudas | Mohanlal | Khushboo]]></title>
         <id>https://www.youtube.com/watch?v=nkUyP3RLfks</id>
         <link href="https://www.youtube.com/watch?v=nkUyP3RLfks"/>
@@ -1804,6 +1822,15 @@
         <updated>2023-09-18T04:30:05.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എനിക്കെന്‍റെ ആശ്രയം | Franco #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=21mIlziXUPg</id>
+        <link href="https://www.youtube.com/watch?v=21mIlziXUPg"/>
+        <updated>2023-09-18T01:45:21.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
