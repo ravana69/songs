@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-24T22:15:19.948Z</updated>
+    <updated>2023-09-24T23:16:16.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=WEQQwn2K4t4</id>
+        <link href="https://www.youtube.com/watch?v=WEQQwn2K4t4"/>
+        <updated>2023-09-24T23:00:12.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന September 25 # Athiravile Prarthana 25th of September 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=TL7BNqVMce4</id>
@@ -28471,24 +28480,6 @@
         <updated>2023-06-27T12:00:08.000Z</updated>
         <author>
             <name>Malayalam Film songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coming Soon : DJ Remix of Super Hit Malayalam Movie Songs #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=YA_41ap5vOM</id>
-        <link href="https://www.youtube.com/watch?v=YA_41ap5vOM"/>
-        <updated>2023-06-27T10:30:17.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coming Soon : DJ Remix of Super Hit Malayalam Movie Songs #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=-G_ZiccLA7o</id>
-        <link href="https://www.youtube.com/watch?v=-G_ZiccLA7o"/>
-        <updated>2023-06-27T10:30:00.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
