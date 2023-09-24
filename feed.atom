@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-24T20:16:31.890Z</updated>
+    <updated>2023-09-24T21:13:35.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -28489,24 +28489,6 @@
         <updated>2023-06-27T10:30:00.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanninte Kannalle - Lyrical Video | Agninakshathram | KS Chithra, Biju Narayanan | Raveendran]]></title>
-        <id>https://www.youtube.com/watch?v=sYx--SsHVsg</id>
-        <link href="https://www.youtube.com/watch?v=sYx--SsHVsg"/>
-        <updated>2023-06-27T09:05:33.000Z</updated>
-        <author>
-            <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങാന്‍ പോകുമ്പോള്‍ കേള്‍ക്കാവുന്ന ഗാനങ്ങള്‍ # Malayalam Christian songs for Sleep #worshipsongs]]></title>
-        <id>https://www.youtube.com/watch?v=9oKlEZ7LtWI</id>
-        <link href="https://www.youtube.com/watch?v=9oKlEZ7LtWI"/>
-        <updated>2023-06-27T08:32:31.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
     <entry>
