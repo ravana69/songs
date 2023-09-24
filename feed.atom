@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-24T07:14:47.855Z</updated>
+    <updated>2023-09-24T08:19:32.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thrippankottappa | Thumbolarcha | Vayalar | G Devarajan P Susheela | KP Ummer | Sheela | P Susheela]]></title>
+        <id>https://www.youtube.com/watch?v=FOIfvTMmLnc</id>
+        <link href="https://www.youtube.com/watch?v=FOIfvTMmLnc"/>
+        <updated>2023-09-24T07:30:09.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പാട്ടുപെട്ടി - Paattupetti Vol 26 | Malayalam Film Songs | 80,s | 90,s | Nostalgic Hit Songs]]></title>
         <id>https://www.youtube.com/watch?v=UN_VlLII0MA</id>
@@ -28523,15 +28532,6 @@
         <id>https://www.youtube.com/watch?v=QiyyDCK89vs</id>
         <link href="https://www.youtube.com/watch?v=QiyyDCK89vs"/>
         <updated>2023-06-26T23:30:04.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 27 # Athiravile Prarthana 27th of June 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=i_Uf5V0PSjM</id>
-        <link href="https://www.youtube.com/watch?v=i_Uf5V0PSjM"/>
-        <updated>2023-06-26T20:00:23.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
