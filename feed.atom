@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-25T04:20:44.478Z</updated>
+    <updated>2023-09-25T05:16:33.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Banger steps for #NeelaNilave | #RDX | #KapilKapilan | #SamCS | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=lLRQ5K7aJ6M</id>
+        <link href="https://www.youtube.com/watch?v=lLRQ5K7aJ6M"/>
+        <updated>2023-09-25T05:16:28.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ayisha - Video Jukebox | Manju Warrier | Krishna Sankar | Mona | Aamir Pallikkal | M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=H2mtAU_OjCs</id>
+        <link href="https://www.youtube.com/watch?v=H2mtAU_OjCs"/>
+        <updated>2023-09-25T05:07:51.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaalidaasan Marichu | Thaara | Vayalar | G Devarajan | KJ Yesudas | Prem Nazeer]]></title>
+        <id>https://www.youtube.com/watch?v=1TI7E7-cxAo</id>
+        <link href="https://www.youtube.com/watch?v=1TI7E7-cxAo"/>
+        <updated>2023-09-25T04:30:01.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Njanennum Sthuthikkum #manoramachristiandevotionalsongs #shorts]]></title>
         <id>https://www.youtube.com/watch?v=9nyBOxAi6fU</id>
@@ -778,6 +805,15 @@
         <updated>2023-09-22T07:30:02.000Z</updated>
         <author>
             <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jai Ho Team India | 2023 World Cup Cricket Team India Motivation Song | Shankar Mahadevan | DJ Savyo]]></title>
+        <id>https://www.youtube.com/watch?v=7-ulbeoyp6U</id>
+        <link href="https://www.youtube.com/watch?v=7-ulbeoyp6U"/>
+        <updated>2023-09-22T06:51:17.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
