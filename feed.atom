@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-27T19:13:54.548Z</updated>
+    <updated>2023-09-27T20:18:03.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  September 28 Athiravile Prarthana 28th of September 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=GH2RdcWbUOk</id>
+        <link href="https://www.youtube.com/watch?v=GH2RdcWbUOk"/>
+        <updated>2023-09-27T20:00:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 28th SEP 2023]]></title>
         <id>https://www.youtube.com/watch?v=2RDMdKTr_C8</id>
@@ -28741,33 +28750,6 @@
         <updated>2023-06-30T08:54:40.000Z</updated>
         <author>
             <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നിങ്ങൾ ആവശ്യപ്പെട്ട കേൾക്കാനാഗ്രഹിച്ച മലയാളസിനിമയിലെ പത്ത് മനോഹരഗാനങ്ങൾ | MALAYALAM SUPERHIT SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=LHIl-YUA9jk</id>
-        <link href="https://www.youtube.com/watch?v=LHIl-YUA9jk"/>
-        <updated>2023-06-30T07:30:06.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കണ്ണെടുക്കാൻ തോന്നണില്ല ! ഒരു രക്ഷയില്ലാത്ത ലുക്കിൽ മമ്മുക്ക ! Amma General body Meeting 2023]]></title>
-        <id>https://www.youtube.com/watch?v=4R79kZ6_LCs</id>
-        <link href="https://www.youtube.com/watch?v=4R79kZ6_LCs"/>
-        <updated>2023-06-30T07:30:01.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കാവേരീ പാടാമിനി | Kaaveri Padamini | Raajashilpi | Malayalam Film Song]]></title>
-        <id>https://www.youtube.com/watch?v=lJZPPPC_NN4</id>
-        <link href="https://www.youtube.com/watch?v=lJZPPPC_NN4"/>
-        <updated>2023-06-30T07:16:16.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
     <entry>
