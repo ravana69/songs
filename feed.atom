@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-27T10:19:08.226Z</updated>
+    <updated>2023-09-27T11:14:28.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Poovin Kurunnu Meyyil  | LolliPop | Afsal | Shruthiraj | Tinu Antony | Alex Paul]]></title>
+        <id>https://www.youtube.com/watch?v=pKmX-eqAc4M</id>
+        <link href="https://www.youtube.com/watch?v=pKmX-eqAc4M"/>
+        <updated>2023-09-27T10:30:19.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kokkoko Kozhi | Speed Track | Dileep | Gajala #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=upBL87sS2-E</id>
+        <link href="https://www.youtube.com/watch?v=upBL87sS2-E"/>
+        <updated>2023-09-27T10:30:18.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanneere Niraye - Video Song | Janvi Movie | Ram Surendar, Edappal Viswanath | Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=cIr94BFnCiE</id>
+        <link href="https://www.youtube.com/watch?v=cIr94BFnCiE"/>
+        <updated>2023-09-27T10:27:42.000Z</updated>
+        <author>
+            <name>MC Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ആകാശം മേലേ പവനുരുക്കുമ്പോള്‍പൊന്നും പൂമണ്ണില്‍ തൂവുമ്പോള്‍ #mohanlal #chithra #malayalamsongs]]></title>
         <id>https://www.youtube.com/watch?v=FKXHX_zYNmM</id>
@@ -823,6 +850,15 @@
         <updated>2023-09-25T04:30:01.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nalukal Ereyilla | Elizabeth Raju | Thomas Mathew Karunagappally | Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=FgM6SK4-XoI</id>
+        <link href="https://www.youtube.com/watch?v=FgM6SK4-XoI"/>
+        <updated>2023-09-25T03:58:21.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
