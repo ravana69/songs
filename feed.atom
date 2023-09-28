@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-28T07:16:19.375Z</updated>
+    <updated>2023-09-28T08:22:14.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thejassitha | Kristheeya Bhakthigaanangal | Christian Devotional Songs | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=dNmwFK45wkk</id>
+        <link href="https://www.youtube.com/watch?v=dNmwFK45wkk"/>
+        <updated>2023-09-28T08:13:55.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മോഹം മനസ്സിലിട്ട് | Moham Manasilitt | Arjunan Pillayum Anchu Makkalum Movie Song | Mohan Sithara]]></title>
+        <id>https://www.youtube.com/watch?v=JKjN6Z0LIuY</id>
+        <link href="https://www.youtube.com/watch?v=JKjN6Z0LIuY"/>
+        <updated>2023-09-28T08:00:05.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നിഷ്‌കളങ്ക പ്രേമത്തിന്റെ ശാലീന ഭാവം വിളിച്ചോതിയ എക്കാലത്തെയും മികച്ച പ്രണയഗാനങ്ങൾ | LOVE SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=w9HL86T40kw</id>
+        <link href="https://www.youtube.com/watch?v=w9HL86T40kw"/>
+        <updated>2023-09-28T07:30:13.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എല്ലാ ദിവസവും മുടങ്ങാതെ കേൾക്കുന്ന കൂടെ കരുതുന്ന മലയാളസിനിമാഗാനങ്ങൾ | MALAYALAM FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=e6QrhT4O5ko</id>
+        <link href="https://www.youtube.com/watch?v=e6QrhT4O5ko"/>
+        <updated>2023-09-28T07:30:10.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മഞ്ഞിൻ ചിറകുള്ള വെള്ളരിപ്രാവേ  #malayalamsongs #evergeeenmalayalamhits #jayaram #parvathy]]></title>
         <id>https://www.youtube.com/watch?v=G8z1zra8-GI</id>
@@ -28723,15 +28759,6 @@
         <updated>2023-07-01T00:00:13.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന July 1 # Athiravile Prarthana 1st of July 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=2yz5EX4Bnak</id>
-        <link href="https://www.youtube.com/watch?v=2yz5EX4Bnak"/>
-        <updated>2023-06-30T20:00:02.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
     <entry>
