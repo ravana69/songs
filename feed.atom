@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-28T06:23:12.589Z</updated>
+    <updated>2023-09-28T07:16:19.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മഞ്ഞിൻ ചിറകുള്ള വെള്ളരിപ്രാവേ  #malayalamsongs #evergeeenmalayalamhits #jayaram #parvathy]]></title>
+        <id>https://www.youtube.com/watch?v=G8z1zra8-GI</id>
+        <link href="https://www.youtube.com/watch?v=G8z1zra8-GI"/>
+        <updated>2023-09-28T06:55:12.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മൗനമേ നിൻ മൂക | Mauname Nin | Anubhoothi Malayalam Movie Song | Sujatha Mohan | Suresh Gopi| Kushboo]]></title>
         <id>https://www.youtube.com/watch?v=Qru6ImFL3hI</id>
@@ -2542,6 +2551,15 @@
         <updated>2023-09-20T09:30:03.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aavaram Poovinmel | Superman | Jayaram| Shobhana | S P Venkatesh]]></title>
+        <id>https://www.youtube.com/watch?v=rQWXgLhguAI</id>
+        <link href="https://www.youtube.com/watch?v=rQWXgLhguAI"/>
+        <updated>2023-09-20T08:50:39.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
         </author>
     </entry>
     <entry>
@@ -28714,24 +28732,6 @@
         <updated>2023-06-30T20:00:02.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 1st July 2023]]></title>
-        <id>https://www.youtube.com/watch?v=mEbJheue6C8</id>
-        <link href="https://www.youtube.com/watch?v=mEbJheue6C8"/>
-        <updated>2023-06-30T19:00:28.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=ZCXV-uKhOJk</id>
-        <link href="https://www.youtube.com/watch?v=ZCXV-uKhOJk"/>
-        <updated>2023-06-30T18:30:26.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
     <entry>
