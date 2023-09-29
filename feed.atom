@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-29T08:21:29.083Z</updated>
+    <updated>2023-09-29T09:17:19.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -83,6 +83,24 @@
         <id>https://www.youtube.com/watch?v=ujBpG35wHjA</id>
         <link href="https://www.youtube.com/watch?v=ujBpG35wHjA"/>
         <updated>2023-09-29T04:17:14.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manivaka Pootha | Thappana | Shorts #Shorts #malayalamfilmsongs #manoramafilmsongs]]></title>
+        <id>https://www.youtube.com/watch?v=Iz-bW4yUcp8</id>
+        <link href="https://www.youtube.com/watch?v=Iz-bW4yUcp8"/>
+        <updated>2023-09-29T04:16:38.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Badnahi | Kalimannu | Shorts #Shorts #malayalamfilmsongs #manoramafilmsongs]]></title>
+        <id>https://www.youtube.com/watch?v=IuCygsT4odY</id>
+        <link href="https://www.youtube.com/watch?v=IuCygsT4odY"/>
+        <updated>2023-09-29T04:15:33.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
         </author>
@@ -686,6 +704,24 @@
         <id>https://www.youtube.com/watch?v=Vs8Crj9bCnM</id>
         <link href="https://www.youtube.com/watch?v=Vs8Crj9bCnM"/>
         <updated>2023-09-27T08:07:11.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shorts | Sona Sona]]></title>
+        <id>https://www.youtube.com/watch?v=pGj9ngWyRxw</id>
+        <link href="https://www.youtube.com/watch?v=pGj9ngWyRxw"/>
+        <updated>2023-09-27T08:05:53.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annarakanna Vaa | Shorts #Shorts #malayalamfilmsongs #manoramafilmsongs]]></title>
+        <id>https://www.youtube.com/watch?v=8EErNHYWLp4</id>
+        <link href="https://www.youtube.com/watch?v=8EErNHYWLp4"/>
+        <updated>2023-09-27T08:01:27.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
         </author>
