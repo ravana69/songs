@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-29T09:17:19.397Z</updated>
+    <updated>2023-09-29T10:19:02.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പലിശക്കാരന്‍ പത്രോസേ | Palissakaaran Pathrose | Benz Vasu Malayalam Movie Song | P Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=049yTRQQOg8</id>
+        <link href="https://www.youtube.com/watch?v=049yTRQQOg8"/>
+        <updated>2023-09-29T10:00:00.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neela Nilavupol Nilkkunnoramme | Divyanugrham Choriyunna Kristheeya Bhakthigaanangal | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=4r7iws7VEpY</id>
+        <link href="https://www.youtube.com/watch?v=4r7iws7VEpY"/>
+        <updated>2023-09-29T09:38:17.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THALARUNNU NJAN NADHA | NEW CHRISTIAN SONG | DHANYA | PAVITHRAN AMACHAL | JINO KUNNUMPURATH]]></title>
+        <id>https://www.youtube.com/watch?v=nWg9kNQNEfE</id>
+        <link href="https://www.youtube.com/watch?v=nWg9kNQNEfE"/>
+        <updated>2023-09-29T09:36:54.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maarivillin Gopurangal | Summer in Bethlehem | Biju Narayanan | Sreenivas| Jayaram | Suresh Gopi]]></title>
         <id>https://www.youtube.com/watch?v=gUzxHSLBlJQ</id>
@@ -31,6 +58,15 @@
         <updated>2023-09-29T07:22:48.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanavu Video Song | Sooraj Santhosh | Vinayak Sasikumar | Sravan Krishnakumar | Arya Sreekantan]]></title>
+        <id>https://www.youtube.com/watch?v=wZb65reMXcA</id>
+        <link href="https://www.youtube.com/watch?v=wZb65reMXcA"/>
+        <updated>2023-09-29T07:11:59.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
