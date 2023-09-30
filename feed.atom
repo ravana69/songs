@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-30T15:15:38.094Z</updated>
+    <updated>2023-09-30T16:20:16.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -29272,33 +29272,6 @@
         <updated>2023-07-03T04:30:03.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polika Polika | Higuita | Video Song| Dhanya Suresh  | Rahul Raj | Sunil Mathai | Suraj Venjarammodu]]></title>
-        <id>https://www.youtube.com/watch?v=7SwXDPtPWkg</id>
-        <link href="https://www.youtube.com/watch?v=7SwXDPtPWkg"/>
-        <updated>2023-07-03T04:05:41.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paragame | Higuita | Vinayak Sasikumar | Rahul Raj | Sangeeth | Poornasree | Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=MR7cAtdL3gg</id>
-        <link href="https://www.youtube.com/watch?v=MR7cAtdL3gg"/>
-        <updated>2023-07-03T04:05:18.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chuvappaninja Pakshikal | Higuita | Video Song | Nikhil Mattathil | Rahul Raj  | Suraj Venjaramoodu]]></title>
-        <id>https://www.youtube.com/watch?v=5X1NPqFg4kQ</id>
-        <link href="https://www.youtube.com/watch?v=5X1NPqFg4kQ"/>
-        <updated>2023-07-03T04:04:56.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
     <entry>
