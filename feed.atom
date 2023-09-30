@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-30T19:12:25.756Z</updated>
+    <updated>2023-09-30T20:16:28.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=1Pi8CNqYwkA</id>
+        <link href="https://www.youtube.com/watch?v=1Pi8CNqYwkA"/>
+        <updated>2023-09-30T19:30:00.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  October 1 # Athiravile Prarthana 1st October 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=2SE0hKW6DNQ</id>
@@ -29290,24 +29299,6 @@
         <updated>2023-07-03T08:46:07.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eeshoye Karayaruthe | Kristheeya Bhakthigaanangal | Christian Devotional Songs | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=lxxW_vtq20A</id>
-        <link href="https://www.youtube.com/watch?v=lxxW_vtq20A"/>
-        <updated>2023-07-03T07:48:23.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sindoora Thilakavumaayi | Kuyiline Thedi | Raghu | Rohini | Poojappura Ravi - Shyam Hits]]></title>
-        <id>https://www.youtube.com/watch?v=PKLcH5tsHRo</id>
-        <link href="https://www.youtube.com/watch?v=PKLcH5tsHRo"/>
-        <updated>2023-07-03T07:30:09.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
     <entry>
