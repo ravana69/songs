@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-30T03:16:55.873Z</updated>
+    <updated>2023-09-30T04:20:24.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -28975,33 +28975,6 @@
         <updated>2023-07-02T18:30:19.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2 July 2023]]></title>
-        <id>https://www.youtube.com/watch?v=lI7HRpLc6zc</id>
-        <link href="https://www.youtube.com/watch?v=lI7HRpLc6zc"/>
-        <updated>2023-07-02T16:01:17.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thiruhithamihe Thikacheeduvan | Anna Baby | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=FTHIeqofVU8</id>
-        <link href="https://www.youtube.com/watch?v=FTHIeqofVU8"/>
-        <updated>2023-07-02T15:46:53.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maanathoru Pontharakam | Pranayanilavu | Dileep | Mohini | Vinayan | Berny Ignatius | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=76nTxmS9wUI</id>
-        <link href="https://www.youtube.com/watch?v=76nTxmS9wUI"/>
-        <updated>2023-07-02T15:30:01.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
     <entry>
