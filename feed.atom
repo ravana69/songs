@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-30T09:14:46.845Z</updated>
+    <updated>2023-09-30T10:16:59.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -52,6 +52,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ചിത്രച്ചേച്ചിക്കൊപ്പം പാടിയും പറഞ്ഞും | ​Chithra Chechikkoppam Paadiyum Paranjum | Malayala Manorama]]></title>
+        <id>https://www.youtube.com/watch?v=z1FXxIXW3Zw</id>
+        <link href="https://www.youtube.com/watch?v=z1FXxIXW3Zw"/>
+        <updated>2023-09-30T07:16:20.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[പൂങ്കനവിൻ നാണയങ്ങൾ | Poonkanavin  | Churam Malayalam Film Song | Johnson | KS Chithra | Divya Unni]]></title>
         <id>https://www.youtube.com/watch?v=FmudO6Cr80E</id>
         <link href="https://www.youtube.com/watch?v=FmudO6Cr80E"/>
@@ -67,6 +76,15 @@
         <updated>2023-09-30T05:37:01.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thirayattam | Official Trailer | Sajeev Kilikulam | Ragi A R | Vinitha Thuravoor | Prasanth Madhav]]></title>
+        <id>https://www.youtube.com/watch?v=54HbMoB-KbI</id>
+        <link href="https://www.youtube.com/watch?v=54HbMoB-KbI"/>
+        <updated>2023-09-30T05:17:47.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
