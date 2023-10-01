@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-01T17:15:27.050Z</updated>
+    <updated>2023-10-01T18:20:32.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 2nd October 2023]]></title>
+        <id>https://www.youtube.com/watch?v=SuJOpwbvp40</id>
+        <link href="https://www.youtube.com/watch?v=SuJOpwbvp40"/>
+        <updated>2023-10-01T18:00:17.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അലിവിന്റെ അലയാഴിയാകും വിമലാംബികേ നിന്റെ ഹൃദയം]]></title>
         <id>https://www.youtube.com/watch?v=-dfIocBrG5w</id>
@@ -29245,24 +29254,6 @@
         <updated>2023-07-04T07:30:03.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's vibe for #LoveYouMuthe | #Padmini | #JakesBejoy | #KunchackoBoban | #VidyadharanMaster]]></title>
-        <id>https://www.youtube.com/watch?v=h8LslYQNulA</id>
-        <link href="https://www.youtube.com/watch?v=h8LslYQNulA"/>
-        <updated>2023-07-04T05:30:11.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rishivanam Aagum - Full Video | Shaakuntalam(Malayalam) | Samantha, Dev Mohan | Crishna, Chinmayi]]></title>
-        <id>https://www.youtube.com/watch?v=SkhkEQuli_k</id>
-        <link href="https://www.youtube.com/watch?v=SkhkEQuli_k"/>
-        <updated>2023-07-04T05:30:11.000Z</updated>
-        <author>
-            <name>Tips Malayalam</name>
         </author>
     </entry>
     <entry>
