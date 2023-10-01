@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-01T10:17:20.354Z</updated>
+    <updated>2023-10-01T11:13:02.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Attuthottil | Shorts #Shorts #malayalamfilmsongs #manoramafilmsongs]]></title>
+        <id>https://www.youtube.com/watch?v=oEZC8VaboIc</id>
+        <link href="https://www.youtube.com/watch?v=oEZC8VaboIc"/>
+        <updated>2023-10-01T10:30:11.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പാഴിരുൾ വീഴുമീ നാലുകെട്ടിൽ #mohini #bijumenon #movieworldmusic #youtubeshorts]]></title>
         <id>https://www.youtube.com/watch?v=qdGntDhHmWA</id>
