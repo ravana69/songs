@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-01T22:15:27.703Z</updated>
+    <updated>2023-10-01T23:16:37.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #october 2nd 2023  mother mary prayer and songs]]></title>
+        <id>https://www.youtube.com/watch?v=70jg_wCFVW4</id>
+        <link href="https://www.youtube.com/watch?v=70jg_wCFVW4"/>
+        <updated>2023-10-01T22:30:00.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=dRqntz7_G8w</id>
@@ -29254,15 +29263,6 @@
         <updated>2023-07-04T12:00:13.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Punchiri Thanchum | Beautiful Romantic Song by Shankar Mahadevan from Bicycle Thieves #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=FxAXElTv2GA</id>
-        <link href="https://www.youtube.com/watch?v=FxAXElTv2GA"/>
-        <updated>2023-07-04T10:30:04.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
