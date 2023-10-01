@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-01T07:16:13.795Z</updated>
+    <updated>2023-10-01T08:19:46.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പാഴിരുൾ വീഴുമീ നാലുകെട്ടിൽ #mohini #bijumenon #movieworldmusic #youtubeshorts]]></title>
+        <id>https://www.youtube.com/watch?v=qdGntDhHmWA</id>
+        <link href="https://www.youtube.com/watch?v=qdGntDhHmWA"/>
+        <updated>2023-10-01T07:30:15.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പാട്ടുപെട്ടി - Paattupetti Vol 27 | Malayalam Film Songs]]></title>
         <id>https://www.youtube.com/watch?v=RkyBGGdARY4</id>
@@ -29198,15 +29207,6 @@
         <id>https://www.youtube.com/watch?v=6Gtc6LdfLYU</id>
         <link href="https://www.youtube.com/watch?v=6Gtc6LdfLYU"/>
         <updated>2023-07-04T00:30:02.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 4 # Athiravile Prarthana 4th of July 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=vji3psGZlaA</id>
-        <link href="https://www.youtube.com/watch?v=vji3psGZlaA"/>
-        <updated>2023-07-03T20:00:25.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
