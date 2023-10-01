@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-01T05:15:57.440Z</updated>
+    <updated>2023-10-01T06:21:56.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പാട്ടുപെട്ടി - Paattupetti Vol 27 | Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=RkyBGGdARY4</id>
+        <link href="https://www.youtube.com/watch?v=RkyBGGdARY4"/>
+        <updated>2023-10-01T06:00:08.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neeyam Thanalinu | Karaoke Video | Cocktail | Anil Panachooran | Rajesh Vegha | Jayasoorya]]></title>
+        <id>https://www.youtube.com/watch?v=W_TOFd0aoGA</id>
+        <link href="https://www.youtube.com/watch?v=W_TOFd0aoGA"/>
+        <updated>2023-10-01T05:30:08.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഏഴു നിറമുള്ള മലരേ നൂറു കരമുള്ള കുളിരെ  #malayalamsongs #evergeeenmalayalamhits #yesudas #shankar]]></title>
         <id>https://www.youtube.com/watch?v=6Qj5tbp9H-U</id>
