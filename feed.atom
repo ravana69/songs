@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-02T15:18:24.084Z</updated>
+    <updated>2023-10-02T16:22:05.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -818,6 +818,15 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Vagdatham Cheythavan | Elizabeth Raju | Mohan Kanjiramannil #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=045AmPOtO4s</id>
+        <link href="https://www.youtube.com/watch?v=045AmPOtO4s"/>
+        <updated>2023-09-30T09:42:53.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vagdatham Cheythavan | Elizabeth Raju | Mohan Kanjiramannil #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=DG1ii9aNTQI</id>
         <link href="https://www.youtube.com/watch?v=DG1ii9aNTQI"/>
         <updated>2023-09-30T09:12:26.000Z</updated>
@@ -886,6 +895,15 @@
         <updated>2023-09-30T06:50:21.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ellam Ellam Dhanamalle | Rev. Sajan P. Mathew | Elizabeth Raju  #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=Vc0X8t21GG4</id>
+        <link href="https://www.youtube.com/watch?v=Vc0X8t21GG4"/>
+        <updated>2023-09-30T06:33:37.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -1381,6 +1399,15 @@
         <updated>2023-09-29T04:14:25.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sworgeeyarajante | Annie James | Ramesh Murali #manoramachristiandevotionalsongs #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=VthgExbwy3s</id>
+        <link href="https://www.youtube.com/watch?v=VthgExbwy3s"/>
+        <updated>2023-09-29T03:42:05.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -29344,15 +29371,6 @@
         <updated>2023-07-05T05:30:02.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KG Markose Video Songs | Christain Songs Video Jukebox | Malayalam Christian Songs Video]]></title>
-        <id>https://www.youtube.com/watch?v=p9QiVXeBhmM</id>
-        <link href="https://www.youtube.com/watch?v=p9QiVXeBhmM"/>
-        <updated>2023-07-05T03:41:56.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
