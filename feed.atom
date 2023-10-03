@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-03T10:19:26.214Z</updated>
+    <updated>2023-10-03T11:14:28.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Krooshithane udhithane # Christian Devotional Song # Audio Song # Kristheeya Bhakthigaanam]]></title>
+        <id>https://www.youtube.com/watch?v=izWCFYRllcU</id>
+        <link href="https://www.youtube.com/watch?v=izWCFYRllcU"/>
+        <updated>2023-10-03T11:13:44.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanyaka Meri Amme Kaaval Malaghamare  # Audiosong # Christian Devotional Song]]></title>
+        <id>https://www.youtube.com/watch?v=BtCMnHOUhN4</id>
+        <link href="https://www.youtube.com/watch?v=BtCMnHOUhN4"/>
+        <updated>2023-10-03T10:51:53.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chembakappoom Kattile | Shorts #Shorts #malayalamfilmsongs #manoramafilmsongs]]></title>
+        <id>https://www.youtube.com/watch?v=Zw_9MS4uvVE</id>
+        <link href="https://www.youtube.com/watch?v=Zw_9MS4uvVE"/>
+        <updated>2023-10-03T10:30:08.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manja Palunkan | Thumbolarcha | Vayalar | G Devarajan | P Susheela | Sheela | Old is Gold]]></title>
         <id>https://www.youtube.com/watch?v=blFepvYYT8Q</id>
@@ -121,6 +148,24 @@
         <updated>2023-10-03T04:24:52.000Z</updated>
         <author>
             <name>Tips Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#manoramachristiandevotionalsongs #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=cK1-QR1yCN8</id>
+        <link href="https://www.youtube.com/watch?v=cK1-QR1yCN8"/>
+        <updated>2023-10-03T04:15:42.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#manoramachristiandevotionalsongs #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=U3rKBbA75bo</id>
+        <link href="https://www.youtube.com/watch?v=U3rKBbA75bo"/>
+        <updated>2023-10-03T04:14:58.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -1084,6 +1129,15 @@
         <updated>2023-09-30T08:30:20.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ente Sambathennu Cholluvan | Sadhu Kochukunjupadeshi #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=WxOzce7SpgU</id>
+        <link href="https://www.youtube.com/watch?v=WxOzce7SpgU"/>
+        <updated>2023-09-30T08:14:27.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
