@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-03T05:16:25.973Z</updated>
+    <updated>2023-10-03T06:23:12.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azhake Nin Video Song | Amaram | Mammootty | Maathu | Ashokan | KJ Yesudas | KS Chithra | Raveendran]]></title>
+        <id>https://www.youtube.com/watch?v=-xHw8M7Uvjs</id>
+        <link href="https://www.youtube.com/watch?v=-xHw8M7Uvjs"/>
+        <updated>2023-10-03T05:41:14.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veshangal Janmangal | Vesham | Mammootty | KJ Yesudas | S A Rajkumar | Indrajith | V M Vinu]]></title>
+        <id>https://www.youtube.com/watch?v=W359ou7I4yA</id>
+        <link href="https://www.youtube.com/watch?v=W359ou7I4yA"/>
+        <updated>2023-10-03T05:32:07.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panchavarnnakkili | Oru Naal Innorunaal 1985 |M.G.Radhakrishnan | M.G.Sreekumar | MalayalamMovieSong]]></title>
+        <id>https://www.youtube.com/watch?v=y61cScNov0I</id>
+        <link href="https://www.youtube.com/watch?v=y61cScNov0I"/>
+        <updated>2023-10-03T05:26:37.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മഞ്ഞക്കിളിയേ കുഞ്ഞിക്കുരുന്നേ | Laalanam | Manjakiliye Malayalam Song | Jagathy Sreekumar, Sukumari]]></title>
         <id>https://www.youtube.com/watch?v=iUDNKCvGGgI</id>
