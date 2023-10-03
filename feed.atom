@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-03T06:23:12.524Z</updated>
+    <updated>2023-10-03T07:15:53.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manassil Oru Poomala | Innathe Chinthavishayam | Shorts  #malayalamfilmsongs #manoramafilmsongs]]></title>
+        <id>https://www.youtube.com/watch?v=1azE9YsnSQk</id>
+        <link href="https://www.youtube.com/watch?v=1azE9YsnSQk"/>
+        <updated>2023-10-03T06:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azhake Nin Video Song | Amaram | Mammootty | Maathu | Ashokan | KJ Yesudas | KS Chithra | Raveendran]]></title>
         <id>https://www.youtube.com/watch?v=-xHw8M7Uvjs</id>
@@ -29380,24 +29389,6 @@
         <updated>2023-07-05T20:00:07.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 6th July 2023]]></title>
-        <id>https://www.youtube.com/watch?v=MzgivhzYCfI</id>
-        <link href="https://www.youtube.com/watch?v=MzgivhzYCfI"/>
-        <updated>2023-07-05T19:00:13.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=oWEojtqKW-Q</id>
-        <link href="https://www.youtube.com/watch?v=oWEojtqKW-Q"/>
-        <updated>2023-07-05T18:30:49.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
     <entry>
