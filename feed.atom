@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-03T04:20:37.053Z</updated>
+    <updated>2023-10-03T05:16:25.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മഞ്ഞക്കിളിയേ കുഞ്ഞിക്കുരുന്നേ | Laalanam | Manjakiliye Malayalam Song | Jagathy Sreekumar, Sukumari]]></title>
+        <id>https://www.youtube.com/watch?v=iUDNKCvGGgI</id>
+        <link href="https://www.youtube.com/watch?v=iUDNKCvGGgI"/>
+        <updated>2023-10-03T05:07:20.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kilippenne Nilavin | Dhosth | Dileep | Kavya Madhavan | Yesudas | Vidyasagar]]></title>
+        <id>https://www.youtube.com/watch?v=m5F43peqDQg</id>
+        <link href="https://www.youtube.com/watch?v=m5F43peqDQg"/>
+        <updated>2023-10-03T04:30:14.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alakadal | PS1 Malayalam | AR Rahman | Karthi, Aishwarya Lekshmi | Shweta Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=7Yyrp6_oPLg</id>
+        <link href="https://www.youtube.com/watch?v=7Yyrp6_oPLg"/>
+        <updated>2023-10-03T04:24:52.000Z</updated>
+        <author>
+            <name>Tips Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Badnahi | Kalimannu | Shorts #Shorts #malayalamfilmsongs #manoramafilmsongs]]></title>
         <id>https://www.youtube.com/watch?v=vYsQURLfsns</id>
