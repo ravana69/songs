@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-04T08:22:38.666Z</updated>
+    <updated>2023-10-04T09:18:07.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manohari | Shorts #viral #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=FjglEcA08Qo</id>
+        <link href="https://www.youtube.com/watch?v=FjglEcA08Qo"/>
+        <updated>2023-10-04T08:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muthaaram Muthunde Video Song | Mr butler | Dileep | Vidyasagar | Gireesh Puthenchery | MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=lad68y1yY2Y</id>
+        <link href="https://www.youtube.com/watch?v=lad68y1yY2Y"/>
+        <updated>2023-10-04T08:24:47.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കേട്ടുകൊണ്ടിരിക്കെ കൂടുതൽ ഇഷ്ടം തോന്നുന്ന മലയാളസിനിമയിലെ പത്തരമാറ്റുള്ള സിനിമാഗാനങ്ങൾ | NISARI]]></title>
         <id>https://www.youtube.com/watch?v=vKzfu27ahdc</id>
@@ -40,6 +58,15 @@
         <updated>2023-10-04T06:17:58.000Z</updated>
         <author>
             <name>Speed Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nin Pathayil | Sreya Bhanu | Nirshad Ninni | Purple Poppins | MBS Shine | MG Ajith | Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=LzjR0F3vWvU</id>
+        <link href="https://www.youtube.com/watch?v=LzjR0F3vWvU"/>
+        <updated>2023-10-04T06:10:41.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
