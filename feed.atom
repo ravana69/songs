@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-04T16:23:36.579Z</updated>
+    <updated>2023-10-04T17:16:01.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -30199,15 +30199,6 @@
         <updated>2023-07-07T05:19:06.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Butterfly Butterfly | Naranath Thamburan | Jayaram | Nandhini | M G Sreekumar | M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=gbAU8FUE5FY</id>
-        <link href="https://www.youtube.com/watch?v=gbAU8FUE5FY"/>
-        <updated>2023-07-07T04:30:14.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
