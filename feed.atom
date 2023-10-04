@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-04T07:16:21.517Z</updated>
+    <updated>2023-10-04T08:22:38.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കേട്ടുകൊണ്ടിരിക്കെ കൂടുതൽ ഇഷ്ടം തോന്നുന്ന മലയാളസിനിമയിലെ പത്തരമാറ്റുള്ള സിനിമാഗാനങ്ങൾ | NISARI]]></title>
+        <id>https://www.youtube.com/watch?v=vKzfu27ahdc</id>
+        <link href="https://www.youtube.com/watch?v=vKzfu27ahdc"/>
+        <updated>2023-10-04T07:30:13.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Penkidaavu | Prajapathi | Jassie Gift | Thej Mervin | Gireesh Puthenchery | Salim Kumar]]></title>
+        <id>https://www.youtube.com/watch?v=W3LV_h0U6fU</id>
+        <link href="https://www.youtube.com/watch?v=W3LV_h0U6fU"/>
+        <updated>2023-10-04T07:30:06.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ചന്ദനകാറ്റേ കുളിര്‍ കൊണ്ടുവാ | Bheeshmacharya |ChandanaKate Malayalam Song | Manoj K.Jayan | Chithra]]></title>
         <id>https://www.youtube.com/watch?v=iXOaqdpdcaA</id>
@@ -29821,15 +29839,6 @@
         <updated>2023-07-07T00:00:16.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന July 7 # Athiravile Prarthana 7th of July 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=iHSgio-4nJk</id>
-        <link href="https://www.youtube.com/watch?v=iHSgio-4nJk"/>
-        <updated>2023-07-06T20:00:10.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
