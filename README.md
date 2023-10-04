@@ -52,3 +52,5 @@
 | 43            | Tharangini Sound of arts Dubai                   | [RSS Feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCtHSpYB1aAALN0i1_jA8b0g) | [YouTube](https://www.youtube.com/c/TharanginiSoundofartsDubai) |
 | 44            | Sree Movies Music                               | [RSS Feed](https://www.youtube.com/feeds/videos.xml?channel_id=UClE-TPA5ccYSdCybdKJXa7w) | [YouTube](https://www.youtube.com/c/SreeMoviesMusic) |
 | 45            | Speed Audios                                    | [RSS Feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCR0fM5_ERQiF3x84hX7nqtQ) | [YouTube](https://www.youtube.com/c/SpeedAudios) |
+| 46            | Malayalam Chithrageetham                        | [RSS Feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCEAcjAPXNesAnhgNT1VrOwA) | [YouTube](https://www.youtube.com/channel/UCEAcjAPXNesAnhgNT1VrOwA) |
+| 47            | Rayan Media Productions                        | [RSS Feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCMcs15fo3W8VZS2f6COk3vQ) | [YouTube](https://www.youtube.com/channel/UCMcs15fo3W8VZS2f6COk3vQ) |
