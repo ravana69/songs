@@ -21164,16 +21164,6 @@
           "wordCount": null,
           "title": "Sarvashakthan | Swargapithaavinte gaanangal | Kristheeya Bhakthigaanangal | Audio Jukebox",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jha1nHVdd7g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jha1nHVdd7g",
-          "publishedOn": "2023-07-07T10:05:44.000Z",
-          "wordCount": null,
-          "title": "Nanma Nerum Amma | Lokamaathavaaya Meryyude Bhakthigaanangal | Audio Jukebox",
-          "imageUrl": null
         }
       ]
     },
@@ -21246,6 +21236,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfLtFVqkGB-9IJaaP7au_wA",
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=eufZxSZJ6As",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eufZxSZJ6As",
+          "publishedOn": "2023-10-04T22:00:18.000Z",
+          "wordCount": null,
+          "title": "Morning Prayer Short video | Malayalam Morning Short video | Christian Short video",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=NNvyYFfXKnU",
           "author": null,
