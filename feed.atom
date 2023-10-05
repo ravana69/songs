@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-05T19:13:52.781Z</updated>
+    <updated>2023-10-05T20:18:19.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=m8N6I6h-JsM</id>
+        <link href="https://www.youtube.com/watch?v=m8N6I6h-JsM"/>
+        <updated>2023-10-05T19:30:09.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[October 6]]></title>
+        <id>https://www.youtube.com/watch?v=2YW0h0CaRJc</id>
+        <link href="https://www.youtube.com/watch?v=2YW0h0CaRJc"/>
+        <updated>2023-10-05T19:25:06.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 6 # Athiravile Prarthana 6th October 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=M-HDDkXu6yg</id>
@@ -30361,33 +30379,6 @@
         <updated>2023-07-08T10:10:37.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളസിനിമയിലെ സൂപ്പർഹിറ്റ് ചലച്ചിത്രഗാനങ്ങൾ | SUPERHIT SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=RjyKwkX6VkQ</id>
-        <link href="https://www.youtube.com/watch?v=RjyKwkX6VkQ"/>
-        <updated>2023-07-08T07:37:31.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തന്റെ പ്രണയിനിക്ക് ഏറ്റവും ഇഷ്‌ടമുള്ള മലയാളസിനിമയിലെ 10 പ്രണയഗാനങ്ങൾ | MALAYALAM FILM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=7_YHjSICyuI</id>
-        <link href="https://www.youtube.com/watch?v=7_YHjSICyuI"/>
-        <updated>2023-07-08T07:34:03.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒന്നിനൊന്ന് മെച്ചമാം സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ കൊണ്ട് തീർത്ത ഗാനശേഖരം | EVERGREEN SUPERHIT SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=kVBq_L8Llow</id>
-        <link href="https://www.youtube.com/watch?v=kVBq_L8Llow"/>
-        <updated>2023-07-08T07:30:18.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
