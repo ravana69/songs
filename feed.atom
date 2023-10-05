@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-05T13:23:41.748Z</updated>
+    <updated>2023-10-05T14:16:19.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സ്വർഗപിതാവിൻ സ്നേഹം നിറയും സ്വർഗീയ സുനമേ കന്യാംബേ ...]]></title>
+        <id>https://www.youtube.com/watch?v=CUUGAOjzcUA</id>
+        <link href="https://www.youtube.com/watch?v=CUUGAOjzcUA"/>
+        <updated>2023-10-05T13:37:23.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nannangadikal Njangal | Kakkothikavile Appoopanthadikal | Bichu thirumala | Ouseppachan | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=oywsrJUaVsc</id>
+        <link href="https://www.youtube.com/watch?v=oywsrJUaVsc"/>
+        <updated>2023-10-05T13:30:31.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Melody Songs | P Jayachandran | Christian Devotional Songs Malayalam | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=frXWo0VOU0I</id>
+        <link href="https://www.youtube.com/watch?v=frXWo0VOU0I"/>
+        <updated>2023-10-05T13:30:17.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Punarum Puthumanam | Calendar | Cicily | Afzal Yusuf | Anil Panachooran]]></title>
         <id>https://www.youtube.com/watch?v=bCSAoJMlAOk</id>
@@ -30350,15 +30377,6 @@
         <id>https://www.youtube.com/watch?v=QPHZWxpdn4M</id>
         <link href="https://www.youtube.com/watch?v=QPHZWxpdn4M"/>
         <updated>2023-07-08T04:56:24.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malayalam Christian Devotional Songs Video | Christian Songs Video Jukebox | K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=4L0v-Z3kfVo</id>
-        <link href="https://www.youtube.com/watch?v=4L0v-Z3kfVo"/>
-        <updated>2023-07-08T01:59:42.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
         </author>
