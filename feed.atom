@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-05T02:25:31.598Z</updated>
+    <updated>2023-10-05T03:17:48.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hits of Raveendran Master | Malayalam Selected Film Songs | Yesudas | Chithra | Sound Of Arts]]></title>
+        <id>https://www.youtube.com/watch?v=HrsCb4ckClc</id>
+        <link href="https://www.youtube.com/watch?v=HrsCb4ckClc"/>
+        <updated>2023-10-05T03:00:07.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shorts | Vellaram Kannulla #shorts #viralshorts #malayalamfilmsongs #shortvideo]]></title>
         <id>https://www.youtube.com/watch?v=rBv9Kc_QZ80</id>
@@ -30136,24 +30145,6 @@
         <updated>2023-07-07T15:30:23.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അകലാത്ത സ്നേഹിതനെ ...]]></title>
-        <id>https://www.youtube.com/watch?v=KPec-b5c39E</id>
-        <link href="https://www.youtube.com/watch?v=KPec-b5c39E"/>
-        <updated>2023-07-07T14:39:44.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സന്താപമേറും ലോകയാത്രയിൽ | Sujatha | Reji Abraham | Christian Shorts Video]]></title>
-        <id>https://www.youtube.com/watch?v=i3QPTloStX0</id>
-        <link href="https://www.youtube.com/watch?v=i3QPTloStX0"/>
-        <updated>2023-07-07T14:30:13.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
