@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-05T16:24:24.799Z</updated>
+    <updated>2023-10-05T17:16:11.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -1136,6 +1136,15 @@
         <id>https://www.youtube.com/watch?v=ozkqgIo62SA</id>
         <link href="https://www.youtube.com/watch?v=ozkqgIo62SA"/>
         <updated>2023-10-03T04:16:20.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#manoramachristiandevotionalsongs #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=q_gi5sRl3Fo</id>
+        <link href="https://www.youtube.com/watch?v=q_gi5sRl3Fo"/>
+        <updated>2023-10-03T04:15:50.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
         </author>
@@ -30368,24 +30377,6 @@
         <id>https://www.youtube.com/watch?v=Bo88PKGxQhY</id>
         <link href="https://www.youtube.com/watch?v=Bo88PKGxQhY"/>
         <updated>2023-07-08T05:22:42.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kodumkattum Thiramalayum | Riya Das | Charles John | Malayalam Christian Shorts Video]]></title>
-        <id>https://www.youtube.com/watch?v=Etm9uu1bX1E</id>
-        <link href="https://www.youtube.com/watch?v=Etm9uu1bX1E"/>
-        <updated>2023-07-08T05:03:59.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannuneerin Thazhvarayil | Riya Das | Charles John | Malayalam Christian Shorts Video]]></title>
-        <id>https://www.youtube.com/watch?v=QPHZWxpdn4M</id>
-        <link href="https://www.youtube.com/watch?v=QPHZWxpdn4M"/>
-        <updated>2023-07-08T04:56:24.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
         </author>
