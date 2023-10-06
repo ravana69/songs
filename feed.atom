@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-06T05:16:35.672Z</updated>
+    <updated>2023-10-06T06:23:25.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാഗ സുധാരസ Raaga Sudharasa Remastered Sargam Movie Song   K. J. Yesudas Thyagaraja]]></title>
+        <id>https://www.youtube.com/watch?v=hESOb87SIFM</id>
+        <link href="https://www.youtube.com/watch?v=hESOb87SIFM"/>
+        <updated>2023-10-06T05:37:47.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paranjilla Njan | Mambazhakkalam | Beautiful Song by K J Yesudas  #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=YLJE0lK0rn0</id>
+        <link href="https://www.youtube.com/watch?v=YLJE0lK0rn0"/>
+        <updated>2023-10-06T05:30:12.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Friday | മാതാവിനോട് പ്രാർത്ഥിക്കാം ഈ ഗാനത്തിലൂടെ | #shorts #christianshorts #mathavu]]></title>
+        <id>https://www.youtube.com/watch?v=__DHtK_DBFA</id>
+        <link href="https://www.youtube.com/watch?v=__DHtK_DBFA"/>
+        <updated>2023-10-06T05:27:01.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kanakachilankachaarthum | Oru Raagam Pala Thaalam1979 | Vani Jairam | Malayalam Movie Song]]></title>
         <id>https://www.youtube.com/watch?v=pRXLgsJNfdw</id>
@@ -400,6 +427,15 @@
         <updated>2023-10-05T05:01:03.000Z</updated>
         <author>
             <name>Speed Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aarambham Video Song | Imbam | Sreejith Chandran | Vineeth Sreenivasan | PS Jayhari]]></title>
+        <id>https://www.youtube.com/watch?v=9oCmhSNla4U</id>
+        <link href="https://www.youtube.com/watch?v=9oCmhSNla4U"/>
+        <updated>2023-10-05T04:53:06.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
         </author>
     </entry>
     <entry>
@@ -30325,15 +30361,6 @@
         <updated>2023-07-08T18:30:32.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്വരരാഗമേ മനസ്സിൽ നീയുണരുമ്പോൾ..| കെ ജെ യേശുദാസ് | കെ എസ് ചിത്ര | ശ്രീകുമാർ | Remastered songs]]></title>
-        <id>https://www.youtube.com/watch?v=BtV9l27z9h0</id>
-        <link href="https://www.youtube.com/watch?v=BtV9l27z9h0"/>
-        <updated>2023-07-08T17:59:23.000Z</updated>
-        <author>
-            <name>Tharangini Sound of arts Dubai</name>
         </author>
     </entry>
 </feed>
