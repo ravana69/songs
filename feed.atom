@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-06T11:14:50.976Z</updated>
+    <updated>2023-10-06T12:35:33.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നമ്മുടെയൊക്കെ മനസ്സിൽ ചില നൊമ്പരങ്ങളില്ലേ ആരോടും പറയാത്ത ചില സങ്കടങ്ങൾ| Rev. Aneesh P Joseph|#shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Z76PmowzzEA</id>
+        <link href="https://www.youtube.com/watch?v=Z76PmowzzEA"/>
+        <updated>2023-10-06T12:30:30.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Love you Mummy Animation Video | Animation Video Songs | Animation Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=4st3eCb7DNg</id>
+        <link href="https://www.youtube.com/watch?v=4st3eCb7DNg"/>
+        <updated>2023-10-06T12:30:10.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Penkidavu | Prajapathi | Gireesh Puthanchery | Thej Merlin | Jassie Gift]]></title>
+        <id>https://www.youtube.com/watch?v=XxCg0d3UaZs</id>
+        <link href="https://www.youtube.com/watch?v=XxCg0d3UaZs"/>
+        <updated>2023-10-06T12:15:03.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thumbikale Onathumbikale Video Song | Pathamudayam  | Mohanlal | Urvashi |]]></title>
+        <id>https://www.youtube.com/watch?v=-vmsJ1SiCVE</id>
+        <link href="https://www.youtube.com/watch?v=-vmsJ1SiCVE"/>
+        <updated>2023-10-06T12:15:00.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chembarathi Poove Chollu | Shyama | K S Chithra | Raghukumar | Shibhu Chakravarthy]]></title>
+        <id>https://www.youtube.com/watch?v=usoxgTmljk4</id>
+        <link href="https://www.youtube.com/watch?v=usoxgTmljk4"/>
+        <updated>2023-10-06T12:00:56.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 6th of October 2023]]></title>
+        <id>https://www.youtube.com/watch?v=rnHtXL8Bbbg</id>
+        <link href="https://www.youtube.com/watch?v=rnHtXL8Bbbg"/>
+        <updated>2023-10-06T11:30:25.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maaripraave Maayapraave | Dhosth | Kunchacko Boban | Dileep | Vidyasagar | Balabhaskar]]></title>
+        <id>https://www.youtube.com/watch?v=DKXfKPBvW8Y</id>
+        <link href="https://www.youtube.com/watch?v=DKXfKPBvW8Y"/>
+        <updated>2023-10-06T11:30:11.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paalazhi Theeram Video Song | Uthaman | Jayaram | Siddiq | KJ Yesudas | Johnson | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=0tc20tc-Yho</id>
+        <link href="https://www.youtube.com/watch?v=0tc20tc-Yho"/>
+        <updated>2023-10-06T11:30:00.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Theeravum Video Song | Acid Movie | Navneet | Krithikha S | Aravind Dileep Nair | Abins Alias]]></title>
         <id>https://www.youtube.com/watch?v=yTc7Tbg4VfY</id>
@@ -1300,6 +1372,15 @@
         <updated>2023-10-03T06:30:07.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pilarnnatham Paraye | Christian Reels  #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=ly7BwZs_-RA</id>
+        <link href="https://www.youtube.com/watch?v=ly7BwZs_-RA"/>
+        <updated>2023-10-03T06:02:31.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -30379,24 +30460,6 @@
         <updated>2023-07-09T01:30:25.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാതങ്ങൾ അനുഗ്രഹ പൂരിതമാക്കിയ പ്രഭാത ഗാനങ്ങൾ | Christian Devotional Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=cx0H5AjDvF0</id>
-        <link href="https://www.youtube.com/watch?v=cx0H5AjDvF0"/>
-        <updated>2023-07-09T00:30:17.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 9th of July 2023 # Mathavinte Japamala # Mahimayude Rahasyangal 9th of July 2023]]></title>
-        <id>https://www.youtube.com/watch?v=aSBgcMj1B3U</id>
-        <link href="https://www.youtube.com/watch?v=aSBgcMj1B3U"/>
-        <updated>2023-07-09T00:30:00.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
