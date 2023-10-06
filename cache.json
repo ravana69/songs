@@ -21447,6 +21447,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfLtFVqkGB-9IJaaP7au_wA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=va9zUdwrTk8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=va9zUdwrTk8",
+          "publishedOn": "2023-10-06T20:36:55.000Z",
+          "wordCount": null,
+          "title": "October 7",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=abN7sWoKvoA",
           "author": null,
           "description": "",
