@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-06T03:17:43.239Z</updated>
+    <updated>2023-10-06T04:20:37.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -30316,15 +30316,6 @@
         <updated>2023-07-08T17:59:23.000Z</updated>
         <author>
             <name>Tharangini Sound of arts Dubai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onnam Kombathe | Ottamandaram | Ramesh Narayan | Bhama | Shweta Mohan | Vinod Mankara]]></title>
-        <id>https://www.youtube.com/watch?v=8qOF50S0Wp8</id>
-        <link href="https://www.youtube.com/watch?v=8qOF50S0Wp8"/>
-        <updated>2023-07-08T15:30:04.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
 </feed>
