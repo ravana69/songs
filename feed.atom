@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-06T17:15:51.872Z</updated>
+    <updated>2023-10-06T18:23:02.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 7th October 2023]]></title>
+        <id>https://www.youtube.com/watch?v=Uqak6Q1cSVE</id>
+        <link href="https://www.youtube.com/watch?v=Uqak6Q1cSVE"/>
+        <updated>2023-10-06T18:00:14.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കണ്ണെത്താദൂരെ മറുതീരം..| ഭരതൻ ഹിറ്റ്‌സ് | K J Yesudas | KS Chithra | Bharathan Hits]]></title>
+        <id>https://www.youtube.com/watch?v=tZu1XpFfM-A</id>
+        <link href="https://www.youtube.com/watch?v=tZu1XpFfM-A"/>
+        <updated>2023-10-06T17:51:11.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paalaazhee Theeram Kandu Njaan Remastered Audio Song Uthaman  Gayathri Asokan Kaithapram Johnson]]></title>
         <id>https://www.youtube.com/watch?v=olHrnISGlu0</id>
@@ -30523,15 +30541,6 @@
         <updated>2023-07-09T07:30:13.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പാട്ടുപെട്ടി - Paattupetti Vol 15 | Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=eOL3ev-QO0w</id>
-        <link href="https://www.youtube.com/watch?v=eOL3ev-QO0w"/>
-        <updated>2023-07-09T06:00:12.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
         </author>
     </entry>
 </feed>
