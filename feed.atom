@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-06T04:20:37.425Z</updated>
+    <updated>2023-10-06T05:16:35.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kanakachilankachaarthum | Oru Raagam Pala Thaalam1979 | Vani Jairam | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=pRXLgsJNfdw</id>
+        <link href="https://www.youtube.com/watch?v=pRXLgsJNfdw"/>
+        <updated>2023-10-06T04:55:00.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maarimalar Choriyunna | Maram | Yousafali Kecheri | Madhuri | KPAC Lalitha | Devarajan Master]]></title>
+        <id>https://www.youtube.com/watch?v=QlT9XIlqCHg</id>
+        <link href="https://www.youtube.com/watch?v=QlT9XIlqCHg"/>
+        <updated>2023-10-06T04:30:09.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kshanakathu Malayalam Film Songs | Yesudas | Chithra | Sharreth | Sound of Arts | Audio Jukebox]]></title>
         <id>https://www.youtube.com/watch?v=KO9tWl3g1Ao</id>
