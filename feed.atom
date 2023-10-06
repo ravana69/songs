@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-06T01:16:09.882Z</updated>
+    <updated>2023-10-06T02:23:46.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shorts | Johny Mone Johny #shorts #viralshorts #malayalamfilmsongs #shortvideo]]></title>
+        <id>https://www.youtube.com/watch?v=SfrRxeIc_Vw</id>
+        <link href="https://www.youtube.com/watch?v=SfrRxeIc_Vw"/>
+        <updated>2023-10-06T01:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദുഃഖത്തിൻറെ  രഹസ്യങ്ങൾ #sangeetha #japamala dhukkam #6th october 23 #maadhavinte japamala sangeetha]]></title>
         <id>https://www.youtube.com/watch?v=t6MWOqpP8Go</id>
@@ -30307,33 +30316,6 @@
         <updated>2023-07-08T15:30:04.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kantha Varavu Kathu | Hephsibha Benson | Malayalam Christian Devotional Songs | കാന്താ വരവ് കാത്ത്]]></title>
-        <id>https://www.youtube.com/watch?v=70Fh_FkGTi0</id>
-        <link href="https://www.youtube.com/watch?v=70Fh_FkGTi0"/>
-        <updated>2023-07-08T14:07:04.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദാസനായി കരുതണെ വരികയായ് ഞാൻ പിതാവേ...]]></title>
-        <id>https://www.youtube.com/watch?v=lV_OuNTCDU0</id>
-        <link href="https://www.youtube.com/watch?v=lV_OuNTCDU0"/>
-        <updated>2023-07-08T13:51:49.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshu Nadha Ente Rekshka | Christian Video Song | Sebu George | Manu Vakathanam | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=MiSfwW7DNJs</id>
-        <link href="https://www.youtube.com/watch?v=MiSfwW7DNJs"/>
-        <updated>2023-07-08T13:30:08.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
