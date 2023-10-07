@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-07T22:15:42.623Z</updated>
+    <updated>2023-10-07T23:16:00.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -30721,24 +30721,6 @@
         <updated>2023-07-10T11:30:05.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aradhya - Song Promo | Kushi (Malayalam) | Vijay Deverakonda, Samantha | Hesham Abdul Wahab]]></title>
-        <id>https://www.youtube.com/watch?v=_DBNkFGus0U</id>
-        <link href="https://www.youtube.com/watch?v=_DBNkFGus0U"/>
-        <updated>2023-07-10T10:35:00.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sarvashakthan | Swargapithaavinte gaanangal | Kristheeya Bhakthigaanangal | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=W_0HZR1F4YQ</id>
-        <link href="https://www.youtube.com/watch?v=W_0HZR1F4YQ"/>
-        <updated>2023-07-10T10:25:06.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
