@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-07T07:14:32.567Z</updated>
+    <updated>2023-10-07T08:19:47.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികൾ നൂറിൽ നൂറുപേരും ഒരേ മനസോടെ അംഗീകരിക്കുന്ന മമ്മൂട്ടിയുടെ മെഗാഹിറ്റ്ഗാനങ്ങൾ |  MAMMOOTTY HITS]]></title>
+        <id>https://www.youtube.com/watch?v=hkHbWl94sVs</id>
+        <link href="https://www.youtube.com/watch?v=hkHbWl94sVs"/>
+        <updated>2023-10-07T07:30:19.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Katte Nee Veesaruthippol | Kattu Vannu Vilichappol | KS Chithra | M G Radhakrishnan | Chippy]]></title>
+        <id>https://www.youtube.com/watch?v=oEUhkgFiEr0</id>
+        <link href="https://www.youtube.com/watch?v=oEUhkgFiEr0"/>
+        <updated>2023-10-07T07:30:11.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സ്വന്തം കുഞ്ഞിനെപ്പോലെ മനസ്സിൽ താലോലിക്കുന്ന മലയാളസിനിമയിലെ എക്കാലത്തെയും മികച്ച ഗാനങ്ങൾ | EVERGREEN]]></title>
+        <id>https://www.youtube.com/watch?v=PKT5NUTbU9I</id>
+        <link href="https://www.youtube.com/watch?v=PKT5NUTbU9I"/>
+        <updated>2023-10-07T07:30:07.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കുളിരോളമായ്‌ | Kulirolamaay | Padanayakan Malayalam Movie Song | Dileep hit Songs]]></title>
         <id>https://www.youtube.com/watch?v=aPW0Qk-7QcE</id>
@@ -30577,15 +30604,6 @@
         <updated>2023-07-10T00:00:30.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 10 # Athiravile Prarthana 10th of July 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=WWmnVigD6as</id>
-        <link href="https://www.youtube.com/watch?v=WWmnVigD6as"/>
-        <updated>2023-07-09T20:00:07.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
