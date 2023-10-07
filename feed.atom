@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-07T20:16:44.449Z</updated>
+    <updated>2023-10-07T21:13:46.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -30730,15 +30730,6 @@
         <updated>2023-07-10T10:25:06.000Z</updated>
         <author>
             <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthuthipin sthuthippin / സ്തുതിപ്പിന്‍ സ്തുതിപ്പിന്‍ യേശു ദേവനെ / DEEPA MARIYAM]]></title>
-        <id>https://www.youtube.com/watch?v=8qn2mAs8-zo</id>
-        <link href="https://www.youtube.com/watch?v=8qn2mAs8-zo"/>
-        <updated>2023-07-10T08:42:47.000Z</updated>
-        <author>
-            <name>elpida songs</name>
         </author>
     </entry>
 </feed>
