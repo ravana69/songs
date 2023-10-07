@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-07T16:20:31.436Z</updated>
+    <updated>2023-10-07T17:14:17.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ariyaatha Pushpavum  Video Song ( F) | Thirakal Ezhuthiya Kavitha |  P Susheela]]></title>
+        <id>https://www.youtube.com/watch?v=M9qWyXM_WsE</id>
+        <link href="https://www.youtube.com/watch?v=M9qWyXM_WsE"/>
+        <updated>2023-10-07T16:30:02.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ജപമാല ചൊല്ലി പ്രാർത്ഥിക്കും ഞങ്ങളെ , കാത്തീടണേ എൻ ദൈവ മാതേ...]]></title>
         <id>https://www.youtube.com/watch?v=3pnyBKHbjRU</id>
@@ -30719,24 +30728,6 @@
         <id>https://www.youtube.com/watch?v=C-84jri3QlY</id>
         <link href="https://www.youtube.com/watch?v=C-84jri3QlY"/>
         <updated>2023-07-10T06:26:32.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non Stop Malayalam Movie Songs | Film Songs Video Jukebox | Malayalam Film Video Songs]]></title>
-        <id>https://www.youtube.com/watch?v=3Qlc7DQZY7c</id>
-        <link href="https://www.youtube.com/watch?v=3Qlc7DQZY7c"/>
-        <updated>2023-07-10T04:45:22.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thappu Kottana Thappandi | Naadan Pattu Album | Swetha Ashok | P C Dean | Kannan Dean (Slow Flow)]]></title>
-        <id>https://www.youtube.com/watch?v=DesQZ0bQb9g</id>
-        <link href="https://www.youtube.com/watch?v=DesQZ0bQb9g"/>
-        <updated>2023-07-10T04:36:44.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
