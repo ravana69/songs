@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-07T11:13:06.838Z</updated>
+    <updated>2023-10-07T12:31:27.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Marivillin Gopurangal Video Song | HD | Summer in Bethlehem Movie Song | REMASTERED |]]></title>
+        <id>https://www.youtube.com/watch?v=YHzl1KMwpR4</id>
+        <link href="https://www.youtube.com/watch?v=YHzl1KMwpR4"/>
+        <updated>2023-10-07T12:30:28.000Z</updated>
+        <author>
+            <name>Wilson Video Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒരു തൂവൽ നഷ്ടപ്പെട്ടെന്ന്  കരുതി ഒരു പക്ഷിയും പറക്കാതിരുന്നിട്ടില്ല | Rev. Aneesh P Joseph | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=FGHcNQo0xWg</id>
+        <link href="https://www.youtube.com/watch?v=FGHcNQo0xWg"/>
+        <updated>2023-10-07T12:30:09.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ormakal Verodum | Doctor Love | Kunchacko Boban #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=oRJOo1fYirw</id>
+        <link href="https://www.youtube.com/watch?v=oRJOo1fYirw"/>
+        <updated>2023-10-07T12:15:09.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ekaanthamaam Ee Bhoomiyil | Shyama | P Jayachandran | Raghukumar | Shibhu Chakravarthy]]></title>
+        <id>https://www.youtube.com/watch?v=CWi2hRMXAxc</id>
+        <link href="https://www.youtube.com/watch?v=CWi2hRMXAxc"/>
+        <updated>2023-10-07T12:00:14.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaradhyan | Fr. Bibin George | Fr. Augustine Laiju Kandanattuthara | New Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=1ceipes0cj4</id>
+        <link href="https://www.youtube.com/watch?v=1ceipes0cj4"/>
+        <updated>2023-10-07T12:00:09.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vasantham Varnappookkuda Choodi | K S Chithra | Johnson | Kunchacko Boban , Samyuktha Varma, Asin]]></title>
+        <id>https://www.youtube.com/watch?v=-Jw2XpTau3E</id>
+        <link href="https://www.youtube.com/watch?v=-Jw2XpTau3E"/>
+        <updated>2023-10-07T12:00:00.000Z</updated>
+        <author>
+            <name>Malayalam Film songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ankachuvadukal - Lyrical Video | Anappaara Achamma | MG Sreekumar | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=gBnt4L1Z0n0</id>
+        <link href="https://www.youtube.com/watch?v=gBnt4L1Z0n0"/>
+        <updated>2023-10-07T11:55:53.000Z</updated>
+        <author>
+            <name>MC Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Melody Songs | Wilson Piravom |Christian Devotional Songs Malayalam | Sujatha | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=jBql-zQMp8M</id>
+        <link href="https://www.youtube.com/watch?v=jBql-zQMp8M"/>
+        <updated>2023-10-07T11:30:19.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 7th of October 2023]]></title>
+        <id>https://www.youtube.com/watch?v=927CTJgZFGk</id>
+        <link href="https://www.youtube.com/watch?v=927CTJgZFGk"/>
+        <updated>2023-10-07T11:30:04.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alakadalin Alakalil | December | Manjulan | Jyotsna | Jassie Gift | Kaithapram | Aparna Pillai]]></title>
         <id>https://www.youtube.com/watch?v=FBLNifvMccM</id>
@@ -30622,42 +30703,6 @@
         <updated>2023-07-10T02:08:44.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 10th of July  2023 # Mathavinte Japamala # Santhoshathinte Rahasyangal 10th of July 2023]]></title>
-        <id>https://www.youtube.com/watch?v=zsKpuTe5H5g</id>
-        <link href="https://www.youtube.com/watch?v=zsKpuTe5H5g"/>
-        <updated>2023-07-10T00:30:25.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Morning Prayer Songs | Wilson Pirvaom | Prabhatha Geethangal | Christian Melody Songs]]></title>
-        <id>https://www.youtube.com/watch?v=fGevnQV66g4</id>
-        <link href="https://www.youtube.com/watch?v=fGevnQV66g4"/>
-        <updated>2023-07-10T00:30:21.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 10 shorts  # Athiravile Prarthana 10th of July 2023 Morning Prayer shorts]]></title>
-        <id>https://www.youtube.com/watch?v=kxnv3uFO8o0</id>
-        <link href="https://www.youtube.com/watch?v=kxnv3uFO8o0"/>
-        <updated>2023-07-10T00:05:34.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം# July 10th  mother Mary prayer and songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=yoW8iyL4qeI</id>
-        <link href="https://www.youtube.com/watch?v=yoW8iyL4qeI"/>
-        <updated>2023-07-10T00:00:30.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
         </author>
     </entry>
 </feed>
