@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-08T10:16:54.259Z</updated>
+    <updated>2023-10-08T11:12:57.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Karkuzhali Thenkuruvi | Kasthooriman | Kunchakko Boban | Meera Jasmine | Ouseppachan | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=67_J83hGAMo</id>
+        <link href="https://www.youtube.com/watch?v=67_J83hGAMo"/>
+        <updated>2023-10-08T10:30:02.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pulli Movie | Jiju Asokan | Dev Mohan | Indrans | Kalabhavan Shajohn]]></title>
+        <id>https://www.youtube.com/watch?v=SYY4LP9yRjY</id>
+        <link href="https://www.youtube.com/watch?v=SYY4LP9yRjY"/>
+        <updated>2023-10-08T09:09:30.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Melleyonnu Paadi Ninne Video Song | Manassinakkare | Ilayaraja | KJ Yesudas | Nayanthara | Jayaram]]></title>
         <id>https://www.youtube.com/watch?v=BVMntT3IJmQ</id>
