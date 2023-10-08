@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-08T16:20:28.397Z</updated>
+    <updated>2023-10-08T17:14:29.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -30748,24 +30748,6 @@
         <updated>2023-07-11T05:30:09.000Z</updated>
         <author>
             <name>Tips Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junile Nilamazhayil Shorts | Nammal Thammil | Prithviraj | Geethu Mohandas | Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=7rTKF4qLfpQ</id>
-        <link href="https://www.youtube.com/watch?v=7rTKF4qLfpQ"/>
-        <updated>2023-07-11T04:36:15.000Z</updated>
-        <author>
-            <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Katte Katte Mindalle | Sathyam | Prithviraj | Priyamani | M.G.Sreekumar | Vinayan | M.Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=g7ZeE05zKig</id>
-        <link href="https://www.youtube.com/watch?v=g7ZeE05zKig"/>
-        <updated>2023-07-11T04:30:21.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
