@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-08T05:15:49.774Z</updated>
+    <updated>2023-10-08T06:22:05.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NINAKKU VENDI NJAAN DHARAYIL|നിനക്ക് വേണ്ടി ഞാൻ ധരയിൽI ROY PUTHUR & TEAM|SHINU VARUGHESE||9048210439]]></title>
+        <id>https://www.youtube.com/watch?v=2wbuM3JgE8E</id>
+        <link href="https://www.youtube.com/watch?v=2wbuM3JgE8E"/>
+        <updated>2023-10-08T06:13:07.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പാട്ടുപെട്ടി - Paattupetti Vol 28 | Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=517GXqN7KRk</id>
+        <link href="https://www.youtube.com/watch?v=517GXqN7KRk"/>
+        <updated>2023-10-08T06:00:04.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pranayamayi Radha | Lyrical Video | Aami | Shreya Ghoshal | Vijay Yesudas | M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=WX05PhgWccA</id>
+        <link href="https://www.youtube.com/watch?v=WX05PhgWccA"/>
+        <updated>2023-10-08T05:30:06.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paalaazhee Theeram Kandu Remastered Audio Song Uthaman Movie Song KJ Yesudas Kaithapram Johnson]]></title>
         <id>https://www.youtube.com/watch?v=oO6xSORXlTM</id>
