@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-08T07:14:29.709Z</updated>
+    <updated>2023-10-08T08:19:44.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Swargangal Swapnam Kanum | Malootty | Johnson | Pazhavila Ramesan | Sujatha | G Venugopal | Jayaram]]></title>
+        <id>https://www.youtube.com/watch?v=uLYbeiUyOtQ</id>
+        <link href="https://www.youtube.com/watch?v=uLYbeiUyOtQ"/>
+        <updated>2023-10-08T07:30:14.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എന്റെ പേര് വിളിക്കയാണോ #varnakazhchakal #shortsyoutube #dileep #poornimaindrajith]]></title>
+        <id>https://www.youtube.com/watch?v=jwj5zE2AtV0</id>
+        <link href="https://www.youtube.com/watch?v=jwj5zE2AtV0"/>
+        <updated>2023-10-08T07:30:09.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aakasham Dhooreyenatho | Dr. Love | Najim Arshad |Vivekanandan]]></title>
         <id>https://www.youtube.com/watch?v=YtlBAPv0zUY</id>
@@ -30710,15 +30728,6 @@
         <id>https://www.youtube.com/watch?v=Zf5P7wd7iCU</id>
         <link href="https://www.youtube.com/watch?v=Zf5P7wd7iCU"/>
         <updated>2023-07-10T23:53:05.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന July 11 # Athiravile Prarthana 11th of July 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=QkRdx_5PMuI</id>
-        <link href="https://www.youtube.com/watch?v=QkRdx_5PMuI"/>
-        <updated>2023-07-10T20:00:08.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
