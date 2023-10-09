@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-09T18:22:58.375Z</updated>
+    <updated>2023-10-09T19:13:40.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  October 10 # Athiravile Prarthana 10th of October 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=h78LiN0cmww</id>
+        <link href="https://www.youtube.com/watch?v=h78LiN0cmww"/>
+        <updated>2023-10-09T19:00:30.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജപമാല ഗീതങ്ങള്‍ # Holy Rosary Special Songs Malayalam |  Month of Holy Rosary October 2023 Songs]]></title>
+        <id>https://www.youtube.com/watch?v=1rV5p4r21jE</id>
+        <link href="https://www.youtube.com/watch?v=1rV5p4r21jE"/>
+        <updated>2023-10-09T18:30:01.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hopping for #NeelaNilave | #RDX | #KapilKapilan | #SamCS | #shorts #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=mY8kvv2IpIs</id>
