@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-09T07:16:20.949Z</updated>
+    <updated>2023-10-09T08:23:46.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നമ്മുടെ ഓരോ ദിവസവും വിശേഷദിവസമായി മാറ്റും സൂപ്പർഹിറ്റ് സിനിമാഗാനങ്ങൾ ! MALAYALAM FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=xrTFslpWd48</id>
+        <link href="https://www.youtube.com/watch?v=xrTFslpWd48"/>
+        <updated>2023-10-09T07:30:13.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aayiram Kannumay | Nokkethadhoorathu Kannum Nattu |Nadiya Moithu | Evergreen Hits |Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=g2XS0xf0FJI</id>
+        <link href="https://www.youtube.com/watch?v=g2XS0xf0FJI"/>
+        <updated>2023-10-09T07:30:11.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pulare Poonkodiyil Remastering Audio Song Amaram Movie Song KJ Yesudas Kaithapram Raveendran]]></title>
         <id>https://www.youtube.com/watch?v=JH0FhxorAO4</id>
@@ -30719,15 +30737,6 @@
         <id>https://www.youtube.com/watch?v=VtfmASsmhu4</id>
         <link href="https://www.youtube.com/watch?v=VtfmASsmhu4"/>
         <updated>2023-07-11T21:23:00.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 12 # Athiravile Prarthana 12th of July 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=tZNe9dJVbVA</id>
-        <link href="https://www.youtube.com/watch?v=tZNe9dJVbVA"/>
-        <updated>2023-07-11T20:00:30.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
