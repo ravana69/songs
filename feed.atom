@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-09T22:16:05.889Z</updated>
+    <updated>2023-10-09T23:16:54.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -30800,33 +30800,6 @@
         <id>https://www.youtube.com/watch?v=Q7P1FqgcDtM</id>
         <link href="https://www.youtube.com/watch?v=Q7P1FqgcDtM"/>
         <updated>2023-07-12T11:30:16.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennuyire - Lyrical Video | Chethaaram | Sujatha Mohan, Biju Narayanan | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=Yo1j9oxJbi0</id>
-        <link href="https://www.youtube.com/watch?v=Yo1j9oxJbi0"/>
-        <updated>2023-07-12T10:43:48.000Z</updated>
-        <author>
-            <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pularoli Vannu | Beautiful song by Vijay Yesudas from Mammootty Film Bhaskar the Rascal  #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=lKZ9JvcjDgQ</id>
-        <link href="https://www.youtube.com/watch?v=lKZ9JvcjDgQ"/>
-        <updated>2023-07-12T10:30:13.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kilimakale Nee Kando | Kattuchembakam | P Jayachandran | Sujatha Mohan | Mohan Sithara | Vinayan]]></title>
-        <id>https://www.youtube.com/watch?v=26D86sLLar8</id>
-        <link href="https://www.youtube.com/watch?v=26D86sLLar8"/>
-        <updated>2023-07-12T10:30:00.000Z</updated>
         <author>
             <name>Satyam Audios</name>
         </author>
