@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-09T09:18:57.770Z</updated>
+    <updated>2023-10-09T10:20:47.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azhalaayi Nee | Velutha Madhuram | Vineeth Sreenivasan | Shyju Pallikkunnu | Jithin Devasya]]></title>
+        <id>https://www.youtube.com/watch?v=VyMPz86jyZU</id>
+        <link href="https://www.youtube.com/watch?v=VyMPz86jyZU"/>
+        <updated>2023-10-09T09:30:58.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enne Karuthunna Vidhangal Christian Devotional Reels 03]]></title>
+        <id>https://www.youtube.com/watch?v=ZuZQLQxxtqM</id>
+        <link href="https://www.youtube.com/watch?v=ZuZQLQxxtqM"/>
+        <updated>2023-10-09T09:30:12.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നമ്മുടെ ഓരോ ദിവസവും വിശേഷദിവസമായി മാറ്റും സൂപ്പർഹിറ്റ് സിനിമാഗാനങ്ങൾ ! MALAYALAM FILM SONGS]]></title>
         <id>https://www.youtube.com/watch?v=xrTFslpWd48</id>
@@ -30730,15 +30748,6 @@
         <updated>2023-07-12T00:30:01.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 12 shorts  # Athiravile Prarthana 12th of July 2023 Morning Prayer shorts]]></title>
-        <id>https://www.youtube.com/watch?v=VtfmASsmhu4</id>
-        <link href="https://www.youtube.com/watch?v=VtfmASsmhu4"/>
-        <updated>2023-07-11T21:23:00.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
