@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-09T03:17:36.334Z</updated>
+    <updated>2023-10-09T04:21:01.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Karaoke Padipukazhthidam Devadevane | Rev. C. John | Malayalam Christian Songs Karaoke | Minus Track]]></title>
+        <id>https://www.youtube.com/watch?v=eF_IFGCqEH0</id>
+        <link href="https://www.youtube.com/watch?v=eF_IFGCqEH0"/>
+        <updated>2023-10-09T03:47:39.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Selected Malayalam Film Songs | Yesudas | Chithra | Raveeendran | Sound of Arts | Malayalam Jukebox]]></title>
         <id>https://www.youtube.com/watch?v=A3tDwuKwnq8</id>
@@ -30712,15 +30721,6 @@
         <updated>2023-07-11T18:30:32.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambilipoo Maarano | Sreekrishnapurathu Nakshathrathilakkam | Jagathy | Innocent | Nagma]]></title>
-        <id>https://www.youtube.com/watch?v=hMMYbMxNjeM</id>
-        <link href="https://www.youtube.com/watch?v=hMMYbMxNjeM"/>
-        <updated>2023-07-11T15:30:11.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
 </feed>
