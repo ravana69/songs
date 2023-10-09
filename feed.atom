@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-09T19:13:40.042Z</updated>
+    <updated>2023-10-09T20:17:21.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=TK2Ndbwge_4</id>
+        <link href="https://www.youtube.com/watch?v=TK2Ndbwge_4"/>
+        <updated>2023-10-09T19:30:01.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  October 10 # Athiravile Prarthana 10th of October 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=h78LiN0cmww</id>
@@ -30838,24 +30847,6 @@
         <updated>2023-07-12T08:43:24.000Z</updated>
         <author>
             <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hemandhamayi | Ponnumkudathinu Pottu | Chunakkara Ramankutty | Shyam | KJ Yesudas | Shankar]]></title>
-        <id>https://www.youtube.com/watch?v=cJBUsChKptc</id>
-        <link href="https://www.youtube.com/watch?v=cJBUsChKptc"/>
-        <updated>2023-07-12T07:30:11.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു കേൾവിക്കാരന്റെ മനസ്സിൽ എന്നും മായാതെ നിൽക്കുന്ന മധുര മനോഹര ഗാനങ്ങൾ | EVERGREEN HIT SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=eHQBcaWcQuY</id>
-        <link href="https://www.youtube.com/watch?v=eHQBcaWcQuY"/>
-        <updated>2023-07-12T07:30:08.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
