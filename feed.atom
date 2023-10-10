@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-10T10:19:42.266Z</updated>
+    <updated>2023-10-10T11:14:31.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kunnimanikoottil | Summer in Bethlehem | MG Sreekumar | KS Chithra | Jayaram | Suresh Gopi]]></title>
+        <id>https://www.youtube.com/watch?v=E56_Iz8RRdM</id>
+        <link href="https://www.youtube.com/watch?v=E56_Iz8RRdM"/>
+        <updated>2023-10-10T10:56:11.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pakaliravukal - RnB Soul Mix | Kurup (Malayalam) | Sushin Shyam | Neha Nair | Jeruson]]></title>
+        <id>https://www.youtube.com/watch?v=sGXrjIn4lyE</id>
+        <link href="https://www.youtube.com/watch?v=sGXrjIn4lyE"/>
+        <updated>2023-10-10T10:30:17.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നിർമ്മലയാം കന്യകയേ.. Hail Mary Tune #haimary #rosary #shorts #mobetrajan]]></title>
         <id>https://www.youtube.com/watch?v=T3oCOJ2dJZ0</id>
@@ -30856,15 +30874,6 @@
         <updated>2023-07-13T00:30:02.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 13 shorts  # Athiravile Prarthana 13th of July 2023 Morning Prayer shorts]]></title>
-        <id>https://www.youtube.com/watch?v=b2QrlLaOJnk</id>
-        <link href="https://www.youtube.com/watch?v=b2QrlLaOJnk"/>
-        <updated>2023-07-12T23:00:13.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
