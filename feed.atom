@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-10T04:20:33.012Z</updated>
+    <updated>2023-10-10T05:16:32.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thamburuvil Shruthi | C. I. Mahadevan 5 Adi 4 Inchu 2004 | Madhu Balakrishnan | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=qGaHrut0AlM</id>
+        <link href="https://www.youtube.com/watch?v=qGaHrut0AlM"/>
+        <updated>2023-10-10T05:02:31.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chenkadhali Kumbilile | Chattambinadu | Mammootty | Lakshmi Rai | Rimi Tomy]]></title>
+        <id>https://www.youtube.com/watch?v=_PJEkjknqBM</id>
+        <link href="https://www.youtube.com/watch?v=_PJEkjknqBM"/>
+        <updated>2023-10-10T04:30:17.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shyamambharam Neele | Artham | Yesudas | Johnson | Mammootty | Sound of Arts]]></title>
         <id>https://www.youtube.com/watch?v=w-DsbCvxc-Q</id>
