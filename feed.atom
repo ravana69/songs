@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-10T01:15:44.257Z</updated>
+    <updated>2023-10-10T02:23:13.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chimmi Chimmi | Shorts #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=vlPfVub67Ts</id>
+        <link href="https://www.youtube.com/watch?v=vlPfVub67Ts"/>
+        <updated>2023-10-10T01:30:20.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ente Sambathennu Cholluvan | Sadhu Kochukunjupadeshi #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=5Ce3r1yRUXI</id>
+        <link href="https://www.youtube.com/watch?v=5Ce3r1yRUXI"/>
+        <updated>2023-10-10T01:30:01.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Singer Of The Week | Shibu Antony |  Christian Devotional Songs Malayalam | Joji Johns]]></title>
         <id>https://www.youtube.com/watch?v=wYMFmRz7yEY</id>
@@ -30748,33 +30766,6 @@
         <updated>2023-07-12T15:30:19.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തിന്മയെല്ലാം വെടിഞ്ഞിടു നന്മ മാത്രം ചെയ്തിടു ...]]></title>
-        <id>https://www.youtube.com/watch?v=LyZLOvgyuAE</id>
-        <link href="https://www.youtube.com/watch?v=LyZLOvgyuAE"/>
-        <updated>2023-07-12T13:58:13.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Superhit Songs | Joby Kidaram | Christian Devotional Songs Malayalam | Biju Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=G0Exp_impyQ</id>
-        <link href="https://www.youtube.com/watch?v=G0Exp_impyQ"/>
-        <updated>2023-07-12T13:30:14.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thumbipenne Va Va | Dhruvam | Mammootty | Jayaram | Yesudas | SP Venkitesh - HD Video Song]]></title>
-        <id>https://www.youtube.com/watch?v=4fUtaGO0zlI</id>
-        <link href="https://www.youtube.com/watch?v=4fUtaGO0zlI"/>
-        <updated>2023-07-12T13:30:02.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
