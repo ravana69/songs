@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-10T17:14:03.461Z</updated>
+    <updated>2023-10-10T18:22:39.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 11th October 23]]></title>
+        <id>https://www.youtube.com/watch?v=ku1N5AUGlgE</id>
+        <link href="https://www.youtube.com/watch?v=ku1N5AUGlgE"/>
+        <updated>2023-10-10T18:00:15.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[October 11]]></title>
+        <id>https://www.youtube.com/watch?v=aT5KbM8sx_o</id>
+        <link href="https://www.youtube.com/watch?v=aT5KbM8sx_o"/>
+        <updated>2023-10-10T17:51:33.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[October 10]]></title>
+        <id>https://www.youtube.com/watch?v=kOBWltVcT1M</id>
+        <link href="https://www.youtube.com/watch?v=kOBWltVcT1M"/>
+        <updated>2023-10-10T17:51:33.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ആരോരുമില്ലാത്ത നേരങ്ങളിൽ കണ്ണീരുതൂകുന്ന യാമങ്ങളിൽ ...]]></title>
         <id>https://www.youtube.com/watch?v=iul-oau_QFg</id>
@@ -30901,15 +30928,6 @@
         <updated>2023-07-13T07:30:00.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Step up for #loveyoumuthe | Padmini | Saregama Malayalam #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=dBufnms6JCw</id>
-        <link href="https://www.youtube.com/watch?v=dBufnms6JCw"/>
-        <updated>2023-07-13T05:30:07.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
