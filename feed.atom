@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-10T14:17:04.594Z</updated>
+    <updated>2023-10-10T15:18:46.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pravu Movie Promotion | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=SU7B9Hqlzyc</id>
+        <link href="https://www.youtube.com/watch?v=SU7B9Hqlzyc"/>
+        <updated>2023-10-10T14:30:08.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neelavanam Poothuninnu | Kuyilinethedi | Chunakkara Ramankutty | Shyam | KJ Yesudas | Vani Jairam]]></title>
         <id>https://www.youtube.com/watch?v=vZRuUnMyzAw</id>
