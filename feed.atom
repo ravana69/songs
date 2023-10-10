@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-10T08:22:31.890Z</updated>
+    <updated>2023-10-10T09:17:42.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നിർമ്മലയാം കന്യകയേ.. Hail Mary Tune #haimary #rosary #shorts #mobetrajan]]></title>
+        <id>https://www.youtube.com/watch?v=T3oCOJ2dJZ0</id>
+        <link href="https://www.youtube.com/watch?v=T3oCOJ2dJZ0"/>
+        <updated>2023-10-10T08:51:41.000Z</updated>
+        <author>
+            <name>Celebrants India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കേരളത്തിലെ ജനങ്ങൾ സകുടുംബം സന്തോഷത്തോടെ ആസ്വദിക്കുന്ന മലയാളസിനിമയിലെ ചലച്ചിത്രഗാനങ്ങൾ !]]></title>
         <id>https://www.youtube.com/watch?v=kdRBQR7bkpQ</id>
@@ -364,6 +373,15 @@
         <updated>2023-10-09T10:39:17.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kattin Nenjil | Pachathappu | Sudheep Kumar | Anu Purushoth | Rajeev Elanthoor | Pradeep Elanthoor]]></title>
+        <id>https://www.youtube.com/watch?v=4cYCxA3I2yc</id>
+        <link href="https://www.youtube.com/watch?v=4cYCxA3I2yc"/>
+        <updated>2023-10-09T09:50:12.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
     <entry>
