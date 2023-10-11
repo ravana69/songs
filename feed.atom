@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-11T05:16:28.402Z</updated>
+    <updated>2023-10-11T06:24:24.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maarikko Maarikko | Onningu Vannengil | Nadiya Moidu | Lissy Priyadarshan | Mammootty | Shyaam]]></title>
+        <id>https://www.youtube.com/watch?v=WK8cepZwpzI</id>
+        <link href="https://www.youtube.com/watch?v=WK8cepZwpzI"/>
+        <updated>2023-10-11T06:06:16.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadalum kadangalum Remastered Audio Song Uthaman Movie Song Palakkadu KL Sreeram Kaithapram Johnson]]></title>
+        <id>https://www.youtube.com/watch?v=M24Gu29ZS9w</id>
+        <link href="https://www.youtube.com/watch?v=M24Gu29ZS9w"/>
+        <updated>2023-10-11T05:38:08.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thirayezhuthum Mannil | Meenakshi Kalyanam 1998 | Nadirsha | K. J. Yesudas | Malayalam Movie Song]]></title>
         <id>https://www.youtube.com/watch?v=_CruWdcYSx0</id>
@@ -30847,15 +30865,6 @@
         <updated>2023-07-13T18:30:10.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചെമ്പനീർ പൂപോലെൻ ചിന്തയിൽ നീ..| കെ ജെ യേശുദാസ് | കെ എസ് ചിത്ര | Remastered Malayalam movie songs]]></title>
-        <id>https://www.youtube.com/watch?v=p-x7RPODjG8</id>
-        <link href="https://www.youtube.com/watch?v=p-x7RPODjG8"/>
-        <updated>2023-07-13T17:47:30.000Z</updated>
-        <author>
-            <name>Tharangini Sound of arts Dubai</name>
         </author>
     </entry>
 </feed>
