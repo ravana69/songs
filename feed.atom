@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-11T02:23:13.366Z</updated>
+    <updated>2023-10-11T03:17:58.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mohanalal Hit Movie Songs | Yesudas | Chithra | Kaithapram | Sound of Arts]]></title>
+        <id>https://www.youtube.com/watch?v=CmWgGmUrI4k</id>
+        <link href="https://www.youtube.com/watch?v=CmWgGmUrI4k"/>
+        <updated>2023-10-11T03:00:11.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pravu Movie Promotion | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Ff1G4fqmYx0</id>
+        <link href="https://www.youtube.com/watch?v=Ff1G4fqmYx0"/>
+        <updated>2023-10-11T02:30:04.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arhathayillethumenikk | Christian Video Song | Sigi Deepak | Joji Johns | Kester| Christian Song]]></title>
         <id>https://www.youtube.com/watch?v=QJPqdw7Hh8Q</id>
@@ -30820,15 +30838,6 @@
         <updated>2023-07-13T15:30:11.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sadhuvenne | Riya Das | Charles John | Malayalam Christian Shorts Video]]></title>
-        <id>https://www.youtube.com/watch?v=K9luIvjcDSA</id>
-        <link href="https://www.youtube.com/watch?v=K9luIvjcDSA"/>
-        <updated>2023-07-13T14:30:08.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
