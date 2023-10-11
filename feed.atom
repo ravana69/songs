@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-11T19:14:07.490Z</updated>
+    <updated>2023-10-11T20:18:30.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=5tcCzaN4peU</id>
+        <link href="https://www.youtube.com/watch?v=5tcCzaN4peU"/>
+        <updated>2023-10-11T19:30:00.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 12 # Athiravile Prarthana 12th October 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=-7kiedH2QDs</id>
@@ -30910,24 +30919,6 @@
         <updated>2023-07-14T09:22:39.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ശ്രോതാക്കളുടെ ആവശ്യപ്രകാരം തെരഞ്ഞെടുത്ത ഈ ആഴ്ച്ചയിലെ മനസ്സ് മടുക്കാത്ത മലയാളസിനിമാഗാനങ്ങൾ | NISARI]]></title>
-        <id>https://www.youtube.com/watch?v=xiFsM-bHzlw</id>
-        <link href="https://www.youtube.com/watch?v=xiFsM-bHzlw"/>
-        <updated>2023-07-14T07:30:14.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manthramothiram Mayamothiram | Ponnapuram Kotta | Vayalar | G Devarajan | Yesudas | Prem Nazir]]></title>
-        <id>https://www.youtube.com/watch?v=ZknVKVAgk4k</id>
-        <link href="https://www.youtube.com/watch?v=ZknVKVAgk4k"/>
-        <updated>2023-07-14T07:30:14.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
