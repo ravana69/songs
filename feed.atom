@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-11T04:20:26.444Z</updated>
+    <updated>2023-10-11T05:16:28.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thirayezhuthum Mannil | Meenakshi Kalyanam 1998 | Nadirsha | K. J. Yesudas | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=_CruWdcYSx0</id>
+        <link href="https://www.youtube.com/watch?v=_CruWdcYSx0"/>
+        <updated>2023-10-11T05:15:35.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poovenam Pooppada | Nedumudi Venu | Parvathy | Yesudas | Sharada | Johnson]]></title>
+        <id>https://www.youtube.com/watch?v=h2HiuniSO3E</id>
+        <link href="https://www.youtube.com/watch?v=h2HiuniSO3E"/>
+        <updated>2023-10-11T04:30:13.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enne Karuthunna Vidhangal Christian Devotional Reels 04]]></title>
         <id>https://www.youtube.com/watch?v=AqbFsl86Z40</id>
