@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-11T08:22:41.316Z</updated>
+    <updated>2023-10-11T09:17:52.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികളുടെ എക്കാലത്തെയും ഇഷ്ട ഗായകൻ എം ജി ശ്രീകുമാർ ആലപിച്ച പാടി നടക്കും സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ !]]></title>
+        <id>https://www.youtube.com/watch?v=-KuCOEmFdAw</id>
+        <link href="https://www.youtube.com/watch?v=-KuCOEmFdAw"/>
+        <updated>2023-10-11T09:05:23.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pilarnnatham Paraye | Shorts #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=NohL9EJ833A</id>
+        <link href="https://www.youtube.com/watch?v=NohL9EJ833A"/>
+        <updated>2023-10-11T08:30:10.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാത്രിയുടെ യാമങ്ങളിൽ  ഒഴുകിയെത്തുന്ന മലയാള സിനിമയിലെ മധുര ഗാനങ്ങൾ|Evergreen Malayalam Film Songs]]></title>
         <id>https://www.youtube.com/watch?v=r5JCKgNnumo</id>
