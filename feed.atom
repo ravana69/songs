@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T16:23:48.759Z</updated>
+    <updated>2023-10-12T17:16:05.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -30919,33 +30919,6 @@
         <updated>2023-07-15T05:30:09.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അനർത്ഥമൊന്നും ഭവിക്കയില്ല | RSV | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=5d9KFTG6AoM</id>
-        <link href="https://www.youtube.com/watch?v=5d9KFTG6AoM"/>
-        <updated>2023-07-15T05:05:24.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peeli Veeshi | Gamanam 1994 | Ouseppachan | K.S. Chithra | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=tGkGCuB8s0A</id>
-        <link href="https://www.youtube.com/watch?v=tGkGCuB8s0A"/>
-        <updated>2023-07-15T04:30:18.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassinullil Mayangi | Vasanthamalika | Mukesh | Uma Shankari | M.G.Sreekumar | Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=Bq8RG9Z2sRs</id>
-        <link href="https://www.youtube.com/watch?v=Bq8RG9Z2sRs"/>
-        <updated>2023-07-15T04:30:02.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
