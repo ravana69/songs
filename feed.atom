@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T19:14:02.517Z</updated>
+    <updated>2023-10-12T20:16:34.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=R9wtaSuRnlk</id>
+        <link href="https://www.youtube.com/watch?v=R9wtaSuRnlk"/>
+        <updated>2023-10-12T19:30:04.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  October 13 # Athiravile Prarthana 13th of October 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=a8whhuS_b9Y</id>
@@ -30910,42 +30919,6 @@
         <updated>2023-07-15T09:07:52.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇളനീല മാനം കതിർ ചൊരിഞ്ഞു... | Ila Neela Maanam |  Kaayalum Kayarum Movie Song | Yesudas, P Susheela]]></title>
-        <id>https://www.youtube.com/watch?v=mNWjK5GxFMM</id>
-        <link href="https://www.youtube.com/watch?v=mNWjK5GxFMM"/>
-        <updated>2023-07-15T07:58:14.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പകരം വെക്കാനാവാത്ത അഭിനയ പ്രതിഭാസം | THE COMPLETE ACTOR | MOHANLAL SUPERHITSONGS MALAYALAM | LALISAM]]></title>
-        <id>https://www.youtube.com/watch?v=BgW3hcW_xA0</id>
-        <link href="https://www.youtube.com/watch?v=BgW3hcW_xA0"/>
-        <updated>2023-07-15T07:36:33.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പഴയതലമുറക്ക് ശേഷം മലയാളസിനിമാസംഗീതത്തിന്റെ നെടുംതൂണായി നിന്ന എം ജി ശ്രീകുമാറിന്റെ ഗാനങ്ങൾ !]]></title>
-        <id>https://www.youtube.com/watch?v=rmplOEHyF5E</id>
-        <link href="https://www.youtube.com/watch?v=rmplOEHyF5E"/>
-        <updated>2023-07-15T07:30:09.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു കാലത്ത് ക്യാമ്പസുകളിൽ തരംഗമുണർത്തിയ മമ്മൂട്ടി ചിത്രത്തിലെ ഇന്നും ഇഷ്ടമുള്ള ഗാനങ്ങൾ | JOHNYWALKER]]></title>
-        <id>https://www.youtube.com/watch?v=C2QMhhFr5NE</id>
-        <link href="https://www.youtube.com/watch?v=C2QMhhFr5NE"/>
-        <updated>2023-07-15T07:30:02.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
