@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T18:23:28.553Z</updated>
+    <updated>2023-10-12T19:14:02.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  October 13 # Athiravile Prarthana 13th of October 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=a8whhuS_b9Y</id>
+        <link href="https://www.youtube.com/watch?v=a8whhuS_b9Y"/>
+        <updated>2023-10-12T19:00:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജപമാല ഗീതങ്ങള്‍ # Holy Rosary Special Songs Malayalam |  Month of Holy Rosary October 2023 Songs]]></title>
+        <id>https://www.youtube.com/watch?v=1I8hRMUu8BQ</id>
+        <link href="https://www.youtube.com/watch?v=1I8hRMUu8BQ"/>
+        <updated>2023-10-12T18:30:01.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 13th October 23]]></title>
         <id>https://www.youtube.com/watch?v=fKsrjeeLtBg</id>
@@ -30928,15 +30946,6 @@
         <updated>2023-07-15T07:30:02.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tharalitha Raavil Mayangiyo Video Song | Soorya Manasam | Mammootty | Siddique | Shoukaar Janaki]]></title>
-        <id>https://www.youtube.com/watch?v=F9i4o2nVRIc</id>
-        <link href="https://www.youtube.com/watch?v=F9i4o2nVRIc"/>
-        <updated>2023-07-15T06:44:29.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
         </author>
     </entry>
 </feed>
