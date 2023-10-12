@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T20:16:34.984Z</updated>
+    <updated>2023-10-12T21:14:20.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -30910,15 +30910,6 @@
         <updated>2023-07-15T09:49:07.000Z</updated>
         <author>
             <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome To Baale - Lyrical Video | Bhagavan Dasante Ramarajyam| Akshay,Nandana| Vishnu Sivasankar]]></title>
-        <id>https://www.youtube.com/watch?v=4UjhM479i0c</id>
-        <link href="https://www.youtube.com/watch?v=4UjhM479i0c"/>
-        <updated>2023-07-15T09:07:52.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
