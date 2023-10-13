@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-13T10:18:55.585Z</updated>
+    <updated>2023-10-13T11:14:54.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shorts | Koottayi kunjanurumbukal]]></title>
+        <id>https://www.youtube.com/watch?v=Q8cmcV3IbmQ</id>
+        <link href="https://www.youtube.com/watch?v=Q8cmcV3IbmQ"/>
+        <updated>2023-10-13T11:14:32.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മധുമയ സ്വര | Madhumaya Swarabharitham |Nandagopalante Kusruthikal Super Hit Movie Songs | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=LBBIyGmE7x0</id>
+        <link href="https://www.youtube.com/watch?v=LBBIyGmE7x0"/>
+        <updated>2023-10-13T11:06:19.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SODOM AND GOMORRAH | പ്രയാണം | NEW CHRISTIAN SONG | JOSE SAGAR |PAVITHRAN AMACHAL |JINO KUNNUMPURATH]]></title>
         <id>https://www.youtube.com/watch?v=P4Caq9esKoM</id>
@@ -22,6 +40,15 @@
         <updated>2023-10-13T07:30:06.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivapithave | Christian Animation Video | Kester | R S Vijayaraj | Joy M Thomas]]></title>
+        <id>https://www.youtube.com/watch?v=IfRQw6rP3No</id>
+        <link href="https://www.youtube.com/watch?v=IfRQw6rP3No"/>
+        <updated>2023-10-13T06:53:56.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -30847,15 +30874,6 @@
         <updated>2023-07-16T00:30:00.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 16 shorts  # Athiravile Prarthana 16th of July 2023 Morning Prayer shorts]]></title>
-        <id>https://www.youtube.com/watch?v=je9SnpLftFg</id>
-        <link href="https://www.youtube.com/watch?v=je9SnpLftFg"/>
-        <updated>2023-07-15T23:00:15.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
