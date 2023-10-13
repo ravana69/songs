@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-13T20:18:48.863Z</updated>
+    <updated>2023-10-13T21:14:56.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31009,15 +31009,6 @@
         <updated>2023-07-16T10:30:04.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valatty - Tale of Tails On July 21st | Official Trailer | Devan | Vijay Babu]]></title>
-        <id>https://www.youtube.com/watch?v=tmXo8L6fH0k</id>
-        <link href="https://www.youtube.com/watch?v=tmXo8L6fH0k"/>
-        <updated>2023-07-16T09:08:27.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
