@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-13T05:16:47.690Z</updated>
+    <updated>2023-10-13T06:24:16.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oru Venpiraavu | Newspaper Boy 1997 | Nissar | K. J. Yesudas | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=8WWWer0ryik</id>
+        <link href="https://www.youtube.com/watch?v=8WWWer0ryik"/>
+        <updated>2023-10-13T05:47:00.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koottil Ninnum Mettil Vanna Audio Song Thalavattam Movie Song KJ Yesudas Poovachal Khader Rajamani]]></title>
+        <id>https://www.youtube.com/watch?v=ocHvi4hs2o0</id>
+        <link href="https://www.youtube.com/watch?v=ocHvi4hs2o0"/>
+        <updated>2023-10-13T05:38:35.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala Masam Short October  | Holy Rosary Special Short]]></title>
         <id>https://www.youtube.com/watch?v=QHwezWgruUc</id>
