@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-14T05:15:34.736Z</updated>
+    <updated>2023-10-14T06:22:06.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maanazhako | Vellinakshathram | Beautiful Song by K J Yesudas #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=keY0Km4Z3S4</id>
+        <link href="https://www.youtube.com/watch?v=keY0Km4Z3S4"/>
+        <updated>2023-10-14T05:30:10.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ninavinte Kaayalil Remastered Audio Song Maniyara Movie Song KJ Yesudas  Ambili P Bhaskaran AT Ummer]]></title>
         <id>https://www.youtube.com/watch?v=SeymGE74kJ0</id>
