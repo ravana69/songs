@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-14T04:19:54.088Z</updated>
+    <updated>2023-10-14T05:15:34.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ninavinte Kaayalil Remastered Audio Song Maniyara Movie Song KJ Yesudas  Ambili P Bhaskaran AT Ummer]]></title>
+        <id>https://www.youtube.com/watch?v=SeymGE74kJ0</id>
+        <link href="https://www.youtube.com/watch?v=SeymGE74kJ0"/>
+        <updated>2023-10-14T05:12:18.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiliye Kiliye | Nokketha Doorath Kannnum MNattu | Mohanlal | Nadiya Moidu | Chithra | Fazil]]></title>
+        <id>https://www.youtube.com/watch?v=F2OqVI1FEOw</id>
+        <link href="https://www.youtube.com/watch?v=F2OqVI1FEOw"/>
+        <updated>2023-10-14T04:30:04.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaayaaduthe | Chithrakoodam 2003 | S. P. Venkitesh | Malgudi Subha| Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=iXfMmronhN0</id>
+        <link href="https://www.youtube.com/watch?v=iXfMmronhN0"/>
+        <updated>2023-10-14T04:22:09.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കാനായിലെ  ആദ്യ അത്ഭുതം . അമ്മയെൻ  പുണ്യം എന്ന ആൽബത്തിൽ നിന്ന് #mothermarysongs #malayalam]]></title>
         <id>https://www.youtube.com/watch?v=WsMhznoeZpg</id>
@@ -30991,24 +31018,6 @@
         <updated>2023-07-16T18:31:01.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sadhu Kochukunju Upadeshi Songs | Nonstop Old Malayalam Christian Songs | Evergreen Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=zC0y_D97ufM</id>
-        <link href="https://www.youtube.com/watch?v=zC0y_D97ufM"/>
-        <updated>2023-07-16T16:56:04.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എൻ ജീവതം ഞാനിന്നേകാം  ,നിൻ തിരു മുമ്പിൽ അർച്ചനയായ് ...]]></title>
-        <id>https://www.youtube.com/watch?v=30P-kTGMX1Q</id>
-        <link href="https://www.youtube.com/watch?v=30P-kTGMX1Q"/>
-        <updated>2023-07-16T16:45:23.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
