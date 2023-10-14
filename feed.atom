@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-14T17:13:57.885Z</updated>
+    <updated>2023-10-14T18:21:04.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ride, Rain & #KiliyeKiliye | #AaRaathri | #Ilayaraja | #SJanaki | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=4DvPA_j2mtI</id>
+        <link href="https://www.youtube.com/watch?v=4DvPA_j2mtI"/>
+        <updated>2023-10-14T18:14:28.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vibe again for #KiliyeKiliye | #AaRaathri | #Ilayaraja | #SJanaki | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=QGBZAyeoq_w</id>
+        <link href="https://www.youtube.com/watch?v=QGBZAyeoq_w"/>
+        <updated>2023-10-14T18:14:12.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 15th October 23]]></title>
+        <id>https://www.youtube.com/watch?v=Q_66o6VctgM</id>
+        <link href="https://www.youtube.com/watch?v=Q_66o6VctgM"/>
+        <updated>2023-10-14T18:00:20.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kunkumam Charthumee | Poothumbiyum Poovalanmarum | Vani Vishwanath | Harisree Ashokan | MG Sreekumar]]></title>
         <id>https://www.youtube.com/watch?v=nYn-MuF4eao</id>
@@ -31054,33 +31081,6 @@
         <updated>2023-07-17T06:41:31.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ശ്രീരാമ മോക്ഷ നാമജപം | Sree Rama Moksha Naamajapam |  Sreerama Devotional Song]]></title>
-        <id>https://www.youtube.com/watch?v=81Na1B5nj0M</id>
-        <link href="https://www.youtube.com/watch?v=81Na1B5nj0M"/>
-        <updated>2023-07-17T05:57:55.000Z</updated>
-        <author>
-            <name>Wilson Video Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thumbikinnaram | Karaoke Video | Naran | K J Yesudas | Gayathri | Deepak Dev | Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=OQyzqb6a1JY</id>
-        <link href="https://www.youtube.com/watch?v=OQyzqb6a1JY"/>
-        <updated>2023-07-17T05:30:10.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#KanniluKannilu Vibes | #Ayisha  | #Shorts #YTshorts]]></title>
-        <id>https://www.youtube.com/watch?v=LonEqyGjnNU</id>
-        <link href="https://www.youtube.com/watch?v=LonEqyGjnNU"/>
-        <updated>2023-07-17T05:30:05.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
