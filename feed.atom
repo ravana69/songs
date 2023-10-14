@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-14T18:21:04.571Z</updated>
+    <updated>2023-10-14T19:12:46.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  October 15 # Athiravile Prarthana 15th of October 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Li9I-uhT0y4</id>
+        <link href="https://www.youtube.com/watch?v=Li9I-uhT0y4"/>
+        <updated>2023-10-14T19:00:12.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജപമാല ഗീതങ്ങള്‍ # Holy Rosary Special Songs Malayalam |  Month of Holy Rosary October 2023 Songs]]></title>
+        <id>https://www.youtube.com/watch?v=QJeKOPNAfx8</id>
+        <link href="https://www.youtube.com/watch?v=QJeKOPNAfx8"/>
+        <updated>2023-10-14T18:30:17.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ride, Rain & #KiliyeKiliye | #AaRaathri | #Ilayaraja | #SJanaki | #shorts #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=4DvPA_j2mtI</id>
@@ -31063,24 +31081,6 @@
         <updated>2023-07-17T07:30:03.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thaniyavarthanam Song | Mammootty | Sibi Malayil #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=AmFCiMWME80</id>
-        <link href="https://www.youtube.com/watch?v=AmFCiMWME80"/>
-        <updated>2023-07-17T07:08:25.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponnin Muthe | Achan Kombathu Amma Varampathu 1995 | Swarnalatha | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=evthRi6_U0w</id>
-        <link href="https://www.youtube.com/watch?v=evthRi6_U0w"/>
-        <updated>2023-07-17T06:41:31.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
