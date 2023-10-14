@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-14T15:15:43.986Z</updated>
+    <updated>2023-10-14T16:20:36.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kunkumam Charthumee | Poothumbiyum Poovalanmarum | Vani Vishwanath | Harisree Ashokan | MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=nYn-MuF4eao</id>
+        <link href="https://www.youtube.com/watch?v=nYn-MuF4eao"/>
+        <updated>2023-10-14T16:08:38.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അമ്മയെൻ പുണ്യം എന്ന ആൽബത്തിൽ നിന്നു ഒരു അതിമനോഹര ഗാനം #ജോജോ ജോണി #ജോൺസൺ  kk]]></title>
         <id>https://www.youtube.com/watch?v=Sk5ywNPZuP8</id>
@@ -31090,60 +31099,6 @@
         <updated>2023-07-17T04:30:04.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thiruhrudayathil Ninnum | Kester | Christian Devotional Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=e7Aph80uZs8</id>
-        <link href="https://www.youtube.com/watch?v=e7Aph80uZs8"/>
-        <updated>2023-07-17T03:31:46.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehathin Kankulir Kazhchaye | Kester | Christian Shorts Video]]></title>
-        <id>https://www.youtube.com/watch?v=94FsEG5AWyQ</id>
-        <link href="https://www.youtube.com/watch?v=94FsEG5AWyQ"/>
-        <updated>2023-07-17T03:31:38.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്നേഹത്തിൻ കൺകുളിർകാഴ്ചയേ | Kester | Christian Shorts Video]]></title>
-        <id>https://www.youtube.com/watch?v=35m6yufNe6k</id>
-        <link href="https://www.youtube.com/watch?v=35m6yufNe6k"/>
-        <updated>2023-07-17T03:31:22.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karayodu Cherkkunna Nadhan | Christian Devotional Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=JwCsKt7QFeE</id>
-        <link href="https://www.youtube.com/watch?v=JwCsKt7QFeE"/>
-        <updated>2023-07-17T03:30:59.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shorts Video | കാന്താ വരവ് കാത്ത് | Christian Devotional Shorts | Hephsibha Benson]]></title>
-        <id>https://www.youtube.com/watch?v=E1LGHll28Vc</id>
-        <link href="https://www.youtube.com/watch?v=E1LGHll28Vc"/>
-        <updated>2023-07-17T03:30:50.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Priyan Yeshuvin | Sumi Sunny | Christian Devotional Shorts Video]]></title>
-        <id>https://www.youtube.com/watch?v=b2nyaGpd49o</id>
-        <link href="https://www.youtube.com/watch?v=b2nyaGpd49o"/>
-        <updated>2023-07-17T03:30:02.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
