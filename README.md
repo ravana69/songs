@@ -54,3 +54,4 @@
 | 45            | Speed Audios                                    | [RSS Feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCR0fM5_ERQiF3x84hX7nqtQ) | [YouTube](https://www.youtube.com/c/SpeedAudios) |
 | 46            | Malayalam Chithrageetham                        | [RSS Feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCEAcjAPXNesAnhgNT1VrOwA) | [YouTube](https://www.youtube.com/channel/UCEAcjAPXNesAnhgNT1VrOwA) |
 | 47            | Rayan Media Productions                        | [RSS Feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCMcs15fo3W8VZS2f6COk3vQ) | [YouTube](https://www.youtube.com/channel/UCMcs15fo3W8VZS2f6COk3vQ) |
+| 48            | NANCHIL BEATS                        | [RSS Feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCd9Cu_1ToDU829dfu9DMSzA) | [YouTube](https://www.youtube.com/c/NANCHILBEATS) |
