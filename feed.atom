@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-15T03:17:21.003Z</updated>
+    <updated>2023-10-15T04:20:08.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CHRISTIAN DEVOTIONAL SONG | എന്റെ ദൈവം മഹത്വത്തിൽ  | ROY PUTHUR | MITHILA #royputhur #devotional]]></title>
+        <id>https://www.youtube.com/watch?v=K2dvdeMX_hA</id>
+        <link href="https://www.youtube.com/watch?v=K2dvdeMX_hA"/>
+        <updated>2023-10-15T03:46:34.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devi Navaratri Geetham | Devotional Jukebox | Back-to-Back Navaratri Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Ync3HlJqoag</id>
+        <link href="https://www.youtube.com/watch?v=Ync3HlJqoag"/>
+        <updated>2023-10-15T03:30:20.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മരണമില്ലാത്ത അനശ്വര ഗാനങ്ങൾ | Christian Devotional Songs Malayalam | Manoj Christy | Christian Songs]]></title>
         <id>https://www.youtube.com/watch?v=Y5OvQCen1H0</id>
@@ -31009,15 +31027,6 @@
         <updated>2023-07-17T18:30:27.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muthum Pavizhavum | Darling Darling | Vineeth | Kavya Madhavan | Dileep | Hariharan | Sujatha]]></title>
-        <id>https://www.youtube.com/watch?v=faa0s8eKwgI</id>
-        <link href="https://www.youtube.com/watch?v=faa0s8eKwgI"/>
-        <updated>2023-07-17T15:30:08.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
 </feed>
