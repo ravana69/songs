@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-15T13:18:18.880Z</updated>
+    <updated>2023-10-15T14:14:30.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DHIVYATHARAME | #shortvideo | Bobby Xavier | Fr Shaji Thumpechirayil | Santaclaus]]></title>
+        <id>https://www.youtube.com/watch?v=KxIg-kmT9vA</id>
+        <link href="https://www.youtube.com/watch?v=KxIg-kmT9vA"/>
+        <updated>2023-10-15T13:45:00.000Z</updated>
+        <author>
+            <name>Celebrants India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കണ്ണുനീർ തൂകുമ്പോൾ മനസ്സലിയുന്നൊരു ദൈവം നിനക്കുണ്ട്  | Rev. Aneesh P Joseph | #shorts #jesus]]></title>
         <id>https://www.youtube.com/watch?v=ZFV8LWlZno4</id>
@@ -31207,24 +31216,6 @@
         <updated>2023-07-18T03:54:46.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Punya Maha Sannidhe | Pappachan Olivilanu | Shorts #latestmalayalam #music #malayalammoviesongs]]></title>
-        <id>https://www.youtube.com/watch?v=VyAJR4hHDao</id>
-        <link href="https://www.youtube.com/watch?v=VyAJR4hHDao"/>
-        <updated>2023-07-18T01:30:10.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എൻ പ്രിയൻ യേശുവിൻ | Sumi Sunny | Christian Devotional Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=9dMJFma-KwU</id>
-        <link href="https://www.youtube.com/watch?v=9dMJFma-KwU"/>
-        <updated>2023-07-18T01:30:05.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
