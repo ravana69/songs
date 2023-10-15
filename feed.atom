@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-15T18:21:13.148Z</updated>
+    <updated>2023-10-15T19:12:57.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 16 # Athiravile Prarthana 16th October 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=LttGAd_Qhuw</id>
+        <link href="https://www.youtube.com/watch?v=LttGAd_Qhuw"/>
+        <updated>2023-10-15T19:00:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജപമാല ഗീതങ്ങള്‍ # Holy Rosary Special Songs Malayalam |  Month of Holy Rosary October 2023 Songs]]></title>
+        <id>https://www.youtube.com/watch?v=xZ-ubR-CDzs</id>
+        <link href="https://www.youtube.com/watch?v=xZ-ubR-CDzs"/>
+        <updated>2023-10-15T18:31:00.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Street Steps for #NeelaNilave | #RDX | #KapilKapilan | #SamCS | #shorts #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=-149xZz4GuM</id>
@@ -31216,33 +31234,6 @@
         <updated>2023-07-18T07:19:14.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങാന്‍ പോകുമ്പോള്‍ കേള്‍ക്കാവുന്ന ഗാനങ്ങള്‍ # Malayalam Christian songs for Sleep #worshipsongs]]></title>
-        <id>https://www.youtube.com/watch?v=9KxhcdS93OI</id>
-        <link href="https://www.youtube.com/watch?v=9KxhcdS93OI"/>
-        <updated>2023-07-18T07:10:28.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thirumbi Varuvathu - Video Song | Neymar | Mathew, Naslen | Shaan Rahman| Sudhi Maddison]]></title>
-        <id>https://www.youtube.com/watch?v=YpH3kRbiu8M</id>
-        <link href="https://www.youtube.com/watch?v=YpH3kRbiu8M"/>
-        <updated>2023-07-18T06:56:44.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karaoke Karayodu Cherkkunna Nadhan | Libin Baby | Roy John Chirackal | Christian Karaoke Tracks]]></title>
-        <id>https://www.youtube.com/watch?v=JhqGZqOm8iQ</id>
-        <link href="https://www.youtube.com/watch?v=JhqGZqOm8iQ"/>
-        <updated>2023-07-18T06:39:46.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
