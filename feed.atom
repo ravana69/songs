@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-15T01:21:18.125Z</updated>
+    <updated>2023-10-15T02:25:43.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31018,33 +31018,6 @@
         <updated>2023-07-17T15:30:08.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കാന്താ വരവ് കാത്ത് | Christian Devotional Shorts | Hephsibha Benson]]></title>
-        <id>https://www.youtube.com/watch?v=V3uBNrnJQ1Q</id>
-        <link href="https://www.youtube.com/watch?v=V3uBNrnJQ1Q"/>
-        <updated>2023-07-17T14:00:31.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസിലെ സൂര്യനായ് ഉദിക്കുമെങ്കിൽ , ഹൃദയ തേജസായ് ജ്വലിക്കുമെങ്കിൽ ...]]></title>
-        <id>https://www.youtube.com/watch?v=FfZ1R5-uG3U</id>
-        <link href="https://www.youtube.com/watch?v=FfZ1R5-uG3U"/>
-        <updated>2023-07-17T13:37:54.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Superhit Songs |Kester |Joji Johns | Christian Devotional Songs Malayalam | Wilson Piravom]]></title>
-        <id>https://www.youtube.com/watch?v=qPNaVqoCjYo</id>
-        <link href="https://www.youtube.com/watch?v=qPNaVqoCjYo"/>
-        <updated>2023-07-17T13:30:30.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
