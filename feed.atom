@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-15T22:15:33.493Z</updated>
+    <updated>2023-10-15T23:16:43.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31207,33 +31207,6 @@
         <updated>2023-07-18T11:30:20.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karam Neettumo | Dugha Kshathamakattunna Kristheeya Bhakthigaanangal |Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=yeBEkfkevFQ</id>
-        <link href="https://www.youtube.com/watch?v=yeBEkfkevFQ"/>
-        <updated>2023-07-18T11:12:34.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennuyire - Lyrical Video | Chethaaram | Sujatha Mohan, Biju Narayanan | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=_GVpOwSGEI4</id>
-        <link href="https://www.youtube.com/watch?v=_GVpOwSGEI4"/>
-        <updated>2023-07-18T10:50:33.000Z</updated>
-        <author>
-            <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manikkuyile | Romantic Melody by K J Yesudas & Sujatha from Valkannadi  #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=hLpqO3V_fiw</id>
-        <link href="https://www.youtube.com/watch?v=hLpqO3V_fiw"/>
-        <updated>2023-07-18T10:30:13.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
