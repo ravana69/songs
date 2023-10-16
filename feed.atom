@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-16T04:21:05.465Z</updated>
+    <updated>2023-10-16T05:17:09.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hridaya Raaga Thanthri Remastering Audio Song Amaram Movie Song Lathika Kaithapram Raveendran]]></title>
+        <id>https://www.youtube.com/watch?v=SZQdk8zdQjg</id>
+        <link href="https://www.youtube.com/watch?v=SZQdk8zdQjg"/>
+        <updated>2023-10-16T05:03:33.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omane Thankame | Mizhi Randilum | Dileep | Kavya | Raveendran | Ranjith]]></title>
+        <id>https://www.youtube.com/watch?v=n1gVtp8KW3U</id>
+        <link href="https://www.youtube.com/watch?v=n1gVtp8KW3U"/>
+        <updated>2023-10-16T04:30:24.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hits of Prithviraj | Audio Jukebox | Super Hit Malayalam Film Songs | K.J.Yesudas | M G Sreekumar]]></title>
         <id>https://www.youtube.com/watch?v=YKSoRs2VMLQ</id>
@@ -31162,15 +31180,6 @@
         <updated>2023-07-18T18:30:22.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏകാന്തമാം നിമിഷങ്ങളിൽ..| കെ ജെ യേശുദാസ് | കെ എസ് ചിത്ര | Remastered Malayalam movie songs]]></title>
-        <id>https://www.youtube.com/watch?v=Zsu_eQgycAQ</id>
-        <link href="https://www.youtube.com/watch?v=Zsu_eQgycAQ"/>
-        <updated>2023-07-18T16:42:06.000Z</updated>
-        <author>
-            <name>Tharangini Sound of arts Dubai</name>
         </author>
     </entry>
 </feed>
