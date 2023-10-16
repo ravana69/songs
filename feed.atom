@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-16T03:18:12.970Z</updated>
+    <updated>2023-10-16T04:21:05.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hits of Prithviraj | Audio Jukebox | Super Hit Malayalam Film Songs | K.J.Yesudas | M G Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=YKSoRs2VMLQ</id>
+        <link href="https://www.youtube.com/watch?v=YKSoRs2VMLQ"/>
+        <updated>2023-10-16T04:16:07.000Z</updated>
+        <author>
+            <name>Malayalam Film songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dhwani Malayalam Movie Songs | Jayaram | Yesudas | | Noushad | Malayalam Audio Jukebox]]></title>
         <id>https://www.youtube.com/watch?v=ldHRPr24yk4</id>
@@ -31162,15 +31171,6 @@
         <updated>2023-07-18T16:42:06.000Z</updated>
         <author>
             <name>Tharangini Sound of arts Dubai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raasanilavinu | Padheyam | Mammooty | Kaithapram | Yesudas | Bharathan | Bombay Ravi]]></title>
-        <id>https://www.youtube.com/watch?v=EXujRFMo6Bg</id>
-        <link href="https://www.youtube.com/watch?v=EXujRFMo6Bg"/>
-        <updated>2023-07-18T15:30:03.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
 </feed>
