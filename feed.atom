@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-16T10:20:13.848Z</updated>
+    <updated>2023-10-16T11:14:50.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BALI KUTEERANGALE ( bit song ) | KALAPAM | VIDEO SONG]]></title>
+        <id>https://www.youtube.com/watch?v=rvoN6Zwd7Rg</id>
+        <link href="https://www.youtube.com/watch?v=rvoN6Zwd7Rg"/>
+        <updated>2023-10-16T10:48:03.000Z</updated>
+        <author>
+            <name>MC Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shorts | Midumidu Midukkan #shorts #ytshorts #viral]]></title>
+        <id>https://www.youtube.com/watch?v=7zV4R_-gPc4</id>
+        <link href="https://www.youtube.com/watch?v=7zV4R_-gPc4"/>
+        <updated>2023-10-16T10:30:08.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[വാചാല മൗനം | Vachala Maunam | Urukku Mushtikal Malayalam Superhit Movie Song | K J Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=8D_8p89rEvk</id>
@@ -31207,15 +31225,6 @@
         <updated>2023-07-18T23:45:00.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 19 shorts  # Athiravile Prarthana 19th of July 2023 Morning Prayer shorts]]></title>
-        <id>https://www.youtube.com/watch?v=n2wLQ8uUt98</id>
-        <link href="https://www.youtube.com/watch?v=n2wLQ8uUt98"/>
-        <updated>2023-07-18T23:00:21.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
