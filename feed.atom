@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-16T22:16:54.220Z</updated>
+    <updated>2023-10-16T23:17:06.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31279,42 +31279,6 @@
         <updated>2023-07-19T11:31:16.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ശര റാന്തൽ തിരി താണു | Shararanthal Thiri Thanu | Kaayalum kayarum Movie Song | K J Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=AOZ01GsmyB8</id>
-        <link href="https://www.youtube.com/watch?v=AOZ01GsmyB8"/>
-        <updated>2023-07-19T11:05:49.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആരും ആരും കാണാതെ.. ചുണ്ടത്തെ ചെമ്പക മൊട്ടിന്മേല്‍...  ചുമ്പനകുങ്കുമം തൊട്ടു ഞാന്‍...]]></title>
-        <id>https://www.youtube.com/watch?v=AMzGycoXYn0</id>
-        <link href="https://www.youtube.com/watch?v=AMzGycoXYn0"/>
-        <updated>2023-07-19T11:00:06.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://youtu.be/cq7SOXhK1O4 | വാനമ്പാടി @ 60 | Celebrating 60 Music Years of K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=N04H2kW9IG0</id>
-        <link href="https://www.youtube.com/watch?v=N04H2kW9IG0"/>
-        <updated>2023-07-19T10:30:16.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aakaasha Pooppaadam - Lyrical Video | Chethaaram | MG Sreekumar | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=oiGYcDEV7Os</id>
-        <link href="https://www.youtube.com/watch?v=oiGYcDEV7Os"/>
-        <updated>2023-07-19T10:30:15.000Z</updated>
-        <author>
-            <name>MC Music</name>
         </author>
     </entry>
 </feed>
