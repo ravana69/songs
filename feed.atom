@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-16T01:17:41.961Z</updated>
+    <updated>2023-10-16T02:25:47.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Karuthunnavan | #manoramachristiandevotionalsongs #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=l9sfb4joicQ</id>
+        <link href="https://www.youtube.com/watch?v=l9sfb4joicQ"/>
+        <updated>2023-10-16T01:30:11.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ലോകജനത  ഇരുകൈകളാൽ  സ്വീകരിച്ച  ഏറ്റവും  പുതിയ ഗാനം # തീർച്ച  ഈ ഗാനം നിങ്ങൾക്കും ഇഷ്ടപെടും]]></title>
         <id>https://www.youtube.com/watch?v=7L3EzWgxdPw</id>
@@ -31153,33 +31162,6 @@
         <updated>2023-07-18T15:30:03.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അലിമുള്ള ദൈവമേ.. അൻപോടെ നോക്കണേ ...]]></title>
-        <id>https://www.youtube.com/watch?v=7uncCzRj0wc</id>
-        <link href="https://www.youtube.com/watch?v=7uncCzRj0wc"/>
-        <updated>2023-07-18T13:45:58.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vandhanam Yeshupara | Kester | Christian Superhit Song | Praise and Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=B3MREjlaJ4o</id>
-        <link href="https://www.youtube.com/watch?v=B3MREjlaJ4o"/>
-        <updated>2023-07-18T13:30:08.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aalila Manchalil |Sooryagayathri | Yesudas ||Re Mastered Video Songs|Evergreen Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=BD-7MmCJozI</id>
-        <link href="https://www.youtube.com/watch?v=BD-7MmCJozI"/>
-        <updated>2023-07-18T13:30:03.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
