@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-16T15:17:27.606Z</updated>
+    <updated>2023-10-16T16:24:04.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ente Chithirathamara | 4 Friends | Jayaram | Kunchakko Boban | Jayasurya | Meera Jasmine | Anikha]]></title>
+        <id>https://www.youtube.com/watch?v=tClhCHkJs2Y</id>
+        <link href="https://www.youtube.com/watch?v=tClhCHkJs2Y"/>
+        <updated>2023-10-16T15:59:30.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thankathinkal Vaanil Video Song | Nayanthara | Jayaram | Ilayaraja | Vijay Yesudas | Asha Menon]]></title>
         <id>https://www.youtube.com/watch?v=lWWKJ7tPFo8</id>
@@ -754,6 +763,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Paramaraja | Mithila Michael #shorts #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=W-89tMinkX4</id>
+        <link href="https://www.youtube.com/watch?v=W-89tMinkX4"/>
+        <updated>2023-10-14T12:56:52.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Paramaraja Guruvarane | Mithila Michael #shorts  #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=0j-WI_uANE4</id>
         <link href="https://www.youtube.com/watch?v=0j-WI_uANE4"/>
@@ -1235,6 +1253,15 @@
         <id>https://www.youtube.com/watch?v=dqhCRq85-mI</id>
         <link href="https://www.youtube.com/watch?v=dqhCRq85-mI"/>
         <updated>2023-10-13T11:22:25.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannoram | Rathinirvedham | Shorts #shortsvideo #viralshorts  #malayalamfilmsongs]]></title>
+        <id>https://www.youtube.com/watch?v=MLi10WC9a6A</id>
+        <link href="https://www.youtube.com/watch?v=MLi10WC9a6A"/>
+        <updated>2023-10-13T11:22:11.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
         </author>
@@ -31306,24 +31333,6 @@
         <updated>2023-07-19T04:30:02.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇനിമേൽ എനിക്കില്ലോർ ഭയം | Sadhu Kochukunjupadeshi | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=ZZ8OEEW-rzU</id>
-        <link href="https://www.youtube.com/watch?v=ZZ8OEEW-rzU"/>
-        <updated>2023-07-19T03:40:13.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇനിമേൽ എനിക്കില്ലോർ ഭയം | Sadhu Kochukunjupadeshi | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=yKsak_9vWEQ</id>
-        <link href="https://www.youtube.com/watch?v=yKsak_9vWEQ"/>
-        <updated>2023-07-19T03:39:43.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
