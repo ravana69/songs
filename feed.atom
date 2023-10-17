@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-17T02:23:53.652Z</updated>
+    <updated>2023-10-17T03:18:03.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Uthaman Malyalam Film Songs | Jayaram | Yesudas | Johnson | Sound Of Arts | Audo Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=m1hnRT-hm7k</id>
+        <link href="https://www.youtube.com/watch?v=m1hnRT-hm7k"/>
+        <updated>2023-10-17T03:00:21.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vazhivakkil | Annayum Rasoolum | Shorts #malayalamfilmsongs]]></title>
+        <id>https://www.youtube.com/watch?v=Wnlm8xF91a0</id>
+        <link href="https://www.youtube.com/watch?v=Wnlm8xF91a0"/>
+        <updated>2023-10-17T02:30:12.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #mother mary songs oct 17th 23 #japamalaamalayalam]]></title>
         <id>https://www.youtube.com/watch?v=0q_Hi6l2FFo</id>
@@ -31243,15 +31261,6 @@
         <updated>2023-07-19T15:46:17.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ലോകമെമ്പാടുമുള്ള മലയാളികൾ കൂടുതൽ ആവശ്യപ്പെട്ട സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ |Evergreen Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=w_72De6rwmc</id>
-        <link href="https://www.youtube.com/watch?v=w_72De6rwmc"/>
-        <updated>2023-07-19T14:30:20.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
