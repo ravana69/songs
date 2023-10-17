@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-17T14:17:08.947Z</updated>
+    <updated>2023-10-17T15:18:52.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mangalam Manjulam | Onningu Vannengil | Short video | Malayalam Shorts #evergreenmalayalam]]></title>
+        <id>https://www.youtube.com/watch?v=CCgHS3fzrTQ</id>
+        <link href="https://www.youtube.com/watch?v=CCgHS3fzrTQ"/>
+        <updated>2023-10-17T15:11:06.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sare Sare Sambare Video Song | Thilakkam | Dileep | Kavya Madhavan | Kaithapram | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=lnUt3hoZvTI</id>
+        <link href="https://www.youtube.com/watch?v=lnUt3hoZvTI"/>
+        <updated>2023-10-17T14:35:21.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mangalam Manjulam | Onningu Vannengil | Nadiya Moidu | Shankar | Mammootty | Shyam | Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=frMvG3VYMWk</id>
+        <link href="https://www.youtube.com/watch?v=frMvG3VYMWk"/>
+        <updated>2023-10-17T14:30:14.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മകരമാസക്കുളിരിൽ അവളുടെ നിറഞ്ഞമാറിൻ ചൂടിൽ  #malayalamsongs #yesudas #evergeeenmalayalamhits]]></title>
         <id>https://www.youtube.com/watch?v=8KueSOluA2I</id>
@@ -31495,15 +31522,6 @@
         <updated>2023-07-20T03:55:05.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 20 shorts  # Athiravile Prarthana 20th of July 2023 Morning Prayer shorts]]></title>
-        <id>https://www.youtube.com/watch?v=QLsPxMBnZiU</id>
-        <link href="https://www.youtube.com/watch?v=QLsPxMBnZiU"/>
-        <updated>2023-07-20T02:26:35.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
