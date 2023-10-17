@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-17T18:24:05.986Z</updated>
+    <updated>2023-10-17T19:13:46.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 18 # Athiravile Prarthana 18th October 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=d345qS9XRcE</id>
+        <link href="https://www.youtube.com/watch?v=d345qS9XRcE"/>
+        <updated>2023-10-17T19:00:18.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജപമാല ഗീതങ്ങള്‍ # Holy Rosary Special Songs Malayalam |  Month of Holy Rosary October 2023 Songs]]></title>
+        <id>https://www.youtube.com/watch?v=jTsJ173aw6g</id>
+        <link href="https://www.youtube.com/watch?v=jTsJ173aw6g"/>
+        <updated>2023-10-17T18:30:35.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sing along with #NeelaNilave | #RDX | #KapilKapilan | #SamCS | #shorts #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=vdVjX73JSf0</id>
@@ -31477,15 +31495,6 @@
         <updated>2023-07-20T07:30:08.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വിദ്യാജിയുടെ ഒരു അസാധ്യ കോംമ്പോസിഷൻ ...  എന്തേ ഇന്നും വന്നീലാ... നിന്നോടൊന്നും ചൊല്ലീലാ...]]></title>
-        <id>https://www.youtube.com/watch?v=k9tJy4svC-E</id>
-        <link href="https://www.youtube.com/watch?v=k9tJy4svC-E"/>
-        <updated>2023-07-20T06:30:01.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
