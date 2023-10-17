@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-17T15:18:52.918Z</updated>
+    <updated>2023-10-17T16:23:42.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കാരുണ്യം തൂകന്ന മാതാവേ... വാത്സല്യമേകുന്ന സ്നേഹനിധേ.]]></title>
+        <id>https://www.youtube.com/watch?v=BmLDIWmt_BM</id>
+        <link href="https://www.youtube.com/watch?v=BmLDIWmt_BM"/>
+        <updated>2023-10-17T15:26:37.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mangalam Manjulam | Onningu Vannengil | Short video | Malayalam Shorts #evergreenmalayalam]]></title>
         <id>https://www.youtube.com/watch?v=CCgHS3fzrTQ</id>
@@ -31504,24 +31513,6 @@
         <updated>2023-07-20T05:00:15.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trailer | Pappachan Olivilanu | Sinto Sunny | Thomas Thiruvalla | Ouseppachan | Saiju Kurup | Srinda]]></title>
-        <id>https://www.youtube.com/watch?v=XTRyORzgVoM</id>
-        <link href="https://www.youtube.com/watch?v=XTRyORzgVoM"/>
-        <updated>2023-07-20T04:03:13.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nithyajeevanekunna Vachanam | Saly Saju | Saju Kuriakose | New Malayalam Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=bB1eHJHqcnE</id>
-        <link href="https://www.youtube.com/watch?v=bB1eHJHqcnE"/>
-        <updated>2023-07-20T03:55:05.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
