@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-17T01:16:53.916Z</updated>
+    <updated>2023-10-17T02:23:53.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31252,33 +31252,6 @@
         <updated>2023-07-19T14:30:20.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hridayavaniyile |Kottayam Kunjachan |Remastered Video Song |Mammootty |Yesudas |Shyam |Chunakkara]]></title>
-        <id>https://www.youtube.com/watch?v=UohmVIHZv7k</id>
-        <link href="https://www.youtube.com/watch?v=UohmVIHZv7k"/>
-        <updated>2023-07-19T13:30:24.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാള സിനിമകണ്ട വിസ്മയ തൂലിക സ്പർശം ഗിരീഷ് പുത്തഞ്ചേരിയുടെ  അതിശയ ഗാനങ്ങൾ |Evergreen Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=l7MezDR6KXs</id>
-        <link href="https://www.youtube.com/watch?v=l7MezDR6KXs"/>
-        <updated>2023-07-19T13:30:14.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Superhit Songs | KS Chithra | Christian Songs | Sujatha | Joseph Mathew Padinjarethara]]></title>
-        <id>https://www.youtube.com/watch?v=0bRi8X87uY0</id>
-        <link href="https://www.youtube.com/watch?v=0bRi8X87uY0"/>
-        <updated>2023-07-19T13:30:00.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
