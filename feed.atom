@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-17T07:16:45.042Z</updated>
+    <updated>2023-10-17T08:22:55.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ശ്രുതിലയ മധുരം സുരഭില നിമിഷം | Sruthilaya Madhuram | Soundaryappinakkam | Yesudas | Menaka | Shankar]]></title>
+        <id>https://www.youtube.com/watch?v=SfIsO1_p6PM</id>
+        <link href="https://www.youtube.com/watch?v=SfIsO1_p6PM"/>
+        <updated>2023-10-17T08:00:14.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala Masam Short October  | Holy Rosary Special Short]]></title>
+        <id>https://www.youtube.com/watch?v=WZAImhj2GAI</id>
+        <link href="https://www.youtube.com/watch?v=WZAImhj2GAI"/>
+        <updated>2023-10-17T07:52:59.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാള സിനിമയിലെ എക്കാലത്തെയും മികച്ച മെലഡി ഗാനങ്ങൾ കോർത്തിണക്കിയ സംഗീതമാല |Evergreen Malayalam Songs]]></title>
+        <id>https://www.youtube.com/watch?v=_Q5KPFBKhm4</id>
+        <link href="https://www.youtube.com/watch?v=_Q5KPFBKhm4"/>
+        <updated>2023-10-17T07:30:09.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oh Chandrika - Chill Trap | Shyam Singha Roy (Malayalam) | Mickey J. Meyer | Anurag Kulkarni]]></title>
         <id>https://www.youtube.com/watch?v=dOuz3t5JFPs</id>
@@ -31315,15 +31342,6 @@
         <updated>2023-07-20T00:15:02.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന July 20 # Athiravile Prarthana 20th of July 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=IJYJwrhqXWE</id>
-        <link href="https://www.youtube.com/watch?v=IJYJwrhqXWE"/>
-        <updated>2023-07-19T20:00:10.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
