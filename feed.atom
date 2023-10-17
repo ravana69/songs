@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-17T03:18:03.639Z</updated>
+    <updated>2023-10-17T04:20:55.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sanchaari | Cheenatrophy | Shorts  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=3nBUAWFyNS4</id>
+        <link href="https://www.youtube.com/watch?v=3nBUAWFyNS4"/>
+        <updated>2023-10-17T03:43:31.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanchaari | Cheenatrophy | Shorts  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=XIWSj1KjVns</id>
+        <link href="https://www.youtube.com/watch?v=XIWSj1KjVns"/>
+        <updated>2023-10-17T03:32:19.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanchaari | Cheenatrophy | Shorts  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=McxDAJgM63c</id>
+        <link href="https://www.youtube.com/watch?v=McxDAJgM63c"/>
+        <updated>2023-10-17T03:30:44.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uthaman Malyalam Film Songs | Jayaram | Yesudas | Johnson | Sound Of Arts | Audo Jukebox]]></title>
         <id>https://www.youtube.com/watch?v=m1hnRT-hm7k</id>
@@ -310,6 +337,15 @@
         <updated>2023-10-16T07:00:10.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kathivannur Veeran | Mukalpparappu | Video Song | JP Thavarool | Siby Padiyara | Purushu Panicker]]></title>
+        <id>https://www.youtube.com/watch?v=-bR6UJLxQi4</id>
+        <link href="https://www.youtube.com/watch?v=-bR6UJLxQi4"/>
+        <updated>2023-10-16T06:43:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -31243,24 +31279,6 @@
         <updated>2023-07-19T18:30:43.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mandara cheppundo |Johnson Master| Short Cover version | Ashitha]]></title>
-        <id>https://www.youtube.com/watch?v=YYeTa9RJdOs</id>
-        <link href="https://www.youtube.com/watch?v=YYeTa9RJdOs"/>
-        <updated>2023-07-19T16:19:44.000Z</updated>
-        <author>
-            <name>MEGHAMALHAR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനശാന്തിയാം മഴ തൂകണേ ...]]></title>
-        <id>https://www.youtube.com/watch?v=gjML8dPQb14</id>
-        <link href="https://www.youtube.com/watch?v=gjML8dPQb14"/>
-        <updated>2023-07-19T15:46:17.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
