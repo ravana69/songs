@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-17T13:21:38.508Z</updated>
+    <updated>2023-10-17T14:17:08.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മകരമാസക്കുളിരിൽ അവളുടെ നിറഞ്ഞമാറിൻ ചൂടിൽ  #malayalamsongs #yesudas #evergeeenmalayalamhits]]></title>
+        <id>https://www.youtube.com/watch?v=8KueSOluA2I</id>
+        <link href="https://www.youtube.com/watch?v=8KueSOluA2I"/>
+        <updated>2023-10-17T14:00:05.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rathisukhasaaramayi Remastered Audio Song Dhwani Movie KJ Yesudas Yusufali Kecheri Naushad]]></title>
+        <id>https://www.youtube.com/watch?v=V1plXBdm9So</id>
+        <link href="https://www.youtube.com/watch?v=V1plXBdm9So"/>
+        <updated>2023-10-17T13:52:49.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thurannitta Jalakangal | Dathuputhran | G Devarajan | Vayalar Ramavarma | Jayabharathi | P Susheela]]></title>
+        <id>https://www.youtube.com/watch?v=Wdk4n3nWSck</id>
+        <link href="https://www.youtube.com/watch?v=Wdk4n3nWSck"/>
+        <updated>2023-10-17T13:30:19.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neelakkurinjikal Poothu | Kathakku Pinnil | KG Markose | Ouseppachan | ONV Kurup]]></title>
         <id>https://www.youtube.com/watch?v=fcIG1gTzECg</id>
