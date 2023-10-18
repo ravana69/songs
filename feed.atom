@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-18T19:14:17.943Z</updated>
+    <updated>2023-10-18T20:18:31.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31540,24 +31540,6 @@
         <updated>2023-07-21T10:00:04.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മഗ്ദലേന മറിയം | സ്നേഹത്തിൻ രാജാവാം യേശുവിൻ  അരികിൽ | Latest Christian devotional Song Malayalam 2023]]></title>
-        <id>https://www.youtube.com/watch?v=ZWIaM5Jrfo0</id>
-        <link href="https://www.youtube.com/watch?v=ZWIaM5Jrfo0"/>
-        <updated>2023-07-21T08:05:39.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികളുടെ മനസിനെ മത്തുപിടിപ്പിച്ച ഗാനങ്ങൾ |  NISARI CHITHRAGEETHAM]]></title>
-        <id>https://www.youtube.com/watch?v=mc8bqKJi4Qg</id>
-        <link href="https://www.youtube.com/watch?v=mc8bqKJi4Qg"/>
-        <updated>2023-07-21T07:30:10.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
