@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-18T05:16:27.285Z</updated>
+    <updated>2023-10-18T06:23:44.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kunju kunju | Newspaper Boy 1997 | Nissar | M. G. Sreekumar | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=Y4nUWY9Xvb0</id>
+        <link href="https://www.youtube.com/watch?v=Y4nUWY9Xvb0"/>
+        <updated>2023-10-18T05:36:04.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poovarashin Kuda Nivarthi Remastered Audio Song Dilliwaala Raajakumaaran KS Chithra Ouseppachan]]></title>
+        <id>https://www.youtube.com/watch?v=vknajSrRKVQ</id>
+        <link href="https://www.youtube.com/watch?v=vknajSrRKVQ"/>
+        <updated>2023-10-18T05:31:36.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chandhanamukile | Vellinakshathram | Beautiful Song by K S Chithra #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Is70EYIQiQ4</id>
+        <link href="https://www.youtube.com/watch?v=Is70EYIQiQ4"/>
+        <updated>2023-10-18T05:30:04.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Karuthunnavan Njanallayo | Shorts  #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=EBALu5HxYbE</id>
