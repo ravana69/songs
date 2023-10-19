@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-19T19:13:50.959Z</updated>
+    <updated>2023-10-19T20:18:35.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31585,33 +31585,6 @@
         <updated>2023-07-22T08:52:54.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[karayuvaan kaaranamillathe karayumpol | Femina Vinoby | Fr Dr Titto Varghese Vallavanthara CMI]]></title>
-        <id>https://www.youtube.com/watch?v=5wlytdJpUpw</id>
-        <link href="https://www.youtube.com/watch?v=5wlytdJpUpw"/>
-        <updated>2023-07-22T08:08:02.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thumbi Penne Vava | Dhruvam | Shibu Chakravarthi | S P Venkatesh | Yesudas Malayalam Hits | Sujatha]]></title>
-        <id>https://www.youtube.com/watch?v=t3O0yakFZmw</id>
-        <link href="https://www.youtube.com/watch?v=t3O0yakFZmw"/>
-        <updated>2023-07-22T07:30:13.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മഴമുകില്‍ കൂന്തലിലെമഞ്ഞണി തുളസികളില്‍ | മിസ്റ്റർ ബട്‌ലർ | Dileep]]></title>
-        <id>https://www.youtube.com/watch?v=GC4yUY4lXd4</id>
-        <link href="https://www.youtube.com/watch?v=GC4yUY4lXd4"/>
-        <updated>2023-07-22T07:28:39.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
