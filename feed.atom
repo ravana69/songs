@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-19T09:17:29.835Z</updated>
+    <updated>2023-10-19T10:19:00.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -76,6 +76,15 @@
         <updated>2023-10-19T06:35:18.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Endless Night | Abided Crage | Deneesh Mathew | John Abraham JK | David Joyel | Abe Suhana]]></title>
+        <id>https://www.youtube.com/watch?v=86jFjHV0FPc</id>
+        <link href="https://www.youtube.com/watch?v=86jFjHV0FPc"/>
+        <updated>2023-10-19T06:25:23.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
