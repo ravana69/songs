@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-19T22:16:19.699Z</updated>
+    <updated>2023-10-19T23:17:13.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം # october 20th  mother mary prayer and songs]]></title>
+        <id>https://www.youtube.com/watch?v=QYM5RKuTAMM</id>
+        <link href="https://www.youtube.com/watch?v=QYM5RKuTAMM"/>
+        <updated>2023-10-19T23:00:13.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=2-CATHER-CI</id>
@@ -31540,15 +31549,6 @@
         <updated>2023-07-22T11:30:13.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yadu Hrudayam | Romantic Duet song by Madhu Balakrishnan & Chithra from Rappakal #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=nuoUF1WRxCE</id>
-        <link href="https://www.youtube.com/watch?v=nuoUF1WRxCE"/>
-        <updated>2023-07-22T10:30:30.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
