@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-19T05:16:43.157Z</updated>
+    <updated>2023-10-19T06:23:40.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എക്കാലവും പ്രിയങ്കരങ്ങളായ ജോൺസൻ മാഷിൻറെ ഗാനങ്ങൾ | Johnson master Hits | K J Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=bVZ8KzrEii4</id>
+        <link href="https://www.youtube.com/watch?v=bVZ8KzrEii4"/>
+        <updated>2023-10-19T06:00:33.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaasara Kshethrathil Nadathurannu | Ariyappedatha Rahasyam 1981 | S. Janaki | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=aO_MbqdO-Hc</id>
+        <link href="https://www.youtube.com/watch?v=aO_MbqdO-Hc"/>
+        <updated>2023-10-19T05:40:43.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maanasa Nilayil Ponnolangal Remastered Audio Song Dhwani Movie KJ Yesudas Yusufali Kecheri Naushad]]></title>
         <id>https://www.youtube.com/watch?v=so_HvBgVH5A</id>
@@ -31432,15 +31450,6 @@
         <updated>2023-07-21T18:25:04.000Z</updated>
         <author>
             <name>Tharangini Sound of arts Dubai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ശ്രീരാമ സ്തുതി ഗീതം |  | Sree Rama Sthuthi Geetham | Sreerama Devotional Song]]></title>
-        <id>https://www.youtube.com/watch?v=30v7-dJ7EFU</id>
-        <link href="https://www.youtube.com/watch?v=30v7-dJ7EFU"/>
-        <updated>2023-07-21T18:08:13.000Z</updated>
-        <author>
-            <name>Wilson Video Songs</name>
         </author>
     </entry>
 </feed>
