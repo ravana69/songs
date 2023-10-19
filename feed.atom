@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-19T20:18:35.497Z</updated>
+    <updated>2023-10-19T21:14:24.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31576,15 +31576,6 @@
         <updated>2023-07-22T09:17:53.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ormathan Vasantha Video Song | KJ Yesudas | Shyam | P Bhaskaran | Daisy Movie Song | Romantic Melody]]></title>
-        <id>https://www.youtube.com/watch?v=9P7XcozyeSI</id>
-        <link href="https://www.youtube.com/watch?v=9P7XcozyeSI"/>
-        <updated>2023-07-22T08:52:54.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
