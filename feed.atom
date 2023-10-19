@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-19T13:25:35.157Z</updated>
+    <updated>2023-10-19T14:16:55.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സ്വർഗ്ഗം ഇനിയെനിക്ക്  | Swargam Ini Enik | Bhishmachariya Movie Song | Manoj K. Jayan]]></title>
+        <id>https://www.youtube.com/watch?v=Nps8YDlXgpk</id>
+        <link href="https://www.youtube.com/watch?v=Nps8YDlXgpk"/>
+        <updated>2023-10-19T14:00:13.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chakkikothoru Chankaran | Acharam ammini osharam Omana | P Bhaskaran | G Devarajan | Prem Nazir]]></title>
+        <id>https://www.youtube.com/watch?v=jbpGeVhGVho</id>
+        <link href="https://www.youtube.com/watch?v=jbpGeVhGVho"/>
+        <updated>2023-10-19T13:30:17.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orukili Paattumoolave|Vadakkumnadhan|Mohanlal|Padmapriya|]]></title>
         <id>https://www.youtube.com/watch?v=5y70lOPntpM</id>
@@ -31567,15 +31585,6 @@
         <updated>2023-07-22T04:30:10.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എൻ പ്രിയൻ യേശുവിൻ | Sumi Sunny | Christian Devotional Shorts Video]]></title>
-        <id>https://www.youtube.com/watch?v=O-_92wCwiDw</id>
-        <link href="https://www.youtube.com/watch?v=O-_92wCwiDw"/>
-        <updated>2023-07-22T01:30:09.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
