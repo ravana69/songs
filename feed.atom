@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-21T18:20:39.673Z</updated>
+    <updated>2023-10-21T19:12:33.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 22 # Athiravile Prarthana 22nd October 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=QzFFfgdeLeA</id>
+        <link href="https://www.youtube.com/watch?v=QzFFfgdeLeA"/>
+        <updated>2023-10-21T19:00:12.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജപമാല ഗീതങ്ങള്‍ # Holy Rosary Special Songs Malayalam |  Month of Holy Rosary October 2023 Songs]]></title>
+        <id>https://www.youtube.com/watch?v=2Gdb6M5hO50</id>
+        <link href="https://www.youtube.com/watch?v=2Gdb6M5hO50"/>
+        <updated>2023-10-21T18:30:01.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രഘുവിൻറെ സ്വന്തം റസിയ | മലയാളചലച്ചിത്രഗാനങ്ങൾ | കെ ജെ യേശുദാസ് | Karthik |Malayalam Full Audio songs]]></title>
         <id>https://www.youtube.com/watch?v=mVtvfwe7Iso</id>
@@ -31828,15 +31846,6 @@
         <updated>2023-07-24T07:30:09.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRANAYALEKHANAM | NAZRETHIL JOSE VARGHESE | MANKUZHY AJITHKUMAR | LOVE SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=qkxjax1nZos</id>
-        <link href="https://www.youtube.com/watch?v=qkxjax1nZos"/>
-        <updated>2023-07-24T06:34:37.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
