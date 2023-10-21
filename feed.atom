@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-21T07:14:35.435Z</updated>
+    <updated>2023-10-21T08:20:07.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PAAVANACHARITHAN|പാവനചരിതൻ |PARUMALA THIRUMENI SONG| #royputhur #rayanmedia #parumalathirumenisongs]]></title>
+        <id>https://www.youtube.com/watch?v=bWEybmnC0nI</id>
+        <link href="https://www.youtube.com/watch?v=bWEybmnC0nI"/>
+        <updated>2023-10-21T08:14:34.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Athiravile | Anna Baby | Shorts  #manoramachristiandevotionalsongs #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=5BdapGC2hdk</id>
+        <link href="https://www.youtube.com/watch?v=5BdapGC2hdk"/>
+        <updated>2023-10-21T07:50:00.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒത്തിരി ആഗ്രഹത്തോടെ മലയാളികൾ എന്നും കേൾക്കുന്ന മലയാളത്തിലെ പ്രശസ്ത ഗാനങ്ങൾ  |Evergreen  Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=OwkPlzvBWjY</id>
+        <link href="https://www.youtube.com/watch?v=OwkPlzvBWjY"/>
+        <updated>2023-10-21T07:30:08.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nee Oru Vasantham Short Video | Malayalam Shorts | Malayalam Song Shorts]]></title>
         <id>https://www.youtube.com/watch?v=tI6P1l1xlM8</id>
@@ -31655,15 +31682,6 @@
         <id>https://www.youtube.com/watch?v=-bdF92I1mRI</id>
         <link href="https://www.youtube.com/watch?v=-bdF92I1mRI"/>
         <updated>2023-07-23T23:00:00.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന July 24 # Athiravile Prarthana 24th of July 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=NmEzLmyf1kU</id>
-        <link href="https://www.youtube.com/watch?v=NmEzLmyf1kU"/>
-        <updated>2023-07-23T20:00:05.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
