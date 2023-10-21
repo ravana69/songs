@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-21T01:14:12.232Z</updated>
+    <updated>2023-10-21T02:20:55.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paramaraja | Mithila Michael #shorts  #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=Paaz_PjG-b8</id>
+        <link href="https://www.youtube.com/watch?v=Paaz_PjG-b8"/>
+        <updated>2023-10-21T01:30:16.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #october 21st 2023 mother mary hits evergreen]]></title>
         <id>https://www.youtube.com/watch?v=4foY1g2EdFU</id>
@@ -31621,24 +31630,6 @@
         <updated>2023-07-23T18:10:44.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Melody Songs | Jessy Raju | Christian Devotional Songs Malayalam | Kester | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=KzqovMw0M7s</id>
-        <link href="https://www.youtube.com/watch?v=KzqovMw0M7s"/>
-        <updated>2023-07-23T13:30:07.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://youtu.be/36o-jrgsX_4 | വാനമ്പാടി @ 60 | Celebrating 60 Music Years of K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=8h0TJjlmarU</id>
-        <link href="https://www.youtube.com/watch?v=8h0TJjlmarU"/>
-        <updated>2023-07-23T13:30:05.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
