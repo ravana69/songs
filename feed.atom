@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-22T04:20:01.828Z</updated>
+    <updated>2023-10-22T05:16:02.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Izhanonthu Thakarnnoru | Vilakku Vaangiya Veena | Prem Nazeer | Yesudas | Dakshinamoorthy]]></title>
+        <id>https://www.youtube.com/watch?v=V083XY7b64E</id>
+        <link href="https://www.youtube.com/watch?v=V083XY7b64E"/>
+        <updated>2023-10-22T04:30:17.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kukkoo Kukkoo Kuyil |Nakshathrangal Parayathirunnathu2001|Mohan Sithara |Chithra |MalayalamMovieSong]]></title>
         <id>https://www.youtube.com/watch?v=LZbY-Emnjyc</id>
