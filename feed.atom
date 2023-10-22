@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-22T02:25:48.104Z</updated>
+    <updated>2023-10-22T03:18:20.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japamala Masam Short October  | Holy Rosary Special Short]]></title>
+        <id>https://www.youtube.com/watch?v=XOOByEtgaa8</id>
+        <link href="https://www.youtube.com/watch?v=XOOByEtgaa8"/>
+        <updated>2023-10-22T02:51:32.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unniye Ponnunniye Kanuvanay | #shortvideo | Christmas Carol Song]]></title>
         <id>https://www.youtube.com/watch?v=moyljTIKG-4</id>
