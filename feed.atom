@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-22T05:16:02.826Z</updated>
+    <updated>2023-10-22T06:21:53.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പാട്ടുപെട്ടി - Paattupetti Vol 30 | Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=CIwaZExIkB0</id>
+        <link href="https://www.youtube.com/watch?v=CIwaZExIkB0"/>
+        <updated>2023-10-22T06:00:04.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iniyum Mizhikal | Ben Johnson | Beautiful song by K J Yesudas #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=oRADqsHzWtM</id>
+        <link href="https://www.youtube.com/watch?v=oRADqsHzWtM"/>
+        <updated>2023-10-22T05:30:13.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Izhanonthu Thakarnnoru | Vilakku Vaangiya Veena | Prem Nazeer | Yesudas | Dakshinamoorthy]]></title>
         <id>https://www.youtube.com/watch?v=V083XY7b64E</id>
