@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-22T22:15:27.636Z</updated>
+    <updated>2023-10-22T23:16:37.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഏറ്റവും പുതിയ സംഗീത ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം # 2023 ലെ ഏറ്റവും പുതിയ ജപമാല]]></title>
+        <id>https://www.youtube.com/watch?v=o6NuREBxqgc</id>
+        <link href="https://www.youtube.com/watch?v=o6NuREBxqgc"/>
+        <updated>2023-10-22T23:00:19.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=Dxhrn0pTZMU</id>
@@ -31855,15 +31864,6 @@
         <updated>2023-07-25T11:37:34.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://youtu.be/wGUyo0mkpfU | വാനമ്പാടി @ 60 | Celebrating 60 Music Years of K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=PIbg4pyz6lo</id>
-        <link href="https://www.youtube.com/watch?v=PIbg4pyz6lo"/>
-        <updated>2023-07-25T10:30:07.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
