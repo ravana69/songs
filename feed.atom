@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-22T01:21:08.971Z</updated>
+    <updated>2023-10-22T02:25:48.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unniye Ponnunniye Kanuvanay | #shortvideo | Christmas Carol Song]]></title>
+        <id>https://www.youtube.com/watch?v=moyljTIKG-4</id>
+        <link href="https://www.youtube.com/watch?v=moyljTIKG-4"/>
+        <updated>2023-10-22T02:15:02.000Z</updated>
+        <author>
+            <name>Celebrants India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devangane | Kayam | Shorts  #malayalamfilmsongs]]></title>
+        <id>https://www.youtube.com/watch?v=OjC1LeE0-vI</id>
+        <link href="https://www.youtube.com/watch?v=OjC1LeE0-vI"/>
+        <updated>2023-10-22T02:00:15.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കരുണാനിധിയെ... #shrots #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=JZNO_4sebu4</id>
+        <link href="https://www.youtube.com/watch?v=JZNO_4sebu4"/>
+        <updated>2023-10-22T01:30:14.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feast of St.John Paul 2 | ഇന്ന് ജോൺപോൾ രണ്ടാമൻ മാർപാപ്പായുടെ തിരുനാൾ #frshajithumpechirayil]]></title>
         <id>https://www.youtube.com/watch?v=ZggrGMOOtYU</id>
@@ -31747,51 +31774,6 @@
         <updated>2023-07-24T15:23:48.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നൽകുന്നതെല്ലാം അനുഗ്രഹ പാത്രം , ഒരുക്കുന്നതെല്ലാം നന്മ മാത്രം .]]></title>
-        <id>https://www.youtube.com/watch?v=bhrrEfvXpiA</id>
-        <link href="https://www.youtube.com/watch?v=bhrrEfvXpiA"/>
-        <updated>2023-07-24T14:19:27.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://youtu.be/A7AdylLiJhU | വാനമ്പാടി @ 60 | Celebrating 60 Music Years of K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=RP3-1gwbuBI</id>
-        <link href="https://www.youtube.com/watch?v=RP3-1gwbuBI"/>
-        <updated>2023-07-24T13:30:19.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ragam Thaanam |Sooryagaayathri |ReMastered Video Song |Raveendran |K J Yesudas |O N V Kurup]]></title>
-        <id>https://www.youtube.com/watch?v=nVMGvvi3Cis</id>
-        <link href="https://www.youtube.com/watch?v=nVMGvvi3Cis"/>
-        <updated>2023-07-24T13:30:18.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Superhit Songs | Elizabeth Raju | Joji Johns | Christian Songs Malayalam | Wilson Piravom]]></title>
-        <id>https://www.youtube.com/watch?v=Hudf6rjS7r8</id>
-        <link href="https://www.youtube.com/watch?v=Hudf6rjS7r8"/>
-        <updated>2023-07-24T13:30:09.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthnaay Nin Video Song | KS Chithra | Raveendran | Vayalar Sarathchandra Varma | Kavya Madhavan]]></title>
-        <id>https://www.youtube.com/watch?v=q7J6RAAECY4</id>
-        <link href="https://www.youtube.com/watch?v=q7J6RAAECY4"/>
-        <updated>2023-07-24T13:21:37.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
