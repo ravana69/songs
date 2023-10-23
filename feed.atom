@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-23T13:22:13.161Z</updated>
+    <updated>2023-10-23T14:17:13.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paramaraja | Mithila Michael #shorts  #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=aVcUXODvqwg</id>
+        <link href="https://www.youtube.com/watch?v=aVcUXODvqwg"/>
+        <updated>2023-10-23T13:30:08.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kukku Kukku Kuruvali Video Song | Kalabhavan Mani | Geethu Mohandas | Chinmayi | M Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=8su7yJ-1KSk</id>
@@ -31891,15 +31900,6 @@
         <updated>2023-07-26T03:32:33.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കാന്താ വരവ് കാത്ത് | Christian Devotional Shorts | Hephsibha Benson]]></title>
-        <id>https://www.youtube.com/watch?v=BIRnCk58nfM</id>
-        <link href="https://www.youtube.com/watch?v=BIRnCk58nfM"/>
-        <updated>2023-07-26T01:30:10.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
