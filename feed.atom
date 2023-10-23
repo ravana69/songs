@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-23T05:16:52.338Z</updated>
+    <updated>2023-10-23T06:24:14.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malayalam Selected Film Songs | Yesudas | Raveendran | Mohanlal | Sound of Arts | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=rAkby5asmD4</id>
+        <link href="https://www.youtube.com/watch?v=rAkby5asmD4"/>
+        <updated>2023-10-23T05:30:16.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shaakuntalam(Malayalam) Movie Songs - Video Jukebox |Samantha Ruth Prabhu, Dev Mohan|Malayalam Songs]]></title>
+        <id>https://www.youtube.com/watch?v=_omE-YUfG08</id>
+        <link href="https://www.youtube.com/watch?v=_omE-YUfG08"/>
+        <updated>2023-10-23T05:30:07.000Z</updated>
+        <author>
+            <name>Tips Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thaazhvaaram manpoove Remastered Audio Song Jackpot Movie KJ Yesudas Ilayaraja Bichu Thirumala]]></title>
         <id>https://www.youtube.com/watch?v=zze6POqEj-o</id>
@@ -31855,15 +31873,6 @@
         <updated>2023-07-25T18:30:05.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കാലങ്ങളായി നിങ്ങളെ പാടിയുണർത്തുന്ന മധുരസ്വരം..| കെ എസ് ചിത്ര ഹിറ്റ്‌സ് | KS Chithra@60 | Remastered]]></title>
-        <id>https://www.youtube.com/watch?v=1jSng8eF-7g</id>
-        <link href="https://www.youtube.com/watch?v=1jSng8eF-7g"/>
-        <updated>2023-07-25T18:01:45.000Z</updated>
-        <author>
-            <name>Tharangini Sound of arts Dubai</name>
         </author>
     </entry>
 </feed>
