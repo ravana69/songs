@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-23T08:23:07.265Z</updated>
+    <updated>2023-10-23T09:18:19.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Polika Polika  | Mukalpparappu | Video Song | JP Thavarool | Siby Padiyara | Allen Varghese]]></title>
+        <id>https://www.youtube.com/watch?v=1bm2rBI47zE</id>
+        <link href="https://www.youtube.com/watch?v=1bm2rBI47zE"/>
+        <updated>2023-10-23T08:46:00.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഐശ്വര്യപൂർണ്ണമായ ദിനത്തിൽ മനം നിറയെ ആസ്വദിക്കാൻ ഉന്നതനിലവാരമുള്ള സിനിമാഗാനങ്ങൾ ! NISARI MUSIC]]></title>
         <id>https://www.youtube.com/watch?v=uS07ha7_c7M</id>
