@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-23T17:14:38.233Z</updated>
+    <updated>2023-10-23T18:22:20.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 24th October 23]]></title>
+        <id>https://www.youtube.com/watch?v=_JMtKMeIVAE</id>
+        <link href="https://www.youtube.com/watch?v=_JMtKMeIVAE"/>
+        <updated>2023-10-23T18:00:25.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അംബികേ നാഥേ .... കന്യകേ ..]]></title>
         <id>https://www.youtube.com/watch?v=C64MDcnB3OU</id>
@@ -31873,33 +31882,6 @@
         <updated>2023-07-26T06:28:52.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannil Nila Mugam Video Song | Sooryamanasam | Mammootty | Jagathy Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=dFw57P_XzAc</id>
-        <link href="https://www.youtube.com/watch?v=dFw57P_XzAc"/>
-        <updated>2023-07-26T06:00:10.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mohathin Mutheduthu | Anuragakottaram 1998 | Ilayaraja | K. S. Chithra | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=eiBb3tVSWmQ</id>
-        <link href="https://www.youtube.com/watch?v=eiBb3tVSWmQ"/>
-        <updated>2023-07-26T05:32:12.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feel the Song #MazhaPattu | #Padavettu | #NivinPauly | #AditiBalan | #AnwarAli | #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=ePkeY8xbozg</id>
-        <link href="https://www.youtube.com/watch?v=ePkeY8xbozg"/>
-        <updated>2023-07-26T05:30:15.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
