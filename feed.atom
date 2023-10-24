@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-24T10:19:15.780Z</updated>
+    <updated>2023-10-24T11:14:18.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maadham Pularumbol Video Song | Sundarakilladi | KS Chithra | Ouseppachan | Bichu Thirumala]]></title>
+        <id>https://www.youtube.com/watch?v=ph9437IhwE0</id>
+        <link href="https://www.youtube.com/watch?v=ph9437IhwE0"/>
+        <updated>2023-10-24T10:48:56.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Makkasai Makkasai | Vettam | Dileep | Kalabhavan Mani | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=gWXH47_H7Bg</id>
+        <link href="https://www.youtube.com/watch?v=gWXH47_H7Bg"/>
+        <updated>2023-10-24T10:30:15.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vayya Veli | Santhosham | Arvind Mahadevan | Titto P Thankachan | Akhil Anil Kumar]]></title>
+        <id>https://www.youtube.com/watch?v=qJbt-UXRfWo</id>
+        <link href="https://www.youtube.com/watch?v=qJbt-UXRfWo"/>
+        <updated>2023-10-24T10:30:07.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പാവന പരിശുദ്ധൻ |പരിശുദ്ധനായ പരുമല തിരുമേനിയോടുള്ള  മാദ്ധ്യസ്ഥാ ഗീതം | ROY PUTHUR & SHIBU PUTHURAN]]></title>
         <id>https://www.youtube.com/watch?v=t7fpEwOxh8Q</id>
@@ -31792,15 +31819,6 @@
         <updated>2023-07-27T00:15:03.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 27 shorts  # Athiravile Prarthana 27th of July 2023 Morning Prayer shorts]]></title>
-        <id>https://www.youtube.com/watch?v=Zswg6xq1GNI</id>
-        <link href="https://www.youtube.com/watch?v=Zswg6xq1GNI"/>
-        <updated>2023-07-26T23:00:17.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
