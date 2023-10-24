@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-24T16:22:22.955Z</updated>
+    <updated>2023-10-24T17:16:05.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ജപമാല ചൊല്ലി ഞാൻ ഏറെ കരഞ്ഞൂ ...]]></title>
+        <id>https://www.youtube.com/watch?v=qtR0ptRLBkc</id>
+        <link href="https://www.youtube.com/watch?v=qtR0ptRLBkc"/>
+        <updated>2023-10-24T16:47:34.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universal vibe for #NeelaNilave | #RDX | #KapilKapilan | #SamCS | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=Uf6nGw6lw0k</id>
+        <link href="https://www.youtube.com/watch?v=Uf6nGw6lw0k"/>
+        <updated>2023-10-24T16:38:26.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duo moves of #NeelaNilave | #RDX | #KapilKapilan | #SamCS | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=iinjPCTt5fs</id>
+        <link href="https://www.youtube.com/watch?v=iinjPCTt5fs"/>
+        <updated>2023-10-24T16:38:09.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vaisakha Sandhye   Nadodikkattu   Shyam   Hi Res Audio]]></title>
         <id>https://www.youtube.com/watch?v=RtoUgNgQDyc</id>
@@ -31801,24 +31828,6 @@
         <updated>2023-07-27T05:30:09.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇനിമേൽ എനിക്കില്ലോർ ഭയം | Sadhu Kochukunjupadeshi | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=KNPi3zNsoV4</id>
-        <link href="https://www.youtube.com/watch?v=KNPi3zNsoV4"/>
-        <updated>2023-07-27T04:30:13.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mattupetty Kovilile | Mayilattam | Jayaram | Rambha | Afsal | Chithra iyyer | M.Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=ZCaG4TEne1M</id>
-        <link href="https://www.youtube.com/watch?v=ZCaG4TEne1M"/>
-        <updated>2023-07-27T04:30:11.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
