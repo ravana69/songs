@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-24T13:21:43.025Z</updated>
+    <updated>2023-10-24T14:15:10.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sharee Mary Rajeshwari|Video Song|Ganamela|Mukesh|]]></title>
+        <id>https://www.youtube.com/watch?v=LXNsWifSbwY</id>
+        <link href="https://www.youtube.com/watch?v=LXNsWifSbwY"/>
+        <updated>2023-10-24T14:13:40.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസിന് എന്തെന്നില്ലാത്ത എനർജി നൽകും സൂപ്പർഹിറ്റ്  ഗാനങ്ങൾ |Evergreen Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=n_K6fcgj-d0</id>
+        <link href="https://www.youtube.com/watch?v=n_K6fcgj-d0"/>
+        <updated>2023-10-24T13:30:16.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഏതൊരാളുടെ മനസിലും എപ്പൊഴും കേൾക്കാൻ കൊതിക്കുന്ന ഗാനങ്ങൾMalayalam Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=2YxSJ2egB88</id>
+        <link href="https://www.youtube.com/watch?v=2YxSJ2egB88"/>
+        <updated>2023-10-24T13:30:02.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eeran Nilave | Dr. Patient | Shwetha Mohan | Bennet Veetraag | Rafeeq Ahammed]]></title>
         <id>https://www.youtube.com/watch?v=TubuMq0N23o</id>
@@ -31810,60 +31837,6 @@
         <updated>2023-07-27T02:30:17.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponnodu Poovai |വാനമ്പാടി @ 60|Celebratinbg 60 Musical Years of K S Chithra |Sharreth |Beeyar Prasad]]></title>
-        <id>https://www.youtube.com/watch?v=AGKHZ9nEinI</id>
-        <link href="https://www.youtube.com/watch?v=AGKHZ9nEinI"/>
-        <updated>2023-07-27T01:44:03.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mohanaragatharangam |വാനമ്പാടി @ 60|Celebratinbg 60 Musical Years of K S Chithra | O N V Kurup]]></title>
-        <id>https://www.youtube.com/watch?v=OhGWMPpZWfk</id>
-        <link href="https://www.youtube.com/watch?v=OhGWMPpZWfk"/>
-        <updated>2023-07-27T01:42:24.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chenkathir Kayyum | വാനമ്പാടി @ 60 |  Celebratinbg 60 Musical Years of K S Chithra |Ilayaraja]]></title>
-        <id>https://www.youtube.com/watch?v=o0OYuO5NNTg</id>
-        <link href="https://www.youtube.com/watch?v=o0OYuO5NNTg"/>
-        <updated>2023-07-27T01:41:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chandhanamukile | വാനമ്പാടി @ 60 | Celebratinbg 60 Musical Years of K S Chithra | M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=ZwAZcx2OrCI</id>
-        <link href="https://www.youtube.com/watch?v=ZwAZcx2OrCI"/>
-        <updated>2023-07-27T01:38:38.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aadikkarin Manjal | വാനമ്പാടി @ 60 |  Celebratinbg 60 Musical Years of K S Chithra | O N V Kurup]]></title>
-        <id>https://www.youtube.com/watch?v=qgTrFxvISM0</id>
-        <link href="https://www.youtube.com/watch?v=qgTrFxvISM0"/>
-        <updated>2023-07-27T01:32:39.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://youtu.be/pp56PogLAhw | വാനമ്പാടി @ 60 | Celebrating 60 Music Years of K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=n54T4rfLenc</id>
-        <link href="https://www.youtube.com/watch?v=n54T4rfLenc"/>
-        <updated>2023-07-27T01:30:20.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
