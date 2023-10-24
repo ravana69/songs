@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-24T04:20:11.512Z</updated>
+    <updated>2023-10-24T05:16:19.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ella Naavum Paadivazhthum | K S Chithra | Shorts #shorts #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=n6Z_x_QQvaI</id>
+        <link href="https://www.youtube.com/watch?v=n6Z_x_QQvaI"/>
+        <updated>2023-10-24T04:38:19.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allikalil Azhakalayo | Praja | Mohanlal | Aishwarya | M G Sreekumar | Gireesh Puthanchery | Sujatha]]></title>
+        <id>https://www.youtube.com/watch?v=7EA3TrL0tJI</id>
+        <link href="https://www.youtube.com/watch?v=7EA3TrL0tJI"/>
+        <updated>2023-10-24T04:30:05.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aavani Kattinnu | Ponnona Tharangini | Yesudas | Ramesh Menon | Sound of Arts | Festival Songs]]></title>
         <id>https://www.youtube.com/watch?v=Z_BVYLKUoGE</id>
