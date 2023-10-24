@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-24T22:16:38.284Z</updated>
+    <updated>2023-10-24T23:16:46.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സംഗീത ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ഉണരാം #സംഗീത ജപമാല #sangeetha japamala songs and prayers]]></title>
+        <id>https://www.youtube.com/watch?v=b7tkdStikDw</id>
+        <link href="https://www.youtube.com/watch?v=b7tkdStikDw"/>
+        <updated>2023-10-24T22:30:03.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=u-L0s5U6Okw</id>
@@ -31702,24 +31711,6 @@
         <updated>2023-07-27T12:00:01.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aadyathe Kuttumon - Lyrical Video | American Ammaayi | Ranjini Jose, Prabhakar]]></title>
-        <id>https://www.youtube.com/watch?v=u9aVbaRfYec</id>
-        <link href="https://www.youtube.com/watch?v=u9aVbaRfYec"/>
-        <updated>2023-07-27T11:10:11.000Z</updated>
-        <author>
-            <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivame Thriyekane | Chithra Arun | P D John | Malayalam Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=fyBb7JcmCkA</id>
-        <link href="https://www.youtube.com/watch?v=fyBb7JcmCkA"/>
-        <updated>2023-07-27T10:40:28.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
