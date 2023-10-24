@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-24T14:15:10.449Z</updated>
+    <updated>2023-10-24T15:19:44.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kenu Mayangeeyoren | Suresh Gopi | Vijayasanthi |  | KS Chithra | Ilaiyaraja | Kallu Kondoru Pennu]]></title>
+        <id>https://www.youtube.com/watch?v=Ad-zWy40rS0</id>
+        <link href="https://www.youtube.com/watch?v=Ad-zWy40rS0"/>
+        <updated>2023-10-24T14:30:02.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sharee Mary Rajeshwari|Video Song|Ganamela|Mukesh|]]></title>
         <id>https://www.youtube.com/watch?v=LXNsWifSbwY</id>
@@ -31828,15 +31837,6 @@
         <updated>2023-07-27T03:55:22.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://youtu.be/iWDRj6XSiuQ | വാനമ്പാടി @ 60 | Celebrating 60 Music Years of K S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=dVNBysZxW1Y</id>
-        <link href="https://www.youtube.com/watch?v=dVNBysZxW1Y"/>
-        <updated>2023-07-27T02:30:17.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
