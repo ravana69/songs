@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T02:23:01.737Z</updated>
+    <updated>2023-10-25T03:17:53.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hits Of Johnson Master | Malayalam Film Songs | Yesudas | Kaithapram | Sound of Arts]]></title>
+        <id>https://www.youtube.com/watch?v=WTi8bayC7fg</id>
+        <link href="https://www.youtube.com/watch?v=WTi8bayC7fg"/>
+        <updated>2023-10-25T03:00:28.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[സർവ്വപാപക്കറകൾ | Sarvapaapakkarakal | K S Chithra #shrots #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=E0_FcPUh1AA</id>
@@ -31621,24 +31630,6 @@
         <updated>2023-07-27T16:59:05.000Z</updated>
         <author>
             <name>Tharangini Sound of arts Dubai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthe Mulle Pookathu Video Song | Gireesh Puthenchery | Raveendran | KJ Yesudas | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=tBMz69djaYQ</id>
-        <link href="https://www.youtube.com/watch?v=tBMz69djaYQ"/>
-        <updated>2023-07-27T15:00:52.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സഹനം ജീവിതം വിശുദ്ധമാക്കും ....]]></title>
-        <id>https://www.youtube.com/watch?v=hGJ8Hxg3Zr4</id>
-        <link href="https://www.youtube.com/watch?v=hGJ8Hxg3Zr4"/>
-        <updated>2023-07-27T14:29:56.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
