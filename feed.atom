@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T17:14:54.237Z</updated>
+    <updated>2023-10-25T18:21:08.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dancin to the beats for #NeelaNilave | #RDX | #KapilKapilan | #SamCS | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=5FbfKAmp2FE</id>
+        <link href="https://www.youtube.com/watch?v=5FbfKAmp2FE"/>
+        <updated>2023-10-25T18:07:19.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Awesome Recreation for #NeelaNilave | #RDX | #KapilKapilan | #SamCS | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=ll8ibtO_trs</id>
+        <link href="https://www.youtube.com/watch?v=ll8ibtO_trs"/>
+        <updated>2023-10-25T18:07:06.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 26th October 23]]></title>
+        <id>https://www.youtube.com/watch?v=83zrBbv1J1Q</id>
+        <link href="https://www.youtube.com/watch?v=83zrBbv1J1Q"/>
+        <updated>2023-10-25T18:00:04.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anuragini Ithaayen | Oru Kudakeezhil | KJ Yesudas | Johnson | Venu Nagavalli | Madhavi]]></title>
         <id>https://www.youtube.com/watch?v=LR46Ewa8Ots</id>
@@ -31729,24 +31756,6 @@
         <updated>2023-07-28T06:49:37.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beautiful lyrics #MazhaPattu | #Padavettu | #NivinPauly | #AditiBalan | #AnwarAli| #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=cjuMt-GSx50</id>
-        <link href="https://www.youtube.com/watch?v=cjuMt-GSx50"/>
-        <updated>2023-07-28T05:30:15.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇവൾക്കൊരുവൻ കിഴക്കുദിച്ചേ ഇന്നു താലി പീലി പൊന്നും കെട്ടി മുത്തഴകു മണിച്ചെറുക്കൻ.. തിങ്കളേ പൂ തിങ്കളേ]]></title>
-        <id>https://www.youtube.com/watch?v=uMxFHcWVEw0</id>
-        <link href="https://www.youtube.com/watch?v=uMxFHcWVEw0"/>
-        <updated>2023-07-28T05:24:40.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
