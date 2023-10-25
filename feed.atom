@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T20:17:51.824Z</updated>
+    <updated>2023-10-25T21:14:59.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31630,15 +31630,6 @@
         <updated>2023-07-28T09:30:03.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thalolam - Smaravaaram Lyric | Kaithapram | Suresh Gopi, Murali, Sreelakshmi]]></title>
-        <id>https://www.youtube.com/watch?v=0AlGndFdpLI</id>
-        <link href="https://www.youtube.com/watch?v=0AlGndFdpLI"/>
-        <updated>2023-07-28T09:14:40.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
