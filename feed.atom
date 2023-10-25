@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T01:16:04.024Z</updated>
+    <updated>2023-10-25T02:23:01.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സർവ്വപാപക്കറകൾ | Sarvapaapakkarakal | K S Chithra #shrots #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=E0_FcPUh1AA</id>
+        <link href="https://www.youtube.com/watch?v=E0_FcPUh1AA"/>
+        <updated>2023-10-25T01:30:10.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala 25th of October 23 # Mathavinte Japamala Santhoshathinte Rahasyangal 25th of October 23]]></title>
         <id>https://www.youtube.com/watch?v=BBDsPf_8kc0</id>
@@ -31630,15 +31639,6 @@
         <updated>2023-07-27T14:29:56.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennod Kattum Karunakk | Christian Melody Song | KS Chithra | Christian Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=Z1hGAuFcabU</id>
-        <link href="https://www.youtube.com/watch?v=Z1hGAuFcabU"/>
-        <updated>2023-07-27T13:30:12.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
