@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T07:16:13.782Z</updated>
+    <updated>2023-10-25T08:22:58.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaradhyanam Daivame | Kristheeya Bhakthigaanangal | Christian Devotional Songs | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=gIBCLIJQDHI</id>
+        <link href="https://www.youtube.com/watch?v=gIBCLIJQDHI"/>
+        <updated>2023-10-25T08:06:16.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ennu Meghe Vannidum | എന്നുമേഘേ വന്നിടും | Susan Rajukutty #shorts #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=MHE4a-V9e1Q</id>
+        <link href="https://www.youtube.com/watch?v=MHE4a-V9e1Q"/>
+        <updated>2023-10-25T07:45:37.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എല്ലാ ജനവിഭാഗങ്ങളും ഒരുപോലെ ആസ്വദിക്കുന്ന മലയാളസിനിമയിലെ ഏറെ ജനപ്രീതിയുള്ള ഗാനങ്ങൾ ! EVERGREEN SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=quIQw3wm1ew</id>
+        <link href="https://www.youtube.com/watch?v=quIQw3wm1ew"/>
+        <updated>2023-10-25T07:30:17.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആയിരം തവണ കേട്ടാലും വീണ്ടും ഒന്നുകൂടി കേൾക്കാൻ മനസ്സ് വെമ്പുന്ന മലയാളചലച്ചിത്രഗാനങ്ങൾ !  SUPERHITS]]></title>
+        <id>https://www.youtube.com/watch?v=h3X9KL1P6wA</id>
+        <link href="https://www.youtube.com/watch?v=h3X9KL1P6wA"/>
+        <updated>2023-10-25T07:30:13.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളസിനിമ സംഗീതത്തിന്റെ അഭിമാനങ്ങളായിരുന്ന രവീന്ദ്രനും ജോൺസണും ഈണമിട്ട ഇന്നും മറക്കാത്ത ഗാനങ്ങൾ !]]></title>
+        <id>https://www.youtube.com/watch?v=A4niBjF_hDE</id>
+        <link href="https://www.youtube.com/watch?v=A4niBjF_hDE"/>
+        <updated>2023-10-25T07:30:01.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kannaadippuzhayude | Bhaarya 1994 | S.P. Venkitesh | K. J. Yesudas | Malayalam Movie Song]]></title>
         <id>https://www.youtube.com/watch?v=6gjNJFXyPLs</id>
@@ -31637,15 +31682,6 @@
         <id>https://www.youtube.com/watch?v=a6ezXKrvGdE</id>
         <link href="https://www.youtube.com/watch?v=a6ezXKrvGdE"/>
         <updated>2023-07-27T23:00:00.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന July 28 # Athiravile Prarthana 28th of July 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=lRObT3lEFE4</id>
-        <link href="https://www.youtube.com/watch?v=lRObT3lEFE4"/>
-        <updated>2023-07-27T20:00:15.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
