@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T14:16:21.819Z</updated>
+    <updated>2023-10-25T15:17:54.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tharattu - Rainy Lofi | Kumari | Manikandan Ayyappa | AJX]]></title>
+        <id>https://www.youtube.com/watch?v=moAzXN9xn9c</id>
+        <link href="https://www.youtube.com/watch?v=moAzXN9xn9c"/>
+        <updated>2023-10-25T15:00:45.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aradhya - Rendition | Kushi (Malayalam) | Hesham Abdul Wahab | Yukta, Suneesh, Reshma Suneesh]]></title>
         <id>https://www.youtube.com/watch?v=E0FEnVm0oz4</id>
@@ -31729,24 +31738,6 @@
         <updated>2023-07-28T04:30:26.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏകാന്ത യാമങ്ങളിൽ | Baby John Kalayanthani | Abhijith Vijayan | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=K0I6Hb1ps9E</id>
-        <link href="https://www.youtube.com/watch?v=K0I6Hb1ps9E"/>
-        <updated>2023-07-28T03:04:44.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദിവ്യകാരുണ്യമേ ബലിവേദിയിൽ| Fr. Vipin Kurishuthara CMI | Fr. Vinil Kurishuthara CMF | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=XIaoNmER4r8</id>
-        <link href="https://www.youtube.com/watch?v=XIaoNmER4r8"/>
-        <updated>2023-07-28T03:04:13.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
