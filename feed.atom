@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T15:17:54.148Z</updated>
+    <updated>2023-10-25T16:21:19.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anuragini Ithaayen | Oru Kudakeezhil | KJ Yesudas | Johnson | Venu Nagavalli | Madhavi]]></title>
+        <id>https://www.youtube.com/watch?v=LR46Ewa8Ots</id>
+        <link href="https://www.youtube.com/watch?v=LR46Ewa8Ots"/>
+        <updated>2023-10-25T15:34:52.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25 October 2023]]></title>
+        <id>https://www.youtube.com/watch?v=j1zRSFdGdwQ</id>
+        <link href="https://www.youtube.com/watch?v=j1zRSFdGdwQ"/>
+        <updated>2023-10-25T15:19:26.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tharattu - Rainy Lofi | Kumari | Manikandan Ayyappa | AJX]]></title>
         <id>https://www.youtube.com/watch?v=moAzXN9xn9c</id>
