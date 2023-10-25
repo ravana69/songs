@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T16:21:19.005Z</updated>
+    <updated>2023-10-25T17:14:54.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31747,15 +31747,6 @@
         <updated>2023-07-28T05:24:40.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akkuthikkuthaanavarambe | Ambadi Thannilorunni 1986 | K.J. Yesudas, Ashalatha | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=q_SI_1Pr9u8</id>
-        <link href="https://www.youtube.com/watch?v=q_SI_1Pr9u8"/>
-        <updated>2023-07-28T04:30:26.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
