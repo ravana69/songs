@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T04:21:08.540Z</updated>
+    <updated>2023-10-25T05:16:20.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kannaadippuzhayude | Bhaarya 1994 | S.P. Venkitesh | K. J. Yesudas | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=6gjNJFXyPLs</id>
+        <link href="https://www.youtube.com/watch?v=6gjNJFXyPLs"/>
+        <updated>2023-10-25T05:12:20.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hey Kulambadi Thaalam Remastered Audio Song Jackpot Movie KS Chithra   Ilayaraja Bichu Thirumala]]></title>
+        <id>https://www.youtube.com/watch?v=ZtL6qsK-3V8</id>
+        <link href="https://www.youtube.com/watch?v=ZtL6qsK-3V8"/>
+        <updated>2023-10-25T05:05:06.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thoomanji Thulli | Appunni | Mohanlal | Menaka | Yesudas | Sathyan Anthikkad | Kannur Rajan]]></title>
+        <id>https://www.youtube.com/watch?v=CVQJn9llp4Q</id>
+        <link href="https://www.youtube.com/watch?v=CVQJn9llp4Q"/>
+        <updated>2023-10-25T04:30:06.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hits Of Johnson Master | Malayalam Film Songs | Yesudas | Kaithapram | Sound of Arts]]></title>
         <id>https://www.youtube.com/watch?v=WTi8bayC7fg</id>
@@ -31630,15 +31657,6 @@
         <updated>2023-07-27T18:30:01.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പാട്ടുകൾ കൊണ്ട് മനസ്സുകളിൽ തേന്മഴപൊഴിയിച്ച വാനമ്പാടിയുടെ പാട്ടുകൾ |  KS Chithra@60| K  S Chitra Hits]]></title>
-        <id>https://www.youtube.com/watch?v=-eUxybQEAgM</id>
-        <link href="https://www.youtube.com/watch?v=-eUxybQEAgM"/>
-        <updated>2023-07-27T16:59:05.000Z</updated>
-        <author>
-            <name>Tharangini Sound of arts Dubai</name>
         </author>
     </entry>
 </feed>
