@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T21:14:59.778Z</updated>
+    <updated>2023-10-25T22:16:24.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=ZYtw1yg3-tM</id>
+        <link href="https://www.youtube.com/watch?v=ZYtw1yg3-tM"/>
+        <updated>2023-10-25T22:00:29.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  October 26 # Athiravile Prarthana 26th of October 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=AC9Qasr9JwY</id>
@@ -31621,15 +31630,6 @@
         <updated>2023-07-28T10:30:07.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങാന്‍ പോകുമ്പോള്‍ കേള്‍ക്കാവുന്ന ഗാനങ്ങള്‍ # Malayalam Christian songs for Sleep #worshipsongs]]></title>
-        <id>https://www.youtube.com/watch?v=8EOUwVtTDOE</id>
-        <link href="https://www.youtube.com/watch?v=8EOUwVtTDOE"/>
-        <updated>2023-07-28T09:30:03.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
