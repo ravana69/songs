@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-26T02:21:57.051Z</updated>
+    <updated>2023-10-26T03:17:27.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31567,33 +31567,6 @@
         <updated>2023-07-28T18:30:12.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kushi (Malayalam) Title Song - Lyrical | Vijay Deverakonda, Samantha | Hesham Abdul Wahab]]></title>
-        <id>https://www.youtube.com/watch?v=SRdyyNca-Mo</id>
-        <link href="https://www.youtube.com/watch?v=SRdyyNca-Mo"/>
-        <updated>2023-07-28T15:14:56.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayilaay Parannuvaa S Janaki Version | Video Song | Berny Ignatius | S Ramesan Nair |Mayilppeelikavu]]></title>
-        <id>https://www.youtube.com/watch?v=eQYosumrV_Y</id>
-        <link href="https://www.youtube.com/watch?v=eQYosumrV_Y"/>
-        <updated>2023-07-28T15:00:35.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നീറുമെൻ മനതാരിൽ നിൻ കരുണാർദ്ര സ്നേഹമേകണേ ...]]></title>
-        <id>https://www.youtube.com/watch?v=iRijkeRaj8I</id>
-        <link href="https://www.youtube.com/watch?v=iRijkeRaj8I"/>
-        <updated>2023-07-28T14:25:03.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
