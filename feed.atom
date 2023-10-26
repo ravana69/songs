@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-26T05:16:19.537Z</updated>
+    <updated>2023-10-26T06:23:11.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anuraga Neela |  Paviyettante Madhura Chooral | Beautiful Song by K S Chithra #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=hj11D8ySo44</id>
+        <link href="https://www.youtube.com/watch?v=hj11D8ySo44"/>
+        <updated>2023-10-26T05:30:18.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navarathna Vilpanakkaari | Ariyappedatha Rahasyam 1981 | M.K.Arjunan | Yesudas |Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=bgr6bXh7Y00</id>
+        <link href="https://www.youtube.com/watch?v=bgr6bXh7Y00"/>
+        <updated>2023-10-26T05:22:20.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pattum Padi Oru Video Song | Speed Track | K J Yesudas | Deepak Dev | Dileep]]></title>
+        <id>https://www.youtube.com/watch?v=pVEL05sAtDw</id>
+        <link href="https://www.youtube.com/watch?v=pVEL05sAtDw"/>
+        <updated>2023-10-26T05:11:24.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Po Po Kaalamone | പോ പോ കാളമോനെ  | Enthono Pookkuna Pookkal  Movie Songs | K J Yesudas | Mammootty]]></title>
         <id>https://www.youtube.com/watch?v=M9DwL5FC04g</id>
