@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-26T22:16:40.910Z</updated>
+    <updated>2023-10-26T23:17:04.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #christian devotional songs malayalam mothermary 27]]></title>
+        <id>https://www.youtube.com/watch?v=9-JHQzlD3f8</id>
+        <link href="https://www.youtube.com/watch?v=9-JHQzlD3f8"/>
+        <updated>2023-10-26T23:00:06.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 27th of October 2023 Mathavinte Japamala # Dhukhathinte Rahasyangal 27th of October 23]]></title>
+        <id>https://www.youtube.com/watch?v=fXqGoMt36ZQ</id>
+        <link href="https://www.youtube.com/watch?v=fXqGoMt36ZQ"/>
+        <updated>2023-10-26T22:30:04.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=2buCi5qQKgs</id>
@@ -31819,24 +31837,6 @@
         <updated>2023-07-29T11:25:42.000Z</updated>
         <author>
             <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gireesh Puthenchery Non-Stop Melodies | Vidyasagar | Malayalam Film Songs | Video Song Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=t84elxhzWF4</id>
-        <link href="https://www.youtube.com/watch?v=t84elxhzWF4"/>
-        <updated>2023-07-29T10:30:13.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manathe Chandiranothoru Video Song | Gireesh Puthenchery | BernyIgnatius |MG Sreekumar|Malgudi Subha]]></title>
-        <id>https://www.youtube.com/watch?v=ts1TaTvgLPU</id>
-        <link href="https://www.youtube.com/watch?v=ts1TaTvgLPU"/>
-        <updated>2023-07-29T10:29:23.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
