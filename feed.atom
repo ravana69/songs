@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-26T19:13:25.143Z</updated>
+    <updated>2023-10-26T20:18:01.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japamala Masam Short October  | Holy Rosary Special Short]]></title>
+        <id>https://www.youtube.com/watch?v=smtPGNGsdyU</id>
+        <link href="https://www.youtube.com/watch?v=smtPGNGsdyU"/>
+        <updated>2023-10-26T19:20:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 27 # Athiravile Prarthana 27th October 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=v-4DGyrCB80</id>
@@ -31837,15 +31846,6 @@
         <updated>2023-07-29T08:54:14.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസ്സിൽ ഇപ്പോഴും ഓടിയെത്തുന്ന മലയാളത്തിലെ പ്രശസ്ത സിനിമ ഗാനങ്ങൾ |Evergreen Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=tZNEUl3eAEk</id>
-        <link href="https://www.youtube.com/watch?v=tZNEUl3eAEk"/>
-        <updated>2023-07-29T07:30:11.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
