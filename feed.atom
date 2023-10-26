@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-26T11:14:02.337Z</updated>
+    <updated>2023-10-26T12:33:54.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഞാൻ തന്നെ വഴിയും സത്യവും ജീവനുമാകുന്നു |Rev. Aneesh P Joseph #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=RPgvX_9VNc8</id>
+        <link href="https://www.youtube.com/watch?v=RPgvX_9VNc8"/>
+        <updated>2023-10-26T12:30:23.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കരിമുകില്‍ക്കാടിളക്കി | Karimugilkkaadilakki | Padanayakan Movie Song | M G Sreekumar | Dileep]]></title>
+        <id>https://www.youtube.com/watch?v=xwrNa25EzKQ</id>
+        <link href="https://www.youtube.com/watch?v=xwrNa25EzKQ"/>
+        <updated>2023-10-26T12:01:00.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karukare Karuthoru | Harmonium  Cover by Sharan Appus #shortsfeed #shorts #harmonium #instrumental]]></title>
+        <id>https://www.youtube.com/watch?v=qEwpN7BnomQ</id>
+        <link href="https://www.youtube.com/watch?v=qEwpN7BnomQ"/>
+        <updated>2023-10-26T12:00:55.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweety Pie Darling | Puthiya Mukham | Suvi | Prithviraj | Deepak Dev | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=9SBRNzRVN9s</id>
+        <link href="https://www.youtube.com/watch?v=9SBRNzRVN9s"/>
+        <updated>2023-10-26T12:00:12.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 26thof October 2023]]></title>
+        <id>https://www.youtube.com/watch?v=KHmOTu5pTyU</id>
+        <link href="https://www.youtube.com/watch?v=KHmOTu5pTyU"/>
+        <updated>2023-10-26T11:30:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mangalam Padunna | K J Yesudas | KS Chithra | Mohanlal |  Urvashi | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=OCFPgo0YMLA</id>
+        <link href="https://www.youtube.com/watch?v=OCFPgo0YMLA"/>
+        <updated>2023-10-26T11:30:08.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Melody Songs | Kester | Christian Devotional Songs Malayalam | Joji Johns | Manoj Christy]]></title>
+        <id>https://www.youtube.com/watch?v=5qsWsfXPGso</id>
+        <link href="https://www.youtube.com/watch?v=5qsWsfXPGso"/>
+        <updated>2023-10-26T11:30:04.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pooja Ceremony | East Coast Vijayan | Amith Chakalakkal, Mokksha, Anusree | East Coast Movie]]></title>
         <id>https://www.youtube.com/watch?v=W25sLtg4Zl0</id>
@@ -31729,24 +31792,6 @@
         <updated>2023-07-29T01:30:05.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 29th of July  2023 # Mathavinte Japamala # Santhoshathinte Rahasyangal 29th of July 2023]]></title>
-        <id>https://www.youtube.com/watch?v=7eXxfXmG8Kw</id>
-        <link href="https://www.youtube.com/watch?v=7eXxfXmG8Kw"/>
-        <updated>2023-07-29T00:30:07.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #July 29th mother Mary Christian devotional songs]]></title>
-        <id>https://www.youtube.com/watch?v=IbOLJYK3aws</id>
-        <link href="https://www.youtube.com/watch?v=IbOLJYK3aws"/>
-        <updated>2023-07-29T00:30:05.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
         </author>
     </entry>
 </feed>
