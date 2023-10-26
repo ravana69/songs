@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-26T18:21:09.796Z</updated>
+    <updated>2023-10-26T19:13:25.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 27 # Athiravile Prarthana 27th October 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=v-4DGyrCB80</id>
+        <link href="https://www.youtube.com/watch?v=v-4DGyrCB80"/>
+        <updated>2023-10-26T19:00:24.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neethanna Pulari | Sukruthamee Japamala | Latest Marian Holy Rosary Special Song Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=BV1ar-oMnTA</id>
+        <link href="https://www.youtube.com/watch?v=BV1ar-oMnTA"/>
+        <updated>2023-10-26T18:38:58.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജപമാല ഗീതങ്ങള്‍ # Holy Rosary Special Songs Malayalam |  Month of Holy Rosary October 2023 Songs]]></title>
+        <id>https://www.youtube.com/watch?v=skc65gXfZtA</id>
+        <link href="https://www.youtube.com/watch?v=skc65gXfZtA"/>
+        <updated>2023-10-26T18:30:41.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#Pakaliravukal | #Kurup | #DulquerSalmaan | #SobhitaDhulipala | #SushinShyam | #AnwarAli]]></title>
         <id>https://www.youtube.com/watch?v=VnMfF_shP08</id>
@@ -31819,15 +31846,6 @@
         <updated>2023-07-29T07:30:11.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏകാന്ത യാമങ്ങളിൽ | Baby John Kalayanthani | Abhijith Vijayan | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=64zc5nKrbyM</id>
-        <link href="https://www.youtube.com/watch?v=64zc5nKrbyM"/>
-        <updated>2023-07-29T06:30:01.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
