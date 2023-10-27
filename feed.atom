@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-27T17:13:42.171Z</updated>
+    <updated>2023-10-27T18:21:57.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 28th October 23]]></title>
+        <id>https://www.youtube.com/watch?v=RFD-6_mJWTs</id>
+        <link href="https://www.youtube.com/watch?v=RFD-6_mJWTs"/>
+        <updated>2023-10-27T18:00:10.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Pakaliravukal | #Kurup | #DulquerSalmaan | #SobhitaDhulipala | #SushinShyam | #AnwarAli]]></title>
+        <id>https://www.youtube.com/watch?v=8P9qjVhA0Fk</id>
+        <link href="https://www.youtube.com/watch?v=8P9qjVhA0Fk"/>
+        <updated>2023-10-27T17:56:21.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Pakaliravukal | #Kurup | #DulquerSalmaan | #SobhitaDhulipala | #SushinShyam | #AnwarAli]]></title>
+        <id>https://www.youtube.com/watch?v=4F1BWgEpdlI</id>
+        <link href="https://www.youtube.com/watch?v=4F1BWgEpdlI"/>
+        <updated>2023-10-27T17:56:10.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈശോയെ പോലമ്മേ ഇന്നെന്നെ വളർത്താമോ . . .]]></title>
         <id>https://www.youtube.com/watch?v=2EWNbAwSkEU</id>
@@ -31837,42 +31864,6 @@
         <updated>2023-07-30T09:30:10.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pappacha Pappacha | Pappachan Olivilanu | Animated Promo Song 4K | Sinto Sunny | Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=k-WWd8xv6co</id>
-        <link href="https://www.youtube.com/watch?v=k-WWd8xv6co"/>
-        <updated>2023-07-30T06:07:00.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഡിങ്കിരി ഡിങ്കിരി ഡിങ്കിരി ഡിങ്കിരിപ്പട്ടാളം... ഡുമുക്കി ഡുമുക്കി ഡുമുക്കി ഡൂക്കിലി പട്ടാളം....]]></title>
-        <id>https://www.youtube.com/watch?v=PJhJqFMcCR4</id>
-        <link href="https://www.youtube.com/watch?v=PJhJqFMcCR4"/>
-        <updated>2023-07-30T06:00:17.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പാട്ടുപെട്ടി - Paattupetti Vol 18 | Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=6-hI592twW4</id>
-        <link href="https://www.youtube.com/watch?v=6-hI592twW4"/>
-        <updated>2023-07-30T06:00:02.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Vibes of #MazhaPattu | #Padavettu | #NivinPauly | #AditiBalan | #AnwarAli | #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=ggycWzPLi1c</id>
-        <link href="https://www.youtube.com/watch?v=ggycWzPLi1c"/>
-        <updated>2023-07-30T05:30:12.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
