@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-27T22:16:23.567Z</updated>
+    <updated>2023-10-27T23:16:29.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kazhchayegam dhivame jeetham baliyai #fr.binoj #best songs of fr.binoj mulaVARICKAL]]></title>
+        <id>https://www.youtube.com/watch?v=RZXrWtU-N_k</id>
+        <link href="https://www.youtube.com/watch?v=RZXrWtU-N_k"/>
+        <updated>2023-10-27T23:00:16.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=JI76IN0OTfE</id>
@@ -31855,15 +31864,6 @@
         <updated>2023-07-30T12:00:31.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nadodi Theyyavum Video Song | KJ Yesudas | Sujatha Mohan | Ouseppachan | Bichu Thirumala]]></title>
-        <id>https://www.youtube.com/watch?v=lipP5ks-SvI</id>
-        <link href="https://www.youtube.com/watch?v=lipP5ks-SvI"/>
-        <updated>2023-07-30T11:00:38.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
