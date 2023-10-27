@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-27T07:16:02.306Z</updated>
+    <updated>2023-10-27T08:21:27.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അമ്മേ   എൻ്റെ അമ്മേ എൻ്റെ ഈശോയുടെ അമ്മേ # ജനലക്ഷങ്ങൾ നെഞ്ഞോട് ചേർത്ത ഗാനം]]></title>
+        <id>https://www.youtube.com/watch?v=adFeYQMITCw</id>
+        <link href="https://www.youtube.com/watch?v=adFeYQMITCw"/>
+        <updated>2023-10-27T08:00:02.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജാതിമത ഭേദമില്ലാതെ എല്ലാ മലയാളികളും ഒരുപോലെ ആസ്വദിക്കുന്ന മലയാളസിനിമയിലെ പ്രശസ്തഗാനങ്ങൾ !]]></title>
+        <id>https://www.youtube.com/watch?v=S5MGVfHlAM8</id>
+        <link href="https://www.youtube.com/watch?v=S5MGVfHlAM8"/>
+        <updated>2023-10-27T07:37:57.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[James Bondin | C.I.D.Moosa | Bhavana | Karthik | Vidyasagar | Dileep Birthday Special]]></title>
         <id>https://www.youtube.com/watch?v=G0vTt_Gd3mE</id>
@@ -1210,6 +1228,15 @@
         <updated>2023-10-24T05:30:00.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ella Naavum Paadivazhthum | K S Chithra | Shorts #shorts  #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=3WM6k8BjBA8</id>
+        <link href="https://www.youtube.com/watch?v=3WM6k8BjBA8"/>
+        <updated>2023-10-24T04:52:09.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -31754,15 +31781,6 @@
         <id>https://www.youtube.com/watch?v=6kvUHAm1RJw</id>
         <link href="https://www.youtube.com/watch?v=6kvUHAm1RJw"/>
         <updated>2023-07-29T23:00:03.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന July 30 # Athiravile Prarthana 30th of July 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=w8ogSk4ATDU</id>
-        <link href="https://www.youtube.com/watch?v=w8ogSk4ATDU"/>
-        <updated>2023-07-29T20:00:14.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
