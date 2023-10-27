@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-27T04:20:41.150Z</updated>
+    <updated>2023-10-27T05:16:18.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Peru Chollam Kathil | Agninakshathram | Biju Menon | Indraja | Chithra | Raveendran]]></title>
+        <id>https://www.youtube.com/watch?v=R2YNWovALpg</id>
+        <link href="https://www.youtube.com/watch?v=R2YNWovALpg"/>
+        <updated>2023-10-27T04:30:08.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hits of Dileep | Audio Jukebox | Super Hit Malayalam Film Songs | K.J.Yesudas | M G Sreekumar]]></title>
         <id>https://www.youtube.com/watch?v=tx5zvSkC38U</id>
@@ -328,6 +337,15 @@
         <updated>2023-10-26T08:49:14.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ennile Punchiri Lyric Video | Phoenix | Sam C.S | K.S. Chithra | Kapil Kapilan]]></title>
+        <id>https://www.youtube.com/watch?v=mpoohldQ4Kg</id>
+        <link href="https://www.youtube.com/watch?v=mpoohldQ4Kg"/>
+        <updated>2023-10-26T08:27:33.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
