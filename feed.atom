@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-28T11:12:53.283Z</updated>
+    <updated>2023-10-28T12:30:43.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൈവം സ്നേഹമാണ്. | Rev. Aneesh P Joseph #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=GR1leLAQMj8</id>
+        <link href="https://www.youtube.com/watch?v=GR1leLAQMj8"/>
+        <updated>2023-10-28T12:30:08.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karukarekarothoru | Harmonium Cover by Sharan Appus #shortsfeed #shorts #instrumental #harmonium]]></title>
+        <id>https://www.youtube.com/watch?v=x_cixXVncl4</id>
+        <link href="https://www.youtube.com/watch?v=x_cixXVncl4"/>
+        <updated>2023-10-28T12:01:00.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vadaka Veedanu Lokam | New Christian Video Song | Chithra Arun | Fr.John Pichapilly | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=bmgby3vmXG8</id>
+        <link href="https://www.youtube.com/watch?v=bmgby3vmXG8"/>
+        <updated>2023-10-28T11:30:31.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 28thof October 2023]]></title>
+        <id>https://www.youtube.com/watch?v=cpxJ4KAiOyY</id>
+        <link href="https://www.youtube.com/watch?v=cpxJ4KAiOyY"/>
+        <updated>2023-10-28T11:30:20.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadhayoravarthana | Daddy Cool |  Bijibal | Anil Panachooran]]></title>
+        <id>https://www.youtube.com/watch?v=mgAOMqdNYYI</id>
+        <link href="https://www.youtube.com/watch?v=mgAOMqdNYYI"/>
+        <updated>2023-10-28T11:30:19.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സ്വരരാഗഗംഗാപ്രവാഹമേ |  Sargam | Vineeth | Rambha]]></title>
+        <id>https://www.youtube.com/watch?v=Jcwb0Iuqjmk</id>
+        <link href="https://www.youtube.com/watch?v=Jcwb0Iuqjmk"/>
+        <updated>2023-10-28T11:30:12.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ma Ma Ma Mayavi - Lyrical Video | Krishnanum Radhayum | Santhosh Pandit, Nimmi | Blockbuster Song]]></title>
         <id>https://www.youtube.com/watch?v=u3xPIwzLo5E</id>
@@ -31909,24 +31963,6 @@
         <updated>2023-07-31T01:30:10.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 31st of July  2023 # Mathavinte Japamala # Santhoshathinte Rahasyangal 31st of July 2023]]></title>
-        <id>https://www.youtube.com/watch?v=8Aw_kVddz0Y</id>
-        <link href="https://www.youtube.com/watch?v=8Aw_kVddz0Y"/>
-        <updated>2023-07-31T00:30:03.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #July 31st mother Mary Christian devotional songs m]]></title>
-        <id>https://www.youtube.com/watch?v=0UPa6Y-rjD0</id>
-        <link href="https://www.youtube.com/watch?v=0UPa6Y-rjD0"/>
-        <updated>2023-07-31T00:22:35.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
         </author>
     </entry>
 </feed>
