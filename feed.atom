@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-28T04:20:17.350Z</updated>
+    <updated>2023-10-28T05:15:24.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mukilthudi Kotti | Kireedamillatha Rajakkanmar 1996 | K. S. Chithra | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=uWncOEYGOBA</id>
+        <link href="https://www.youtube.com/watch?v=uWncOEYGOBA"/>
+        <updated>2023-10-28T04:30:30.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaliyoonjalaadi Ethum | Sooryputhran | Jayaram | Divya Unni | Ouseppachan | Thulasidas]]></title>
+        <id>https://www.youtube.com/watch?v=rm1N1BQR4U4</id>
+        <link href="https://www.youtube.com/watch?v=rm1N1BQR4U4"/>
+        <updated>2023-10-28T04:30:17.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PARUMALA THIRUMENI SONGS | HIT COLLECTIONS OF ROY PUTHUR 2023 | #parumalathirumenisongs #royputhur]]></title>
         <id>https://www.youtube.com/watch?v=NA7jkIMEM-0</id>
@@ -31855,15 +31873,6 @@
         <updated>2023-07-30T18:27:44.000Z</updated>
         <author>
             <name>Tharangini Sound of arts Dubai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നിൻ ക്രൂശിലേക്കൊന്നു നോക്കുമ്പോൾ എന്നുള്ളം തേങ്ങിടും ...]]></title>
-        <id>https://www.youtube.com/watch?v=rAj1INs-vGw</id>
-        <link href="https://www.youtube.com/watch?v=rAj1INs-vGw"/>
-        <updated>2023-07-30T16:50:23.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
