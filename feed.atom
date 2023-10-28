@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-27T23:16:29.991Z</updated>
+    <updated>2023-10-28T01:13:35.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Athiravile | Anna Baby | Shorts  #manoramachristiandevotionalsongs #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=73Rd64r0P58</id>
+        <link href="https://www.youtube.com/watch?v=73Rd64r0P58"/>
+        <updated>2023-10-28T00:30:11.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Video Songs Malayalam | Babu Chalakkudey | Rithuraj |  Christian Melody Songs | Alenia]]></title>
+        <id>https://www.youtube.com/watch?v=6_VWjx70e-g</id>
+        <link href="https://www.youtube.com/watch?v=6_VWjx70e-g"/>
+        <updated>2023-10-28T00:30:05.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സന്തോഷത്തിൻറെ  രഹസ്യങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #അമ്മയെൻ പുണ്യം #vachanam audios official]]></title>
+        <id>https://www.youtube.com/watch?v=Sr3rPcZ0uO8</id>
+        <link href="https://www.youtube.com/watch?v=Sr3rPcZ0uO8"/>
+        <updated>2023-10-28T00:00:12.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 28th of October 23 # Mathavinte Japamala Santhoshathinte Rahasyangal 28th of October 23]]></title>
+        <id>https://www.youtube.com/watch?v=TJaCJYlKhqk</id>
+        <link href="https://www.youtube.com/watch?v=TJaCJYlKhqk"/>
+        <updated>2023-10-27T23:30:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kazhchayegam dhivame jeetham baliyai #fr.binoj #best songs of fr.binoj mulaVARICKAL]]></title>
         <id>https://www.youtube.com/watch?v=RZXrWtU-N_k</id>
@@ -31828,42 +31864,6 @@
         <updated>2023-07-30T13:30:13.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവം സ്നേഹമാണ് | Rev. Aneesh P Joseph | #shorts #malayalamshorts #jesusshorts]]></title>
-        <id>https://www.youtube.com/watch?v=vtZLUeSD-U4</id>
-        <link href="https://www.youtube.com/watch?v=vtZLUeSD-U4"/>
-        <updated>2023-07-30T12:30:33.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 30th of July 2023]]></title>
-        <id>https://www.youtube.com/watch?v=b4Nu2MQeLdY</id>
-        <link href="https://www.youtube.com/watch?v=b4Nu2MQeLdY"/>
-        <updated>2023-07-30T12:30:21.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aararum Kandillenno | Kakkakuyil | Mohanlal | Mukesh | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=HhM-ddSIuT4</id>
-        <link href="https://www.youtube.com/watch?v=HhM-ddSIuT4"/>
-        <updated>2023-07-30T12:15:01.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Penninte Chenchundil | Guruji Oru Vakku | Nedumudi Venu | Bichu Thirumala | Jerry Amaldev | Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=Uf5Au3xT2r8</id>
-        <link href="https://www.youtube.com/watch?v=Uf5Au3xT2r8"/>
-        <updated>2023-07-30T12:00:31.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
 </feed>
