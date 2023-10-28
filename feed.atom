@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-28T16:20:09.882Z</updated>
+    <updated>2023-10-28T17:14:12.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഒരിക്കലും മടുക്കാത്ത നാദമധുരം..| വാനമ്പാടിയുടെ പാട്ടുകൾ | കെ എസ് ചിത്ര | K  S Chitra Hits]]></title>
+        <id>https://www.youtube.com/watch?v=VvCkNzV4Dxk</id>
+        <link href="https://www.youtube.com/watch?v=VvCkNzV4Dxk"/>
+        <updated>2023-10-28T17:13:29.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കാനായിലെന്നപോൽ കാണണം കൂടെ നീ . . .]]></title>
+        <id>https://www.youtube.com/watch?v=8d4oss-EIkQ</id>
+        <link href="https://www.youtube.com/watch?v=8d4oss-EIkQ"/>
+        <updated>2023-10-28T16:49:56.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mayamayooram | Vadakkunokkiyantram | Sreenivasan | Parvathy | Johnson | Kaithpram | MG Sreekumar]]></title>
         <id>https://www.youtube.com/watch?v=4ur9p0FLsbc</id>
@@ -31981,15 +31999,6 @@
         <updated>2023-07-31T05:30:18.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iru Meyyum Oru Manassum | Njangal Santhushtaranu | Jayaram | Abhirami | Yesudas | Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=-BZK0Ayrvl4</id>
-        <link href="https://www.youtube.com/watch?v=-BZK0Ayrvl4"/>
-        <updated>2023-07-31T04:30:00.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
