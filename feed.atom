@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-28T18:20:22.071Z</updated>
+    <updated>2023-10-28T19:12:29.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  October 29 # Athiravile Prarthana 29th of October 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=UGb1Ama5w_U</id>
+        <link href="https://www.youtube.com/watch?v=UGb1Ama5w_U"/>
+        <updated>2023-10-28T19:00:11.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജപമാല ഗീതങ്ങള്‍ # Holy Rosary Special Songs Malayalam |  Month of Holy Rosary October 2023 Songs]]></title>
+        <id>https://www.youtube.com/watch?v=xzNAlA4eJNg</id>
+        <link href="https://www.youtube.com/watch?v=xzNAlA4eJNg"/>
+        <updated>2023-10-28T18:30:56.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Ob7qanss_R4</id>
+        <link href="https://www.youtube.com/watch?v=Ob7qanss_R4"/>
+        <updated>2023-10-28T18:30:28.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 29th October 23]]></title>
         <id>https://www.youtube.com/watch?v=yUeyMGBhsg4</id>
@@ -32098,15 +32125,6 @@
         <updated>2023-07-31T07:30:17.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇനിമേൽ എനിക്കില്ലോർ ഭയം | Sadhu Kochukunjupadeshi | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=5WIyobuNTiA</id>
-        <link href="https://www.youtube.com/watch?v=5WIyobuNTiA"/>
-        <updated>2023-07-31T06:30:02.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
