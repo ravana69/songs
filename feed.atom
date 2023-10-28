@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-28T09:15:29.929Z</updated>
+    <updated>2023-10-28T10:16:41.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[October 28]]></title>
+        <id>https://www.youtube.com/watch?v=kJAggm7DhOk</id>
+        <link href="https://www.youtube.com/watch?v=kJAggm7DhOk"/>
+        <updated>2023-10-28T09:27:19.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളികളുടെ മാനസപുത്രൻ ഭരത് മോഹൻലാൽ അഭിനയിച്ച ചിത്രങ്ങളിലെ തട്ടുപൊളിപ്പൻ ഗാനങ്ങൾ ! HITS OF MOHANLAL]]></title>
         <id>https://www.youtube.com/watch?v=pSXTsqro2o4</id>
@@ -425,6 +434,15 @@
         <id>https://www.youtube.com/watch?v=FKyXmFl3Ar4</id>
         <link href="https://www.youtube.com/watch?v=FKyXmFl3Ar4"/>
         <updated>2023-10-27T01:30:08.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dinam Dinam Dinam Nee Vazhthuka Karaoke | Malayalam Christian Song Karaoke | Minus Tracks]]></title>
+        <id>https://www.youtube.com/watch?v=NFeNyXLn13c</id>
+        <link href="https://www.youtube.com/watch?v=NFeNyXLn13c"/>
+        <updated>2023-10-27T01:09:32.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
         </author>
