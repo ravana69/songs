@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-29T12:31:17.680Z</updated>
+    <updated>2023-10-29T13:18:38.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31943,33 +31943,6 @@
         <id>https://www.youtube.com/watch?v=dW3rLxHW1u4</id>
         <link href="https://www.youtube.com/watch?v=dW3rLxHW1u4"/>
         <updated>2023-08-01T01:30:09.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivame Thriyekane | Chithra Arun | P D John | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=x8U0GxUIrHE</id>
-        <link href="https://www.youtube.com/watch?v=x8U0GxUIrHE"/>
-        <updated>2023-08-01T01:07:42.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivame Thriyekane | Chithra Arun | P D John | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=7IG3ZcaxjqM</id>
-        <link href="https://www.youtube.com/watch?v=7IG3ZcaxjqM"/>
-        <updated>2023-08-01T01:07:22.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivame Thriyekane | Chithra Arun | P D John | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=orfV6dJwUb0</id>
-        <link href="https://www.youtube.com/watch?v=orfV6dJwUb0"/>
-        <updated>2023-08-01T01:07:02.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
         </author>
