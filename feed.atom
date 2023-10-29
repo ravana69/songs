@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-29T21:13:53.353Z</updated>
+    <updated>2023-10-29T22:15:23.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=BI75hhlfVvQ</id>
+        <link href="https://www.youtube.com/watch?v=BI75hhlfVvQ"/>
+        <updated>2023-10-29T22:00:05.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന October 30 # Athiravile Prarthana 30th October 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=aS90rgKnSZQ</id>
@@ -31936,42 +31945,6 @@
         <updated>2023-08-01T10:31:29.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monsoon Melodies (Malayalam) | Rain Songs | Mandarappoove | Veyillelam | Onnu Thotte]]></title>
-        <id>https://www.youtube.com/watch?v=REdbNyE54Bs</id>
-        <link href="https://www.youtube.com/watch?v=REdbNyE54Bs"/>
-        <updated>2023-08-01T09:52:53.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soorya Manasam Video Song | Mammootty | Tharalitha Raavil Mayangiyo #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=SKKP2TW0Y0c</id>
-        <link href="https://www.youtube.com/watch?v=SKKP2TW0Y0c"/>
-        <updated>2023-08-01T09:43:46.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങാന്‍ പോകുമ്പോള്‍ കേള്‍ക്കാവുന്ന ഗാനങ്ങള്‍ # Malayalam Christian songs for Sleep #worshipsongs]]></title>
-        <id>https://www.youtube.com/watch?v=-DfjGEPu_n0</id>
-        <link href="https://www.youtube.com/watch?v=-DfjGEPu_n0"/>
-        <updated>2023-08-01T09:30:00.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എന്നും ഇപ്പോഴും കേൾക്കാൻ ആഗ്രഹിക്കുന്ന മലയാളസിനിമയിലെ ഇഷ്ട ഗാനങ്ങൾ |Evergreen Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=b4jjX0dO2MQ</id>
-        <link href="https://www.youtube.com/watch?v=b4jjX0dO2MQ"/>
-        <updated>2023-08-01T09:15:02.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
