@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-29T09:15:21.806Z</updated>
+    <updated>2023-10-29T10:17:00.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Veli Penninu Thalikku Video Song | Dileep | Navya Nair | Sujatha Mohan | Sreenivas | Suresh Peters]]></title>
+        <id>https://www.youtube.com/watch?v=BLWc8MhNAIQ</id>
+        <link href="https://www.youtube.com/watch?v=BLWc8MhNAIQ"/>
+        <updated>2023-10-29T09:54:42.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ilakozhinja | Nakshathrangale Kaval | ONV Kurupp | G Devarajan | P Jayachandran | P Madhuri | Soman]]></title>
         <id>https://www.youtube.com/watch?v=yY2JUcXCqkA</id>
