@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-29T17:14:05.801Z</updated>
+    <updated>2023-10-29T18:21:06.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 30th October 23]]></title>
+        <id>https://www.youtube.com/watch?v=KunGgl875jI</id>
+        <link href="https://www.youtube.com/watch?v=KunGgl875jI"/>
+        <updated>2023-10-29T18:00:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അമ്മേ .. അമലേ... അനുഗ്രഹീതേ...]]></title>
         <id>https://www.youtube.com/watch?v=ZBETnX5ZCI8</id>
@@ -31945,24 +31954,6 @@
         <updated>2023-08-01T06:25:27.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhavillupole | മാതാവിനോട് പ്രാർത്ഥിക്കാം ഈ ഗാനത്തിലൂടെ | #shorts #christianwatsappstatus #mathavu]]></title>
-        <id>https://www.youtube.com/watch?v=9DgC7R6RIZg</id>
-        <link href="https://www.youtube.com/watch?v=9DgC7R6RIZg"/>
-        <updated>2023-08-01T05:43:15.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thozhukai | Boeing Boeing 1985  | Raghu Kumar |  K. J. Yesudas | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=-7_rsfzgFiA</id>
-        <link href="https://www.youtube.com/watch?v=-7_rsfzgFiA"/>
-        <updated>2023-08-01T05:42:03.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
