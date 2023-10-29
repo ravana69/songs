@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-29T03:17:28.015Z</updated>
+    <updated>2023-10-29T04:20:02.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31909,33 +31909,6 @@
         <updated>2023-07-31T18:31:01.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറ്റവരെല്ലാരും അകലുമ്പോൾ , ചുറ്റും നിൻ വൈരികൾ ഉണരുമ്പോൾ....]]></title>
-        <id>https://www.youtube.com/watch?v=XHxAqzSC9d0</id>
-        <link href="https://www.youtube.com/watch?v=XHxAqzSC9d0"/>
-        <updated>2023-07-31T15:48:44.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏഴും വാഴാ മുളം പാടി പെണ്ണാളെ.. കോലോത്തേക്കുണ്ണുവാന്‍ പഴുതില്യോടീ .... നാടോടിത്തെയ്യവും തോറ്റവും.....]]></title>
-        <id>https://www.youtube.com/watch?v=EIyDozpaVFY</id>
-        <link href="https://www.youtube.com/watch?v=EIyDozpaVFY"/>
-        <updated>2023-07-31T15:30:02.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HITS OF TOMIN J THACHANKERY CHRISTIAN DEVOTIONAL SONGS|OWN MEDIA MUSIC|]]></title>
-        <id>https://www.youtube.com/watch?v=tLQeb77MH4g</id>
-        <link href="https://www.youtube.com/watch?v=tLQeb77MH4g"/>
-        <updated>2023-07-31T15:17:40.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
