@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-30T04:21:03.351Z</updated>
+    <updated>2023-10-30T05:17:13.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The enchanting melody of “Ennile Punchiri” from the movie “Phoenix” is out now!]]></title>
+        <id>https://www.youtube.com/watch?v=w0hfbZyWUjg</id>
+        <link href="https://www.youtube.com/watch?v=w0hfbZyWUjg"/>
+        <updated>2023-10-30T04:55:49.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aandholanam Remastering Sargam Movie Song  K  J  Yesudas  K  S Chithra Yusufali Kecheri Bombay Ravi]]></title>
+        <id>https://www.youtube.com/watch?v=LF5cOfES5Ug</id>
+        <link href="https://www.youtube.com/watch?v=LF5cOfES5Ug"/>
+        <updated>2023-10-30T04:40:43.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pathira Thanuppu Veenu | Bhoomidevi Pushpiniyaayi | Madhu | Devarajan | Susheela]]></title>
+        <id>https://www.youtube.com/watch?v=vnlQvp_UvE4</id>
+        <link href="https://www.youtube.com/watch?v=vnlQvp_UvE4"/>
+        <updated>2023-10-30T04:30:26.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala Masam Short October  | Holy Rosary Special Short]]></title>
         <id>https://www.youtube.com/watch?v=cng3ndioIoA</id>
