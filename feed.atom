@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-30T17:15:35.196Z</updated>
+    <updated>2023-10-30T18:22:40.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#PuzhayarikathuDumm | #Jo&Jo | #NikhilaVimal, #Mathew, #Neslen | #GovindVasantha | #Arun]]></title>
+        <id>https://www.youtube.com/watch?v=RIgzKkLk_bs</id>
+        <link href="https://www.youtube.com/watch?v=RIgzKkLk_bs"/>
+        <updated>2023-10-30T18:11:32.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 31st October 23]]></title>
+        <id>https://www.youtube.com/watch?v=DkMwPzvTLzA</id>
+        <link href="https://www.youtube.com/watch?v=DkMwPzvTLzA"/>
+        <updated>2023-10-30T18:00:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Orikkal Niranjum | Mrugaya | KJ Yesudas | Shankar Ganesh | Sreekumaran Thampi]]></title>
         <id>https://www.youtube.com/watch?v=olDKv4acXyM</id>
@@ -31606,6 +31624,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vattam Vattam Chuttathe | Kalyana Paatu | Corona Dhavan | Lukman Avaran | CC | Rijo Joseph]]></title>
+        <id>https://www.youtube.com/watch?v=K7JBOr-xn-w</id>
+        <link href="https://www.youtube.com/watch?v=K7JBOr-xn-w"/>
+        <updated>2023-08-03T04:30:08.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nigoodam Teaser | Latest Film Teasers | Ajesh Antony | Anish BJ | Bepson Norbel | G & G Production]]></title>
         <id>https://www.youtube.com/watch?v=V1Oe-kz_v38</id>
         <link href="https://www.youtube.com/watch?v=V1Oe-kz_v38"/>
@@ -31963,24 +31990,6 @@
         <updated>2023-08-02T07:00:00.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manju Mazha | Lyrical  Video | Aagathan | Shreya Ghoshal  | Kaithapram | Ouseppachan | Dileep]]></title>
-        <id>https://www.youtube.com/watch?v=1zyaEpARYrY</id>
-        <link href="https://www.youtube.com/watch?v=1zyaEpARYrY"/>
-        <updated>2023-08-02T05:30:08.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponmaanam Ee Kaikalil | Anuragakottaram 1998 | Ilayaraja | Biju Narayanan | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=DsXyPIifYMI</id>
-        <link href="https://www.youtube.com/watch?v=DsXyPIifYMI"/>
-        <updated>2023-08-02T05:19:25.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
