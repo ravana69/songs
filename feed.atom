@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-30T03:18:02.077Z</updated>
+    <updated>2023-10-30T04:21:03.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japamala Masam Short October  | Holy Rosary Special Short]]></title>
+        <id>https://www.youtube.com/watch?v=cng3ndioIoA</id>
+        <link href="https://www.youtube.com/watch?v=cng3ndioIoA"/>
+        <updated>2023-10-30T03:50:11.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ennu Meghe | എന്നു മേഘേ വന്നിടും | Susan Rajukutty #shorts #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=6o5zPLIEv-s</id>
@@ -31837,15 +31846,6 @@
         <updated>2023-08-01T18:30:48.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നാഥാ നിനക്കായ് ഏകുന്നു മോദാൽ നന്ദി തൻ നൽമൊഴികൾ ....]]></title>
-        <id>https://www.youtube.com/watch?v=KAho-5u0jkI</id>
-        <link href="https://www.youtube.com/watch?v=KAho-5u0jkI"/>
-        <updated>2023-08-01T16:01:01.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
