@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-30T07:16:07.990Z</updated>
+    <updated>2023-10-30T08:22:25.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഓരോ ദിനങ്ങളും ഉത്സവഭരിതമാക്കുന്ന മലയാളസിനിമയിലെ ആനന്ദഗാനങ്ങൾ | MALAYALAM FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=tpDKbUhjf3Y</id>
+        <link href="https://www.youtube.com/watch?v=tpDKbUhjf3Y"/>
+        <updated>2023-10-30T07:38:13.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malayalam Film Compilation Hit Songs | Yesudas | Chithra | O.N.V | Sound of Arts]]></title>
+        <id>https://www.youtube.com/watch?v=6X9VVoxHFoY</id>
+        <link href="https://www.youtube.com/watch?v=6X9VVoxHFoY"/>
+        <updated>2023-10-30T07:30:02.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melle Kaathil | Maahi | Shorts #malayalamfilmsongs #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=jm-3KlPE1rA</id>
+        <link href="https://www.youtube.com/watch?v=jm-3KlPE1rA"/>
+        <updated>2023-10-30T07:25:33.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adhyam Kaanum | Aviyal | Shorts | Harishankar KS  #malayalamfilmsongs #shortsvideo]]></title>
         <id>https://www.youtube.com/watch?v=LYiz9ZjFR5c</id>
@@ -31880,15 +31907,6 @@
         <id>https://www.youtube.com/watch?v=kZSHpc07LLU</id>
         <link href="https://www.youtube.com/watch?v=kZSHpc07LLU"/>
         <updated>2023-08-01T23:00:31.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 2 # Athiravile Prarthana 2nd of August 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=pKNrFcYubjs</id>
-        <link href="https://www.youtube.com/watch?v=pKNrFcYubjs"/>
-        <updated>2023-08-01T20:00:13.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
