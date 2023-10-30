@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-30T10:19:28.056Z</updated>
+    <updated>2023-10-30T11:14:32.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The enchanting melody of “Ennile Punchiri” from the movie “Phoenix” is out now! | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=SbcH5u-imVA</id>
+        <link href="https://www.youtube.com/watch?v=SbcH5u-imVA"/>
+        <updated>2023-10-30T10:30:20.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒരു കാതിലോല ഞാൻ കണ്ടീലാ .... Vettam | Dileep | Bhavna Pani #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=JSeTemxfGw4</id>
+        <link href="https://www.youtube.com/watch?v=JSeTemxfGw4"/>
+        <updated>2023-10-30T10:30:06.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kannaanthaliyum   Anubandham   Shyam   Hi Res Audio]]></title>
         <id>https://www.youtube.com/watch?v=IRYMyc0m--U</id>
@@ -31927,15 +31945,6 @@
         <updated>2023-08-02T00:30:07.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  2nd of August shorts  # Athiravile Prarthana 2nd of August 2023 shorts]]></title>
-        <id>https://www.youtube.com/watch?v=kZSHpc07LLU</id>
-        <link href="https://www.youtube.com/watch?v=kZSHpc07LLU"/>
-        <updated>2023-08-01T23:00:31.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
