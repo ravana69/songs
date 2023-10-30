@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-30T19:13:38.058Z</updated>
+    <updated>2023-10-30T21:13:01.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31891,42 +31891,6 @@
         <updated>2023-08-02T09:30:05.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chilamboli katte Video Song | Gireesh Puthenchery | Vidyasagar | Sujatha Mohan | Udit Narayan]]></title>
-        <id>https://www.youtube.com/watch?v=aslL6J6urY4</id>
-        <link href="https://www.youtube.com/watch?v=aslL6J6urY4"/>
-        <updated>2023-08-02T07:50:03.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#Halaballoo Vibes | #RDX | #ShaneNigam, #AntonyVarghese, #NeerajMadhav | #SamCS | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=jf-CSRgOULM</id>
-        <link href="https://www.youtube.com/watch?v=jf-CSRgOULM"/>
-        <updated>2023-08-02T07:47:17.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഓരോ തവണ കേൾക്കുമ്പോഴും ഇഷ്ടം കൂടിവരുന്ന സൂപ്പർഹിറ്റ് സിനിമ ഗാനങ്ങൾ |Evergreen Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=bQIB63ljI-4</id>
-        <link href="https://www.youtube.com/watch?v=bQIB63ljI-4"/>
-        <updated>2023-08-02T07:33:06.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aathmaavil Unarunna Gaanam |Kelkkan Kothikkunna Kristheeya Bhakthigaanangal | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=PA18yrI8U1o</id>
-        <link href="https://www.youtube.com/watch?v=PA18yrI8U1o"/>
-        <updated>2023-08-02T07:14:53.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
