@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-30T13:20:51.887Z</updated>
+    <updated>2023-10-30T14:16:47.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ജപമാല നെഞ്ചോടു ചേർത്തു മെല്ലെ . . .]]></title>
+        <id>https://www.youtube.com/watch?v=kRHrSzPqbjQ</id>
+        <link href="https://www.youtube.com/watch?v=kRHrSzPqbjQ"/>
+        <updated>2023-10-30T13:58:23.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avani Ponnunjal Aadikam|Kottaram Veetile Apputtan|Jayaram|Sruthi|]]></title>
+        <id>https://www.youtube.com/watch?v=gDGj3qWGDAk</id>
+        <link href="https://www.youtube.com/watch?v=gDGj3qWGDAk"/>
+        <updated>2023-10-30T13:42:26.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swantham Swantham | Madhya Venal | Gayathri | Kaithapram Vishwanath | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=fpGjhUfx3G0</id>
@@ -31999,15 +32017,6 @@
         <updated>2023-08-02T04:06:23.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anayatha Deepamaay | Shorts | Sr. Rincy Alphonse]]></title>
-        <id>https://www.youtube.com/watch?v=3XWr-DC_f5U</id>
-        <link href="https://www.youtube.com/watch?v=3XWr-DC_f5U"/>
-        <updated>2023-08-02T01:30:03.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
