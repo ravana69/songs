@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-31T13:20:32.710Z</updated>
+    <updated>2023-10-31T14:16:40.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pathiravayi Neram|Vietnam Colony|Kanaka|Mohanlal|]]></title>
+        <id>https://www.youtube.com/watch?v=Bu5TZSeeDew</id>
+        <link href="https://www.youtube.com/watch?v=Bu5TZSeeDew"/>
+        <updated>2023-10-31T14:02:47.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സർവ്വപാപക്കറകൾ | Sarvapaapakkarakal | K S Chithra #shrots #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=QNgNE4De8Ok</id>
+        <link href="https://www.youtube.com/watch?v=QNgNE4De8Ok"/>
+        <updated>2023-10-31T13:30:08.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Salambakkam | Pulliman | Sharreth | Aju | Vijesh]]></title>
         <id>https://www.youtube.com/watch?v=PDV8HOe03Ek</id>
