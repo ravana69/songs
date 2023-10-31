@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-31T08:21:42.982Z</updated>
+    <updated>2023-10-31T09:17:10.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കുമ്മിയടിക്കുവിൻ കൂട്ടുകാരേ | Kummiyadikkuvin | Ithu Njangalude Katha Movie Song | Johnson]]></title>
+        <id>https://www.youtube.com/watch?v=MICGgSMXBos</id>
+        <link href="https://www.youtube.com/watch?v=MICGgSMXBos"/>
+        <updated>2023-10-31T08:30:12.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[തനിച്ചിരുന്ന് പാട്ടാസ്വദിക്കുമ്പോൾ മനസിലേക്ക് ആദ്യം ഓടിയെത്തുന്ന എത്രകേട്ടാലും മതിവരാത്ത ഗാനങ്ങൾ !]]></title>
         <id>https://www.youtube.com/watch?v=JQk5Sqzq55o</id>
@@ -31,6 +40,15 @@
         <updated>2023-10-31T07:30:02.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rakka Rakka - Video Song | Bandra | Dileep, Tamannaah | Shankar Mahadevan, Nakshatra | Sam C.S]]></title>
+        <id>https://www.youtube.com/watch?v=MMO5Askw3Ak</id>
+        <link href="https://www.youtube.com/watch?v=MMO5Askw3Ak"/>
+        <updated>2023-10-31T07:14:48.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
