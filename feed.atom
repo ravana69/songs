@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-31T21:14:18.052Z</updated>
+    <updated>2023-10-31T22:16:15.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=8ziiX_SFaMc</id>
+        <link href="https://www.youtube.com/watch?v=8ziiX_SFaMc"/>
+        <updated>2023-10-31T22:00:04.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന November 1 # Athiravile Prarthana 1st November 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=FUnZidRVJLc</id>
@@ -31828,33 +31837,6 @@
         <updated>2023-08-03T11:30:10.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the magic of #kanave | #Pallotty90sKids | #ArjunAshokan | #ManikandanAyyappa | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=XKrYIU5i5go</id>
-        <link href="https://www.youtube.com/watch?v=XKrYIU5i5go"/>
-        <updated>2023-08-03T10:09:07.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ormayilennum Album Song | Sreeju Chennikara | Vishnu Subhramanyan | Saina Music]]></title>
-        <id>https://www.youtube.com/watch?v=oDe3VS8XxrU</id>
-        <link href="https://www.youtube.com/watch?v=oDe3VS8XxrU"/>
-        <updated>2023-08-03T09:49:27.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങാന്‍ പോകുമ്പോള്‍ കേള്‍ക്കാവുന്ന ഗാനങ്ങള്‍ # Malayalam Christian songs for Sleep #worshipsongs]]></title>
-        <id>https://www.youtube.com/watch?v=pnWsntCF2cA</id>
-        <link href="https://www.youtube.com/watch?v=pnWsntCF2cA"/>
-        <updated>2023-08-03T09:30:10.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
