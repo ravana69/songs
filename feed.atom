@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-31T07:15:34.979Z</updated>
+    <updated>2023-10-31T08:21:42.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[തനിച്ചിരുന്ന് പാട്ടാസ്വദിക്കുമ്പോൾ മനസിലേക്ക് ആദ്യം ഓടിയെത്തുന്ന എത്രകേട്ടാലും മതിവരാത്ത ഗാനങ്ങൾ !]]></title>
+        <id>https://www.youtube.com/watch?v=JQk5Sqzq55o</id>
+        <link href="https://www.youtube.com/watch?v=JQk5Sqzq55o"/>
+        <updated>2023-10-31T07:39:26.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജനഹൃദയങ്ങൾ ഇരുകയ്യും നീട്ടി സ്വീകരിച്ച ചിത്രങ്ങളിലെ മലയാളികളെന്നും ഓർത്തിരിക്കുന്ന ഗാനങ്ങൾ !]]></title>
+        <id>https://www.youtube.com/watch?v=S2w5vD5x1mg</id>
+        <link href="https://www.youtube.com/watch?v=S2w5vD5x1mg"/>
+        <updated>2023-10-31T07:30:07.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kashi Thumbe | Nakshathrangale Kaval | ONV Kuruppu | G Devarajan | Vani Jairam | Evergreen Hits]]></title>
+        <id>https://www.youtube.com/watch?v=At5mto421mc</id>
+        <link href="https://www.youtube.com/watch?v=At5mto421mc"/>
+        <updated>2023-10-31T07:30:02.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadu Karutha Kadu | Neelaponman | K. J Yesudas | Salil Chowdhary]]></title>
+        <id>https://www.youtube.com/watch?v=daCmlmI-Zfg</id>
+        <link href="https://www.youtube.com/watch?v=daCmlmI-Zfg"/>
+        <updated>2023-10-31T07:10:51.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കിനാവിന്റെ വരമ്പത്ത് | Kinavinte Varambathu | Ina Super Hit Malayalam Song | K.J Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=_fOCCFl6ZvQ</id>
@@ -31817,15 +31853,6 @@
         <id>https://www.youtube.com/watch?v=8eD5JAdvins</id>
         <link href="https://www.youtube.com/watch?v=8eD5JAdvins"/>
         <updated>2023-08-02T23:00:03.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന August 3 # Athiravile Prarthana 3rd of August 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=P2ikhRw1tcw</id>
-        <link href="https://www.youtube.com/watch?v=P2ikhRw1tcw"/>
-        <updated>2023-08-02T20:00:12.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
