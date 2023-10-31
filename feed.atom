@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-31T03:17:47.343Z</updated>
+    <updated>2023-10-31T04:20:45.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Senguruvi   Thirumoorthy   Deva   Hi Res Audio]]></title>
+        <id>https://www.youtube.com/watch?v=mXc6TocebCc</id>
+        <link href="https://www.youtube.com/watch?v=mXc6TocebCc"/>
+        <updated>2023-10-31T04:19:48.000Z</updated>
+        <author>
+            <name>NANCHIL BEATS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nonstop Aradhanaganangal | Malayalam Christian Songs | Worship Songs | Christian Songs Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=RQs_LRRItiw</id>
+        <link href="https://www.youtube.com/watch?v=RQs_LRRItiw"/>
+        <updated>2023-10-31T03:38:34.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaathil Aro Mozhinju | Aviyal | Shorts | Harishankar KS  #malayalamfilmsongs #shortsvideo]]></title>
         <id>https://www.youtube.com/watch?v=E9Fp-5FX1pE</id>
@@ -277,10 +295,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pathu Thotti Kottuvadi | Trojan | Shorts #manoramafilmsongs #manoramamoviesongs]]></title>
+        <id>https://www.youtube.com/watch?v=FxL0bJ2uaMU</id>
+        <link href="https://www.youtube.com/watch?v=FxL0bJ2uaMU"/>
+        <updated>2023-10-30T07:26:09.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Melle Kaathil | Maahi | Shorts #malayalamfilmsongs #shortsvideo]]></title>
         <id>https://www.youtube.com/watch?v=jm-3KlPE1rA</id>
         <link href="https://www.youtube.com/watch?v=jm-3KlPE1rA"/>
         <updated>2023-10-30T07:25:33.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manjin Thooval | Aviyal | Shorts | Harishankar KS  #malayalamfilmsongs #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=u-qOKdhbLRY</id>
+        <link href="https://www.youtube.com/watch?v=u-qOKdhbLRY"/>
+        <updated>2023-10-30T07:25:12.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
         </author>
