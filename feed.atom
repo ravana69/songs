@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-01T05:16:52.060Z</updated>
+    <updated>2023-11-01T06:23:39.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കേരളം @ 67 | Keranirakaladum Video Song | Jalolsavam |  P Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=Fv3XnOYY674</id>
+        <link href="https://www.youtube.com/watch?v=Fv3XnOYY674"/>
+        <updated>2023-11-01T06:00:11.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Madhu Nirayunna |Lyrical Video| Pathimoonnam Rathri |Zia Ul Haq | Anooj Babu|K Santhosh|Maneesh Babu]]></title>
+        <id>https://www.youtube.com/watch?v=DCQtLeHnpC8</id>
+        <link href="https://www.youtube.com/watch?v=DCQtLeHnpC8"/>
+        <updated>2023-11-01T05:30:11.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chandanakkulir choodi varum | Kazhukan 1979 | M. K. Arjunan | K. J. Yesudas | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=hpJLOAzKzAM</id>
+        <link href="https://www.youtube.com/watch?v=hpJLOAzKzAM"/>
+        <updated>2023-11-01T05:27:32.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIX COLLECTION OF PARUMALA PADHAYAATHRA SONGS | ROY PUTHUR |  #parumalathirumenisongs #royputhur]]></title>
+        <id>https://www.youtube.com/watch?v=vfuLRUAE6Rk</id>
+        <link href="https://www.youtube.com/watch?v=vfuLRUAE6Rk"/>
+        <updated>2023-11-01T05:27:04.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kakkathudalikal | Beena | Bichu Thirumala | Kannur Rajan | P.Susheela]]></title>
         <id>https://www.youtube.com/watch?v=aeRegWdEB10</id>
@@ -13,6 +49,15 @@
         <updated>2023-11-01T04:30:00.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aa Kanum Pongiyirikkana | Mukalpparappu | Video Song | JP Thavarool | Siby Padiyara | Geogy Thomas]]></title>
+        <id>https://www.youtube.com/watch?v=FTMmic2sNtY</id>
+        <link href="https://www.youtube.com/watch?v=FTMmic2sNtY"/>
+        <updated>2023-11-01T03:42:24.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
