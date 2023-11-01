@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-01T18:22:46.404Z</updated>
+    <updated>2023-11-01T19:13:51.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  November 2 # Athiravile Prarthana 2nd of November 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=XHp-kPz35c4</id>
+        <link href="https://www.youtube.com/watch?v=XHp-kPz35c4"/>
+        <updated>2023-11-01T19:00:24.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=u0cnSxydrGA</id>
+        <link href="https://www.youtube.com/watch?v=u0cnSxydrGA"/>
+        <updated>2023-11-01T18:30:42.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 2nd November 23]]></title>
         <id>https://www.youtube.com/watch?v=YntSinU3dco</id>
@@ -31954,15 +31972,6 @@
         <updated>2023-08-04T07:25:18.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തെന്നലാടും പൂവനത്തില്‍ | Thennalaadum Poomarathin | Kandu Kandarinju Malayalam Movie Song | Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=5Mfx7L9QiaQ</id>
-        <link href="https://www.youtube.com/watch?v=5Mfx7L9QiaQ"/>
-        <updated>2023-08-04T06:55:48.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
