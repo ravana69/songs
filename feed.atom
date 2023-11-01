@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-01T03:18:09.024Z</updated>
+    <updated>2023-11-01T04:20:56.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31747,15 +31747,6 @@
         <updated>2023-08-03T18:31:00.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അക്ഷരനക്ഷത്രങ്ങളെ കോർത്തെടുത്തു മലയാളഗാനങ്ങളെ പ്രിയങ്കരങ്ങളാക്കിയ കവിയുടെ പാട്ടുകൾ |ഓ എൻ വി കുറുപ്പ്]]></title>
-        <id>https://www.youtube.com/watch?v=ORkHoUnvpyU</id>
-        <link href="https://www.youtube.com/watch?v=ORkHoUnvpyU"/>
-        <updated>2023-08-03T16:04:15.000Z</updated>
-        <author>
-            <name>Tharangini Sound of arts Dubai</name>
         </author>
     </entry>
 </feed>
