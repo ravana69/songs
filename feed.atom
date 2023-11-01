@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-01T17:15:52.213Z</updated>
+    <updated>2023-11-01T18:22:46.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 2nd November 23]]></title>
+        <id>https://www.youtube.com/watch?v=YntSinU3dco</id>
+        <link href="https://www.youtube.com/watch?v=YntSinU3dco"/>
+        <updated>2023-11-01T18:00:24.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#PuzhayarikathuDumm | #Jo&Jo | #NikhilaVimal, #Mathew, #Neslen | #GovindVasantha | #Arun]]></title>
+        <id>https://www.youtube.com/watch?v=vL8FYLoKKOM</id>
+        <link href="https://www.youtube.com/watch?v=vL8FYLoKKOM"/>
+        <updated>2023-11-01T17:53:15.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#PuzhayarikathuDumm | #Jo&Jo | #NikhilaVimal, #Mathew, #Neslen | #GovindVasantha | #Arun]]></title>
+        <id>https://www.youtube.com/watch?v=-QN2UEGvWhY</id>
+        <link href="https://www.youtube.com/watch?v=-QN2UEGvWhY"/>
+        <updated>2023-11-01T17:53:01.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വിടർന്നാൽ കൊഴിയാത്ത പൂക്കളുണ്ടോ .// ഫാ.ഡേവീസ് പനംങ്കളം/ ജേക്കബ് കൊരട്ടി / കെസ്റ്റർ /]]></title>
+        <id>https://www.youtube.com/watch?v=gByJ4EJaOlw</id>
+        <link href="https://www.youtube.com/watch?v=gByJ4EJaOlw"/>
+        <updated>2023-11-01T17:19:12.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[വിടർന്നാൽ കൊഴിയാത്ത പൂക്കളുണ്ടോ , ജനിച്ചാൽ മരിക്കാത്ത മനുഷ്യരുണ്ടോ. . .]]></title>
         <id>https://www.youtube.com/watch?v=3d40XTYvAAA</id>
@@ -31927,42 +31963,6 @@
         <updated>2023-08-04T06:55:48.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gang vibes for #Halaballoo | #RDX | #ShaneNigam, #AntonyVarghese, #NeerajMadhav | #SamCS | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=qP12bn2IzOA</id>
-        <link href="https://www.youtube.com/watch?v=qP12bn2IzOA"/>
-        <updated>2023-08-04T06:14:23.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehapoovayenkil Shorts | Lakshmi | Venkitesh | Nayanthara | Short Video]]></title>
-        <id>https://www.youtube.com/watch?v=Q9_eofc-34o</id>
-        <link href="https://www.youtube.com/watch?v=Q9_eofc-34o"/>
-        <updated>2023-08-04T05:30:15.000Z</updated>
-        <author>
-            <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kando Kando | Karaoke Video  | Innathe Chintha Vishayam | Mohanlal | Sathyan Anthikkad | Ilayaraaja]]></title>
-        <id>https://www.youtube.com/watch?v=_Ie5r4qdxT0</id>
-        <link href="https://www.youtube.com/watch?v=_Ie5r4qdxT0"/>
-        <updated>2023-08-04T05:30:07.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIZHIYONNU THUDAKKANE | NEW CHRISTIAN SONG | ARAVIND DILEEP NAIR | REJAN REGHU | PRADEESH PARASSALA]]></title>
-        <id>https://www.youtube.com/watch?v=kBWxxqdQyL4</id>
-        <link href="https://www.youtube.com/watch?v=kBWxxqdQyL4"/>
-        <updated>2023-08-04T05:21:01.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
         </author>
     </entry>
 </feed>
