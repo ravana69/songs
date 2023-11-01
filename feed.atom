@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-01T09:17:15.843Z</updated>
+    <updated>2023-11-01T10:19:00.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പൂവിരിഞ്ഞില്ല | Poovirinjilla | Ina Super Hit Malayalam Movie Song | Janaki, P Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=p2PH2dUTQY8</id>
+        <link href="https://www.youtube.com/watch?v=p2PH2dUTQY8"/>
+        <updated>2023-11-01T10:08:22.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mungi Mungi Muthu Pongi Remastered Audio Song Jackpot Movie KS Chithra  Krishnachandran Ilayaraja]]></title>
+        <id>https://www.youtube.com/watch?v=8jDnxDAaUus</id>
+        <link href="https://www.youtube.com/watch?v=8jDnxDAaUus"/>
+        <updated>2023-11-01T10:06:53.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pookalam Music Video | Jithu George | Raji L Rajan | Prasanth Maliackal]]></title>
+        <id>https://www.youtube.com/watch?v=XUiN6E8-jfg</id>
+        <link href="https://www.youtube.com/watch?v=XUiN6E8-jfg"/>
+        <updated>2023-11-01T09:36:52.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naadunaratte | Making Video  | Rajesh D | Anto Joseph | Anoop M C | New Year Special]]></title>
+        <id>https://www.youtube.com/watch?v=DGcIIhDFSzs</id>
+        <link href="https://www.youtube.com/watch?v=DGcIIhDFSzs"/>
+        <updated>2023-11-01T09:30:08.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കേരള പിറവി ആശംസകള്‍ #shorts #shortsfeed #folksong  #folksongs]]></title>
         <id>https://www.youtube.com/watch?v=0jXmRkTJS-0</id>
