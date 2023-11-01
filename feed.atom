@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-01T14:16:17.846Z</updated>
+    <updated>2023-11-01T15:18:24.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[വിടർന്നാൽ കൊഴിയാത്ത പൂക്കളുണ്ടോ , ജനിച്ചാൽ മരിക്കാത്ത മനുഷ്യരുണ്ടോ. . .]]></title>
+        <id>https://www.youtube.com/watch?v=3d40XTYvAAA</id>
+        <link href="https://www.youtube.com/watch?v=3d40XTYvAAA"/>
+        <updated>2023-11-01T14:48:13.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[സുറുമ നല്ല സുറുമ | Suruma Nalla Suruma | Kayamkulam Kochunni Super Hit Movie Song | K J Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=v6x5fSsiRM4</id>
