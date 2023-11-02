@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-02T10:19:22.142Z</updated>
+    <updated>2023-11-02T11:14:33.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mannine Vinnuthotta Shantharathriyil | Fr. Shaji thumpechirayil | #shortsvideo #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=7iYhzR_IF3E</id>
+        <link href="https://www.youtube.com/watch?v=7iYhzR_IF3E"/>
+        <updated>2023-11-02T11:00:12.000Z</updated>
+        <author>
+            <name>Celebrants India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രയാണം | NEW CHRISTIAN SONG | JOSE SAGAR |PAVITHRAN AMACHAL |JINO KUNNUMPURATH | REEL 1]]></title>
+        <id>https://www.youtube.com/watch?v=gSbH8JBhjSY</id>
+        <link href="https://www.youtube.com/watch?v=gSbH8JBhjSY"/>
+        <updated>2023-11-02T10:30:11.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രമദവനം വീണ്ടും Pramadavanam Remastered Audio Song His Highness Abdulla Movie KJ Yesudas Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=of0dAlxD-tg</id>
+        <link href="https://www.youtube.com/watch?v=of0dAlxD-tg"/>
+        <updated>2023-11-02T10:29:39.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മുറിവേറ്റ കരങ്ങൾ | CHRISTIAN DEVOTIONAL|ROY PUTHUR|#royputhur #rayanmedia #christiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=Q1Uxwzqjnlg</id>
+        <link href="https://www.youtube.com/watch?v=Q1Uxwzqjnlg"/>
+        <updated>2023-11-02T10:24:19.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VAIKOL PAATT VAIKOL PAATT | Fr. SHAJI THUMPECHIRAYIL | #shortvideo #short #shorts]]></title>
         <id>https://www.youtube.com/watch?v=aMppGZKHOQY</id>
@@ -31846,15 +31882,6 @@
         <updated>2023-08-05T00:15:04.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 5th of August shorts  # Athiravile Prarthana 5th of August 2023 shorts]]></title>
-        <id>https://www.youtube.com/watch?v=An4WlfuqUbg</id>
-        <link href="https://www.youtube.com/watch?v=An4WlfuqUbg"/>
-        <updated>2023-08-04T23:00:04.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
