@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-02T07:16:54.784Z</updated>
+    <updated>2023-11-02T08:21:35.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളസിനിമയിൽ തരംഗമായി മാറിയ അത്രമേൽ സൂപ്പർഹിറ്റായ മലയാളചലച്ചിത്ര ഗാനങ്ങൾ ! EVERGREEN HITS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=jYVfesqG95U</id>
+        <link href="https://www.youtube.com/watch?v=jYVfesqG95U"/>
+        <updated>2023-11-02T07:34:36.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kakkakarumban Kandaal Kurumban | Ee Puzhayum Kadannu | Sujatha Mohan | Johnson | Gireesh Puthanchery]]></title>
+        <id>https://www.youtube.com/watch?v=MGtHHjQrTFM</id>
+        <link href="https://www.youtube.com/watch?v=MGtHHjQrTFM"/>
+        <updated>2023-11-02T07:30:05.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എന്നു മേഘേ വന്നിടും | Susan Rajukutty #shorts #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=ytyLM_aX7ho</id>
@@ -31826,15 +31844,6 @@
         <id>https://www.youtube.com/watch?v=An4WlfuqUbg</id>
         <link href="https://www.youtube.com/watch?v=An4WlfuqUbg"/>
         <updated>2023-08-04T23:00:04.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന August 5 # Athiravile Prarthana 5th of August 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=CVmOrW6yPSY</id>
-        <link href="https://www.youtube.com/watch?v=CVmOrW6yPSY"/>
-        <updated>2023-08-04T20:00:06.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
