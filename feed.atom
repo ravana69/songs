@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-02T04:20:55.971Z</updated>
+    <updated>2023-11-02T05:16:39.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manathe Kayalil| Kallichellamma | Prem Nazeer | Sheela | P.Bhaskaran | Brahmanandhan]]></title>
+        <id>https://www.youtube.com/watch?v=65YKMB3PCBQ</id>
+        <link href="https://www.youtube.com/watch?v=65YKMB3PCBQ"/>
+        <updated>2023-11-02T04:30:03.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chandhana Charchitha Shorts | Mayilpeeli | Yesudas | Jayan | Shorts Video]]></title>
         <id>https://www.youtube.com/watch?v=wv3OvZwS3b4</id>
@@ -256,6 +265,15 @@
         <updated>2023-11-01T11:30:00.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paradhanam Karudhanam - Digital Village | Sooraj Santhosh | Hari S R | Yulin Productions]]></title>
+        <id>https://www.youtube.com/watch?v=jLYxrLAPMLc</id>
+        <link href="https://www.youtube.com/watch?v=jLYxrLAPMLc"/>
+        <updated>2023-11-01T10:30:10.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
