@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-02T19:13:42.570Z</updated>
+    <updated>2023-11-02T20:18:13.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31927,24 +31927,6 @@
         <updated>2023-08-05T09:03:05.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shanthimanthram Theliyum | ശാന്തിമന്ത്രം തെളിയും |  Aryan | M G Sreekumar | Sujatha Mohan |Kaihapram]]></title>
-        <id>https://www.youtube.com/watch?v=PQGJ78WXEhA</id>
-        <link href="https://www.youtube.com/watch?v=PQGJ78WXEhA"/>
-        <updated>2023-08-05T07:46:54.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വർഷങ്ങളളേറെ കഴിഞ്ഞിട്ടും ഇന്നും കേട്ട് കൊതി തീരാത്തമലയാളത്തിലെ സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ| Malayalam Songs]]></title>
-        <id>https://www.youtube.com/watch?v=3LLxqytH_X8</id>
-        <link href="https://www.youtube.com/watch?v=3LLxqytH_X8"/>
-        <updated>2023-08-05T07:30:01.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
