@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-03T05:16:25.000Z</updated>
+    <updated>2023-11-03T06:22:50.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ente Katha Ninte Katha | എന്റെ കഥ നിന്റെ കഥ  |  Ithu Njangalude Katha  Movie Song |  Johnson]]></title>
+        <id>https://www.youtube.com/watch?v=AWGqCJeRLy4</id>
+        <link href="https://www.youtube.com/watch?v=AWGqCJeRLy4"/>
+        <updated>2023-11-03T05:34:59.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onnam Maanathe | Beautiful Romantic Duet by K J Yesudas & K S Chithra #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=gDNPr89S1pw</id>
+        <link href="https://www.youtube.com/watch?v=gDNPr89S1pw"/>
+        <updated>2023-11-03T05:30:08.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thannannam Thaanannam | Yathra 1985 | Ilaiyaraaja | K. J. Yesudas, Ambili | Malayalam Movie Song]]></title>
         <id>https://www.youtube.com/watch?v=X5_omi1Ghc0</id>
