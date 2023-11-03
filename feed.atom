@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-03T16:23:06.308Z</updated>
+    <updated>2023-11-03T17:15:51.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32116,24 +32116,6 @@
         <updated>2023-08-06T05:30:01.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennulliletho Minnunna | MDMS | Prithviraj | Renuka Menon | Vinayan | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=X7VvXd1FDoY</id>
-        <link href="https://www.youtube.com/watch?v=X7VvXd1FDoY"/>
-        <updated>2023-08-06T04:30:10.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alakaapuriyile | Arayannam 1981 | Pukazhenthi | P. Bhaskaran |  Vani Jairam | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=LCJGqfdx4eA</id>
-        <link href="https://www.youtube.com/watch?v=LCJGqfdx4eA"/>
-        <updated>2023-08-06T04:30:07.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
