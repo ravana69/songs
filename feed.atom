@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-04T12:31:06.464Z</updated>
+    <updated>2023-11-04T13:18:12.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഈശോയെ എന്നാളും ആശ്വാസം നൽകാനായ് ....]]></title>
+        <id>https://www.youtube.com/watch?v=M7SELvC46Kg</id>
+        <link href="https://www.youtube.com/watch?v=M7SELvC46Kg"/>
+        <updated>2023-11-04T13:02:14.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദൈവത്തിന്റെ സ്നേഹമാണ് പരീക്ഷണങ്ങൾ | Rev. Aneesh P Joseph #shorts #motivation]]></title>
         <id>https://www.youtube.com/watch?v=vxA7j1UlSpA</id>
@@ -22,6 +31,15 @@
         <updated>2023-11-04T12:30:11.000Z</updated>
         <author>
             <name>Magic Frames Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aadamalle | Kana Kanmani | Biju Narayanan | Maneesha KS | Shyam Dharman |Vayalar Sarathchandra Varma]]></title>
+        <id>https://www.youtube.com/watch?v=AB9AVtIsIds</id>
+        <link href="https://www.youtube.com/watch?v=AB9AVtIsIds"/>
+        <updated>2023-11-04T12:30:06.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
         </author>
     </entry>
     <entry>
