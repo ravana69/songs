@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-04T04:20:28.125Z</updated>
+    <updated>2023-11-04T05:16:15.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christmas Carol Song | manju Peyum Pathiravil | Kings & Queens band | Fr. Justin kaliayaniyil CMI]]></title>
+        <id>https://www.youtube.com/watch?v=oh7vXm3OngU</id>
+        <link href="https://www.youtube.com/watch?v=oh7vXm3OngU"/>
+        <updated>2023-11-04T04:42:26.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രയാണം | NEW CHRISTIAN SONG | JOSE SAGAR |PAVITHRAN AMACHAL |JINO KUNNUMPURATH | REEL 2]]></title>
+        <id>https://www.youtube.com/watch?v=z6ORMOf9_vk</id>
+        <link href="https://www.youtube.com/watch?v=z6ORMOf9_vk"/>
+        <updated>2023-11-04T04:30:30.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kunnathoru Kaavundu | Yathra 1985 | Ilaiyaraaja | Cochin Alex | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=jh-AhhsxFzw</id>
+        <link href="https://www.youtube.com/watch?v=jh-AhhsxFzw"/>
+        <updated>2023-11-04T04:30:14.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannilu Kannilu - Audio Song | Ayisha | Manju Warrier | Prabhudeva | M Jayachandran | Aamir]]></title>
+        <id>https://www.youtube.com/watch?v=b7s5LWLgU9w</id>
+        <link href="https://www.youtube.com/watch?v=b7s5LWLgU9w"/>
+        <updated>2023-11-04T04:30:11.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Udukku Kotti Paadum | Kandavarundo | S.Janaki | R K Sekhar | Sreekumaran Thampi]]></title>
+        <id>https://www.youtube.com/watch?v=6Qz0QLDOBdw</id>
+        <link href="https://www.youtube.com/watch?v=6Qz0QLDOBdw"/>
+        <updated>2023-11-04T04:30:01.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sthuthi Sthuthi En Maname | Madhu Balakrishnan #shorts #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=YWpHX0ZnGDQ</id>
