@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-05T19:13:11.807Z</updated>
+    <updated>2023-11-05T20:17:13.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32017,42 +32017,6 @@
         <updated>2023-08-08T09:15:44.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eesho Gaanam Paadi | Sneham Thulumbunna Kristheeya Bhakthigaanangal | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=9mxTfoVWz5g</id>
-        <link href="https://www.youtube.com/watch?v=9mxTfoVWz5g"/>
-        <updated>2023-08-08T08:01:09.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aavani Ponnoonjal Video Song | MG Sreekumar | Berny Ignatius | S Ramesan Nair | Jayaram | Shruthi]]></title>
-        <id>https://www.youtube.com/watch?v=NKEoy178OWE</id>
-        <link href="https://www.youtube.com/watch?v=NKEoy178OWE"/>
-        <updated>2023-08-08T07:43:14.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനം കുളിർക്കെ കേട്ടാസ്വദിക്കും കനവിലും നിനവിലും ഹരം പകർന്ന മലയാളസിനിമാഗാനങ്ങൾ | NISARI MUSIC]]></title>
-        <id>https://www.youtube.com/watch?v=QjYy-mdiR38</id>
-        <link href="https://www.youtube.com/watch?v=QjYy-mdiR38"/>
-        <updated>2023-08-08T07:39:20.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Achante Ponnu Mole | Hridayathil Sookshikkan | KJ Yesudas | Mohan Sithara | Kaithapram | Bhavana]]></title>
-        <id>https://www.youtube.com/watch?v=dRhAdcidT2E</id>
-        <link href="https://www.youtube.com/watch?v=dRhAdcidT2E"/>
-        <updated>2023-08-08T07:30:10.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
