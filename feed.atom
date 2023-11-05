@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-05T05:16:07.770Z</updated>
+    <updated>2023-11-05T06:21:26.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vadakku Dhikkile - Audio Song | Ayisha | Manju Warrier | M Jayachandran | Aamir Pallikkal]]></title>
+        <id>https://www.youtube.com/watch?v=YhNImTO7-PY</id>
+        <link href="https://www.youtube.com/watch?v=YhNImTO7-PY"/>
+        <updated>2023-11-05T06:01:38.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പാട്ടുപെട്ടി | Paattupetti Vol 32 | Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=vKgtEcFpkFI</id>
+        <link href="https://www.youtube.com/watch?v=vKgtEcFpkFI"/>
+        <updated>2023-11-05T06:00:30.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paattinte Palkadavil | Karaoke Video | Living Together | Shreya Ghoshal | Kaithapram| M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=wfTtaRI4qIs</id>
+        <link href="https://www.youtube.com/watch?v=wfTtaRI4qIs"/>
+        <updated>2023-11-05T05:30:10.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponnona Tharangini Vol.1 | Malayalam Festival Songs | Yesudas | Raveendran | Sound of Arts]]></title>
+        <id>https://www.youtube.com/watch?v=F02tzMcpTtI</id>
+        <link href="https://www.youtube.com/watch?v=F02tzMcpTtI"/>
+        <updated>2023-11-05T05:30:03.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yamune Ninnude | Yathra 1985 | Ilaiyaraaja | S. Janaki, Chorus | Malayalam Movie Song]]></title>
         <id>https://www.youtube.com/watch?v=P_-InFEWIs4</id>
