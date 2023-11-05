@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-05T04:20:07.861Z</updated>
+    <updated>2023-11-05T05:16:07.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yamune Ninnude | Yathra 1985 | Ilaiyaraaja | S. Janaki, Chorus | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=P_-InFEWIs4</id>
+        <link href="https://www.youtube.com/watch?v=P_-InFEWIs4"/>
+        <updated>2023-11-05T04:30:12.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sindhoora Vaanil | Bhoomiyile Rajakkanmar | Mohanlal | Unni Menon | Shibu Chakravarthy]]></title>
+        <id>https://www.youtube.com/watch?v=E7NL_IU9Jy4</id>
+        <link href="https://www.youtube.com/watch?v=E7NL_IU9Jy4"/>
+        <updated>2023-11-05T04:30:08.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വത്സലരെ ദൂരത്തെന്തിന് | ROY PUTHUR | #christiandevotionalsongs  #royputhurprayer #royputhur]]></title>
+        <id>https://www.youtube.com/watch?v=Ozjcph4X01I</id>
+        <link href="https://www.youtube.com/watch?v=Ozjcph4X01I"/>
+        <updated>2023-11-05T04:22:04.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vazhthuka Maname | Shreya Jayadeep  #shrots #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=Cjp6zkOV9RE</id>
