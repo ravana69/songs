@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-05T07:14:45.996Z</updated>
+    <updated>2023-11-05T08:20:16.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deva Kanyaka  | Ee Puzhayum Kadannu | Gireesh Puthenchery | Johnson | K.J.Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=d6yEx4ITrSI</id>
+        <link href="https://www.youtube.com/watch?v=d6yEx4ITrSI"/>
+        <updated>2023-11-05T07:30:13.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ചുണ്ടോട് ചുണ്ടിൽ തേനുണ്ട് പാടാൻ | #shorts #phantommovie #viralthottal #evergreenhits]]></title>
+        <id>https://www.youtube.com/watch?v=0jO9EJPKffE</id>
+        <link href="https://www.youtube.com/watch?v=0jO9EJPKffE"/>
+        <updated>2023-11-05T07:30:00.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vadakku Dhikkile - Audio Song | Ayisha | Manju Warrier | M Jayachandran | Aamir Pallikkal]]></title>
         <id>https://www.youtube.com/watch?v=YhNImTO7-PY</id>
@@ -32006,15 +32024,6 @@
         <id>https://www.youtube.com/watch?v=Mvd5sdms3V0</id>
         <link href="https://www.youtube.com/watch?v=Mvd5sdms3V0"/>
         <updated>2023-08-07T23:00:09.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 8 # Athiravile Prarthana 8th of August 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=BH1cYZfx2Ck</id>
-        <link href="https://www.youtube.com/watch?v=BH1cYZfx2Ck"/>
-        <updated>2023-08-07T20:00:03.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
