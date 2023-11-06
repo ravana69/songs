@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-06T10:20:34.189Z</updated>
+    <updated>2023-11-06T11:15:04.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ragasudharasa Video song | Sargam | Vineeth | Rambha]]></title>
+        <id>https://www.youtube.com/watch?v=C6CKeOhIGg4</id>
+        <link href="https://www.youtube.com/watch?v=C6CKeOhIGg4"/>
+        <updated>2023-11-06T11:00:10.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മനസിന്റെ ഒരു കോണിൽ കാത്തുസൂക്ഷിക്കുന്ന അത്രമേൽ മനോഹരമാം സിനിമാഗാനങ്ങൾ | EVERGREEN HITS]]></title>
         <id>https://www.youtube.com/watch?v=tVgTPulbU6c</id>
@@ -22,6 +31,15 @@
         <updated>2023-11-06T07:30:00.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dhama Dhama | Dance Party |Video Song| Shine Tom Chacko | Rahul Raj | Prayaga Martin |Sohan Seenulal]]></title>
+        <id>https://www.youtube.com/watch?v=mph8WCLo-hY</id>
+        <link href="https://www.youtube.com/watch?v=mph8WCLo-hY"/>
+        <updated>2023-11-06T06:26:33.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -31954,15 +31972,6 @@
         <updated>2023-08-09T00:30:00.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 9th of August shorts  # Athiravile Prarthana 9th of August 2023 shorts]]></title>
-        <id>https://www.youtube.com/watch?v=rVN7jbXSUhc</id>
-        <link href="https://www.youtube.com/watch?v=rVN7jbXSUhc"/>
-        <updated>2023-08-08T23:00:33.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
