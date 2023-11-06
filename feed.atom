@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-06T04:21:34.229Z</updated>
+    <updated>2023-11-06T05:17:15.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thillai Thillai | Nakshathrangal Parayathirunnathu 2001 | M.G.Sreekumar | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=eiLE2OSb0p0</id>
+        <link href="https://www.youtube.com/watch?v=eiLE2OSb0p0"/>
+        <updated>2023-11-06T05:16:30.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monchathipenne Ninchundil | Maram | Ummar | Jayabharathi | Yousafali Kecheri | Devarajan]]></title>
+        <id>https://www.youtube.com/watch?v=kAHiGUM1gIo</id>
+        <link href="https://www.youtube.com/watch?v=kAHiGUM1gIo"/>
+        <updated>2023-11-06T04:30:23.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thaalam Thettiya Raagam | Kazhukan 1979 | M. K. Arjunan | K. J. Yesudas | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=wSGggh1XrDw</id>
+        <link href="https://www.youtube.com/watch?v=wSGggh1XrDw"/>
+        <updated>2023-11-06T04:30:19.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singara Maane | Thai Mozhi | Ilaiyaraaja | Mano & Swarnalatha | Hi-Res Audio]]></title>
+        <id>https://www.youtube.com/watch?v=kU-6SYFFT7I</id>
+        <link href="https://www.youtube.com/watch?v=kU-6SYFFT7I"/>
+        <updated>2023-11-06T04:28:25.000Z</updated>
+        <author>
+            <name>NANCHIL BEATS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sthuthi Sthuthi En Maname | Madhu Balakrishnan #ytshorts #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=GqTQKRiewRM</id>
