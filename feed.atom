@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-06T16:24:15.775Z</updated>
+    <updated>2023-11-06T17:15:59.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32080,15 +32080,6 @@
         <updated>2023-08-09T05:30:16.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalabham chaarthiya | Pai Brothers 1995 | K. S .Chithra, P. Jayachandran | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=pQO-iH_r778</id>
-        <link href="https://www.youtube.com/watch?v=pQO-iH_r778"/>
-        <updated>2023-08-09T05:10:57.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
