@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-06T20:18:12.180Z</updated>
+    <updated>2023-11-06T21:14:57.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32062,15 +32062,6 @@
         <updated>2023-08-09T09:20:17.000Z</updated>
         <author>
             <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ammathan Kanmani | Parishudha Amma | Ft. Ramesh, Samji, Fr Moozhoor Mother Mary Song Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=IRf1YSC8ASA</id>
-        <link href="https://www.youtube.com/watch?v=IRf1YSC8ASA"/>
-        <updated>2023-08-09T08:36:21.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
