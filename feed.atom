@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-06T22:16:35.251Z</updated>
+    <updated>2023-11-06T23:17:27.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഇത്ര നല്ല ലുത്തിനിയ ഞാൻ അടുത്തൊന്നും കേട്ടട്ടില്ല # അതിമനോഹരം ഈ ലുത്തിനിയ # വീണ്ടും വീണ്ടും കൊതിക്കു]]></title>
+        <id>https://www.youtube.com/watch?v=NPNL1oaJk3w</id>
+        <link href="https://www.youtube.com/watch?v=NPNL1oaJk3w"/>
+        <updated>2023-11-06T23:00:17.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=Vz6tThnw5R4</id>
@@ -32008,24 +32017,6 @@
         <updated>2023-08-09T11:30:01.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aazhakadalinte Eenam - Video Song | Munna | Haricharan I Indrans | Jagatheesh | Sibu Sukumaran]]></title>
-        <id>https://www.youtube.com/watch?v=DJjqBFyIBnI</id>
-        <link href="https://www.youtube.com/watch?v=DJjqBFyIBnI"/>
-        <updated>2023-08-09T10:31:15.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chaanju Nilkkana Poothamaavinte | Rasikan | Murali Krishnan | Vidyasagar | MD Ashok]]></title>
-        <id>https://www.youtube.com/watch?v=0aahJHr__Hk</id>
-        <link href="https://www.youtube.com/watch?v=0aahJHr__Hk"/>
-        <updated>2023-08-09T10:30:00.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
         </author>
     </entry>
 </feed>
