@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-06T19:14:00.066Z</updated>
+    <updated>2023-11-06T20:18:12.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32071,42 +32071,6 @@
         <updated>2023-08-09T08:36:21.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oraayiram Kinaakkalal | Ramji Rao Speaking (1989) | Bichu Thirumala | S Balakrishnan | Mukesh]]></title>
-        <id>https://www.youtube.com/watch?v=rVboXaR5Evs</id>
-        <link href="https://www.youtube.com/watch?v=rVboXaR5Evs"/>
-        <updated>2023-08-09T07:44:17.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചിരിയുടെ ഗോഡ്‌ഫാദറിന് പ്രണാമം !  TRIBUTE SONGS TO SIDDIQUE LAL | EVERGREEN SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=yoIbfhovK40</id>
-        <link href="https://www.youtube.com/watch?v=yoIbfhovK40"/>
-        <updated>2023-08-09T07:30:13.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചിരിയുടെ മാലപ്പടക്കം തീർത്ത ഹിറ്റ് മേക്കറിന് വിട ! TRIBUTE SONGS TO SIDDIQUE LAL |  GODAFATHER SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=4JShnK04VEA</id>
-        <link href="https://www.youtube.com/watch?v=4JShnK04VEA"/>
-        <updated>2023-08-09T07:30:00.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Siblings fun😂🤣😎 #Thalatherichavar | #Romancham | #shorts #YTshorts]]></title>
-        <id>https://www.youtube.com/watch?v=czo3k3C58oE</id>
-        <link href="https://www.youtube.com/watch?v=czo3k3C58oE"/>
-        <updated>2023-08-09T07:27:36.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
