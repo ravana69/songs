@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-07T01:18:33.726Z</updated>
+    <updated>2023-11-07T02:26:23.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vazhthuka Maname | Shreya Jayadeep  #shrots #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=MA1ovIdNonE</id>
+        <link href="https://www.youtube.com/watch?v=MA1ovIdNonE"/>
+        <updated>2023-11-07T01:30:09.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Athyunnathante | Kester | Christian Devotional Songs Malayalam | Prayer & Worship Songs]]></title>
         <id>https://www.youtube.com/watch?v=riLrMBp7Lvc</id>
@@ -31945,24 +31954,6 @@
         <updated>2023-08-09T15:00:43.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maane Malaramban Video Song | Mohanlal | KJ Yesudas| Raveendran| Kaithapram |Ayal Kadhayezhthukayanu]]></title>
-        <id>https://www.youtube.com/watch?v=X-JbkMu0nMM</id>
-        <link href="https://www.youtube.com/watch?v=X-JbkMu0nMM"/>
-        <updated>2023-08-09T14:00:23.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Superhit Songs | Kester | Jayachandran | Christian Devotional Songs Malayalam | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=4IhihQ6v-Ko</id>
-        <link href="https://www.youtube.com/watch?v=4IhihQ6v-Ko"/>
-        <updated>2023-08-09T13:30:02.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
