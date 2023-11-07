@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-07T16:23:18.379Z</updated>
+    <updated>2023-11-07T17:16:09.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32116,33 +32116,6 @@
         <updated>2023-08-10T05:30:08.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അനുരാഗ വിലോചനനായി.. അതിലേറെ മോഹിതനായി.. പടിമേലേ നില്‍ക്കും ചന്ദ്രനോ തിടുക്കം...]]></title>
-        <id>https://www.youtube.com/watch?v=-B9Ci1czEmg</id>
-        <link href="https://www.youtube.com/watch?v=-B9Ci1czEmg"/>
-        <updated>2023-08-10T05:04:51.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulli poonkuyil | Pai Brothers 1995 | K. S .Chithra | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=uyeWxtpf7RE</id>
-        <link href="https://www.youtube.com/watch?v=uyeWxtpf7RE"/>
-        <updated>2023-08-10T04:44:14.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Varthinkalaay Maaril | Pallavur Devanarayanan | Mammootty | Manthra | Yesudas | Raveendran]]></title>
-        <id>https://www.youtube.com/watch?v=H7JjQm-7jgI</id>
-        <link href="https://www.youtube.com/watch?v=H7JjQm-7jgI"/>
-        <updated>2023-08-10T04:30:09.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
