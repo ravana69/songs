@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-07T14:16:21.681Z</updated>
+    <updated>2023-11-07T15:18:24.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Puliyanka Kolam Ketti | Nirnayam | Mohanlal | Anand | MG Sreekumar | Baby Shyamili]]></title>
+        <id>https://www.youtube.com/watch?v=hXa_jBaOnOE</id>
+        <link href="https://www.youtube.com/watch?v=hXa_jBaOnOE"/>
+        <updated>2023-11-07T14:30:15.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aankuyile Thenkuyile Remastered Audio Song Dhwani Movie KJ Yesudas Yusufali Kecheri Naushad]]></title>
         <id>https://www.youtube.com/watch?v=fv4QAWQaWpQ</id>
