@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-08T08:21:52.765Z</updated>
+    <updated>2023-11-08T09:17:23.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എന്നു മേഘേ വന്നിടും | Susan Rajukutty #shorts #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=EMAhxIhqnWk</id>
+        <link href="https://www.youtube.com/watch?v=EMAhxIhqnWk"/>
+        <updated>2023-11-08T08:30:10.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vinnilum Mannilum | വിണ്ണിലും മണ്ണിലും |  Manithali Super Hit  Movie Song | Mammootty | Seema]]></title>
         <id>https://www.youtube.com/watch?v=5brYktJceXE</id>
@@ -643,6 +652,15 @@
         <updated>2023-11-06T11:00:10.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enthanennu Chodikkalle | Ulakam Chuttum Valiban | Vijay Yesudas | Jayaram | Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=qoX3jKuIEF8</id>
+        <link href="https://www.youtube.com/watch?v=qoX3jKuIEF8"/>
+        <updated>2023-11-06T09:36:37.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
     <entry>
