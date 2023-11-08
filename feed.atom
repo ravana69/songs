@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-08T06:23:16.107Z</updated>
+    <updated>2023-11-08T07:15:51.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kaathil Aro Mozhinju | Aviyal | Shorts | Harishankar KS  #malayalamfilmsongs #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=QUEekAuR9b0</id>
+        <link href="https://www.youtube.com/watch?v=QUEekAuR9b0"/>
+        <updated>2023-11-08T06:30:08.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Annante Hridayamallo 1981 | V. Dakshinamoorthy | Vani Jairam | Malayalam Movie Song]]></title>
         <id>https://www.youtube.com/watch?v=6Hbtirl0Jg0</id>
@@ -31891,24 +31900,6 @@
         <updated>2023-08-10T20:00:25.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 11th August 2023]]></title>
-        <id>https://www.youtube.com/watch?v=qS6Ww0Sesu8</id>
-        <link href="https://www.youtube.com/watch?v=qS6Ww0Sesu8"/>
-        <updated>2023-08-10T19:00:32.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=2MbeWnNKi4s</id>
-        <link href="https://www.youtube.com/watch?v=2MbeWnNKi4s"/>
-        <updated>2023-08-10T18:30:02.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
