@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-08T16:23:30.613Z</updated>
+    <updated>2023-11-08T17:16:08.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32035,33 +32035,6 @@
         <updated>2023-08-11T05:30:14.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uthradapooviliyil | Onam Song by K J Yesudas #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=sX4inY4UzHE</id>
-        <link href="https://www.youtube.com/watch?v=sX4inY4UzHE"/>
-        <updated>2023-08-11T04:30:21.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aniyathipraavinu  | Aniyathipraavu 1997 | S. Ramesan Nair | K. S. Chithra | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=lu8H0MLtin0</id>
-        <link href="https://www.youtube.com/watch?v=lu8H0MLtin0"/>
-        <updated>2023-08-11T04:30:14.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassil Viriyunna  | Beautiful song sung by K J Yesudas from the movie Madhuchandralekha #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=FzNS-rxMmxM</id>
-        <link href="https://www.youtube.com/watch?v=FzNS-rxMmxM"/>
-        <updated>2023-08-11T04:30:13.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
