@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-08T12:34:04.378Z</updated>
+    <updated>2023-11-08T13:20:47.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Snehathin Poonchola | Pappayude Swandam Appus | K J Yesudas | Ilayaraja | Mammootty | #SongofTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=BlKQ_bWtBcg</id>
+        <link href="https://www.youtube.com/watch?v=BlKQ_bWtBcg"/>
+        <updated>2023-11-08T12:35:56.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[തക്ക സമയത്ത് നിനക്കായി അവൻ അത്ഭുതങ്ങൾ സൃഷ്ടിക്കും | Rev. Aneesh P Joseph #shorts #motivation]]></title>
         <id>https://www.youtube.com/watch?v=XAqDEv2NOgk</id>
@@ -103,6 +112,15 @@
         <updated>2023-11-08T11:27:11.000Z</updated>
         <author>
             <name>MC Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phoenix Official Trailer | Aju Varghese | Anoop Menon | Vishnu Bharathan | Midhun Manuel Thomas]]></title>
+        <id>https://www.youtube.com/watch?v=e47_jFxzzC0</id>
+        <link href="https://www.youtube.com/watch?v=e47_jFxzzC0"/>
+        <updated>2023-11-08T11:12:37.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
