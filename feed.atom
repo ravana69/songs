@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-08T19:14:07.010Z</updated>
+    <updated>2023-11-08T20:18:20.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31990,51 +31990,6 @@
         <updated>2023-08-11T09:30:21.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puthumazhaye Paadunnu | Vidhu Prathap | Sam Shiva | August 27 | Ajit Ravi Pegasus | Jebitha Ajit]]></title>
-        <id>https://www.youtube.com/watch?v=PplAVP4Q0nI</id>
-        <link href="https://www.youtube.com/watch?v=PplAVP4Q0nI"/>
-        <updated>2023-08-11T07:41:34.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaathil - Official Teaser 2 | Vinay Fort , Anu Sithara, Krishna Shankar | Sarju Remakanth]]></title>
-        <id>https://www.youtube.com/watch?v=PLqybQlPeuM</id>
-        <link href="https://www.youtube.com/watch?v=PLqybQlPeuM"/>
-        <updated>2023-08-11T07:34:33.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പണ്ടു കേട്ട് മതി മറന്ന് ഇപ്പോൾ വീണ്ടും ഓർമ്മയിലെത്തുന്ന മനോഹരഗാനങ്ങൾ | NISARI | EVERGREEN SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=xBvFX8qA26c</id>
-        <link href="https://www.youtube.com/watch?v=xBvFX8qA26c"/>
-        <updated>2023-08-11T07:30:21.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karukavayal Kuruvi | Dhruvam | SP Venkitesh | Shibu Chakravarthi | KS Chithra | Mammooty | Gauthami]]></title>
-        <id>https://www.youtube.com/watch?v=rywh8hdfqCw</id>
-        <link href="https://www.youtube.com/watch?v=rywh8hdfqCw"/>
-        <updated>2023-08-11T07:30:12.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eriyunna Karalinte Video Song | Dileep | MG Sreekumar | S Ramesan Nair| Suresh Peters| Punjabi House]]></title>
-        <id>https://www.youtube.com/watch?v=v_p-6-HZf1U</id>
-        <link href="https://www.youtube.com/watch?v=v_p-6-HZf1U"/>
-        <updated>2023-08-11T07:17:24.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
