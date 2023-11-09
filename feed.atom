@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-09T20:18:43.540Z</updated>
+    <updated>2023-11-09T21:15:09.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32044,15 +32044,6 @@
         <updated>2023-08-12T09:30:13.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു പാട്ട് കേൾക്കണമെന്ന് മനസിൽ തോന്നുമ്പോൾ ആദ്യം ഓടിയെത്തുന്ന പുതിയ സിനിമകളിലെ തകർപ്പൻ ഗാനങ്ങൾ !]]></title>
-        <id>https://www.youtube.com/watch?v=rULd-Zmm11w</id>
-        <link href="https://www.youtube.com/watch?v=rULd-Zmm11w"/>
-        <updated>2023-08-12T08:42:11.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
