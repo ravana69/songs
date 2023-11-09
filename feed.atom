@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-09T16:23:18.662Z</updated>
+    <updated>2023-11-09T17:16:11.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32071,42 +32071,6 @@
         <updated>2023-08-12T05:30:03.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uyartheedum Njan Ente Kankal | Shorts Video | Nithya Mammen]]></title>
-        <id>https://www.youtube.com/watch?v=u_jkraCsFwQ</id>
-        <link href="https://www.youtube.com/watch?v=u_jkraCsFwQ"/>
-        <updated>2023-08-12T05:12:38.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aniyathipraavinu  | Aniyathipraavu 1997 | S. Ramesan Nair | K. S. Chithra | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=qkRvtTcfMoc</id>
-        <link href="https://www.youtube.com/watch?v=qkRvtTcfMoc"/>
-        <updated>2023-08-12T04:30:28.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puthuvettam Thedi | Mazhathullikilukkam | Dileep | Bharathi | Suresh Peters | MG Sreekumar | Sharada]]></title>
-        <id>https://www.youtube.com/watch?v=XewJro2CX78</id>
-        <link href="https://www.youtube.com/watch?v=XewJro2CX78"/>
-        <updated>2023-08-12T04:30:17.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ee Theruvile | Achanoru Vazha Vechu | Vineeth Sreenivasan  #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=-Z7rvTVIg2o</id>
-        <link href="https://www.youtube.com/watch?v=-Z7rvTVIg2o"/>
-        <updated>2023-08-12T04:30:00.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
