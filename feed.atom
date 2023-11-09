@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-09T12:33:57.943Z</updated>
+    <updated>2023-11-09T13:22:35.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആർദ്ര സ്നേഹത്തിൻ പൊൻതൂവലാൽ എന്റെ ആത്മാവിനെ നീ തലോടി.]]></title>
+        <id>https://www.youtube.com/watch?v=BiqDXfYKHJQ</id>
+        <link href="https://www.youtube.com/watch?v=BiqDXfYKHJQ"/>
+        <updated>2023-11-09T13:09:58.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaranu Koottu | China Town | Kavalam Sreekumar | Jassie Gift | Anil Panachooran]]></title>
+        <id>https://www.youtube.com/watch?v=XFoRX1cgYB4</id>
+        <link href="https://www.youtube.com/watch?v=XFoRX1cgYB4"/>
+        <updated>2023-11-09T13:00:29.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എന്റെ അവകാശത്തിന്റെയും പാനപാത്രത്തിന്റെയും പങ്ക് യഹോവയാണ് | Rev. Aneesh P Joseph #shorts #motivation]]></title>
         <id>https://www.youtube.com/watch?v=_-7hSoPO5Cc</id>
