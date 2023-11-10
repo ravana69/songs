@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-10T04:21:00.896Z</updated>
+    <updated>2023-11-10T05:16:37.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thannannam Thaanannam | Yathra | Mammootty | Sobhaba | Ilayaraja | Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=AJreVJ4Wglw</id>
+        <link href="https://www.youtube.com/watch?v=AJreVJ4Wglw"/>
+        <updated>2023-11-10T04:30:05.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Punnaram thudi | Newspaper Boy 1997 | Nissar | K. J. Yesudas | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=3Yi0GIITZx4</id>
+        <link href="https://www.youtube.com/watch?v=3Yi0GIITZx4"/>
+        <updated>2023-11-10T04:30:02.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultimate Retro Vibes Jukebox | Malayalam Evergreen Songs Collection | Malayalam All Time Hits]]></title>
+        <id>https://www.youtube.com/watch?v=s2trUEnFDw4</id>
+        <link href="https://www.youtube.com/watch?v=s2trUEnFDw4"/>
+        <updated>2023-11-10T04:24:35.000Z</updated>
+        <author>
+            <name>Lahari Music Malayalam - TSeries</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vazhthuka Maname | Shreya Jayadeep  #shrots #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=WvqMIveCQM0</id>
@@ -31963,15 +31990,6 @@
         <updated>2023-08-12T18:30:42.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഓമനയായൊരു കുഞ്ഞോമൽ പൈതലെ മാറോടണക്കും സ്നേഹ വാത്സല്യമേ...]]></title>
-        <id>https://www.youtube.com/watch?v=BZhRfCqyhU4</id>
-        <link href="https://www.youtube.com/watch?v=BZhRfCqyhU4"/>
-        <updated>2023-08-12T16:58:46.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
