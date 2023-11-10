@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-09T23:17:59.404Z</updated>
+    <updated>2023-11-10T01:17:28.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #mother mary daily  songs malayalam Nov 10th 2023]]></title>
+        <id>https://www.youtube.com/watch?v=jbju6eANgrQ</id>
+        <link href="https://www.youtube.com/watch?v=jbju6eANgrQ"/>
+        <updated>2023-11-09T23:30:09.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 10th of November 2023 Mathavinte Japamala # Dhukhathinte Rahasyangal 10th of November 23]]></title>
+        <id>https://www.youtube.com/watch?v=D5I0fgWwo1U</id>
+        <link href="https://www.youtube.com/watch?v=D5I0fgWwo1U"/>
+        <updated>2023-11-09T23:30:02.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=zTg9GizBYfU</id>
@@ -31963,60 +31981,6 @@
         <updated>2023-08-12T13:30:02.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഓക്സിജൻ സ്പെഷ്യൽ ഓണം ഓഫർ 2023 | Oxygen Special Onam Offer 2023 | ONAM 2023 | Dulquer Salmaan]]></title>
-        <id>https://www.youtube.com/watch?v=hlxK_WnlOwg</id>
-        <link href="https://www.youtube.com/watch?v=hlxK_WnlOwg"/>
-        <updated>2023-08-12T12:30:24.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നിലയ്ക്കാത്ത ഗാനമാകട്ടെ ഈ ജീവിതം | Rev. Aneesh P Joseph | #jesus #shorts #shortvideostatus]]></title>
-        <id>https://www.youtube.com/watch?v=jsryXhn7l2E</id>
-        <link href="https://www.youtube.com/watch?v=jsryXhn7l2E"/>
-        <updated>2023-08-12T12:30:21.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 12th of August 2023]]></title>
-        <id>https://www.youtube.com/watch?v=7skH9RT4PR8</id>
-        <link href="https://www.youtube.com/watch?v=7skH9RT4PR8"/>
-        <updated>2023-08-12T12:30:03.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Araliyum kadaliyum Video Song | Jaathakam | KS Chithra |Jayaram | Sithara |]]></title>
-        <id>https://www.youtube.com/watch?v=aWGKOCINCyU</id>
-        <link href="https://www.youtube.com/watch?v=aWGKOCINCyU"/>
-        <updated>2023-08-12T12:15:01.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manimaran Porum | Suresh Gopi | Vijayasanthi | Mano | ONV Kurupp | Ilaiyaraja | Kallu Kondoru Pennu]]></title>
-        <id>https://www.youtube.com/watch?v=Zlq6I6-bAnU</id>
-        <link href="https://www.youtube.com/watch?v=Zlq6I6-bAnU"/>
-        <updated>2023-08-12T12:00:22.000Z</updated>
-        <author>
-            <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shubha Vibhathamayi | Kurukkan | KS Harisankar | Unni Elayaraja | Manu Manjith]]></title>
-        <id>https://www.youtube.com/watch?v=_5Iyx8JeFeo</id>
-        <link href="https://www.youtube.com/watch?v=_5Iyx8JeFeo"/>
-        <updated>2023-08-12T11:30:25.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
         </author>
     </entry>
 </feed>
