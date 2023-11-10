@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-10T13:20:38.896Z</updated>
+    <updated>2023-11-10T14:16:09.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കനിവുള്ള കൈകൾ നീട്ടും ...]]></title>
+        <id>https://www.youtube.com/watch?v=qfLm6QXhf3E</id>
+        <link href="https://www.youtube.com/watch?v=qfLm6QXhf3E"/>
+        <updated>2023-11-10T13:23:37.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[തെന്നിന്ത്യൻ സൂപ്പർ സ്റ്റാറുകളുടെയെല്ലാം നായികയായി തിളങ്ങിയ മീനയുടെ മലയാളത്തിലെ സൂപ്പർഹിറ്റ്ഗാനങ്ങൾ]]></title>
         <id>https://www.youtube.com/watch?v=DE8c4zHWenQ</id>
@@ -124,6 +133,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Otta Kolakombanaada - Lyrical Video | Bandra | Dileep, Tamannaah | Sam C.S | Yazin Nizar]]></title>
+        <id>https://www.youtube.com/watch?v=C0pGC9Q8Fjs</id>
+        <link href="https://www.youtube.com/watch?v=C0pGC9Q8Fjs"/>
+        <updated>2023-11-10T10:18:20.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[വിറവാലന്‍ കുരുവി  | Viravaalan kuruvi | Kayamkulam Kochunni Super Hit Movie Song | S Janaki]]></title>
         <id>https://www.youtube.com/watch?v=KYIWu1kuaDo</id>
         <link href="https://www.youtube.com/watch?v=KYIWu1kuaDo"/>
@@ -139,6 +157,15 @@
         <updated>2023-11-10T08:05:46.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DumDakkudu Lyrical Video|Guardian Angel|Saju S DaslFranco,Durga Viswanath|Ram Surendar|Jyotish Kassi]]></title>
+        <id>https://www.youtube.com/watch?v=Rd7H6hFC-Ro</id>
+        <link href="https://www.youtube.com/watch?v=Rd7H6hFC-Ro"/>
+        <updated>2023-11-10T07:36:37.000Z</updated>
+        <author>
+            <name>East Coast</name>
         </author>
     </entry>
     <entry>
