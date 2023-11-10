@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-10T22:16:19.396Z</updated>
+    <updated>2023-11-10T23:16:45.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #mother mary daily prayer and songs malayalam Nov]]></title>
+        <id>https://www.youtube.com/watch?v=s21MlHp1CuE</id>
+        <link href="https://www.youtube.com/watch?v=s21MlHp1CuE"/>
+        <updated>2023-11-10T23:00:39.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=i4zxRxaxR1s</id>
@@ -32143,33 +32152,6 @@
         <updated>2023-08-13T12:00:29.000Z</updated>
         <author>
             <name>Music Zone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thejasserum | Christian Shorts | Benny Thomas #christiansongs #manoramamusic #christianshortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=mfuelkuxQTw</id>
-        <link href="https://www.youtube.com/watch?v=mfuelkuxQTw"/>
-        <updated>2023-08-13T10:30:20.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sreeragardram Malayalam | Onam Video Song | G Venugopal | Chowalloor Krishnankutty | Jaya Vijaya]]></title>
-        <id>https://www.youtube.com/watch?v=A9xMkb8EtSU</id>
-        <link href="https://www.youtube.com/watch?v=A9xMkb8EtSU"/>
-        <updated>2023-08-13T10:30:04.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshuve Ninmukham | Christian Shorts Video | Sajitha Binu #christiandevotionalsongs #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=EzrC3A4-7eE</id>
-        <link href="https://www.youtube.com/watch?v=EzrC3A4-7eE"/>
-        <updated>2023-08-13T10:27:36.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
