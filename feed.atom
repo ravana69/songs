@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-10T01:17:28.575Z</updated>
+    <updated>2023-11-10T02:25:34.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vazhthuka Maname | Shreya Jayadeep  #shrots #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=WvqMIveCQM0</id>
+        <link href="https://www.youtube.com/watch?v=WvqMIveCQM0"/>
+        <updated>2023-11-10T01:30:08.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #mother mary daily  songs malayalam Nov 10th 2023]]></title>
         <id>https://www.youtube.com/watch?v=jbju6eANgrQ</id>
@@ -319,6 +328,15 @@
         <updated>2023-11-09T04:00:04.000Z</updated>
         <author>
             <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tu Hai Balwan | Ravi Narayan | Jijy Abraham | Rev. Daniel George | Hindi Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=mJJ0XNashIg</id>
+        <link href="https://www.youtube.com/watch?v=mJJ0XNashIg"/>
+        <updated>2023-11-09T03:57:17.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -31963,24 +31981,6 @@
         <updated>2023-08-12T14:30:22.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poomaariyil|Jhonnie walker|Jeet Upendra|Rani|Mammotty|]]></title>
-        <id>https://www.youtube.com/watch?v=r0TX4eyUP34</id>
-        <link href="https://www.youtube.com/watch?v=r0TX4eyUP34"/>
-        <updated>2023-08-12T13:55:24.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Superhit Songs | Wilson Piravom | Midhila Michael | Christian Melody Songs | Joji Johns]]></title>
-        <id>https://www.youtube.com/watch?v=6zRSBXrwesE</id>
-        <link href="https://www.youtube.com/watch?v=6zRSBXrwesE"/>
-        <updated>2023-08-12T13:30:02.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
