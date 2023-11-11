@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-11T07:14:42.875Z</updated>
+    <updated>2023-11-11T08:20:14.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[താരസിംഹാസനത്തിലെ ചക്രവർത്തി നമ്മുടെ സ്വന്തം ലാലേട്ടന്റെ മനസോട് ചേർത്തുവെച്ച ഗാനങ്ങൾ | MOHANLAL HITS]]></title>
+        <id>https://www.youtube.com/watch?v=8Yz_K4_edOQ</id>
+        <link href="https://www.youtube.com/watch?v=8Yz_K4_edOQ"/>
+        <updated>2023-11-11T07:42:22.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളസിനിമയിലെ ചരിത്രം സൃഷ്‌ടിച്ച ജനപ്രിയ ഗാനങ്ങൾ  | EVERGREEN MALAYALAM FILM SONGS | NISARI MUSIC]]></title>
+        <id>https://www.youtube.com/watch?v=_0YCkoHSCZk</id>
+        <link href="https://www.youtube.com/watch?v=_0YCkoHSCZk"/>
+        <updated>2023-11-11T07:30:07.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മൊഞ്ചേറും പൂവണി | Moncherum Poovani  | Manithalli Romantic Movie Song | Seema | Mammootty]]></title>
         <id>https://www.youtube.com/watch?v=0e7f38EKENo</id>
@@ -32132,15 +32150,6 @@
         <id>https://www.youtube.com/watch?v=HZw4vA5_Vv0</id>
         <link href="https://www.youtube.com/watch?v=HZw4vA5_Vv0"/>
         <updated>2023-08-13T23:00:10.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 14 # Athiravile Prarthana 14th of August 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=iTRLaAW8hPc</id>
-        <link href="https://www.youtube.com/watch?v=iTRLaAW8hPc"/>
-        <updated>2023-08-13T20:00:17.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
