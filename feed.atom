@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-11T16:20:55.822Z</updated>
+    <updated>2023-11-11T17:14:41.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32170,42 +32170,6 @@
         <updated>2023-08-14T05:30:08.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kodivarnangal Video Song | Vijay Yesudas | Class By A Soldier | SR Suraj | Chinmayi Nair]]></title>
-        <id>https://www.youtube.com/watch?v=1phfWNKvucg</id>
-        <link href="https://www.youtube.com/watch?v=1phfWNKvucg"/>
-        <updated>2023-08-14T04:53:59.000Z</updated>
-        <author>
-            <name>Magic Frames Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O Priye |  Aniyathipraavu 1997 | S. Ramesan Nair | K. J. Yesudas | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=YQivJwO_-xk</id>
-        <link href="https://www.youtube.com/watch?v=YQivJwO_-xk"/>
-        <updated>2023-08-14T04:30:20.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paalappoovithalil | Thirakadha | Anoop Menon | Priyamani | Shewtha Mohan | Sharreth]]></title>
-        <id>https://www.youtube.com/watch?v=nOAvBScYk7E</id>
-        <link href="https://www.youtube.com/watch?v=nOAvBScYk7E"/>
-        <updated>2023-08-14T04:30:14.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vannallo Ponnonam | Onam song by M G Sreekumar #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=0XhalCfQ4Fk</id>
-        <link href="https://www.youtube.com/watch?v=0XhalCfQ4Fk"/>
-        <updated>2023-08-14T04:30:00.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
