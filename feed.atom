@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-12T16:20:57.139Z</updated>
+    <updated>2023-11-12T17:14:29.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32008,33 +32008,6 @@
         <updated>2023-08-15T05:30:15.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വന്ദേമാതരം..| ഓരോ ഭാരതീയൻറെയും മനസ്സിൽ ജ്വലിക്കുന്ന സ്വാതന്ത്ര്യസമരചരിത്രം ഗാനങ്ങളായ്..| Remastered]]></title>
-        <id>https://www.youtube.com/watch?v=xbxWqnZeBmk</id>
-        <link href="https://www.youtube.com/watch?v=xbxWqnZeBmk"/>
-        <updated>2023-08-15T04:59:10.000Z</updated>
-        <author>
-            <name>Tharangini Sound of arts Dubai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ithra Madhurikkumo | Five Star Hospital | KJ Yesudas | Siddique | Kaveri | Bomaby Ravi]]></title>
-        <id>https://www.youtube.com/watch?v=rNIeBLb8QYU</id>
-        <link href="https://www.youtube.com/watch?v=rNIeBLb8QYU"/>
-        <updated>2023-08-15T04:30:18.000Z</updated>
-        <author>
-            <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vennila Kadappurathu |  Aniyathipraavu 1997 | S. Ramesan Nair | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=OzQ28RsWyNY</id>
-        <link href="https://www.youtube.com/watch?v=OzQ28RsWyNY"/>
-        <updated>2023-08-15T04:30:09.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
