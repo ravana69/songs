@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-13T17:16:11.182Z</updated>
+    <updated>2023-11-13T18:22:38.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 14th November 23]]></title>
+        <id>https://www.youtube.com/watch?v=1Meb8n1rWv4</id>
+        <link href="https://www.youtube.com/watch?v=1Meb8n1rWv4"/>
+        <updated>2023-11-13T18:00:02.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മനസിലെ മർമ്മരം തേങ്ങലായി , കരഞ്ഞു തളർന്നു ഞാൻ വീണു പോയി .]]></title>
         <id>https://www.youtube.com/watch?v=sn0FYejx3kA</id>
@@ -32098,42 +32107,6 @@
         <updated>2023-08-16T06:59:31.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചങ്കിൽ കുരുങ്ങിയ ചോദ്യത്തുണ്ട് | Vidyadharan Master | Rekha Anand #latestmalayalam #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=jLi2LFDDzp8</id>
-        <link href="https://www.youtube.com/watch?v=jLi2LFDDzp8"/>
-        <updated>2023-08-16T05:58:46.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചങ്കിൽ കുരുങ്ങിയ ചോദ്യത്തുണ്ട് | Vidyadharan Master | Rekha Anand #latestmalayalam #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=z_POFwP3v5k</id>
-        <link href="https://www.youtube.com/watch?v=z_POFwP3v5k"/>
-        <updated>2023-08-16T05:58:31.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചങ്കിൽ കുരുങ്ങിയ ചോദ്യത്തുണ്ട് | Vidyadharan Master | Rekha Anand #latestmalayalam #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=u8s2cqtgp6o</id>
-        <link href="https://www.youtube.com/watch?v=u8s2cqtgp6o"/>
-        <updated>2023-08-16T05:58:29.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minnadi Minnadi |വാനമ്പാടി @ 60| Celebratinbg 60 Musical Years of K S Chithra |Deepak Dev|Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=2ATMGiOx2D4</id>
-        <link href="https://www.youtube.com/watch?v=2ATMGiOx2D4"/>
-        <updated>2023-08-16T05:30:00.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
