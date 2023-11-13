@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-13T16:23:55.797Z</updated>
+    <updated>2023-11-13T17:16:11.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32134,24 +32134,6 @@
         <updated>2023-08-16T05:30:00.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sheethalamaam Vennilaavu | Arayannam 1981 | P. Bhaskaran |  K. J. Yesudas | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=KSanGa9tkas</id>
-        <link href="https://www.youtube.com/watch?v=KSanGa9tkas"/>
-        <updated>2023-08-16T04:59:48.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manikyakallal | Varnappakittu | Mohanlal | Divya Unni | Vidyasagar | I V Sasi | Swarnalatha]]></title>
-        <id>https://www.youtube.com/watch?v=kxy_DkyVY9c</id>
-        <link href="https://www.youtube.com/watch?v=kxy_DkyVY9c"/>
-        <updated>2023-08-16T04:30:13.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
