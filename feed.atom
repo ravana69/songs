@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-12T23:16:33.529Z</updated>
+    <updated>2023-11-13T01:19:34.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japamala 13th of November 23 # Mathavinte Japamala Santhoshathinte Rahasyangal 13th of November 23]]></title>
+        <id>https://www.youtube.com/watch?v=kfVFHUsAtOE</id>
+        <link href="https://www.youtube.com/watch?v=kfVFHUsAtOE"/>
+        <updated>2023-11-12T23:30:11.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കൃപാസനം മാതാവിന്റെ  പ്രാർത്ഥനയും ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #Kripasanam mother mary]]></title>
+        <id>https://www.youtube.com/watch?v=Gl88aPd7Gjk</id>
+        <link href="https://www.youtube.com/watch?v=Gl88aPd7Gjk"/>
+        <updated>2023-11-12T23:30:03.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=oib1jqkPVzc</id>
@@ -31954,42 +31972,6 @@
         <updated>2023-08-15T13:30:24.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yalla Habibi Lyrical Video | Ramachandra Boss & Co | Nivin Pauly | Mamitha Baiju | Haneef Adeni]]></title>
-        <id>https://www.youtube.com/watch?v=f7HKFaoVVc4</id>
-        <link href="https://www.youtube.com/watch?v=f7HKFaoVVc4"/>
-        <updated>2023-08-15T12:59:38.000Z</updated>
-        <author>
-            <name>Magic Frames Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 15th of August 2023]]></title>
-        <id>https://www.youtube.com/watch?v=D0x659uZ7W8</id>
-        <link href="https://www.youtube.com/watch?v=D0x659uZ7W8"/>
-        <updated>2023-08-15T12:30:13.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവം നീതിമാൻ അവനിൽ നീതികേടില്ല |  Rev. Aneesh P Joseph | #shortvideo #jesus #jesusshorts]]></title>
-        <id>https://www.youtube.com/watch?v=2620O3dwqAU</id>
-        <link href="https://www.youtube.com/watch?v=2620O3dwqAU"/>
-        <updated>2023-08-15T12:30:02.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chandramadathinte | Ormakal Marikkumo | KJ Yesudas| Kamal Haasan |#shorts]]></title>
-        <id>https://www.youtube.com/watch?v=KeZ23NDkX58</id>
-        <link href="https://www.youtube.com/watch?v=KeZ23NDkX58"/>
-        <updated>2023-08-15T12:15:02.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
