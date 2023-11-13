@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-13T01:19:34.570Z</updated>
+    <updated>2023-11-13T02:28:14.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vazhthuka Maname | Shreya Jayadeep  #shrots #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=OB9JaZT4d54</id>
+        <link href="https://www.youtube.com/watch?v=OB9JaZT4d54"/>
+        <updated>2023-11-13T01:30:10.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japamala 13th of November 23 # Mathavinte Japamala Santhoshathinte Rahasyangal 13th of November 23]]></title>
         <id>https://www.youtube.com/watch?v=kfVFHUsAtOE</id>
@@ -31954,24 +31963,6 @@
         <updated>2023-08-15T14:33:31.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Israyelin Kavalkkaran | Shorts | Nithya Mammen]]></title>
-        <id>https://www.youtube.com/watch?v=4dYiWRoY930</id>
-        <link href="https://www.youtube.com/watch?v=4dYiWRoY930"/>
-        <updated>2023-08-15T14:00:02.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dyovin Sammanam | Christian Melody Songs Malayalam | Lijosh Vezhappilly | Joji Johns | Shymol Alex]]></title>
-        <id>https://www.youtube.com/watch?v=t5i5i3bS-6U</id>
-        <link href="https://www.youtube.com/watch?v=t5i5i3bS-6U"/>
-        <updated>2023-08-15T13:30:24.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
