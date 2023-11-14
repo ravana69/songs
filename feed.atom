@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-14T15:18:49.180Z</updated>
+    <updated>2023-11-14T16:19:24.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32179,15 +32179,6 @@
         <updated>2023-08-17T04:30:13.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vannallo Ponnonam | Lyrical Video | M G Sreekumar |Chittoor Gopi |Kannan |ഓണപ്പാട്ട് ലിറിക്കൽവീഡിയോ]]></title>
-        <id>https://www.youtube.com/watch?v=505LHV7sDyc</id>
-        <link href="https://www.youtube.com/watch?v=505LHV7sDyc"/>
-        <updated>2023-08-17T04:06:37.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
