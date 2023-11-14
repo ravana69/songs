@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-14T10:19:54.725Z</updated>
+    <updated>2023-11-14T11:14:38.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thirunadha Sharanam | Kristheeya Bhakthigaanangal | Christian Devotional Songs | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=7XiPPwInVuM</id>
+        <link href="https://www.youtube.com/watch?v=7XiPPwInVuM"/>
+        <updated>2023-11-14T10:55:43.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sanyasini Nin | Rajahamsam | G Devarajan | Vayalar | K J Yeshudas | Prem Naseer | Jayabharathi]]></title>
         <id>https://www.youtube.com/watch?v=hlzfGmgI4ZU</id>
@@ -31988,15 +31997,6 @@
         <id>https://www.youtube.com/watch?v=eTxdEK2nAic</id>
         <link href="https://www.youtube.com/watch?v=eTxdEK2nAic"/>
         <updated>2023-08-17T00:30:14.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 17th of August shorts  # Athiravile Prarthana 17th of August 2023 shorts]]></title>
-        <id>https://www.youtube.com/watch?v=M5a6NQJW5Ss</id>
-        <link href="https://www.youtube.com/watch?v=M5a6NQJW5Ss"/>
-        <updated>2023-08-16T23:00:07.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
