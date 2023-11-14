@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-14T16:19:24.991Z</updated>
+    <updated>2023-11-14T17:13:59.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32150,33 +32150,6 @@
         <id>https://www.youtube.com/watch?v=ObYrh_xB34k</id>
         <link href="https://www.youtube.com/watch?v=ObYrh_xB34k"/>
         <updated>2023-08-17T05:17:49.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പവിഴമലർപ്പെൺകൊടീ കനകനിലാക്കണ്മണീ...  താലി ചാർത്തി നിൽക്കുമെന്റെ വിണ്ണഴകിൻ ദേവതേ അഗ്നിസാക്ഷിയായ് നീ..]]></title>
-        <id>https://www.youtube.com/watch?v=pb06lh131ZI</id>
-        <link href="https://www.youtube.com/watch?v=pb06lh131ZI"/>
-        <updated>2023-08-17T05:11:15.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unniyamma Chirutheyi | Aayiram Navulla Ananthan | Mammootty | Gouthami | Yesudas | Johnson]]></title>
-        <id>https://www.youtube.com/watch?v=ao_WETLOSVA</id>
-        <link href="https://www.youtube.com/watch?v=ao_WETLOSVA"/>
-        <updated>2023-08-17T05:00:04.000Z</updated>
-        <author>
-            <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vannallo Ponninam | Onam Song by M G Sreekumar  #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=db4kBOQ2FH4</id>
-        <link href="https://www.youtube.com/watch?v=db4kBOQ2FH4"/>
-        <updated>2023-08-17T04:30:13.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
