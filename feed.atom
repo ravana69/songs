@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-14T22:17:05.444Z</updated>
+    <updated>2023-11-14T23:17:55.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32044,42 +32044,6 @@
         <updated>2023-08-17T11:45:04.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassinu Aaswasam Nalkunna Ganangal | Nonstop Malayalam Christian Songs | Old Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=8zGPR_L7vHw</id>
-        <link href="https://www.youtube.com/watch?v=8zGPR_L7vHw"/>
-        <updated>2023-08-17T11:15:00.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aadikkarin Manjal |  Thapasya | Sweet Melody by K J Yesudas #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=hygleRJ4YyU</id>
-        <link href="https://www.youtube.com/watch?v=hygleRJ4YyU"/>
-        <updated>2023-08-17T10:30:24.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പൂവനഹങ്കാരം ഇവിടിനി ഞാന്‍ കൊക്കരകോകൂവുകയില്ലെങ്കില്‍ എതുവഴിയേ പുലരിവരും  #malayalamsongs#mgsreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=IV1Yn5beWpE</id>
-        <link href="https://www.youtube.com/watch?v=IV1Yn5beWpE"/>
-        <updated>2023-08-17T10:30:08.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uthradapooviliyil | Onam Song By K J Yesudas #shorts #kjyesudas #onamsongs #onam #festivalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=NCShzWY0wiU</id>
-        <link href="https://www.youtube.com/watch?v=NCShzWY0wiU"/>
-        <updated>2023-08-17T10:30:08.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
