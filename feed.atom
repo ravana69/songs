@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-15T05:17:09.424Z</updated>
+    <updated>2023-11-15T06:23:52.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sona Sona| Kalabhavan Mani |Ben Johnson|Lyrical Video #shortsfeed #shorts #kalabhavanmani #deepakdev]]></title>
+        <id>https://www.youtube.com/watch?v=modlGqfxaKI</id>
+        <link href="https://www.youtube.com/watch?v=modlGqfxaKI"/>
+        <updated>2023-11-15T05:30:11.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeevanakum Daivame | Daleema | Christian Melody Songs | Paul Chittoor | Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=BOPjfBMAQOE</id>
+        <link href="https://www.youtube.com/watch?v=BOPjfBMAQOE"/>
+        <updated>2023-11-15T05:23:35.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഒന്നാനാം കുന്നില്‍ | Onnaanaam Kunnil | Dheem Tharikidathom Malayalam Movie Song | Lizy | Shankar]]></title>
         <id>https://www.youtube.com/watch?v=yfouB6f9E2Q</id>
@@ -31999,15 +32017,6 @@
         <updated>2023-08-17T19:00:11.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വീണ്ടുമൊരു ഓണക്കാലം കൂടി വരവായി..ദാസേട്ടൻറെ ഓണപ്പാട്ടുകളും..| FESTIVAL SONGS | Original Remastered]]></title>
-        <id>https://www.youtube.com/watch?v=K6VM0jGs_wU</id>
-        <link href="https://www.youtube.com/watch?v=K6VM0jGs_wU"/>
-        <updated>2023-08-17T18:11:43.000Z</updated>
-        <author>
-            <name>Tharangini Sound of arts Dubai</name>
         </author>
     </entry>
 </feed>
