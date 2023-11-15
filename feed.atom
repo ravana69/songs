@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-15T17:16:44.564Z</updated>
+    <updated>2023-11-15T18:21:35.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pleasant vibes of #Vaarmeghame | #Bandra | #Dileep, #Tamannaah | #SamCS #ytshorts #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=yXyvEazf7Gc</id>
+        <link href="https://www.youtube.com/watch?v=yXyvEazf7Gc"/>
+        <updated>2023-11-15T18:03:10.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rain vibes of #Vaarmeghame | #Bandra | #Dileep, #Tamannaah | #SamCS #ytshorts #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=7v_9V5tGYcU</id>
+        <link href="https://www.youtube.com/watch?v=7v_9V5tGYcU"/>
+        <updated>2023-11-15T18:02:53.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 16th November 23]]></title>
+        <id>https://www.youtube.com/watch?v=xo6DYTniybo</id>
+        <link href="https://www.youtube.com/watch?v=xo6DYTniybo"/>
+        <updated>2023-11-15T18:00:36.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vanna Vazhikal | Wilson Piravom | Joy John | Shorts  #manoramachristiandevotionalsongs #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=yLmxmSR5Tz4</id>
@@ -32098,51 +32125,6 @@
         <updated>2023-08-18T07:30:17.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaathil - Official Trailer | Vinay Fort , Anu Sithara, Krishna Shankar | Sarju Remakanth]]></title>
-        <id>https://www.youtube.com/watch?v=Ng5tBn76mx0</id>
-        <link href="https://www.youtube.com/watch?v=Ng5tBn76mx0"/>
-        <updated>2023-08-18T06:18:19.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saranam Nee Saranam Nee Saranam Ayyane - Lyrical | Bumper | Vetri | Harisankar | Govind Vasantha]]></title>
-        <id>https://www.youtube.com/watch?v=Bp5872wc9ts</id>
-        <link href="https://www.youtube.com/watch?v=Bp5872wc9ts"/>
-        <updated>2023-08-18T05:31:02.000Z</updated>
-        <author>
-            <name>Tips Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oro Kanavum | Aagathan | Lyrical Video | Vijay Yesudas | Shweta Mohan |  Ouseppachan | Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=dIWaFfBtn3A</id>
-        <link href="https://www.youtube.com/watch?v=dIWaFfBtn3A"/>
-        <updated>2023-08-18T05:30:08.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shake it for #KanniluKannilu | #Ayisha  | #Shorts #YTshorts kannilu 02]]></title>
-        <id>https://www.youtube.com/watch?v=JLjZU5WKmxQ</id>
-        <link href="https://www.youtube.com/watch?v=JLjZU5WKmxQ"/>
-        <updated>2023-08-18T05:30:05.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malayadi | Innalekal Thalirkkumbol | Malayalam Film Songs | Rajeesh Mulavukadu | Sadanandan M V]]></title>
-        <id>https://www.youtube.com/watch?v=LDq5Ex4mnwo</id>
-        <link href="https://www.youtube.com/watch?v=LDq5Ex4mnwo"/>
-        <updated>2023-08-18T05:20:37.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
