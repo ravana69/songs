@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-15T10:20:52.136Z</updated>
+    <updated>2023-11-15T11:15:28.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rareeraaro - Lyrical Video | Puthumukhangal | Unni Menon | Rajesh Krishnan]]></title>
+        <id>https://www.youtube.com/watch?v=_L2XyLxdLo4</id>
+        <link href="https://www.youtube.com/watch?v=_L2XyLxdLo4"/>
+        <updated>2023-11-15T11:00:13.000Z</updated>
+        <author>
+            <name>MC Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anuraaga Vilochananayi With Narration | Neelathamara | V Sreekumar | Shreya Goshal | Vidyasagar]]></title>
+        <id>https://www.youtube.com/watch?v=HuEBK754ONk</id>
+        <link href="https://www.youtube.com/watch?v=HuEBK754ONk"/>
+        <updated>2023-11-15T10:30:05.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഒരുകാലത്ത് മലയാളികളുടെ കൂടെപ്പിറപ്പായിരുന്ന മധുര സ്മരണകളുണർത്തും സിനിമാഗാനങ്ങൾ ! SUPERHIT SONGS]]></title>
         <id>https://www.youtube.com/watch?v=g-hUjuAxvoE</id>
@@ -32080,15 +32098,6 @@
         <updated>2023-08-18T00:15:00.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 18th of August shorts  # Athiravile Prarthana 18th of August 2023 shorts]]></title>
-        <id>https://www.youtube.com/watch?v=qmWQx57AioA</id>
-        <link href="https://www.youtube.com/watch?v=qmWQx57AioA"/>
-        <updated>2023-08-17T23:00:34.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
