@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-15T11:15:28.940Z</updated>
+    <updated>2023-11-15T12:35:33.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vellaarappoomala Mele | Varavelpu | Johnson | K J Yesudas #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=tqD77jt6kig</id>
+        <link href="https://www.youtube.com/watch?v=tqD77jt6kig"/>
+        <updated>2023-11-15T12:34:30.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എന്റെ ഉടയവനും ഞാൻ സേവിക്കുന്നവനുമായ ദൈവം എനിക്കുണ്ട്. | Rev. Aneesh P Joseph #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=8iKtj2Som64</id>
+        <link href="https://www.youtube.com/watch?v=8iKtj2Som64"/>
+        <updated>2023-11-15T12:30:07.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theyyaare | Anubhoothi Malayalam Movie Song | Shyam | Arundhathi, Krishnachandran | Suresh Gopi]]></title>
+        <id>https://www.youtube.com/watch?v=7_GSor8hbBY</id>
+        <link href="https://www.youtube.com/watch?v=7_GSor8hbBY"/>
+        <updated>2023-11-15T12:30:05.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thaarakapoovanam Aranjilla Video Song | Jwala | K. J Yesudas | P. Susheela]]></title>
+        <id>https://www.youtube.com/watch?v=s4vZ8GDypVk</id>
+        <link href="https://www.youtube.com/watch?v=s4vZ8GDypVk"/>
+        <updated>2023-11-15T12:15:04.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ORU PATHIRATHAN | NITHYA MAMMEN | SUNIL V JOY | #shorts #shortvideo]]></title>
+        <id>https://www.youtube.com/watch?v=q5Pg9DQcM9k</id>
+        <link href="https://www.youtube.com/watch?v=q5Pg9DQcM9k"/>
+        <updated>2023-11-15T11:59:36.000Z</updated>
+        <author>
+            <name>Celebrants India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Melody Songs | Narayana Krishna | Christian Devotional Songs Malayalam | Abhijith Kollam]]></title>
+        <id>https://www.youtube.com/watch?v=BVtpWFPvvks</id>
+        <link href="https://www.youtube.com/watch?v=BVtpWFPvvks"/>
+        <updated>2023-11-15T11:39:32.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[He Surya | Raama Raavanan | Anu Kadamanitta | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=PY7QET417Ks</id>
+        <link href="https://www.youtube.com/watch?v=PY7QET417Ks"/>
+        <updated>2023-11-15T11:30:19.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nilaave maayumo...| Sreekumar M G | Evergreen Super Hit Song | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=c8jvrptAe6U</id>
+        <link href="https://www.youtube.com/watch?v=c8jvrptAe6U"/>
+        <updated>2023-11-15T11:30:12.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 15th of November 2023]]></title>
+        <id>https://www.youtube.com/watch?v=4usZp2wxi1I</id>
+        <link href="https://www.youtube.com/watch?v=4usZp2wxi1I"/>
+        <updated>2023-11-15T11:30:02.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rareeraaro - Lyrical Video | Puthumukhangal | Unni Menon | Rajesh Krishnan]]></title>
         <id>https://www.youtube.com/watch?v=_L2XyLxdLo4</id>
@@ -130,6 +211,15 @@
         <updated>2023-11-15T05:30:11.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികൾ നെഞ്ചിലേറ്റിയ കൈതപ്രം ഗാനങ്ങൾ | Kaithapram hits | Vidyasagar | Johnson | Raveendran]]></title>
+        <id>https://www.youtube.com/watch?v=XYW9ig35pk4</id>
+        <link href="https://www.youtube.com/watch?v=XYW9ig35pk4"/>
+        <updated>2023-11-15T05:24:39.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
@@ -32071,33 +32161,6 @@
         <updated>2023-08-18T01:15:52.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 18th of August 2023 # Mathavinte Japamala # Dhukhathinte Rahasyangal 18th of August 2023]]></title>
-        <id>https://www.youtube.com/watch?v=OIaLZzWi2oY</id>
-        <link href="https://www.youtube.com/watch?v=OIaLZzWi2oY"/>
-        <updated>2023-08-18T00:30:17.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കാലങ്ങളായി മനസ്സിൽ പതിഞ്ഞുപോയ പരമ്പരാഗത ക്രിസ്തീയ ഗാനങ്ങൾ |Traditional Songs|Malayalam Christian]]></title>
-        <id>https://www.youtube.com/watch?v=ExEMvv41NMg</id>
-        <link href="https://www.youtube.com/watch?v=ExEMvv41NMg"/>
-        <updated>2023-08-18T00:30:09.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #August 18th daily mother Mary prayer and songs]]></title>
-        <id>https://www.youtube.com/watch?v=81R-LsPt73E</id>
-        <link href="https://www.youtube.com/watch?v=81R-LsPt73E"/>
-        <updated>2023-08-18T00:15:00.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
         </author>
     </entry>
 </feed>
