@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-15T16:24:40.213Z</updated>
+    <updated>2023-11-15T17:16:44.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32143,42 +32143,6 @@
         <updated>2023-08-18T05:20:37.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sandhye Shaarada Sandhye | Ambadi Thannilorunni 1986  | K. J. Yesudas | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=sd33NQ-siEc</id>
-        <link href="https://www.youtube.com/watch?v=sd33NQ-siEc"/>
-        <updated>2023-08-18T05:16:29.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വെറുതെ വെറുതെ പരതും മിഴികൾ വേഴാമ്പലായ് നിൻ നടകാത്തു... ആവണിപൊന്നൂഞ്ഞാലാടിക്കാം നിന്നെ ഞാൻ...]]></title>
-        <id>https://www.youtube.com/watch?v=n5CFNHdi_IM</id>
-        <link href="https://www.youtube.com/watch?v=n5CFNHdi_IM"/>
-        <updated>2023-08-18T05:15:29.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹൃദയം തകര്‍ക്കും നൊമ്പരഗാനങ്ങള്‍ | Heart Broken Songs | Sad Songs Malayalam | Video Jukebox | HD |]]></title>
-        <id>https://www.youtube.com/watch?v=g68Lz1enA7Q</id>
-        <link href="https://www.youtube.com/watch?v=g68Lz1enA7Q"/>
-        <updated>2023-08-18T04:30:23.000Z</updated>
-        <author>
-            <name>Wilson Video Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pottuthotta | Alice In Wonderland | Jayaram | Sandhya | Vidyasagar | Yesudas | Sibi Malayil]]></title>
-        <id>https://www.youtube.com/watch?v=L07kJL5vGZU</id>
-        <link href="https://www.youtube.com/watch?v=L07kJL5vGZU"/>
-        <updated>2023-08-18T04:30:06.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
