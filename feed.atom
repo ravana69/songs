@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-15T08:22:46.433Z</updated>
+    <updated>2023-11-15T09:18:52.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഒരുകാലത്ത് മലയാളികളുടെ കൂടെപ്പിറപ്പായിരുന്ന മധുര സ്മരണകളുണർത്തും സിനിമാഗാനങ്ങൾ ! SUPERHIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=g-hUjuAxvoE</id>
+        <link href="https://www.youtube.com/watch?v=g-hUjuAxvoE"/>
+        <updated>2023-11-15T08:30:38.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ശ്യാമ മേഘ വര്‍ണ്ണന്‍ | Shyamamegavarnan | Bhishmachariya Superhit Movie Song | Manoj K. Jayan]]></title>
+        <id>https://www.youtube.com/watch?v=OpsynfmeSfM</id>
+        <link href="https://www.youtube.com/watch?v=OpsynfmeSfM"/>
+        <updated>2023-11-15T08:30:10.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koovaram Kili Paithale Video Song | Banaras | Navya Nair | Vineeth | Shweta Mohan | Vijay Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=LfCQNKHNLAk</id>
+        <link href="https://www.youtube.com/watch?v=LfCQNKHNLAk"/>
+        <updated>2023-11-15T08:30:09.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nakshathrakkoodaram - Athippazhathin Elaneer Churathum Lyric | Mohan Sithara | Suresh Gopi]]></title>
         <id>https://www.youtube.com/watch?v=rlbkTXiYWY8</id>
