@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-15T12:35:33.923Z</updated>
+    <updated>2023-11-15T13:22:23.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32150,15 +32150,6 @@
         <id>https://www.youtube.com/watch?v=5LAah8nLYI4</id>
         <link href="https://www.youtube.com/watch?v=5LAah8nLYI4"/>
         <updated>2023-08-18T01:36:27.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njan Ninne Kaividumo | KS Chithra | Christian Devotional | Shorts #christiandevotional #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=_a9VlRdzLj8</id>
-        <link href="https://www.youtube.com/watch?v=_a9VlRdzLj8"/>
-        <updated>2023-08-18T01:15:52.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
         </author>
