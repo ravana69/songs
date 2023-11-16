@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-16T05:17:31.809Z</updated>
+    <updated>2023-11-16T06:24:07.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sourayoodha Padhathilenno | Vellam 1985 |  K. J. Yesudas, Chorus | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=KpL88RLN0XQ</id>
+        <link href="https://www.youtube.com/watch?v=KpL88RLN0XQ"/>
+        <updated>2023-11-16T05:45:14.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കരിവള വിക്കണ | Karivala Vilkkana | Oral Koodi Kalanayi Malayalam Movie Song | Prem Nazir | Sheela]]></title>
+        <id>https://www.youtube.com/watch?v=C7sGSTvvPFg</id>
+        <link href="https://www.youtube.com/watch?v=C7sGSTvvPFg"/>
+        <updated>2023-11-16T05:38:02.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mothathi Kozhappa | Official Trailer | Sony P Jose | Vipin Lal | Manmiyas productions]]></title>
+        <id>https://www.youtube.com/watch?v=CrRxWqDwPPI</id>
+        <link href="https://www.youtube.com/watch?v=CrRxWqDwPPI"/>
+        <updated>2023-11-16T05:33:19.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oro Thulli Chorayil... | Malayalam Classic Movie | Mooladhanam | Movie Song | Ft. Prem Nazir]]></title>
         <id>https://www.youtube.com/watch?v=4QY4daPJAd8</id>
@@ -2398,6 +2425,15 @@
         <updated>2023-11-09T06:49:15.000Z</updated>
         <author>
             <name>Lahari Music Malayalam - TSeries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vittu Pidi | Dance Party | Fejo | Rahul Raj | Sohan Seenulal | Reji Prothasis | Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=KLZ0AYqh_aE</id>
+        <link href="https://www.youtube.com/watch?v=KLZ0AYqh_aE"/>
+        <updated>2023-11-09T05:40:30.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
