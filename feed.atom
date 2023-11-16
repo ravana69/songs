@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-16T18:23:19.543Z</updated>
+    <updated>2023-11-16T19:11:43.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  November 17 # Athiravile Prarthana 17th of November 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=jMAEY8ilP5k</id>
+        <link href="https://www.youtube.com/watch?v=jMAEY8ilP5k"/>
+        <updated>2023-11-16T19:00:20.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=-uKYpUfcx8U</id>
+        <link href="https://www.youtube.com/watch?v=-uKYpUfcx8U"/>
+        <updated>2023-11-16T18:30:00.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Good vibes of #Vaarmeghame | #Bandra | #Dileep, #Tamannaah | #SamCS #ytshorts #shorts]]></title>
         <id>https://www.youtube.com/watch?v=cj2w25gNMQk</id>
@@ -32125,24 +32143,6 @@
         <updated>2023-08-19T07:30:00.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njan Ente Soukhyavum | Christian Devotional Shorts  #christiandevotionalsongs #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=wr7TYAZITxA</id>
-        <link href="https://www.youtube.com/watch?v=wr7TYAZITxA"/>
-        <updated>2023-08-19T07:00:07.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thathamma Peru Video Song | Dosth | Kunchacko Boban - Kavya | Vidyasagar | KJ Yesudas -Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=xu8V6tKW4jc</id>
-        <link href="https://www.youtube.com/watch?v=xu8V6tKW4jc"/>
-        <updated>2023-08-19T06:53:20.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
