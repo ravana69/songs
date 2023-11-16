@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-16T17:15:18.297Z</updated>
+    <updated>2023-11-16T18:23:19.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Good vibes of #Vaarmeghame | #Bandra | #Dileep, #Tamannaah | #SamCS #ytshorts #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=cj2w25gNMQk</id>
+        <link href="https://www.youtube.com/watch?v=cj2w25gNMQk"/>
+        <updated>2023-11-16T18:19:34.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good beats of #Vaarmeghame | #Bandra | #Dileep, #Tamannaah | #SamCS #ytshorts #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=o004G606PdE</id>
+        <link href="https://www.youtube.com/watch?v=o004G606PdE"/>
+        <updated>2023-11-16T18:19:21.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 17th November 23]]></title>
+        <id>https://www.youtube.com/watch?v=h07ok95hXsU</id>
+        <link href="https://www.youtube.com/watch?v=h07ok95hXsU"/>
+        <updated>2023-11-16T18:00:30.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അറിയുന്നു ഞാൻ ദിവ്യ സ്നേഹം .]]></title>
         <id>https://www.youtube.com/watch?v=4uMd77cI5W8</id>
@@ -32116,24 +32143,6 @@
         <updated>2023-08-19T06:53:20.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May Masam Junoday | Alice In Wonderland | Vidyasagar | Jayaram | Kathal Sandya | Vineeth]]></title>
-        <id>https://www.youtube.com/watch?v=yTMtVwf6Nj0</id>
-        <link href="https://www.youtube.com/watch?v=yTMtVwf6Nj0"/>
-        <updated>2023-08-19T05:30:27.000Z</updated>
-        <author>
-            <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Groove  for #KanniluKannilu | #Ayisha  | #Shorts #YTshorts kannilu 03]]></title>
-        <id>https://www.youtube.com/watch?v=X5V_-q9V54c</id>
-        <link href="https://www.youtube.com/watch?v=X5V_-q9V54c"/>
-        <updated>2023-08-19T05:30:15.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
