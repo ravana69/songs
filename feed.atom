@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-16T20:18:53.265Z</updated>
+    <updated>2023-11-16T21:15:55.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32116,24 +32116,6 @@
         <updated>2023-08-19T09:30:14.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhamukil – Cloud of Love | Music Video |Amal K Joby | Dayyana Hameed | Jaison J Nair | Harikumar R]]></title>
-        <id>https://www.youtube.com/watch?v=dSARoCzZ6Ck</id>
-        <link href="https://www.youtube.com/watch?v=dSARoCzZ6Ck"/>
-        <updated>2023-08-19T09:15:04.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാള സിനിമയിലെ ദൃശ്യഭംഗിയും ശ്രവ്യഭംഗിയും ഒത്തുചേർന്ന   പ്രശസ്ത ഗാനങ്ങൾ | Re Mastered Video Songs]]></title>
-        <id>https://www.youtube.com/watch?v=eiAqIqF3J6Y</id>
-        <link href="https://www.youtube.com/watch?v=eiAqIqF3J6Y"/>
-        <updated>2023-08-19T08:52:06.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
