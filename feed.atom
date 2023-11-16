@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-16T04:22:22.395Z</updated>
+    <updated>2023-11-16T05:17:31.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oro Thulli Chorayil... | Malayalam Classic Movie | Mooladhanam | Movie Song | Ft. Prem Nazir]]></title>
+        <id>https://www.youtube.com/watch?v=4QY4daPJAd8</id>
+        <link href="https://www.youtube.com/watch?v=4QY4daPJAd8"/>
+        <updated>2023-11-16T04:30:01.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[യേശുവേ എൻ പ്രാണനായകാ | ROY PUTHUR | SIONA BABU  PRINCE | #christiandevotionalsongs #royputhur]]></title>
         <id>https://www.youtube.com/watch?v=hWGKtxwziG4</id>
