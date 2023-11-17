@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-17T14:16:51.357Z</updated>
+    <updated>2023-11-17T15:18:25.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ottagathai Kattiko | Gentleman | A.R.Rahman | S.P.B & S.Janaki | Hi-Res Audio]]></title>
+        <id>https://www.youtube.com/watch?v=pm8YtbjXLqw</id>
+        <link href="https://www.youtube.com/watch?v=pm8YtbjXLqw"/>
+        <updated>2023-11-17T14:40:58.000Z</updated>
+        <author>
+            <name>NANCHIL BEATS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tharalitharavil Mayangiyo | Sooryamanasam | Mammootty | MM Keeravani | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=VG8Y8tDVR5U</id>
+        <link href="https://www.youtube.com/watch?v=VG8Y8tDVR5U"/>
+        <updated>2023-11-17T14:30:15.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എന്നിഷ്ടം മാത്രം നോക്കുമ്പോൾ നിന്റെ സ്നേഹത്തിൻ ആഴം കാണാതായി .]]></title>
+        <id>https://www.youtube.com/watch?v=F-435d-CqbI</id>
+        <link href="https://www.youtube.com/watch?v=F-435d-CqbI"/>
+        <updated>2023-11-17T14:27:33.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Indumukhi Bale Video Song | HD | Ayur Rekha Movie Song | REMASTERED |]]></title>
         <id>https://www.youtube.com/watch?v=GoELnSPVmeY</id>
