@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-17T22:17:21.997Z</updated>
+    <updated>2023-11-17T23:17:45.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32161,24 +32161,6 @@
         <updated>2023-08-20T12:15:05.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poomanam Poothu Niranju | Video | Madhu Balakrishnan | Kaithapram | മധുബാലകൃഷ്ണൻ ആലപിച്ച ഓണപ്പാട്ട്]]></title>
-        <id>https://www.youtube.com/watch?v=WefWxxOE9Z8</id>
-        <link href="https://www.youtube.com/watch?v=WefWxxOE9Z8"/>
-        <updated>2023-08-20T10:30:09.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponchinga Chillayilaaro | Onam Song by K J Yesudas #shorts #kjyesudas #onam #yesudasonamsong]]></title>
-        <id>https://www.youtube.com/watch?v=ADeQDVMPUbs</id>
-        <link href="https://www.youtube.com/watch?v=ADeQDVMPUbs"/>
-        <updated>2023-08-20T10:30:02.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
