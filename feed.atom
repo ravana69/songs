@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-17T11:15:11.427Z</updated>
+    <updated>2023-11-17T12:34:51.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shyaamaambaram Neele | Artham | Johnson | K J Yesudas #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=w3WR73U-7zE</id>
+        <link href="https://www.youtube.com/watch?v=w3WR73U-7zE"/>
+        <updated>2023-11-17T12:34:33.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enikkoru Nilavinte | Bhakthajanangalude Sradhakku | KJ Yesudas | Natesh Sankar|Jayakumar Chengamanad]]></title>
+        <id>https://www.youtube.com/watch?v=KVCvZWl7D5Y</id>
+        <link href="https://www.youtube.com/watch?v=KVCvZWl7D5Y"/>
+        <updated>2023-11-17T12:30:10.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വരുവാനുള്ള തേജസ്സ് വിചാരിച്ചാൽ ഈ ലോകത്തിലെ കഷ്ടങ്ങൾ സാരമില്ല | Rev. Aneesh P Joseph #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=6b-cxlcI2Qs</id>
+        <link href="https://www.youtube.com/watch?v=6b-cxlcI2Qs"/>
+        <updated>2023-11-17T12:30:05.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seethapakshi Video Song | Oru Sundariyude Kadha | P. Susheela | Classic Malayalam Songs]]></title>
+        <id>https://www.youtube.com/watch?v=eYawiTmUA2s</id>
+        <link href="https://www.youtube.com/watch?v=eYawiTmUA2s"/>
+        <updated>2023-11-17T12:15:03.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ilammanjin Kulirumayoru | Evergreen Malayalam Movie Song | Ninnishtam Ennishtam | Mohanlal | Priya]]></title>
+        <id>https://www.youtube.com/watch?v=OnGUillq_MA</id>
+        <link href="https://www.youtube.com/watch?v=OnGUillq_MA"/>
+        <updated>2023-11-17T12:00:19.000Z</updated>
+        <author>
+            <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Kathilola Njan... | Vettam | M G Sreekumar | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=xmF8_Qz4QlE</id>
+        <link href="https://www.youtube.com/watch?v=xmF8_Qz4QlE"/>
+        <updated>2023-11-17T11:30:32.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Songs Of The Week | Kester | Christian Devotional Songs Malayalam | Joji Johns | Shymol Alex]]></title>
+        <id>https://www.youtube.com/watch?v=tQQ-zL0FBpk</id>
+        <link href="https://www.youtube.com/watch?v=tQQ-zL0FBpk"/>
+        <updated>2023-11-17T11:30:30.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karmukilil With Narration | Bachelor Party | Shreya Ghoshal | Nikhil Mathew | Rahul Raj]]></title>
+        <id>https://www.youtube.com/watch?v=QOykplus4G8</id>
+        <link href="https://www.youtube.com/watch?v=QOykplus4G8"/>
+        <updated>2023-11-17T11:30:11.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 17th of November 2023]]></title>
+        <id>https://www.youtube.com/watch?v=J3okYyJIkEA</id>
+        <link href="https://www.youtube.com/watch?v=J3okYyJIkEA"/>
+        <updated>2023-11-17T11:30:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KERALA COMEDY COMBAT - PROMO ✨]]></title>
         <id>https://www.youtube.com/watch?v=QIP4LKJmYeU</id>
@@ -560,6 +641,15 @@
         <id>https://www.youtube.com/watch?v=eRXJ-FX7U1I</id>
         <link href="https://www.youtube.com/watch?v=eRXJ-FX7U1I"/>
         <updated>2023-11-15T15:51:17.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanna Vazhikal | Wilson Piravom | Joy John | Shorts  #manoramachristiandevotionalsongs #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=-f1IkbfGuD4</id>
+        <link href="https://www.youtube.com/watch?v=-f1IkbfGuD4"/>
+        <updated>2023-11-15T15:09:20.000Z</updated>
         <author>
             <name>Christian Devotional Songs</name>
         </author>
@@ -32089,24 +32179,6 @@
         <updated>2023-08-20T04:30:04.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തകർന്ന മനസുകൾക്ക് ആശ്വാസമായെത്തുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ | Christian Devotional Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=rhxFLzdWsMY</id>
-        <link href="https://www.youtube.com/watch?v=rhxFLzdWsMY"/>
-        <updated>2023-08-20T00:30:24.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 20th of August 2023 # Mathavinte Japamala # Mahimayude Rahasyangal 20th of August 2023]]></title>
-        <id>https://www.youtube.com/watch?v=GRQNcU1oZoM</id>
-        <link href="https://www.youtube.com/watch?v=GRQNcU1oZoM"/>
-        <updated>2023-08-20T00:30:07.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
