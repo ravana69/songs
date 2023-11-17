@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-17T07:16:01.101Z</updated>
+    <updated>2023-11-17T08:22:52.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മനം കുളിരുന്ന  മലയാളസിനിമയിലെ സ്നേഹസാന്ദ്രമാം ചലച്ചിത്രഗാനങ്ങൾ | MALAYALAM FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=7l1asXhJM18</id>
+        <link href="https://www.youtube.com/watch?v=7l1asXhJM18"/>
+        <updated>2023-11-17T08:04:40.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moonnam Mani Samayam | Aarudeyum Karalaliyippikkunna Kristheeya Bhakthigaanangal | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=G5y-VpFqUyM</id>
+        <link href="https://www.youtube.com/watch?v=G5y-VpFqUyM"/>
+        <updated>2023-11-17T07:52:35.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SuperHero HanuMan From HANU-MAN(Malayalam) | #malayalamsongs #tipsmalayalam #hanuman]]></title>
+        <id>https://www.youtube.com/watch?v=EhG4qBS5PKo</id>
+        <link href="https://www.youtube.com/watch?v=EhG4qBS5PKo"/>
+        <updated>2023-11-17T07:20:25.000Z</updated>
+        <author>
+            <name>Tips Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഒരു മഞ്ഞുപൂവിന്‍  | Oru Manju Poovin | Nandagopalante Kusruthikal Malayalam Movie Song | Mukesh]]></title>
         <id>https://www.youtube.com/watch?v=bMqQVLa_H9I</id>
@@ -31,6 +58,15 @@
         <updated>2023-11-17T05:30:09.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NIN SANIDHYAM DEVA | ATHIRA SHAJU | PAVITHRAN AMACHAL | BINCY ELAPPARA | JINO KUNNUMPURATH]]></title>
+        <id>https://www.youtube.com/watch?v=KK41DcRPAz4</id>
+        <link href="https://www.youtube.com/watch?v=KK41DcRPAz4"/>
+        <updated>2023-11-17T05:28:11.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
         </author>
     </entry>
     <entry>
@@ -32042,15 +32078,6 @@
         <id>https://www.youtube.com/watch?v=MfB6KC6bcTg</id>
         <link href="https://www.youtube.com/watch?v=MfB6KC6bcTg"/>
         <updated>2023-08-19T23:00:09.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന August 20 # Athiravile Prarthana 20th of August 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=vAkZi7N6T20</id>
-        <link href="https://www.youtube.com/watch?v=vAkZi7N6T20"/>
-        <updated>2023-08-19T20:00:13.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
