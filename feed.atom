@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-17T02:29:47.127Z</updated>
+    <updated>2023-11-17T03:18:39.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32017,24 +32017,6 @@
         <updated>2023-08-19T17:22:16.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junile Nilaamazhayil Video Song | KJ Yesudas | Sujatha Mohan | Gireesh Puthenchery | M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=SkhaREDhV64</id>
-        <link href="https://www.youtube.com/watch?v=SkhaREDhV64"/>
-        <updated>2023-08-19T15:08:51.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏതു രാവിലും പിരിയാത്ത സ്നേഹം, ഏതു നോവിലും അകലാത്ത സ്നേഹം .]]></title>
-        <id>https://www.youtube.com/watch?v=ErJcv5hcdF0</id>
-        <link href="https://www.youtube.com/watch?v=ErJcv5hcdF0"/>
-        <updated>2023-08-19T14:55:02.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
