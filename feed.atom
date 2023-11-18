@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-18T10:17:56.401Z</updated>
+    <updated>2023-11-18T11:14:00.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32188,15 +32188,6 @@
         <updated>2023-08-20T23:45:00.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 21st of August shorts  # Athiravile Prarthana 21st of August 2023 shorts]]></title>
-        <id>https://www.youtube.com/watch?v=FTUXCwSJu84</id>
-        <link href="https://www.youtube.com/watch?v=FTUXCwSJu84"/>
-        <updated>2023-08-20T23:00:05.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
