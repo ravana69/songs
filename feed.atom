@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-18T17:14:51.378Z</updated>
+    <updated>2023-11-18T18:21:03.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vibe to the lines of #OruPennithaa | #Kushi | #VijayDeverakonda,#Samantha| #ytshorts #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=LKRdhwIcNK8</id>
+        <link href="https://www.youtube.com/watch?v=LKRdhwIcNK8"/>
+        <updated>2023-11-18T18:08:20.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vibe to the beats of #OruPennithaa | #Kushi | #VijayDeverakonda,#Samantha| #ytshorts #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=HhpaSGHDN3o</id>
+        <link href="https://www.youtube.com/watch?v=HhpaSGHDN3o"/>
+        <updated>2023-11-18T18:08:07.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 19th November 23]]></title>
+        <id>https://www.youtube.com/watch?v=huefM-28Puo</id>
+        <link href="https://www.youtube.com/watch?v=huefM-28Puo"/>
+        <updated>2023-11-18T18:00:29.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[യേശുനാഥാ നീ എന്നിൽ കനിയേണം]]></title>
         <id>https://www.youtube.com/watch?v=vUTQ2xqsTvg</id>
@@ -32233,51 +32260,6 @@
         <updated>2023-08-21T06:21:33.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പുതുമഴയേ പാടുന്നോ | Vidhu Prathap | Sam Shiva | August 27 #malayalammoviesongs #latestmalayalam]]></title>
-        <id>https://www.youtube.com/watch?v=AGv8bv27Yfo</id>
-        <link href="https://www.youtube.com/watch?v=AGv8bv27Yfo"/>
-        <updated>2023-08-21T06:19:10.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filming Lovely 🎥⚡ #BehindTheScenes]]></title>
-        <id>https://www.youtube.com/watch?v=umqc3jxGYYw</id>
-        <link href="https://www.youtube.com/watch?v=umqc3jxGYYw"/>
-        <updated>2023-08-21T05:36:50.000Z</updated>
-        <author>
-            <name>OPM Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അഷ്ടപദീ ഗാനങ്ങൾ അലയിളക്കീ അനുരാഗം ഈണത്തിൽ വീണ മീട്ടി #malayalamsongs #evergeeenmalayalamhits]]></title>
-        <id>https://www.youtube.com/watch?v=rMsi6gryiDE</id>
-        <link href="https://www.youtube.com/watch?v=rMsi6gryiDE"/>
-        <updated>2023-08-21T05:31:34.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Step up for #KanniluKannilu | #Ayisha  | #Shorts #YTshorts kannilu 06]]></title>
-        <id>https://www.youtube.com/watch?v=TJaa1yfAhiI</id>
-        <link href="https://www.youtube.com/watch?v=TJaa1yfAhiI"/>
-        <updated>2023-08-21T05:30:08.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pookkal Vidarnnu |  Aalippazhangal 1987  | K. J. Yesudas | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=kO5jscC8s4Y</id>
-        <link href="https://www.youtube.com/watch?v=kO5jscC8s4Y"/>
-        <updated>2023-08-21T05:24:07.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
