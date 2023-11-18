@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-18T03:18:11.279Z</updated>
+    <updated>2023-11-18T04:21:14.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christian Video Songs | Jayachandran | Christian Devotional Songs Malayalam | Rithuraj | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=vDKzsdg6OTk</id>
+        <link href="https://www.youtube.com/watch?v=vDKzsdg6OTk"/>
+        <updated>2023-11-18T04:20:44.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[kreupasanam daily prayer and songs malayalam #kreupasanam prarthana for November 18th 2023#കൃപാസനം]]></title>
         <id>https://www.youtube.com/watch?v=tu9MRfZGINA</id>
