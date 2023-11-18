@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-17T23:17:45.566Z</updated>
+    <updated>2023-11-18T01:19:13.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[kreupasanam daily prayer and songs malayalam #kreupasanam prarthana for November 18th 2023#കൃപാസനം]]></title>
+        <id>https://www.youtube.com/watch?v=tu9MRfZGINA</id>
+        <link href="https://www.youtube.com/watch?v=tu9MRfZGINA"/>
+        <updated>2023-11-17T23:30:16.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 18th of November 23 # Mathavinte Japamala Santhoshathinte Rahasyangal 18th of November 23]]></title>
+        <id>https://www.youtube.com/watch?v=3MPR07geJ8I</id>
+        <link href="https://www.youtube.com/watch?v=3MPR07geJ8I"/>
+        <updated>2023-11-17T23:30:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=nBXKqsSfBQc</id>
@@ -32134,33 +32152,6 @@
         <updated>2023-08-20T13:30:04.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നസ്രായേൻ എന്ന പ്രാണനാഥനെ  അതുല്യനാക്കുന്ന ഒന്നുണ്ട്? |  Rev. Aneesh P Joseph | #shortvideo #jesus]]></title>
-        <id>https://www.youtube.com/watch?v=m5SryKmlqKQ</id>
-        <link href="https://www.youtube.com/watch?v=m5SryKmlqKQ"/>
-        <updated>2023-08-20T12:30:23.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 20th of August 2023]]></title>
-        <id>https://www.youtube.com/watch?v=6EuKYD16sYo</id>
-        <link href="https://www.youtube.com/watch?v=6EuKYD16sYo"/>
-        <updated>2023-08-20T12:30:05.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suprabhaatham Video Song | Panitheeratha Veedu | P. Jayachandran | Prem Nazir |]]></title>
-        <id>https://www.youtube.com/watch?v=vz559UclAKU</id>
-        <link href="https://www.youtube.com/watch?v=vz559UclAKU"/>
-        <updated>2023-08-20T12:15:05.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
