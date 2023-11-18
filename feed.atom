@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-18T12:31:56.164Z</updated>
+    <updated>2023-11-18T13:18:49.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enthe Innum Vanneela | Gramaphone | Vidyasagar | P Jayachandran |  Gireesh Puthenchery #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=9MpPtVgy_C4</id>
+        <link href="https://www.youtube.com/watch?v=9MpPtVgy_C4"/>
+        <updated>2023-11-18T12:36:12.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ജീവിതത്തിലെ ഏറ്റവും വലിയ നേട്ടം എന്താണെന്നറിയാമോ?  | Rev. Aneesh P Joseph #shorts]]></title>
         <id>https://www.youtube.com/watch?v=gyiFC_iRVKs</id>
@@ -13,6 +22,15 @@
         <updated>2023-11-18T12:30:32.000Z</updated>
         <author>
             <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ashwaroodanaaya Viswanadhane | Manushya Mrugam | Jassie Gift | Sayan Anwar]]></title>
+        <id>https://www.youtube.com/watch?v=Beb5jDmy5xU</id>
+        <link href="https://www.youtube.com/watch?v=Beb5jDmy5xU"/>
+        <updated>2023-11-18T12:30:05.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
         </author>
     </entry>
     <entry>
