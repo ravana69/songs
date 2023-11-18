@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-18T20:17:31.464Z</updated>
+    <updated>2023-11-18T21:14:33.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32233,24 +32233,6 @@
         <updated>2023-08-21T09:30:02.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puzhayarikiletho | Zha Movie Song |  Vineeth Sreenivasan | Amal  C Ajith | Rajesh Babu K]]></title>
-        <id>https://www.youtube.com/watch?v=FTJFaI_7f4A</id>
-        <link href="https://www.youtube.com/watch?v=FTJFaI_7f4A"/>
-        <updated>2023-08-21T08:58:27.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRAAVU FILM MAKING VIDEO | NAVAZ ALI | P R RAJASEKHARAN | CET CINEMA]]></title>
-        <id>https://www.youtube.com/watch?v=blfL0HfO84w</id>
-        <link href="https://www.youtube.com/watch?v=blfL0HfO84w"/>
-        <updated>2023-08-21T08:29:50.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
