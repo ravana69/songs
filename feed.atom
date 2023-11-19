@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-19T05:16:36.518Z</updated>
+    <updated>2023-11-19T06:22:08.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thaipirandhaal Vazhi | Nagaravadhu | K.S.Chithra | M.Jayachandran | Sound of Arts | Remastered Audio]]></title>
+        <id>https://www.youtube.com/watch?v=KG6D_7EfLdM</id>
+        <link href="https://www.youtube.com/watch?v=KG6D_7EfLdM"/>
+        <updated>2023-11-19T06:10:05.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Illathe Kalyanathinu | Vettam  | M.G. Sreekumar | Sujatha ...]]></title>
+        <id>https://www.youtube.com/watch?v=VoJoJsy7MYM</id>
+        <link href="https://www.youtube.com/watch?v=VoJoJsy7MYM"/>
+        <updated>2023-11-19T06:01:22.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പാട്ടുപെട്ടി | Paattupetti Vol 34 | Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=b2niM75U2uA</id>
+        <link href="https://www.youtube.com/watch?v=b2niM75U2uA"/>
+        <updated>2023-11-19T06:00:15.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Midu Midu Midukkan |  Rajadhi Raja | Mammootty  #shortsfeed  #mammootty #lyricalvideo]]></title>
+        <id>https://www.youtube.com/watch?v=T439aFNTUts</id>
+        <link href="https://www.youtube.com/watch?v=T439aFNTUts"/>
+        <updated>2023-11-19T05:30:06.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaattu Valli Oonjaalaadaam | Vinayapoorvam Vidyaadharan 2000 | Yesudas | Malayalam Movie Song]]></title>
         <id>https://www.youtube.com/watch?v=xND_56E-f4Y</id>
@@ -22,6 +58,15 @@
         <updated>2023-11-19T04:30:07.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivathin Puthran | Fr. Shyju & Grace | Shorts #shortsvideo  #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=mGR5X9mlJYk</id>
+        <link href="https://www.youtube.com/watch?v=mGR5X9mlJYk"/>
+        <updated>2023-11-19T03:30:16.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -32125,15 +32170,6 @@
         <updated>2023-08-21T19:00:09.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വന്ദ്യ സ്ലീബാ തരുവിൻ | ORTHODOX WEDDING SONG | MITHILA MICHEL#royputhur  #orthodoxwedding]]></title>
-        <id>https://www.youtube.com/watch?v=NIk3EeJH7vU</id>
-        <link href="https://www.youtube.com/watch?v=NIk3EeJH7vU"/>
-        <updated>2023-08-21T18:14:12.000Z</updated>
-        <author>
-            <name>Rayan Media Productions</name>
         </author>
     </entry>
 </feed>
