@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-19T11:13:37.088Z</updated>
+    <updated>2023-11-19T12:32:08.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നിനക്ക് ആരാണ് ദൈവം?  | Rev. Aneesh P Joseph #shorts #motivationalvideo]]></title>
+        <id>https://www.youtube.com/watch?v=42bpasummNE</id>
+        <link href="https://www.youtube.com/watch?v=42bpasummNE"/>
+        <updated>2023-11-19T12:30:02.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaru paranjalum Video Song | Puthukottayile Puthumanavalan | K J Yesudas | S Ramesan Nair]]></title>
+        <id>https://www.youtube.com/watch?v=F4SjsHzVTn4</id>
+        <link href="https://www.youtube.com/watch?v=F4SjsHzVTn4"/>
+        <updated>2023-11-19T12:15:01.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 19th of November 2023]]></title>
+        <id>https://www.youtube.com/watch?v=VR9dCNsc6Nc</id>
+        <link href="https://www.youtube.com/watch?v=VR9dCNsc6Nc"/>
+        <updated>2023-11-19T11:30:17.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Melody Songs | Manoj Christy | Joji Johns | Biju Narayanan | Christian Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=Xhf1vfoyDHs</id>
+        <link href="https://www.youtube.com/watch?v=Xhf1vfoyDHs"/>
+        <updated>2023-11-19T11:30:12.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jeevanadhan | December Voice | Carol Shorts #ytshorts  #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=JustcoXIrWc</id>
@@ -32143,33 +32179,6 @@
         <updated>2023-08-22T03:30:22.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 22nd of August 2023 # Mathavinte Japamala # Dhukhathinte Rahasyangal 22nd of August 2023]]></title>
-        <id>https://www.youtube.com/watch?v=bpmuSKv5GAQ</id>
-        <link href="https://www.youtube.com/watch?v=bpmuSKv5GAQ"/>
-        <updated>2023-08-22T00:30:27.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visudhatmave | Christian Devotional Songs Malayalam | Kester | Praise and Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=-QNsxxSuyB0</id>
-        <link href="https://www.youtube.com/watch?v=-QNsxxSuyB0"/>
-        <updated>2023-08-22T00:30:00.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം August 22nd daily mother mary songs]]></title>
-        <id>https://www.youtube.com/watch?v=rlRQtq3-4JM</id>
-        <link href="https://www.youtube.com/watch?v=rlRQtq3-4JM"/>
-        <updated>2023-08-22T00:00:23.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
         </author>
     </entry>
 </feed>
