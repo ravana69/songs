@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-19T19:13:23.505Z</updated>
+    <updated>2023-11-19T20:18:01.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31990,60 +31990,6 @@
         <updated>2023-08-22T08:45:00.000Z</updated>
         <author>
             <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathiye Pathiye Padivathilil Full Video Song | Nariman Movie Song | Shibu Chakravarthi]]></title>
-        <id>https://www.youtube.com/watch?v=OiHh23MkPjA</id>
-        <link href="https://www.youtube.com/watch?v=OiHh23MkPjA"/>
-        <updated>2023-08-22T08:00:16.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paadathe Painkiliye | Lyrical Video | Nigoodam | Aristo Suresh | Ronnie Raphael | Krishnachandran CK]]></title>
-        <id>https://www.youtube.com/watch?v=ZVBvEgaUweM</id>
-        <link href="https://www.youtube.com/watch?v=ZVBvEgaUweM"/>
-        <updated>2023-08-22T07:37:40.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nanni Nalla Daivamae | Sonychen CMI | Kings & Queens Band | Worship Song Karoke]]></title>
-        <id>https://www.youtube.com/watch?v=zzkS0HjAXlQ</id>
-        <link href="https://www.youtube.com/watch?v=zzkS0HjAXlQ"/>
-        <updated>2023-08-22T07:30:13.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികളുടെ തീരാനഷ്ടം രവീന്ദ്രൻ മാസ്റ്റർ ഈണമിട്ട എക്കാലത്തെയും മികച്ച ഓണപ്പാട്ടുകൾ | ONAM SONGS 2023]]></title>
-        <id>https://www.youtube.com/watch?v=fbJksPuQYFY</id>
-        <link href="https://www.youtube.com/watch?v=fbJksPuQYFY"/>
-        <updated>2023-08-22T07:30:09.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aalila manjalil neeyadumbol | Sooryagayathri | ONV | Raveendran | KS Chithra | Mohanlal | Urvashi]]></title>
-        <id>https://www.youtube.com/watch?v=aLMh-HzrXj8</id>
-        <link href="https://www.youtube.com/watch?v=aLMh-HzrXj8"/>
-        <updated>2023-08-22T07:30:00.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thinkalurangum Neramaayal | Onnam Sakshi Parethan| Dheeraj Sukumaran| Arun Vanaja Raju|  PS Jayahari]]></title>
-        <id>https://www.youtube.com/watch?v=FB92defgSgM</id>
-        <link href="https://www.youtube.com/watch?v=FB92defgSgM"/>
-        <updated>2023-08-22T07:15:51.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
