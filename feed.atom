@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-19T22:16:17.359Z</updated>
+    <updated>2023-11-19T23:17:18.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31972,15 +31972,6 @@
         <updated>2023-08-22T12:00:03.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vellithinkal | Meleparambil Aanveedu | Jayaram | Sobhana | Yesudas | Johnson | Rajasenan]]></title>
-        <id>https://www.youtube.com/watch?v=XXeWEAQ5yLY</id>
-        <link href="https://www.youtube.com/watch?v=XXeWEAQ5yLY"/>
-        <updated>2023-08-22T11:00:21.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
 </feed>
