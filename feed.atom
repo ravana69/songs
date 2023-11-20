@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T16:24:05.999Z</updated>
+    <updated>2023-11-20T17:13:55.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -1588,6 +1588,15 @@
         <updated>2023-11-15T18:00:36.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Varunnitha Nadhan | Samson Silva | Shorts  #manoramachristiandevotionalsongs #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=Dk2oEIy6HeY</id>
+        <link href="https://www.youtube.com/watch?v=Dk2oEIy6HeY"/>
+        <updated>2023-11-15T16:05:27.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -32071,42 +32080,6 @@
         <updated>2023-08-23T05:14:14.000Z</updated>
         <author>
             <name>Rayan Media Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chithira Thoniyil Akkarepokan | Malayalam Movie Songs | Kayalum Kayarum  #malayalamsongs #evergreen]]></title>
-        <id>https://www.youtube.com/watch?v=xsj8PJGt34o</id>
-        <link href="https://www.youtube.com/watch?v=xsj8PJGt34o"/>
-        <updated>2023-08-23T05:12:58.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Janmamaam Ushasandhyayaay | Sundhari Kakka 1991 | Johnson | K.S. Chithra | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=TzrznKDrKkE</id>
-        <link href="https://www.youtube.com/watch?v=TzrznKDrKkE"/>
-        <updated>2023-08-23T05:11:05.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചങ്കിൽ കുരുങ്ങിയ ചോദ്യത്തുണ്ട് | Vidyadharan Master | Rekha Anand #latestmalayalam #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=otSpvl8hqQo</id>
-        <link href="https://www.youtube.com/watch?v=otSpvl8hqQo"/>
-        <updated>2023-08-23T05:00:32.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mannu Vaanam | Pappachan Olivilanu | Ouseppachan | Sinto Sunny | Amal Antony | Akhila Anand]]></title>
-        <id>https://www.youtube.com/watch?v=35YA0cJfOno</id>
-        <link href="https://www.youtube.com/watch?v=35YA0cJfOno"/>
-        <updated>2023-08-23T04:30:54.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
