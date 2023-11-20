@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T21:16:04.662Z</updated>
+    <updated>2023-11-20T22:18:01.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=WJAk6iSAL5Q</id>
+        <link href="https://www.youtube.com/watch?v=WJAk6iSAL5Q"/>
+        <updated>2023-11-20T22:00:21.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20 November 2023]]></title>
         <id>https://www.youtube.com/watch?v=aH-C_EKAkNc</id>
@@ -31990,24 +31999,6 @@
         <updated>2023-08-23T10:30:06.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neelamizhippeelikale - Lyrical Video | Baba Kalyani | Jyotsna, Vidhu Prathap | Alex Paul]]></title>
-        <id>https://www.youtube.com/watch?v=vJIcQbYjtYk</id>
-        <link href="https://www.youtube.com/watch?v=vJIcQbYjtYk"/>
-        <updated>2023-08-23T10:09:19.000Z</updated>
-        <author>
-            <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങാന്‍ പോകുമ്പോള്‍ കേള്‍ക്കാവുന്ന ഗാനങ്ങള്‍ # Malayalam Christian songs for Sleep #worshipsongs]]></title>
-        <id>https://www.youtube.com/watch?v=nuGKpwiVGkc</id>
-        <link href="https://www.youtube.com/watch?v=nuGKpwiVGkc"/>
-        <updated>2023-08-23T09:30:13.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
