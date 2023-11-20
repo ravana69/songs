@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T04:22:37.895Z</updated>
+    <updated>2023-11-20T05:17:56.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ezhezhuu Sagarangal | Masmaram | Sureshgopi | Arpana Rao | Chithra | S P Venkitesh]]></title>
+        <id>https://www.youtube.com/watch?v=um7IJoJcITM</id>
+        <link href="https://www.youtube.com/watch?v=um7IJoJcITM"/>
+        <updated>2023-11-20T04:30:29.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ottamuri Vakkumayi - Audio Song | Romancham | Sushin Shyam | Johnpaul George Productions]]></title>
+        <id>https://www.youtube.com/watch?v=B6KN8Zvw9N4</id>
+        <link href="https://www.youtube.com/watch?v=B6KN8Zvw9N4"/>
+        <updated>2023-11-20T04:30:06.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kandappol | Ellaam Ninakku Vendi 1981 | V.Dakshinamoorthy| Yesudas, C.O.Anto | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=62xD5uFm_As</id>
+        <link href="https://www.youtube.com/watch?v=62xD5uFm_As"/>
+        <updated>2023-11-20T04:29:52.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poove Poove Paalappoove Video Song | Devadoothan | Mohanlal | KS Chithra| P Jayachandran| Vidyasagar]]></title>
         <id>https://www.youtube.com/watch?v=7XBi6ivqZ7c</id>
@@ -31909,15 +31936,6 @@
         <updated>2023-08-22T18:30:11.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വാഴ്ത്തിപ്പാടിടാം നാഥാ... വാഴ്ത്തിപ്പാടിടാം .]]></title>
-        <id>https://www.youtube.com/watch?v=OVr9DEyqMpw</id>
-        <link href="https://www.youtube.com/watch?v=OVr9DEyqMpw"/>
-        <updated>2023-08-22T16:37:00.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
