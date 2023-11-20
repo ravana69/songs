@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T22:18:01.014Z</updated>
+    <updated>2023-11-20T23:18:23.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31954,51 +31954,6 @@
         <updated>2023-08-23T11:30:19.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atham Pathonam Onam| Onam Song by Radhika Thilak #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=mT143mMeVns</id>
-        <link href="https://www.youtube.com/watch?v=mT143mMeVns"/>
-        <updated>2023-08-23T10:30:14.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uthradapooviliyil  | Karaoke Video | K.J.Yesudas | Kaithapram | Sunny Stephen | Super Hit Onam Songs]]></title>
-        <id>https://www.youtube.com/watch?v=HTwXEkOLf4c</id>
-        <link href="https://www.youtube.com/watch?v=HTwXEkOLf4c"/>
-        <updated>2023-08-23T10:30:11.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Johny Mone Johny | Remix Video | ABCD | DJ Savyo | Dulquer Salmaan | Gopi Sundar | Santhosh Varma]]></title>
-        <id>https://www.youtube.com/watch?v=Ip4T9phlbiM</id>
-        <link href="https://www.youtube.com/watch?v=Ip4T9phlbiM"/>
-        <updated>2023-08-23T10:30:10.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malamma Lullooya | Ananthabhadram | Kalabhan Mani | M G Radhakrishnan | Gireesh Puthenchery]]></title>
-        <id>https://www.youtube.com/watch?v=EmNqMLs3hUM</id>
-        <link href="https://www.youtube.com/watch?v=EmNqMLs3hUM"/>
-        <updated>2023-08-23T10:30:07.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uthradapooviliyil | Onam Song by K J Yesudas #shorts #onam #onamsongs #kjyesudas]]></title>
-        <id>https://www.youtube.com/watch?v=D9COm_ytYuI</id>
-        <link href="https://www.youtube.com/watch?v=D9COm_ytYuI"/>
-        <updated>2023-08-23T10:30:06.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
