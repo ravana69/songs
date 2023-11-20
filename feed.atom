@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T18:23:39.839Z</updated>
+    <updated>2023-11-20T19:14:44.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  November 21 # Athiravile Prarthana 21st of November 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=i3brkjfOC3A</id>
+        <link href="https://www.youtube.com/watch?v=i3brkjfOC3A"/>
+        <updated>2023-11-20T19:00:31.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=eQtAm4H9Xok</id>
+        <link href="https://www.youtube.com/watch?v=eQtAm4H9Xok"/>
+        <updated>2023-11-20T18:30:20.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 21st November 23]]></title>
         <id>https://www.youtube.com/watch?v=5N1Ve1-0AL0</id>
@@ -32017,51 +32035,6 @@
         <updated>2023-08-23T07:30:00.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vannallo Ponnonam | M.G.Sreekumar | Chittoor Gopi | Kannan | Onam Songs]]></title>
-        <id>https://www.youtube.com/watch?v=bJhw0nQVGLU</id>
-        <link href="https://www.youtube.com/watch?v=bJhw0nQVGLU"/>
-        <updated>2023-08-23T07:00:09.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Nadiyayi | Film Video Songs | Vellaripattanam | Vinayak Sasikumar | Sachin Shankor | Pooja]]></title>
-        <id>https://www.youtube.com/watch?v=ksCWq-myvYI</id>
-        <link href="https://www.youtube.com/watch?v=ksCWq-myvYI"/>
-        <updated>2023-08-23T06:42:33.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthu Naada | Vellaripattanam | Video Song | Manju Warrier | Soubin Shahir |  Mahesh Vettiyaar]]></title>
-        <id>https://www.youtube.com/watch?v=HvrkYycei3Y</id>
-        <link href="https://www.youtube.com/watch?v=HvrkYycei3Y"/>
-        <updated>2023-08-23T06:37:26.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arikeyonnu Kandoru |Video Song| Vellaripattanam | KS Harisankar|Nithya Mammen|Sachin Shankor Mannath]]></title>
-        <id>https://www.youtube.com/watch?v=oAuMPQ-6P6A</id>
-        <link href="https://www.youtube.com/watch?v=oAuMPQ-6P6A"/>
-        <updated>2023-08-23T06:31:41.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chembavu | Salt N Pepper | Remix | DJ Savyo | Bijibal #shortsvideo #remix #bijibal #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=6UnUlKQ803w</id>
-        <link href="https://www.youtube.com/watch?v=6UnUlKQ803w"/>
-        <updated>2023-08-23T06:30:02.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
