@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T20:18:47.328Z</updated>
+    <updated>2023-11-20T21:16:04.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32008,24 +32008,6 @@
         <updated>2023-08-23T09:30:13.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികളുടെ സ്വകാര്യ സ്വത്ത് ഭാരതത്തിന്റെ അഭിമാനം മോഹൻലാൽ അഭിനയിച്ച ജനപ്രിയ ഗാനങ്ങൾ | MOHANLAL HITS]]></title>
-        <id>https://www.youtube.com/watch?v=r8Anbkc0JPI</id>
-        <link href="https://www.youtube.com/watch?v=r8Anbkc0JPI"/>
-        <updated>2023-08-23T08:57:24.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivaputhran Eesho | Evarkkum Aashrayamarulunna Eeshoyude Kelkkan Kothikkunna Gananagal]]></title>
-        <id>https://www.youtube.com/watch?v=hyGPCcQQYNk</id>
-        <link href="https://www.youtube.com/watch?v=hyGPCcQQYNk"/>
-        <updated>2023-08-23T08:55:58.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
