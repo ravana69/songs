@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-21T16:25:31.735Z</updated>
+    <updated>2023-11-21T17:19:32.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അരികിൽ ഇരിക്കുന്ന ദൈവം .]]></title>
+        <id>https://www.youtube.com/watch?v=gxAat6Dyw5s</id>
+        <link href="https://www.youtube.com/watch?v=gxAat6Dyw5s"/>
+        <updated>2023-11-21T16:35:41.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chanthu Thottille Video Song | Banaras | Kavya Madhavan | Vineeth | Shreya Ghoshal | M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=g_pVkuh2tu8</id>
+        <link href="https://www.youtube.com/watch?v=g_pVkuh2tu8"/>
+        <updated>2023-11-21T16:27:04.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poru Nee Vaarilam | Kaashmeeram | M G Radhakrishnan | Gireesh Puthenchery #SongOfTheDay]]></title>
         <id>https://www.youtube.com/watch?v=PvM5gl2P1T4</id>
@@ -31954,33 +31972,6 @@
         <updated>2023-08-24T05:24:45.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onanilavilu|Onam Song Madhu Balakrishnan #shorts #madhubalakrishnan #onam #festivalmusic #onamsong]]></title>
-        <id>https://www.youtube.com/watch?v=zBvn_2P2e_c</id>
-        <link href="https://www.youtube.com/watch?v=zBvn_2P2e_c"/>
-        <updated>2023-08-24T04:30:18.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vannallo Ponnonam | Karaoke Video | M G Sreekumar |Chittoor Gopi |Kannan |ഓണപ്പാട്ട് കരോക്കെ വീഡിയോ]]></title>
-        <id>https://www.youtube.com/watch?v=OBYsGmsy7dY</id>
-        <link href="https://www.youtube.com/watch?v=OBYsGmsy7dY"/>
-        <updated>2023-08-24T04:30:11.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanmaniye Punyam | Annan Thampi | Mammootty | Lakshmi Rai | Vineeth Sreenivasan | Rahulraj]]></title>
-        <id>https://www.youtube.com/watch?v=h06B4ZdBziE</id>
-        <link href="https://www.youtube.com/watch?v=h06B4ZdBziE"/>
-        <updated>2023-08-24T04:30:10.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
