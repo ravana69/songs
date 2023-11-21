@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-21T19:14:55.661Z</updated>
+    <updated>2023-11-21T20:17:48.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31954,24 +31954,6 @@
         <updated>2023-08-24T08:44:37.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹിറ്റ് ഗാനങ്ങൾ മലയാളത്തിന് സമ്മാനിച്ച സംഗീത സംവിധായകൻ നിസരി ഉമ്മറിന്റെ ഏറ്റവും നല്ല ഓണപ്പാട്ടുകൾ !]]></title>
-        <id>https://www.youtube.com/watch?v=KkltEXeLpD0</id>
-        <link href="https://www.youtube.com/watch?v=KkltEXeLpD0"/>
-        <updated>2023-08-24T07:30:07.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഊണിലും ഉറക്കത്തിലും മലയാളികളുടെ മനസ്സിൽ തിളങ്ങുന്ന താരം ജയഭാരതി | HITS OF JAYABHARATHI]]></title>
-        <id>https://www.youtube.com/watch?v=Mg8CDNOyIps</id>
-        <link href="https://www.youtube.com/watch?v=Mg8CDNOyIps"/>
-        <updated>2023-08-24T07:30:04.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
