@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-22T18:23:06.366Z</updated>
+    <updated>2023-11-22T19:14:33.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  November 23 # Athiravile Prarthana 23rd of November 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=50V0A11Vj14</id>
+        <link href="https://www.youtube.com/watch?v=50V0A11Vj14"/>
+        <updated>2023-11-22T19:00:02.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Y63R1dwWehU</id>
+        <link href="https://www.youtube.com/watch?v=Y63R1dwWehU"/>
+        <updated>2023-11-22T18:30:31.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raja Chenkolilum | Fr. Shaji Thumpechirayil | #shorts #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=LDEkEaPOlSg</id>
+        <link href="https://www.youtube.com/watch?v=LDEkEaPOlSg"/>
+        <updated>2023-11-22T18:30:13.000Z</updated>
+        <author>
+            <name>Celebrants India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കുങ്കുമക്കുറിയണിഞ്ഞു ആടിവാ..| കെ ജെ യേശുദാസ് | K S Chitra | Original Audio Remastered movie songs]]></title>
         <id>https://www.youtube.com/watch?v=5LDVm7ozuzI</id>
@@ -32017,24 +32044,6 @@
         <updated>2023-08-25T07:29:46.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Pennithaa - Song Promo | Kushi (Malayalam) | Vijay Deverakonda,Samantha| Hesham Abdul Wahab]]></title>
-        <id>https://www.youtube.com/watch?v=39WTc2tXPzQ</id>
-        <link href="https://www.youtube.com/watch?v=39WTc2tXPzQ"/>
-        <updated>2023-08-25T07:03:00.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Group Vibes for #Halaballoo | #RDX | #ShaneNigam, #AntonyVarghese, #NeerajMadhav | #SamCS | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=jxskb4P6IG8</id>
-        <link href="https://www.youtube.com/watch?v=jxskb4P6IG8"/>
-        <updated>2023-08-25T06:30:22.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
