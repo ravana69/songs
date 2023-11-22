@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-22T06:24:34.556Z</updated>
+    <updated>2023-11-22T07:16:52.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azhake Nin Shorts  | Amaram | Short Video | Yesudas | Raveendran | Short Video]]></title>
+        <id>https://www.youtube.com/watch?v=Ru9ZFaixcYE</id>
+        <link href="https://www.youtube.com/watch?v=Ru9ZFaixcYE"/>
+        <updated>2023-11-22T06:31:42.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Venna Tholkumudalode Video Song | Oru Sundhariyude Kadha | K. J Yesudas #shorts]]></title>
         <id>https://www.youtube.com/watch?v=YUAK85icFFQ</id>
@@ -31,6 +40,15 @@
         <updated>2023-11-22T04:15:40.000Z</updated>
         <author>
             <name>Rayan Media Productions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pulariyil Ilaveyil | Thaal |Studio Version| Bijibal|B K Harinarayanan| K S Harishankar |Shweta Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=7lsMR_sHAkU</id>
+        <link href="https://www.youtube.com/watch?v=7lsMR_sHAkU"/>
+        <updated>2023-11-22T04:03:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -670,6 +688,15 @@
         <updated>2023-11-20T07:30:02.000Z</updated>
         <author>
             <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christmas Tharakam | Najim Arshad | Anju Joseph | Joice Samuel | Christmas Songs | Carol]]></title>
+        <id>https://www.youtube.com/watch?v=4E1pslddZMQ</id>
+        <link href="https://www.youtube.com/watch?v=4E1pslddZMQ"/>
+        <updated>2023-11-20T07:18:27.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
@@ -31909,24 +31936,6 @@
         <updated>2023-08-24T20:00:15.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 25th August 2023]]></title>
-        <id>https://www.youtube.com/watch?v=tojzQrp9ing</id>
-        <link href="https://www.youtube.com/watch?v=tojzQrp9ing"/>
-        <updated>2023-08-24T19:00:22.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=K4_rvlEJ8yE</id>
-        <link href="https://www.youtube.com/watch?v=K4_rvlEJ8yE"/>
-        <updated>2023-08-24T18:30:26.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
