@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-22T10:21:16.015Z</updated>
+    <updated>2023-11-22T11:15:33.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Puthan Pulari - Lyrical Video | Puthumukhangal | Evergreen Malayalam Songs]]></title>
+        <id>https://www.youtube.com/watch?v=EsmYp7Ow6II</id>
+        <link href="https://www.youtube.com/watch?v=EsmYp7Ow6II"/>
+        <updated>2023-11-22T11:14:17.000Z</updated>
+        <author>
+            <name>MC Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വെള്ളത്താമര | Vellathaamara | Pradeshika Varthakal Super Hit Movie Song | Jayaram | Parvathy]]></title>
+        <id>https://www.youtube.com/watch?v=a9eisqVY4E0</id>
+        <link href="https://www.youtube.com/watch?v=a9eisqVY4E0"/>
+        <updated>2023-11-22T10:49:33.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curvy moves 💋🌹 #MujhePaale | #Bandra | #Dileep | #Tamannaah | #SamCS | #shorts | #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=LzYhMQ9u_hY</id>
+        <link href="https://www.youtube.com/watch?v=LzYhMQ9u_hY"/>
+        <updated>2023-11-22T10:30:07.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tharam vaalkannadi Nokki - Keli (1991) | Kaithapram | K.S.Chithra | Johnson Master | Bharathan]]></title>
         <id>https://www.youtube.com/watch?v=KFM2br0krQs</id>
@@ -31972,15 +31999,6 @@
         <updated>2023-08-24T23:30:09.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 25th of August shorts  # Athiravile Prarthana 25th of August 2023 shorts]]></title>
-        <id>https://www.youtube.com/watch?v=y2q11bq_ozc</id>
-        <link href="https://www.youtube.com/watch?v=y2q11bq_ozc"/>
-        <updated>2023-08-24T23:00:28.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
