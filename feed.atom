@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-22T03:19:13.250Z</updated>
+    <updated>2023-11-22T04:22:03.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[യേശുവേ എൻ അഭയ കേന്ദ്രം| ROY PUTHUR | IRIN P BINU #christiandevotionalsongs #royputhur]]></title>
+        <id>https://www.youtube.com/watch?v=wnFjiQi4RhY</id>
+        <link href="https://www.youtube.com/watch?v=wnFjiQi4RhY"/>
+        <updated>2023-11-22T04:15:40.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivathin Puthran | Fr. Shyju & Grace | Shorts #shortsvideo #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=lk_oH9tCdMI</id>
+        <link href="https://www.youtube.com/watch?v=lk_oH9tCdMI"/>
+        <updated>2023-11-22T03:30:14.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malayalam Christmas Carol Songs 2023 # Christmas Songs Malayalam]]></title>
         <id>https://www.youtube.com/watch?v=nutzH8sWOAk</id>
@@ -31891,24 +31909,6 @@
         <updated>2023-08-24T18:30:26.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രാർത്ഥനയാലെ സാധിക്കാത്ത കാര്യമില്ലൊന്നും | Sujatha |Shorts #malayalamchristianshorts #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=yM2bxyz4JPI</id>
-        <link href="https://www.youtube.com/watch?v=yM2bxyz4JPI"/>
-        <updated>2023-08-24T15:31:11.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രാർത്ഥനയാലെ സാധിക്കാത്ത കാര്യമില്ലൊന്നും | Sujatha #malayalamchristiansongs #devotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=oFj6l5CyvmA</id>
-        <link href="https://www.youtube.com/watch?v=oFj6l5CyvmA"/>
-        <updated>2023-08-24T15:21:29.000Z</updated>
-        <author>
-            <name>Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
