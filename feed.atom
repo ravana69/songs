@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-22T22:16:34.396Z</updated>
+    <updated>2023-11-22T23:17:51.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sthothrageethangal Jukebox | Malayalam Christian Songs | Kester | Sujatha | Wilson Piravom]]></title>
+        <id>https://www.youtube.com/watch?v=MgHztjy6Y1g</id>
+        <link href="https://www.youtube.com/watch?v=MgHztjy6Y1g"/>
+        <updated>2023-11-22T22:59:00.000Z</updated>
+        <author>
+            <name>Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=t36BStXzpXc</id>
@@ -31972,42 +31981,6 @@
         <updated>2023-08-25T11:30:16.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thattam Pidichu  - Lyrical Video | Paradesi | Sujatha Mohan | Shahabaz Aman | Rafeeq Ahamed]]></title>
-        <id>https://www.youtube.com/watch?v=ZzrViI23Yl4</id>
-        <link href="https://www.youtube.com/watch?v=ZzrViI23Yl4"/>
-        <updated>2023-08-25T11:15:03.000Z</updated>
-        <author>
-            <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azhake Kanmaniye Video Song | Kunchacko Boban | Meera Jasmine | P Jayachandran | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=zc5NwO1rGuo</id>
-        <link href="https://www.youtube.com/watch?v=zc5NwO1rGuo"/>
-        <updated>2023-08-25T11:02:22.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thumbikinnaram | Romantic Duet by K J Yesudas & Gayathri #shorts #kjyesudas #deepakdev #mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=XcvBq47QHpU</id>
-        <link href="https://www.youtube.com/watch?v=XcvBq47QHpU"/>
-        <updated>2023-08-25T10:30:09.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iniyum Kanamennaval | Rajeesh K Chandu | Sadanandan M V | Innalekal Thalirkkumbol | Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=OeWK0QwAVIQ</id>
-        <link href="https://www.youtube.com/watch?v=OeWK0QwAVIQ"/>
-        <updated>2023-08-25T10:19:08.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
