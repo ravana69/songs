@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-23T01:19:42.790Z</updated>
+    <updated>2023-11-23T02:28:40.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31945,15 +31945,6 @@
         <updated>2023-08-25T15:07:34.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Melody Songs |  P jayachandran | Praise and Worship Songs | Markose | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=3bCmjCpR-Vc</id>
-        <link href="https://www.youtube.com/watch?v=3bCmjCpR-Vc"/>
-        <updated>2023-08-25T13:30:01.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
