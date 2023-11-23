@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-23T15:18:25.622Z</updated>
+    <updated>2023-11-23T16:23:26.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32098,24 +32098,6 @@
         <updated>2023-08-26T04:30:10.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mukalparappu | Official Trailer | Siby Padiyara | JP Thavarool | Sunil Surya |Aparna J |Chithra Nair]]></title>
-        <id>https://www.youtube.com/watch?v=tbnLyfcPV5A</id>
-        <link href="https://www.youtube.com/watch?v=tbnLyfcPV5A"/>
-        <updated>2023-08-26T04:11:27.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onnanam Kunninmel | Onam Song by M G Sreekumar & Sujatha #shorts #mgsreekumar #sujathamohan #onam]]></title>
-        <id>https://www.youtube.com/watch?v=GsM4r89H4Ak</id>
-        <link href="https://www.youtube.com/watch?v=GsM4r89H4Ak"/>
-        <updated>2023-08-26T03:30:05.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
