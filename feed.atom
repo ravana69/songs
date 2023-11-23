@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-23T04:21:47.168Z</updated>
+    <updated>2023-11-23T05:17:33.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Varuvanillarumee | Manichithrathazhu | Sobhana | Chithra | Bichu Thirumala | Fazil]]></title>
+        <id>https://www.youtube.com/watch?v=dxPoPAgfL_E</id>
+        <link href="https://www.youtube.com/watch?v=dxPoPAgfL_E"/>
+        <updated>2023-11-23T04:30:11.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tu Hai Balwan | Shorts | Jijy Abraham  #manoramachristiandevotionalsongs #shorts]]></title>
         <id>https://www.youtube.com/watch?v=X2qdoHzuMKk</id>
@@ -31945,15 +31954,6 @@
         <updated>2023-08-25T18:30:21.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇവിടെ ഈ തണലിൽ അമ്മതൻ വാത്സല്യ തണലിൽ, ഇത്തിരി നേരം ഇരിക്കാൻ മോഹം .]]></title>
-        <id>https://www.youtube.com/watch?v=RFMNmCN5fII</id>
-        <link href="https://www.youtube.com/watch?v=RFMNmCN5fII"/>
-        <updated>2023-08-25T16:36:11.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
