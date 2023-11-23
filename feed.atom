@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-23T05:17:33.302Z</updated>
+    <updated>2023-11-23T06:23:37.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ariyuka Nee Yeshunadhane | Kristheeya Bhakthigaanangal |  Christian Devotional Songs | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=JVj290Bb6cA</id>
+        <link href="https://www.youtube.com/watch?v=JVj290Bb6cA"/>
+        <updated>2023-11-23T06:13:52.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malayalam Video Song Kanmani Nin | K. S. Chithra | Vadhu Doctoraanu | Kannur Rajan | വധു ഡോക്ടറാണ്]]></title>
+        <id>https://www.youtube.com/watch?v=JAOtvBosk5E</id>
+        <link href="https://www.youtube.com/watch?v=JAOtvBosk5E"/>
+        <updated>2023-11-23T06:01:10.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GOSHALAYIL PONPAITHALAYI | Fr. Shaji Thumpechirayil | #shortsvideo #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=5IfphXx2Pnc</id>
+        <link href="https://www.youtube.com/watch?v=5IfphXx2Pnc"/>
+        <updated>2023-11-23T05:31:34.000Z</updated>
+        <author>
+            <name>Celebrants India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marannuvo Poomakale  #shortsfeed #shorts #mohanlal #mjayachandran #lyricalvideo #kjyesudas #dileep]]></title>
+        <id>https://www.youtube.com/watch?v=pAUu4vXU1y0</id>
+        <link href="https://www.youtube.com/watch?v=pAUu4vXU1y0"/>
+        <updated>2023-11-23T05:30:11.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Varuvanillarumee | Manichithrathazhu | Sobhana | Chithra | Bichu Thirumala | Fazil]]></title>
         <id>https://www.youtube.com/watch?v=dxPoPAgfL_E</id>
