@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-23T20:18:28.551Z</updated>
+    <updated>2023-11-23T21:15:04.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31990,24 +31990,6 @@
         <updated>2023-08-26T09:30:01.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Raathri Koodi Video Song | Manju Warrier | Suresh Gopi | Gireesh Puthenchery | Vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=ohU8W38AsXg</id>
-        <link href="https://www.youtube.com/watch?v=ohU8W38AsXg"/>
-        <updated>2023-08-26T08:36:17.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പൂവിളി പൂവിളി പൊന്നോണമായി | Poovili Poovili Ponnonamayi - Vishukkani(1977) | #onam  Special Songs]]></title>
-        <id>https://www.youtube.com/watch?v=niT3J-LPS68</id>
-        <link href="https://www.youtube.com/watch?v=niT3J-LPS68"/>
-        <updated>2023-08-26T08:31:51.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
