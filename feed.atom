@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-24T09:17:55.543Z</updated>
+    <updated>2023-11-24T10:20:10.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[sadened for the day 😌  #KanneerpoovinuKootumay | #MrHacker | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=_uQ2NWTfW3M</id>
+        <link href="https://www.youtube.com/watch?v=_uQ2NWTfW3M"/>
+        <updated>2023-11-24T09:30:15.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thazhvaram Manpoove | Short Video | Jackpot | Mammoootty | Yesudas | Malayalam Short Video]]></title>
+        <id>https://www.youtube.com/watch?v=13GeyeinwRI</id>
+        <link href="https://www.youtube.com/watch?v=13GeyeinwRI"/>
+        <updated>2023-11-24T09:30:00.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aarezhuthi Aavo Video Song | Spanish Masala | Kunchacko Boban | Karthik | Shreya Ghoshal| Vidyasagar]]></title>
         <id>https://www.youtube.com/watch?v=O4EELp5Li5A</id>
@@ -67,6 +85,15 @@
         <updated>2023-11-24T07:23:00.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phoenix Movie | OST Jukebox | Sam C. S | Vishnu Bharathan | Midhun Manuel Thomas | 123Musix]]></title>
+        <id>https://www.youtube.com/watch?v=OZXz1mDp3jM</id>
+        <link href="https://www.youtube.com/watch?v=OZXz1mDp3jM"/>
+        <updated>2023-11-24T05:34:14.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
