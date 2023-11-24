@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-24T01:18:00.015Z</updated>
+    <updated>2023-11-24T02:27:08.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പോകുന്നു ഞാനെൻ വത്സലരേ |FILM - കർമ്മയോഗി (1986)|ROY PUTHUR #royputhur]]></title>
+        <id>https://www.youtube.com/watch?v=Alc4oaj5RYI</id>
+        <link href="https://www.youtube.com/watch?v=Alc4oaj5RYI"/>
+        <updated>2023-11-24T01:54:47.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sree Yeshunadhante Bhavaam | Christian Superhit Songs | Paul Chittoor | Gagul Joseph | Melody Song]]></title>
         <id>https://www.youtube.com/watch?v=M52mwUgnjeE</id>
@@ -31945,24 +31954,6 @@
         <updated>2023-08-26T14:30:52.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Superhit Songs | Wilson Piravom | Christian Songs Malayalam | Joji Johns | Sujatha]]></title>
-        <id>https://www.youtube.com/watch?v=50zCkJLec2s</id>
-        <link href="https://www.youtube.com/watch?v=50zCkJLec2s"/>
-        <updated>2023-08-26T13:30:02.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sree Padmanabhante |Rajesh Athikkayam | Joji Johns | Chithra Arun | Inshad Nazim | Onam Special 2023]]></title>
-        <id>https://www.youtube.com/watch?v=-qNEhnPNuWY</id>
-        <link href="https://www.youtube.com/watch?v=-qNEhnPNuWY"/>
-        <updated>2023-08-26T13:30:00.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
