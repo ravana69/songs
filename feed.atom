@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-24T07:16:16.981Z</updated>
+    <updated>2023-11-24T08:22:32.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vittupidi | Dance Party | Fejo | Rahul Raj | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=53YgQ0isKKk</id>
+        <link href="https://www.youtube.com/watch?v=53YgQ0isKKk"/>
+        <updated>2023-11-24T08:06:19.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vittupidi | Dance Party | Rahul Raj |  Fejo  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=hgKDMu_IJSE</id>
+        <link href="https://www.youtube.com/watch?v=hgKDMu_IJSE"/>
+        <updated>2023-11-24T08:03:35.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pachilakkadukalil | Sapadham | Mankombu Gopalakrishnan | Raveendran | Sujatha mohan | Evergreen Hits]]></title>
+        <id>https://www.youtube.com/watch?v=rvFPhDrRYhk</id>
+        <link href="https://www.youtube.com/watch?v=rvFPhDrRYhk"/>
+        <updated>2023-11-24T07:30:22.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVERGREEN HITS OF MG SREEKUMAR | HIT SONGS OF MG SREKUMAR | MALAYALAM FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=XGXQCSh_sbk</id>
+        <link href="https://www.youtube.com/watch?v=XGXQCSh_sbk"/>
+        <updated>2023-11-24T07:30:06.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chithramani Kattil | Symphony | Kaithapram | Deepak Dev | KS Chithra | P Jayachandran |Superhit Song]]></title>
+        <id>https://www.youtube.com/watch?v=3ba204Ge5v8</id>
+        <link href="https://www.youtube.com/watch?v=3ba204Ge5v8"/>
+        <updated>2023-11-24T07:30:02.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[യാ ഹബ്ബി | Yaa Habbi | Super hit Song from the Movie Manithali | Prem Nazir | Seema]]></title>
+        <id>https://www.youtube.com/watch?v=2ylECyOnijE</id>
+        <link href="https://www.youtube.com/watch?v=2ylECyOnijE"/>
+        <updated>2023-11-24T07:23:00.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Now In Theatres Phoenix Movie !! | Vidaathe Vichaaram #phoenixmovie]]></title>
         <id>https://www.youtube.com/watch?v=kCoTVVD789o</id>
@@ -292,6 +346,15 @@
         <updated>2023-11-23T08:13:45.000Z</updated>
         <author>
             <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivame Nin Sannidhiyil | Nithya Mammen | Rev.Dr. Vincent Variath | Latest Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=kBMPUozTn2s</id>
+        <link href="https://www.youtube.com/watch?v=kBMPUozTn2s"/>
+        <updated>2023-11-23T08:12:13.000Z</updated>
+        <author>
+            <name>Manorama Music Christian Devotional</name>
         </author>
     </entry>
     <entry>
@@ -31970,15 +32033,6 @@
         <id>https://www.youtube.com/watch?v=oNk0TspGRaI</id>
         <link href="https://www.youtube.com/watch?v=oNk0TspGRaI"/>
         <updated>2023-08-26T23:00:31.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന August 27 # Athiravile Prarthana 27th of August 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=0HGVjBlO1AU</id>
-        <link href="https://www.youtube.com/watch?v=0HGVjBlO1AU"/>
-        <updated>2023-08-26T20:00:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
