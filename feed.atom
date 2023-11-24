@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-23T23:18:35.173Z</updated>
+    <updated>2023-11-24T01:18:00.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sree Yeshunadhante Bhavaam | Christian Superhit Songs | Paul Chittoor | Gagul Joseph | Melody Song]]></title>
+        <id>https://www.youtube.com/watch?v=M52mwUgnjeE</id>
+        <link href="https://www.youtube.com/watch?v=M52mwUgnjeE"/>
+        <updated>2023-11-24T00:30:15.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #mariyan songs non stop for November 24th 2023 3mot]]></title>
+        <id>https://www.youtube.com/watch?v=mNqD9afNAOc</id>
+        <link href="https://www.youtube.com/watch?v=mNqD9afNAOc"/>
+        <updated>2023-11-23T23:30:08.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 24th of November 2023 Mathavinte Japamala # Dhukhathinte Rahasyangal 24th of November 23]]></title>
+        <id>https://www.youtube.com/watch?v=8JdXsgQu8HI</id>
+        <link href="https://www.youtube.com/watch?v=8JdXsgQu8HI"/>
+        <updated>2023-11-23T23:30:02.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=jNkfEuge9FU</id>
@@ -31936,51 +31963,6 @@
         <updated>2023-08-26T13:30:00.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 26th of August 2023]]></title>
-        <id>https://www.youtube.com/watch?v=lmNs4rwXu9Y</id>
-        <link href="https://www.youtube.com/watch?v=lmNs4rwXu9Y"/>
-        <updated>2023-08-26T12:30:24.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആത്മീയത മൗനമായിരിപ്പാനുള്ള ക്ഷണം കൂടിയാണ് | Rev. Aneesh P Joseph | #shortvideo #jesus]]></title>
-        <id>https://www.youtube.com/watch?v=YcTgBwud5Vg</id>
-        <link href="https://www.youtube.com/watch?v=YcTgBwud5Vg"/>
-        <updated>2023-08-26T12:30:18.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Darling Darling Video Song | Azhakulla Saleena | KJ Yesudas | Vayalar | Prem Nazir]]></title>
-        <id>https://www.youtube.com/watch?v=jc0wyxSTqtU</id>
-        <link href="https://www.youtube.com/watch?v=jc0wyxSTqtU"/>
-        <updated>2023-08-26T12:15:03.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maveli Naadu Vanidum Kalam | Non Stop  Onam Video  Songs | മാവേലി നാട് വാണീടും കാലം | Music Video]]></title>
-        <id>https://www.youtube.com/watch?v=UKegqipNX-8</id>
-        <link href="https://www.youtube.com/watch?v=UKegqipNX-8"/>
-        <updated>2023-08-26T12:11:16.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vidhi Than Kanalay | Lyric Video | Colossians | Shamalraj | Priya Jerson | Murali Shankar]]></title>
-        <id>https://www.youtube.com/watch?v=A5m4WtCqU0c</id>
-        <link href="https://www.youtube.com/watch?v=A5m4WtCqU0c"/>
-        <updated>2023-08-26T11:30:05.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
