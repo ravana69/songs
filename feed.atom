@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-24T10:20:10.040Z</updated>
+    <updated>2023-11-24T11:15:19.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vittupidi | Dance Party | Fejo | Rahul Raj | Shorts  #manoramafilmsongs #danceparty]]></title>
+        <id>https://www.youtube.com/watch?v=iswqq6FKh6Q</id>
+        <link href="https://www.youtube.com/watch?v=iswqq6FKh6Q"/>
+        <updated>2023-11-24T10:38:14.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vittupidi | Dance Party | Fejo | Rahul Raj | Shorts  #manoramafilmsongs #danceparty]]></title>
+        <id>https://www.youtube.com/watch?v=OLIskZi_7j0</id>
+        <link href="https://www.youtube.com/watch?v=OLIskZi_7j0"/>
+        <updated>2023-11-24T10:37:36.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now In Theatres Phoenix Movie !! | Vidaathe Vichaaram #phoenixmovie]]></title>
+        <id>https://www.youtube.com/watch?v=WwT8_6OhREM</id>
+        <link href="https://www.youtube.com/watch?v=WwT8_6OhREM"/>
+        <updated>2023-11-24T10:30:10.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sadened for the day 😌  #KanneerpoovinuKootumay | #MrHacker | #shorts #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=_uQ2NWTfW3M</id>
@@ -22,6 +49,15 @@
         <updated>2023-11-24T09:30:00.000Z</updated>
         <author>
             <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaro Melle Love Song | Class By A Soldier | Vijay Yesudas | Swetha Mohan | Chinmayi Nair]]></title>
+        <id>https://www.youtube.com/watch?v=HMR72OQroII</id>
+        <link href="https://www.youtube.com/watch?v=HMR72OQroII"/>
+        <updated>2023-11-24T09:29:48.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
         </author>
     </entry>
     <entry>
@@ -49,6 +85,15 @@
         <updated>2023-11-24T08:03:35.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sooryan Nadanu - Video Song | Bullet Diaries | Dhyan Sreenivasan, Prayaga Martin | Santhosh Mandoor]]></title>
+        <id>https://www.youtube.com/watch?v=C2EsDmHHePg</id>
+        <link href="https://www.youtube.com/watch?v=C2EsDmHHePg"/>
+        <updated>2023-11-24T07:58:45.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -32071,15 +32116,6 @@
         <updated>2023-08-26T23:45:00.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 27th of August shorts  # Athiravile Prarthana 27th of August 2023 shorts]]></title>
-        <id>https://www.youtube.com/watch?v=oNk0TspGRaI</id>
-        <link href="https://www.youtube.com/watch?v=oNk0TspGRaI"/>
-        <updated>2023-08-26T23:00:31.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
