@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-25T08:20:29.032Z</updated>
+    <updated>2023-11-25T09:15:41.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഗാനമാണു ഞാൻ | Ganamanu Njan... | Iruvattam Manavatti Songs | Kunchacko Boban | Kavya Madhavan]]></title>
+        <id>https://www.youtube.com/watch?v=qHOTKSx6rPQ</id>
+        <link href="https://www.youtube.com/watch?v=qHOTKSx6rPQ"/>
+        <updated>2023-11-25T09:00:11.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Varunnitha Nadhan | Jassie Gift | Lekshmi Jayan | Samson Silva #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=sqVMnH-icus</id>
+        <link href="https://www.youtube.com/watch?v=sqVMnH-icus"/>
+        <updated>2023-11-25T08:30:15.000Z</updated>
+        <author>
+            <name>Manorama Music Christian Devotional</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[memories of people 😖😭 #KanneerpoovinuKootumay | #MrHacker | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=_nytCbi35Bk</id>
+        <link href="https://www.youtube.com/watch?v=_nytCbi35Bk"/>
+        <updated>2023-11-25T08:30:13.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ragavum Thalavum | രാഗവും താളവും Malayalam Video Song | Sathyan Anthikkad | Yesudas, S. Janaki]]></title>
+        <id>https://www.youtube.com/watch?v=MP6ZFYjFz_s</id>
+        <link href="https://www.youtube.com/watch?v=MP6ZFYjFz_s"/>
+        <updated>2023-11-25T08:23:36.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ശ്രോതാക്കളറിയാതെ അവരുടെ ഹൃദയം കീഴടക്കിയ മലയാളസിനിമയിലെ ആരും കേൾക്കാൻ കൊതിക്കുന്ന അമൂല്യ ഗാനങ്ങൾ]]></title>
         <id>https://www.youtube.com/watch?v=mAQp89F7xnk</id>
