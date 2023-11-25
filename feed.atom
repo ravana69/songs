@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-25T22:16:11.396Z</updated>
+    <updated>2023-11-25T23:17:17.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഇന്ന് നവംബർ 26 # ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം  # ഇഷ്ടപെട്ടാൽ ഒന്ന് ഷെയർ ചെയ്യണേ]]></title>
+        <id>https://www.youtube.com/watch?v=6-yEtEnIaUo</id>
+        <link href="https://www.youtube.com/watch?v=6-yEtEnIaUo"/>
+        <updated>2023-11-25T23:00:03.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=RkZPMFGd3VQ</id>
@@ -32224,15 +32233,6 @@
         <updated>2023-08-28T12:15:08.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മണവാളന്റെ ശിരസിൽ കിരീട ധാരണം|ORTHODOX WEDDING SONG|ROY PUTHUR |MITHILA #royputhur #orthodoxwedding]]></title>
-        <id>https://www.youtube.com/watch?v=XC-iB77BsbE</id>
-        <link href="https://www.youtube.com/watch?v=XC-iB77BsbE"/>
-        <updated>2023-08-28T10:56:38.000Z</updated>
-        <author>
-            <name>Rayan Media Productions</name>
         </author>
     </entry>
 </feed>
