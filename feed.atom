@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-26T18:20:51.542Z</updated>
+    <updated>2023-11-26T19:13:13.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന November 27 # Athiravile Prarthana 27th November 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=-Bv_uzLQCc0</id>
+        <link href="https://www.youtube.com/watch?v=-Bv_uzLQCc0"/>
+        <updated>2023-11-26T19:00:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=0x350SumL4o</id>
+        <link href="https://www.youtube.com/watch?v=0x350SumL4o"/>
+        <updated>2023-11-26T18:30:00.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 27th November 23]]></title>
         <id>https://www.youtube.com/watch?v=iytBamJxEi4</id>
@@ -32215,33 +32233,6 @@
         <updated>2023-08-29T07:23:20.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sreeraagamo Thedunnu|Pavithram|Sobhana|Mohanlal|]]></title>
-        <id>https://www.youtube.com/watch?v=P-uhibPx87o</id>
-        <link href="https://www.youtube.com/watch?v=P-uhibPx87o"/>
-        <updated>2023-08-29T07:02:21.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saranam Nee Saranam Nee Saranam Ayyane | Bumper | Vetri | Harisankar | Govind Vasantha]]></title>
-        <id>https://www.youtube.com/watch?v=iIEpkj-dXus</id>
-        <link href="https://www.youtube.com/watch?v=iIEpkj-dXus"/>
-        <updated>2023-08-29T06:38:02.000Z</updated>
-        <author>
-            <name>Tips Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ithuvareyenne | Chithra Arun | M E Cherian  #malayalamchristiansongs #devotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=4762GNbYbJU</id>
-        <link href="https://www.youtube.com/watch?v=4762GNbYbJU"/>
-        <updated>2023-08-29T06:31:42.000Z</updated>
-        <author>
-            <name>Manorama Music Christian Devotional</name>
         </author>
     </entry>
 </feed>
