@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-26T15:16:28.791Z</updated>
+    <updated>2023-11-26T16:21:26.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Moha Palpuzhayil | Fort Kochi | Kalabhavan Mani | Indrans | Madhu Balakrishnan]]></title>
+        <id>https://www.youtube.com/watch?v=2CLdw9Xl_b8</id>
+        <link href="https://www.youtube.com/watch?v=2CLdw9Xl_b8"/>
+        <updated>2023-11-26T15:20:14.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഉരുകുന്ന മെഴുകിൻ നാളാം പോലെ...]]></title>
         <id>https://www.youtube.com/watch?v=B2WGBnCZkUc</id>
@@ -32249,51 +32258,6 @@
         <id>https://www.youtube.com/watch?v=PSOtTNOXq90</id>
         <link href="https://www.youtube.com/watch?v=PSOtTNOXq90"/>
         <updated>2023-08-29T04:52:36.000Z</updated>
-        <author>
-            <name>Manorama Music Christian Devotional</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entharo Mahanu | Devadoothan | Mohanlal | Vidyasagar | Sibi Malayil | Dolby Digital 5.1  Audio]]></title>
-        <id>https://www.youtube.com/watch?v=aN_JHGvOrkE</id>
-        <link href="https://www.youtube.com/watch?v=aN_JHGvOrkE"/>
-        <updated>2023-08-29T04:00:08.000Z</updated>
-        <author>
-            <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്ത്രോത്രം എൻ പരിപാലകാ | Sadhu Kochukunjupadeshi | Shorts #devotionalsongs #malayalamchristiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=SIpgmhsyHH0</id>
-        <link href="https://www.youtube.com/watch?v=SIpgmhsyHH0"/>
-        <updated>2023-08-29T03:35:17.000Z</updated>
-        <author>
-            <name>Manorama Music Christian Devotional</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്ത്രോത്രം എൻ പരിപാലകാ | Sadhu Kochukunjupadeshi | Shorts #devotionalsongs #malayalamchristiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=Oja3hQQAazs</id>
-        <link href="https://www.youtube.com/watch?v=Oja3hQQAazs"/>
-        <updated>2023-08-29T03:34:52.000Z</updated>
-        <author>
-            <name>Manorama Music Christian Devotional</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്ത്രോത്രം എൻ പരിപാലകാ | Sadhu Kochukunjupadeshi | Shorts #devotionalsongs #malayalamchristiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=HuFwSyMxM-4</id>
-        <link href="https://www.youtube.com/watch?v=HuFwSyMxM-4"/>
-        <updated>2023-08-29T03:26:27.000Z</updated>
-        <author>
-            <name>Manorama Music Christian Devotional</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്ത്രോത്രം എൻ പരിപാലകാ | Sadhu Kochukunjupadeshi | Shorts #devotionalsongs #malayalamchristiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=4osUV-9loyw</id>
-        <link href="https://www.youtube.com/watch?v=4osUV-9loyw"/>
-        <updated>2023-08-29T03:19:10.000Z</updated>
         <author>
             <name>Manorama Music Christian Devotional</name>
         </author>
