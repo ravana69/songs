@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-26T14:14:50.712Z</updated>
+    <updated>2023-11-26T15:16:28.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഉരുകുന്ന മെഴുകിൻ നാളാം പോലെ...]]></title>
+        <id>https://www.youtube.com/watch?v=B2WGBnCZkUc</id>
+        <link href="https://www.youtube.com/watch?v=B2WGBnCZkUc"/>
+        <updated>2023-11-26T14:56:30.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nakshatra Rajyathe Raajavo Video Song | T. P. Balagopalan M. A | K. J. Yesudas | Mohanlal | Shobhana]]></title>
+        <id>https://www.youtube.com/watch?v=jLYzp6u7Ppw</id>
+        <link href="https://www.youtube.com/watch?v=jLYzp6u7Ppw"/>
+        <updated>2023-11-26T14:45:01.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pramadavanam Veendum | Short Video | Yesudas | Mohanlal | Youtube Shorts | Hiss Highness Abdulla]]></title>
+        <id>https://www.youtube.com/watch?v=NG2L84lTHlc</id>
+        <link href="https://www.youtube.com/watch?v=NG2L84lTHlc"/>
+        <updated>2023-11-26T14:30:06.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അവസാനിച്ചുവെന്ന് നീ കരുതിയിടത്തുനിന്നും ദൈവത്തിന്റെ പദ്ധതികൾ ആരംഭിക്കും|Rev. Aneesh P Joseph|#shorts]]></title>
         <id>https://www.youtube.com/watch?v=dnsV74me7iI</id>
