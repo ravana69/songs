@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-26T16:21:26.200Z</updated>
+    <updated>2023-11-26T17:14:53.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32242,24 +32242,6 @@
         <updated>2023-08-29T05:29:10.000Z</updated>
         <author>
             <name>Tharangini Sound of arts Dubai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mohangal Madaalasam | Mukkuvane Snehicha Bhootham 1978|K.J.Joy |  K.J.Yesudas | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=Vs-KH-S-Ohw</id>
-        <link href="https://www.youtube.com/watch?v=Vs-KH-S-Ohw"/>
-        <updated>2023-08-29T05:14:24.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ithuvareyenne | Chithra Arun | M E Cherian  #malayalamchristiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=PSOtTNOXq90</id>
-        <link href="https://www.youtube.com/watch?v=PSOtTNOXq90"/>
-        <updated>2023-08-29T04:52:36.000Z</updated>
-        <author>
-            <name>Manorama Music Christian Devotional</name>
         </author>
     </entry>
 </feed>
