@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-27T22:16:30.316Z</updated>
+    <updated>2023-11-27T23:18:23.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32170,15 +32170,6 @@
         <updated>2023-08-30T12:15:00.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lovely Song✨🤩 #NeelaNilave | #RDX | #KapilKapilan | #SamCS | #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=l_y0XAdSkx8</id>
-        <link href="https://www.youtube.com/watch?v=l_y0XAdSkx8"/>
-        <updated>2023-08-30T11:11:45.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
