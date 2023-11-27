@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-27T19:14:02.528Z</updated>
+    <updated>2023-11-27T20:19:01.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32305,42 +32305,6 @@
         <updated>2023-08-30T08:20:28.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K.J. Yesudas - Vedaanudhdharathe - Slokam (Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=ul1okjWMmOI</id>
-        <link href="https://www.youtube.com/watch?v=ul1okjWMmOI"/>
-        <updated>2023-08-30T08:15:37.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onnanam Kunninmel Video Song | Kunchacko Boban | Jomol | KJ Yesudas | KS Chithra | Berny Ignatius]]></title>
-        <id>https://www.youtube.com/watch?v=fWeg0P36xcc</id>
-        <link href="https://www.youtube.com/watch?v=fWeg0P36xcc"/>
-        <updated>2023-08-30T07:32:54.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാവേലി തമ്പുരാനെ വരവേൽക്കാൻ ആവേശത്തോടെ കാത്തിരിക്കുന്ന മനോഹര ഓണപ്പാട്ടുകൾ ! ONAM SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=sNMJsK02k3E</id>
-        <link href="https://www.youtube.com/watch?v=sNMJsK02k3E"/>
-        <updated>2023-08-30T07:30:14.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങാന്‍ പോകുമ്പോള്‍ കേള്‍ക്കാവുന്ന ഗാനങ്ങള്‍ # Malayalam Christian songs for Sleep #worshipsongs]]></title>
-        <id>https://www.youtube.com/watch?v=PnDRUG61h_A</id>
-        <link href="https://www.youtube.com/watch?v=PnDRUG61h_A"/>
-        <updated>2023-08-30T07:30:04.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
