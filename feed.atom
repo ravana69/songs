@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-27T10:20:33.685Z</updated>
+    <updated>2023-11-27T11:15:37.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yeshu En Swantham | Shorts #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=hmcfowOjkC8</id>
+        <link href="https://www.youtube.com/watch?v=hmcfowOjkC8"/>
+        <updated>2023-11-27T10:30:12.000Z</updated>
+        <author>
+            <name>Manorama Music Christian Devotional</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​ഇരുപതു വയസ്സുള്ള ചിത്രയുടെ ഓർമ്മയുമായി ഡോക്ടർ അമ്മിണി | Paadiyum Paranjum | Malayala Manorama]]></title>
+        <id>https://www.youtube.com/watch?v=XpuFrkYEQmM</id>
+        <link href="https://www.youtube.com/watch?v=XpuFrkYEQmM"/>
+        <updated>2023-11-27T10:30:09.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aliyaarude Omanabeevi | Harmonium Cover by Sharan Appus #shortsfeed #shorts #instrumental #harmonium]]></title>
+        <id>https://www.youtube.com/watch?v=wacoiVa2sao</id>
+        <link href="https://www.youtube.com/watch?v=wacoiVa2sao"/>
+        <updated>2023-11-27T10:24:11.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malayittu Mala Kayarum | Audio Jukebox | P Jayachandran | Ayyappa Devotional Songs | Sabarimala]]></title>
+        <id>https://www.youtube.com/watch?v=8rBMrgZpXsI</id>
+        <link href="https://www.youtube.com/watch?v=8rBMrgZpXsI"/>
+        <updated>2023-11-27T09:34:05.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Theeppori Pambaram Video Song | CID Moosa | Dileep | KJ Yesudas | Vidyasagar | Gireesh Puthenchery]]></title>
         <id>https://www.youtube.com/watch?v=Q70eR-r9tHY</id>
@@ -32197,15 +32233,6 @@
         <updated>2023-08-30T00:00:13.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 30th of August shorts  # Athiravile Prarthana 30th of August 2023 shorts]]></title>
-        <id>https://www.youtube.com/watch?v=vqkj4y3L1kA</id>
-        <link href="https://www.youtube.com/watch?v=vqkj4y3L1kA"/>
-        <updated>2023-08-29T23:00:24.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
