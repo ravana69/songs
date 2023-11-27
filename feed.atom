@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-27T09:18:57.089Z</updated>
+    <updated>2023-11-27T10:20:33.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -40,6 +40,15 @@
         <updated>2023-11-27T08:05:38.000Z</updated>
         <author>
             <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akame Video Song | Manasammatham | Bonny Louis | Nitin K Siva | Neethusha A C | Manjusha Martin]]></title>
+        <id>https://www.youtube.com/watch?v=iPsz1lBB4Rc</id>
+        <link href="https://www.youtube.com/watch?v=iPsz1lBB4Rc"/>
+        <updated>2023-11-27T07:35:33.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
