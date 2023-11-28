@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-28T15:19:37.596Z</updated>
+    <updated>2023-11-28T16:25:07.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ponnumkudathinu | Vinayapoorvam Vidhyadharan | Jagathi | KJ Yesudas | Sukanya | Jagadeesh]]></title>
+        <id>https://www.youtube.com/watch?v=z6FpwQVJE2k</id>
+        <link href="https://www.youtube.com/watch?v=z6FpwQVJE2k"/>
+        <updated>2023-11-28T15:24:11.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paavanamadhuraanilaye Video Song | Oru Sundhariyude Kadha | P Jayachandran | Vayalar Ramavarma]]></title>
         <id>https://www.youtube.com/watch?v=JSLqjjxQUbI</id>
@@ -32323,15 +32332,6 @@
         <updated>2023-08-31T05:02:41.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Athmasannidhyam Pakarunna Swargeeyaganangal | Non Stop Malayalam Christian Songs | Christian Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=69K1giZr7XM</id>
-        <link href="https://www.youtube.com/watch?v=69K1giZr7XM"/>
-        <updated>2023-08-31T03:33:17.000Z</updated>
-        <author>
-            <name>Manorama Music Christian Devotional</name>
         </author>
     </entry>
 </feed>
