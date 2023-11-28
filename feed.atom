@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-28T03:18:53.025Z</updated>
+    <updated>2023-11-28T04:22:07.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ellam Ange | Fr. Severios Thomas | Shorts #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=jP0Oz106Rmo</id>
+        <link href="https://www.youtube.com/watch?v=jP0Oz106Rmo"/>
+        <updated>2023-11-28T04:00:07.000Z</updated>
+        <author>
+            <name>Manorama Music Christian Devotional</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pyaare Panchhi | Hindustani | A.R.Rahman | K.J.Yesudas | Hi-Res Audio]]></title>
+        <id>https://www.youtube.com/watch?v=KuCOOB06jwc</id>
+        <link href="https://www.youtube.com/watch?v=KuCOOB06jwc"/>
+        <updated>2023-11-28T03:32:06.000Z</updated>
+        <author>
+            <name>NANCHIL BEATS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈ ലുത്തിനിയ കേൾക്കാതെ പോകരുതേ #അത്രയ്ക്ക് അതിമനോഹരം ഈ ലുത്തിനിയ # 2023 ലെ ഏറ്റവും ഹിറ്റ്]]></title>
         <id>https://www.youtube.com/watch?v=ztIQNPRDVwY</id>
