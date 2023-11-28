@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-28T12:35:10.867Z</updated>
+    <updated>2023-11-28T13:21:51.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എൻ സ്നേഹം നീ മാത്രം .]]></title>
+        <id>https://www.youtube.com/watch?v=JJpiqf_o298</id>
+        <link href="https://www.youtube.com/watch?v=JJpiqf_o298"/>
+        <updated>2023-11-28T13:20:37.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vaarmukile | Mazha | K S Chithra | Raveendran | Yusufali Kecheri #SongOfTheDay]]></title>
         <id>https://www.youtube.com/watch?v=CQXV6Az3kDQ</id>
