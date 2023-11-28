@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-28T17:16:40.596Z</updated>
+    <updated>2023-11-28T18:23:23.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 29th November 23]]></title>
+        <id>https://www.youtube.com/watch?v=tFW10_Jw194</id>
+        <link href="https://www.youtube.com/watch?v=tFW10_Jw194"/>
+        <updated>2023-11-28T18:00:22.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ponnumkudathinu | Vinayapoorvam Vidhyadharan | Jagathi | KJ Yesudas | Sukanya | Jagadeesh]]></title>
         <id>https://www.youtube.com/watch?v=z6FpwQVJE2k</id>
@@ -32287,42 +32296,6 @@
         <updated>2023-08-31T06:30:05.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കുടുംബ സംഗമ ഗീതം | ONAM SPECIAL FAMILY GET TOGETHER SONG SONG | ROY PUTHUR| #royputhur #onam2023]]></title>
-        <id>https://www.youtube.com/watch?v=dg899EFBNOI</id>
-        <link href="https://www.youtube.com/watch?v=dg899EFBNOI"/>
-        <updated>2023-08-31T06:07:34.000Z</updated>
-        <author>
-            <name>Rayan Media Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പുഴയുടെ കവിളില്‍ പുളകം പോലൊരുചുഴി വിരിഞ്ഞൂ - പൂഞ്ചുഴി വിരിഞ്ഞു #malayalamsongs #moviemusic]]></title>
-        <id>https://www.youtube.com/watch?v=crsUPdJdzGw</id>
-        <link href="https://www.youtube.com/watch?v=crsUPdJdzGw"/>
-        <updated>2023-08-31T06:07:02.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thamburuvil Sruthi Cherthu | CI Mahadevan Anchadi Nalinch | Madhu Balakrishnan | Gireesh Puthanchery]]></title>
-        <id>https://www.youtube.com/watch?v=_2CjLWs2oUk</id>
-        <link href="https://www.youtube.com/watch?v=_2CjLWs2oUk"/>
-        <updated>2023-08-31T06:00:04.000Z</updated>
-        <author>
-            <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viral Thodathe  | Solomante Theneechakal | Lyrical Video | Vidyasagar | Vinayak Sasikumar | Laljose]]></title>
-        <id>https://www.youtube.com/watch?v=b9UVIxB90X4</id>
-        <link href="https://www.youtube.com/watch?v=b9UVIxB90X4"/>
-        <updated>2023-08-31T05:30:06.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
