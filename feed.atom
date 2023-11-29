@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-29T14:16:09.072Z</updated>
+    <updated>2023-11-29T15:19:07.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yadukula Gopike | Vazhiyorakazhchakal | Mohanlal | Ratheesh | Ambika | KS Chithra | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=sroB0rWD27Q</id>
+        <link href="https://www.youtube.com/watch?v=sroB0rWD27Q"/>
+        <updated>2023-11-29T15:09:36.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hridayame | Lyrical Video | Vaasam | Najim Arhad | Vaiga Nambiar | Vinu Sreelakam | Viswajith C T]]></title>
+        <id>https://www.youtube.com/watch?v=nEHk7XNu1Dw</id>
+        <link href="https://www.youtube.com/watch?v=nEHk7XNu1Dw"/>
+        <updated>2023-11-29T15:02:33.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yamam Kuliru Peyyum | Shapadham | Raveendran | Mankombu Gopalakrishnan | S Janaki | Captain Raju]]></title>
         <id>https://www.youtube.com/watch?v=OoD1ai1W57M</id>
