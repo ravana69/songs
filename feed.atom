@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-29T21:15:44.054Z</updated>
+    <updated>2023-11-29T22:17:28.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=coFkj2s17xY</id>
+        <link href="https://www.youtube.com/watch?v=coFkj2s17xY"/>
+        <updated>2023-11-29T22:00:18.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന November 30 # Athiravile Prarthana 30th November 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=Vh77z9kZ2v4</id>
@@ -32368,33 +32377,6 @@
         <updated>2023-09-01T10:46:40.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kushi (Malayalam) - Full Album | | Vijay Devarakonda | Samantha | Hesham Abdul Wahab]]></title>
-        <id>https://www.youtube.com/watch?v=3Qn6ynQ8qJ4</id>
-        <link href="https://www.youtube.com/watch?v=3Qn6ynQ8qJ4"/>
-        <updated>2023-09-01T09:49:47.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aa Kanum Pongiyirikkana | Mukalpparappu | Lyrical Video| JP Thavarool | Siby Padiyara | Geogy Thomas]]></title>
-        <id>https://www.youtube.com/watch?v=2WP2unABWkQ</id>
-        <link href="https://www.youtube.com/watch?v=2WP2unABWkQ"/>
-        <updated>2023-09-01T09:42:20.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ananda Snehapravahame | Kristheeya Bhakthigaanangal | Christian Devotional Songs | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=W21HjDToVKc</id>
-        <link href="https://www.youtube.com/watch?v=W21HjDToVKc"/>
-        <updated>2023-09-01T09:28:15.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
