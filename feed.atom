@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-29T11:15:14.118Z</updated>
+    <updated>2023-11-29T12:35:07.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pubukulla Machaney | Video Song | Point Range | Sainu Chavakkadan | Sarath Appani | Shiji Mohammed]]></title>
+        <id>https://www.youtube.com/watch?v=rgfJyILT4oY</id>
+        <link href="https://www.youtube.com/watch?v=rgfJyILT4oY"/>
+        <updated>2023-11-29T12:30:36.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നല്ല ബന്ധങ്ങളെ നമുക്ക് കാത്തുസൂക്ഷിക്കാം  | Rev. Aneesh P Joseph | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=FCrzz5Xgl08</id>
+        <link href="https://www.youtube.com/watch?v=FCrzz5Xgl08"/>
+        <updated>2023-11-29T12:30:07.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kerala Comedy Combat: 1 Day To Go! Get Ready For Kerala's First Live Stand-up Comedy Challenge]]></title>
+        <id>https://www.youtube.com/watch?v=H91bQ9bimCw</id>
+        <link href="https://www.youtube.com/watch?v=H91bQ9bimCw"/>
+        <updated>2023-11-29T12:18:04.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shanthamee Raathriyil Video Song | Johnnie Walker |  KJ Yesudas | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=yOsZZBRau5U</id>
+        <link href="https://www.youtube.com/watch?v=yOsZZBRau5U"/>
+        <updated>2023-11-29T12:15:09.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tharum Thalirum Mizhi Pooti Audio Song Chilambu Movie Song KJ Yesudas Lathika Bharathan Ouseppachan]]></title>
+        <id>https://www.youtube.com/watch?v=icTpmhXqaaI</id>
+        <link href="https://www.youtube.com/watch?v=icTpmhXqaaI"/>
+        <updated>2023-11-29T12:00:07.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aadhi Gurunadhe | Bhakthajanangalude Sradhakku | Vidyadharan | Natesh Sankar | Mullanezhi]]></title>
+        <id>https://www.youtube.com/watch?v=xia4-LsomcI</id>
+        <link href="https://www.youtube.com/watch?v=xia4-LsomcI"/>
+        <updated>2023-11-29T11:30:22.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കേൾക്കാൻ കാതോർത്തിരുന്ന സൂപ്പർഹിറ്റ് ക്രിസ്മസ് ഗാനങ്ങൾ | Christmas Songs | Christian Songs | Sanoop]]></title>
+        <id>https://www.youtube.com/watch?v=SHdHEmwZRZU</id>
+        <link href="https://www.youtube.com/watch?v=SHdHEmwZRZU"/>
+        <updated>2023-11-29T11:30:12.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[രാഗാനുരാഗ ഹൃദയങ്ങൾ | Raganuraga Hrudayangal | Thadakam Hit Movie Song | Poovachal Khader | Mammootty]]></title>
+        <id>https://www.youtube.com/watch?v=Q3kl_gXDboA</id>
+        <link href="https://www.youtube.com/watch?v=Q3kl_gXDboA"/>
+        <updated>2023-11-29T11:30:11.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 29th of November 2023]]></title>
+        <id>https://www.youtube.com/watch?v=82CxOCb89m8</id>
+        <link href="https://www.youtube.com/watch?v=82CxOCb89m8"/>
+        <updated>2023-11-29T11:30:03.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KS Chitra's New Malayalam Song Poompaithale | #MerryChristmas #malayalamsongs]]></title>
         <id>https://www.youtube.com/watch?v=JgHl5rbskQI</id>
@@ -32296,42 +32377,6 @@
         <updated>2023-09-01T03:30:11.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manasile Dhukhangal | Parishudha Amma | Ft. Biju, Samji, Fr Moozhoor Mother Mary Song Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=B-wEISr0SNo</id>
-        <link href="https://www.youtube.com/watch?v=B-wEISr0SNo"/>
-        <updated>2023-09-01T00:30:07.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #september 1st 2023 mother mary songs and prayer]]></title>
-        <id>https://www.youtube.com/watch?v=Hl2fk-WavhA</id>
-        <link href="https://www.youtube.com/watch?v=Hl2fk-WavhA"/>
-        <updated>2023-09-01T00:14:53.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amma Sukruthangal Day 1]]></title>
-        <id>https://www.youtube.com/watch?v=pEjWrmpqcGo</id>
-        <link href="https://www.youtube.com/watch?v=pEjWrmpqcGo"/>
-        <updated>2023-09-01T00:06:17.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 1st of September 2023 Mathavinte Japamala # Dhukhathinte Rahasyangal 1st of September 2023]]></title>
-        <id>https://www.youtube.com/watch?v=pBssN-sdNrY</id>
-        <link href="https://www.youtube.com/watch?v=pBssN-sdNrY"/>
-        <updated>2023-08-31T23:30:08.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
