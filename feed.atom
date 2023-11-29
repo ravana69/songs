@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-29T05:17:15.498Z</updated>
+    <updated>2023-11-29T06:23:53.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thaal | Movie Teaser | Rajasaagar | Anson Paul | Rahul Madhav | Aju Varghese | Aradhya Anna | Rohini]]></title>
+        <id>https://www.youtube.com/watch?v=8w2LcCI0LyI</id>
+        <link href="https://www.youtube.com/watch?v=8w2LcCI0LyI"/>
+        <updated>2023-11-29T05:37:30.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Punchavayal Karayil | Campus song from Thaal #shortsfeed #shorts #bijibal #soorajsanthosh #filmsongs]]></title>
+        <id>https://www.youtube.com/watch?v=K-Cu4kHP-50</id>
+        <link href="https://www.youtube.com/watch?v=K-Cu4kHP-50"/>
+        <updated>2023-11-29T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kinavinte Minarathil| Adaminte Makan Abu |Karaoke Video| Hariharan |Rafeeque Ahammed |Ramesh Narayan]]></title>
+        <id>https://www.youtube.com/watch?v=CylROx1Gc-s</id>
+        <link href="https://www.youtube.com/watch?v=CylROx1Gc-s"/>
+        <updated>2023-11-29T05:30:02.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Happy sides of rockstar #Halaballoo #RDX #shorts #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=bx00YFMenGs</id>
