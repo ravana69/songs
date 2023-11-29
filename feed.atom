@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-29T10:20:11.361Z</updated>
+    <updated>2023-11-29T11:15:14.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KS Chitra's New Malayalam Song Poompaithale | #MerryChristmas #malayalamsongs]]></title>
+        <id>https://www.youtube.com/watch?v=JgHl5rbskQI</id>
+        <link href="https://www.youtube.com/watch?v=JgHl5rbskQI"/>
+        <updated>2023-11-29T10:53:35.000Z</updated>
+        <author>
+            <name>Tips Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ശബരിമലയിൽ തങ്കസൂര്യോദയം ഈ സംക്രമപ്പുലരിയിൽ അഭിഷേകം #ayyappan #swamiayyappa #sabarimala]]></title>
+        <id>https://www.youtube.com/watch?v=DWLGStCbFQw</id>
+        <link href="https://www.youtube.com/watch?v=DWLGStCbFQw"/>
+        <updated>2023-11-29T10:50:18.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nerinu Verulla Narane | Manushya Mrugam | Benny Dayal | Sayan Anwar | Vayalar Sarath Chandra Varma]]></title>
+        <id>https://www.youtube.com/watch?v=rxXWXuly43E</id>
+        <link href="https://www.youtube.com/watch?v=rxXWXuly43E"/>
+        <updated>2023-11-29T10:30:19.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സില്‍ കുളിരുകോരും | Aadyathe Kanmani  | KS Chithra | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Um5HIQu1ZG4</id>
+        <link href="https://www.youtube.com/watch?v=Um5HIQu1ZG4"/>
+        <updated>2023-11-29T10:30:08.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[തങ്കത്തേരില്‍ Malayalam Video Song Thankatheril | Yesudas, Chithra | Vadhu Doctoraanu വധു ഡോക്ടറാണ്]]></title>
         <id>https://www.youtube.com/watch?v=SpFRJ11WkGg</id>
@@ -32294,24 +32330,6 @@
         <id>https://www.youtube.com/watch?v=pBssN-sdNrY</id>
         <link href="https://www.youtube.com/watch?v=pBssN-sdNrY"/>
         <updated>2023-08-31T23:30:08.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=E0f3m1_IEMU</id>
-        <link href="https://www.youtube.com/watch?v=E0f3m1_IEMU"/>
-        <updated>2023-08-31T23:00:09.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 നോമ്പ് പ്രാർത്ഥനയും ഗാനങ്ങളും  # 8 Nombu Mariyan Gaanangal # Mother Mary songs 1st September 2023]]></title>
-        <id>https://www.youtube.com/watch?v=8wIITDCrSHg</id>
-        <link href="https://www.youtube.com/watch?v=8wIITDCrSHg"/>
-        <updated>2023-08-31T22:30:01.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
