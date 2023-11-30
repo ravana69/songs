@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-30T08:22:37.326Z</updated>
+    <updated>2023-11-30T09:17:41.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Avva Avva Video Song | Sathyam Sivam Sundaram | Kunchacko Boban | Aswathy Menon | Vidyasagar]]></title>
+        <id>https://www.youtube.com/watch?v=cexqDWo692c</id>
+        <link href="https://www.youtube.com/watch?v=cexqDWo692c"/>
+        <updated>2023-11-30T09:08:16.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഒരു രാജമല്ലി Aniyathipraavu | M. G. Sreekumar | Shalini, Kunchacko Boban]]></title>
         <id>https://www.youtube.com/watch?v=NIGJjbP_QQA</id>
