@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-30T05:17:19.427Z</updated>
+    <updated>2023-11-30T06:23:52.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaro Paadunnu |  Kadha Thudarunnu  #shortsfeed #shorts #ilayaraja #deepakdev #hariharan #kschitra]]></title>
+        <id>https://www.youtube.com/watch?v=CFAvDKfOG5s</id>
+        <link href="https://www.youtube.com/watch?v=CFAvDKfOG5s"/>
+        <updated>2023-11-30T05:30:02.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maanathe Chandiranothoru Video Song | Chandralekha | MG Sreekumar | Mohanlal | Sreenivasan]]></title>
+        <id>https://www.youtube.com/watch?v=zNrVqvHilRI</id>
+        <link href="https://www.youtube.com/watch?v=zNrVqvHilRI"/>
+        <updated>2023-11-30T05:16:00.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rambamba Ramba | Praja | Vasundaradas | Mohanlal | M G Radhakrishnan | Gireesh Puthanchery | Joshiy]]></title>
         <id>https://www.youtube.com/watch?v=8kRDw8mJgXg</id>
