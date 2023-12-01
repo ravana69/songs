@@ -7846,16 +7846,6 @@
           "wordCount": null,
           "title": "Madhuvidhuvaayi | Aayirathil Oruvan | Kalabhavan Mani | Suchitha | Chithra | Mohan Sithara",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eRVneFVHtug",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eRVneFVHtug",
-          "publishedOn": "2023-09-03T03:30:25.000Z",
-          "wordCount": null,
-          "title": "Dhwadashiyil Mani | Madhuranombarakkattu | Biju Menon | DD 5.1 Audio | Vidyasagar | Samyukutha Varma",
-          "imageUrl": null
         }
       ]
     },
@@ -13927,6 +13917,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1Z1-ER2nUjr66DGTEq9oMA",
       "siteUrl": "https://www.youtube.com/channel/UC1Z1-ER2nUjr66DGTEq9oMA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0_GemIqGDMQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0_GemIqGDMQ",
+          "publishedOn": "2023-12-01T15:30:01.000Z",
+          "wordCount": null,
+          "title": "1 December 2023",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=GuTEkPX--L8",
           "author": null,
