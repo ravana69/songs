@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-01T16:23:39.517Z</updated>
+    <updated>2023-12-01T17:16:32.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -184,6 +184,15 @@
         <updated>2023-12-01T12:11:42.000Z</updated>
         <author>
             <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pulkoottil Rakshakane | Jerry Amaldev | Abey George |Albert Alex | Aloysious | Manju Thomas | Carol]]></title>
+        <id>https://www.youtube.com/watch?v=crOi6RC9w3Y</id>
+        <link href="https://www.youtube.com/watch?v=crOi6RC9w3Y"/>
+        <updated>2023-12-01T12:05:48.000Z</updated>
+        <author>
+            <name>Manorama Music Christian Devotional</name>
         </author>
     </entry>
     <entry>
@@ -32602,33 +32611,6 @@
         <updated>2023-09-03T06:00:31.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peelimukil Thazhvarayil | Kusruthikuruppu | Jayaram | Meena | Yesudas | Johnson | Venugopan]]></title>
-        <id>https://www.youtube.com/watch?v=vSMfAV9R0-k</id>
-        <link href="https://www.youtube.com/watch?v=vSMfAV9R0-k"/>
-        <updated>2023-09-03T04:30:30.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inimel Enikkillor Bhayam | ഇനിമേൽ എനിക്കില്ലോർ ഭയം | Shorts #malayalamchristiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=PGJlHIhghZU</id>
-        <link href="https://www.youtube.com/watch?v=PGJlHIhghZU"/>
-        <updated>2023-09-03T04:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Christian Devotional</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poove Mehaboobe | Aayudham 2008 | Bijibal | K. J. Yesudas, Manjari | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=EbatUyGL1GQ</id>
-        <link href="https://www.youtube.com/watch?v=EbatUyGL1GQ"/>
-        <updated>2023-09-03T04:30:04.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
