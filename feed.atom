@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-01T21:15:27.128Z</updated>
+    <updated>2023-12-01T22:17:12.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=BygbvQG_oSg</id>
+        <link href="https://www.youtube.com/watch?v=BygbvQG_oSg"/>
+        <updated>2023-12-01T22:00:12.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന December 2 # Athiravile Prarthana 2nd December 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=OxYzG2kypn8</id>
@@ -32602,15 +32611,6 @@
         <updated>2023-09-03T11:30:11.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anjukannanalla Video Song | Jomol | Kunchacko Boban | KS Chithra | Berny Ignatius | S Ramesan Nair]]></title>
-        <id>https://www.youtube.com/watch?v=cm_sWuCjaLY</id>
-        <link href="https://www.youtube.com/watch?v=cm_sWuCjaLY"/>
-        <updated>2023-09-03T10:00:33.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
