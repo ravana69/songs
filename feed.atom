@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-01T10:20:19.751Z</updated>
+    <updated>2023-12-01T11:15:33.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ormakkai Iniyoru Snehageetham | Ormakkai  | K J Yesudas, K S Chithra | East Coast Vijayan #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=r4CEi_H8ZW8</id>
+        <link href="https://www.youtube.com/watch?v=r4CEi_H8ZW8"/>
+        <updated>2023-12-01T10:36:23.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RITHU | Musical Album | G.Venugopal | Anil Zacharia Chennamkara | Sreekumar S. Nair | Ajith Menon S]]></title>
+        <id>https://www.youtube.com/watch?v=le6w7o2Uav0</id>
+        <link href="https://www.youtube.com/watch?v=le6w7o2Uav0"/>
+        <updated>2023-12-01T10:30:08.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[James Bond Super Power | Adayaalam | SP Balasubrahmanyam  |#shorts]]></title>
+        <id>https://www.youtube.com/watch?v=L1jffcT13vQ</id>
+        <link href="https://www.youtube.com/watch?v=L1jffcT13vQ"/>
+        <updated>2023-12-01T10:30:07.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christmas Acapella Song | Bethlehem Night | Choir | Kings & Queens Band promo video]]></title>
         <id>https://www.youtube.com/watch?v=Z2dcas4erlk</id>
@@ -13,6 +40,24 @@
         <updated>2023-12-01T10:19:54.000Z</updated>
         <author>
             <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christmas Acapella Song | Bethlehem Night | Choir | Fr. Justin kaliyaniyil CMI | Kings & Queens Band]]></title>
+        <id>https://www.youtube.com/watch?v=pUuRqThFYQ8</id>
+        <link href="https://www.youtube.com/watch?v=pUuRqThFYQ8"/>
+        <updated>2023-12-01T10:09:32.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pulli Promo Song | Lyrical video | Jiju Asokan | Indrans | Dev Mohan | Bijibal | 123Musix]]></title>
+        <id>https://www.youtube.com/watch?v=Zxk-pTBd9q4</id>
+        <link href="https://www.youtube.com/watch?v=Zxk-pTBd9q4"/>
+        <updated>2023-12-01T09:09:38.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
@@ -32411,15 +32456,6 @@
         <id>https://www.youtube.com/watch?v=ukTd08Tegnw</id>
         <link href="https://www.youtube.com/watch?v=ukTd08Tegnw"/>
         <updated>2023-09-02T23:30:14.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=Bn5SJvKVM1g</id>
-        <link href="https://www.youtube.com/watch?v=Bn5SJvKVM1g"/>
-        <updated>2023-09-02T23:00:04.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
