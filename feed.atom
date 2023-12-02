@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-02T02:25:01.670Z</updated>
+    <updated>2023-12-02T03:18:20.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32593,15 +32593,6 @@
         <updated>2023-09-03T18:30:21.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ക്രോവേൻമാർ പേറും മന്നാ പേടകമേ ...]]></title>
-        <id>https://www.youtube.com/watch?v=xX6juoAQqUw</id>
-        <link href="https://www.youtube.com/watch?v=xX6juoAQqUw"/>
-        <updated>2023-09-03T15:16:36.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
