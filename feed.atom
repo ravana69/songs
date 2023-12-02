@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-02T10:17:32.398Z</updated>
+    <updated>2023-12-02T11:14:17.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ellam Ange | Fr. Severios Thomas | Shorts #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=4PNfkwqKWs0</id>
+        <link href="https://www.youtube.com/watch?v=4PNfkwqKWs0"/>
+        <updated>2023-12-02T10:30:03.000Z</updated>
+        <author>
+            <name>Manorama Music Christian Devotional</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[James Bond Super Power Video Song | Adayaalam | S P Balasubrahmanyam | Mammootty]]></title>
+        <id>https://www.youtube.com/watch?v=8nlYHwzbhIM</id>
+        <link href="https://www.youtube.com/watch?v=8nlYHwzbhIM"/>
+        <updated>2023-12-02T10:30:02.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PONNANINJA PONPULARI |  Christmas Carol Song 2023 | Vishnu P R | Emanual | Fr Shaji Thumpechirayil]]></title>
         <id>https://www.youtube.com/watch?v=4nZiUNSbTF0</id>
@@ -32636,15 +32654,6 @@
         <id>https://www.youtube.com/watch?v=zOwpUDOvOao</id>
         <link href="https://www.youtube.com/watch?v=zOwpUDOvOao"/>
         <updated>2023-09-03T23:30:14.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=EZGXXbRy7Yk</id>
-        <link href="https://www.youtube.com/watch?v=EZGXXbRy7Yk"/>
-        <updated>2023-09-03T23:00:04.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
