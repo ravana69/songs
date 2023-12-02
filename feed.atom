@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-02T15:16:22.889Z</updated>
+    <updated>2023-12-02T16:21:17.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2 December 2023]]></title>
+        <id>https://www.youtube.com/watch?v=is0rKZ2cYcM</id>
+        <link href="https://www.youtube.com/watch?v=is0rKZ2cYcM"/>
+        <updated>2023-12-02T15:34:36.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jikk Jill Jinkamaniye | King Soloman | Rahman | Sheeba Agarwal | Yesudas | Farheen]]></title>
+        <id>https://www.youtube.com/watch?v=Q_9-Wf5YYS8</id>
+        <link href="https://www.youtube.com/watch?v=Q_9-Wf5YYS8"/>
+        <updated>2023-12-02T15:30:52.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളികൾ കാതു കൂർപ്പിച്ച് കേട്ടിരുന്ന മലയാളസിനിമയിലെ അനശ്വരഗാനങ്ങൾ | EVERLASTING MALAYALAM SONGS]]></title>
         <id>https://www.youtube.com/watch?v=OQ1pNV_1BtQ</id>
