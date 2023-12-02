@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-02T12:31:29.313Z</updated>
+    <updated>2023-12-02T13:18:36.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആശ്രിതരുടെ ആശ്രയം | TRIBUTE TO BARNABAS THIRUMENI | ROY PUTHUR |#royputhur #christiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=pSGoBTeeIIY</id>
+        <link href="https://www.youtube.com/watch?v=pSGoBTeeIIY"/>
+        <updated>2023-12-02T12:52:45.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ആരോരും ഇല്ലാത്ത നേരങ്ങളിൽ തുണയായി അണഞ്ഞീടും രാജകന്യകേ #ammeyen punniyam album song]]></title>
+        <id>https://www.youtube.com/watch?v=T4DXnGsGzpc</id>
+        <link href="https://www.youtube.com/watch?v=T4DXnGsGzpc"/>
+        <updated>2023-12-02T12:45:03.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Karayaruthennu Video Song | Class By A Soldier | Meenakshi Anoop | Sreya Jayadeep | Chinmayi Nair]]></title>
         <id>https://www.youtube.com/watch?v=_PU2KIfGHJE</id>
@@ -32701,15 +32719,6 @@
         <updated>2023-09-04T02:07:43.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ithuvareyenne | Chithra Arun | M E Cherian  #malayalamchristiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=UBHM9ln7_r8</id>
-        <link href="https://www.youtube.com/watch?v=UBHM9ln7_r8"/>
-        <updated>2023-09-04T01:00:06.000Z</updated>
-        <author>
-            <name>Manorama Music Christian Devotional</name>
         </author>
     </entry>
 </feed>
