@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-02T01:17:04.978Z</updated>
+    <updated>2023-12-02T02:25:01.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[December 2 Christmas Reflection]]></title>
+        <id>https://www.youtube.com/watch?v=Bufc8xb2elY</id>
+        <link href="https://www.youtube.com/watch?v=Bufc8xb2elY"/>
+        <updated>2023-12-02T01:29:23.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈ ലുത്തിനിയ നിങ്ങൾ കേട്ട് പ്രാർത്ഥിച്ചു പോകും # അമ്മയെൻ പുണ്യം എന്ന ആൽബത്തിൽ നിന്നും]]></title>
         <id>https://www.youtube.com/watch?v=fBXoI8FIPwo</id>
@@ -32593,24 +32602,6 @@
         <updated>2023-09-03T15:16:36.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Melody Songs | Fr.Joshy Kannukaden | Kester | Christian Devotional Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=n4Zwdh1j2tk</id>
-        <link href="https://www.youtube.com/watch?v=n4Zwdh1j2tk"/>
-        <updated>2023-09-03T13:30:28.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kusumavadana | Remix | DJ Savyo | M Jayachandran #remix #shorts #djsaviofficial #mjayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=xpakA_xYvIw</id>
-        <link href="https://www.youtube.com/watch?v=xpakA_xYvIw"/>
-        <updated>2023-09-03T13:30:20.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
