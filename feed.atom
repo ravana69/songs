@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-02T18:20:42.395Z</updated>
+    <updated>2023-12-02T19:13:52.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന December 3 # Athiravile Prarthana 3rd of December 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=viI7Awp0I0o</id>
+        <link href="https://www.youtube.com/watch?v=viI7Awp0I0o"/>
+        <updated>2023-12-02T19:00:31.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christmas Acapella Song | Bethlehem Night | Choir | Fr. Justin kaliyaniyil CMI | Kings & Queens Band]]></title>
+        <id>https://www.youtube.com/watch?v=b_5_pXRSe3Q</id>
+        <link href="https://www.youtube.com/watch?v=b_5_pXRSe3Q"/>
+        <updated>2023-12-02T18:30:28.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=-UpaE4Nfbgg</id>
+        <link href="https://www.youtube.com/watch?v=-UpaE4Nfbgg"/>
+        <updated>2023-12-02T18:30:00.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 3rd December 23]]></title>
         <id>https://www.youtube.com/watch?v=h-mNaubrc64</id>
@@ -32701,24 +32728,6 @@
         <updated>2023-09-04T07:30:03.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇളം മഞ്ഞിൻ കുളിരുമായൊരു കുയിൽ..മിഴിചെപ്പിൽ വിരഹ കദന കടൽ..  #malayalamsongs #love]]></title>
-        <id>https://www.youtube.com/watch?v=z2r4CnZ0kKo</id>
-        <link href="https://www.youtube.com/watch?v=z2r4CnZ0kKo"/>
-        <updated>2023-09-04T07:13:22.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ek Dum... Ek Dum - Song Promo | Tiger Nageswara Rao(Malayalam) | Ravi Teja, Gayatri | GV Prakash]]></title>
-        <id>https://www.youtube.com/watch?v=uN6Hi-Xnd4g</id>
-        <link href="https://www.youtube.com/watch?v=uN6Hi-Xnd4g"/>
-        <updated>2023-09-04T06:37:26.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
