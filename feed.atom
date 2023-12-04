@@ -2,15 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-04T04:22:00.947Z</updated>
+    <updated>2023-12-04T05:17:53.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kodu Kodu - EDM Mix | Padachone Ingalu Katholi | Shaan Rahman | Alvin Bruno]]></title>
+        <id>https://www.youtube.com/watch?v=qALLbZ43oTg</id>
+        <link href="https://www.youtube.com/watch?v=qALLbZ43oTg"/>
+        <updated>2023-12-04T04:30:23.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fall in love #MunnilRandChembarathi #BhagavanDasanteRamarajyam #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=feoPaAI0vgA</id>
+        <link href="https://www.youtube.com/watch?v=feoPaAI0vgA"/>
+        <updated>2023-12-04T04:30:20.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ധില്‍ ഹേയ് Mohanlal Old Malayalam Movie Song | Indrajaalam Movie Songs | S P Balasubrahmanyam]]></title>
+        <id>https://www.youtube.com/watch?v=t5TN4_UNbZA</id>
+        <link href="https://www.youtube.com/watch?v=t5TN4_UNbZA"/>
+        <updated>2023-12-04T04:30:15.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valittezhuthiya | Life is Beatiful | Mohanlal | Samyuktha | Yesudas | Ouseppachan]]></title>
+        <id>https://www.youtube.com/watch?v=JC0UqLy8oQM</id>
+        <link href="https://www.youtube.com/watch?v=JC0UqLy8oQM"/>
+        <updated>2023-12-04T04:30:09.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kooki Paayum | Dance Party | Shorts  #manoramamusic #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=CCb4aDg8v6M</id>
+        <link href="https://www.youtube.com/watch?v=CCb4aDg8v6M"/>
+        <updated>2023-12-04T04:22:53.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thaal | Movie Trailer | Rajasaagar | Anson Paul | Rahul Madhav | Aju Varghese | Aradhya Anna |Rohini]]></title>
+        <id>https://www.youtube.com/watch?v=Nl0vO6IYfKo</id>
+        <link href="https://www.youtube.com/watch?v=Nl0vO6IYfKo"/>
+        <updated>2023-12-04T04:16:15.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Choodarum | CheenaTrophy | Shorts  #manoramamusic]]></title>
         <id>https://www.youtube.com/watch?v=k_ZcooIe5ok</id>
         <link href="https://www.youtube.com/watch?v=k_ZcooIe5ok"/>
         <updated>2023-12-04T04:15:04.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kallukolambile | Nona | Shorts  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=QAcfqUaOysQ</id>
+        <link href="https://www.youtube.com/watch?v=QAcfqUaOysQ"/>
+        <updated>2023-12-04T04:05:38.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
