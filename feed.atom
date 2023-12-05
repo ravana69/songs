@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-05T08:23:18.755Z</updated>
+    <updated>2023-12-05T09:18:40.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ente Priyan #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=5zHfbUuDJHw</id>
+        <link href="https://www.youtube.com/watch?v=5zHfbUuDJHw"/>
+        <updated>2023-12-05T08:56:42.000Z</updated>
+        <author>
+            <name>Manorama Music Christian Devotional</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[moments of love 💖🌹 #MunnilRandChembarathi #BhagavanDasanteRamarajyam #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=9_D18h6z0c8</id>
+        <link href="https://www.youtube.com/watch?v=9_D18h6z0c8"/>
+        <updated>2023-12-05T08:30:01.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഗോപികാവസന്തം തേടി വനമാലീ... | Evergreen Malayalam Film Song | #mohanlal | #gauthami | #youtubeshorts]]></title>
         <id>https://www.youtube.com/watch?v=bH0JJxjZ2Oo</id>
