@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-05T21:15:05.777Z</updated>
+    <updated>2023-12-05T22:17:42.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=DxxR3zGeBlI</id>
+        <link href="https://www.youtube.com/watch?v=DxxR3zGeBlI"/>
+        <updated>2023-12-05T22:00:10.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന December 6 # Athiravile Prarthana 6th of December 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=YJ4b3M3vdxc</id>
@@ -32566,15 +32575,6 @@
         <updated>2023-09-07T10:43:53.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Romancham - Video Jukebox | Romancham | Jithu Madhavan | Sushin Shyam]]></title>
-        <id>https://www.youtube.com/watch?v=1cMxOoB-1iE</id>
-        <link href="https://www.youtube.com/watch?v=1cMxOoB-1iE"/>
-        <updated>2023-09-07T09:30:18.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
