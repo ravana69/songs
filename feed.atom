@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-05T18:22:15.657Z</updated>
+    <updated>2023-12-05T19:13:12.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന December 6 # Athiravile Prarthana 6th of December 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=YJ4b3M3vdxc</id>
+        <link href="https://www.youtube.com/watch?v=YJ4b3M3vdxc"/>
+        <updated>2023-12-05T19:00:14.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=ZqdZo9cc_-w</id>
+        <link href="https://www.youtube.com/watch?v=ZqdZo9cc_-w"/>
+        <updated>2023-12-05T18:30:28.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 6th December 23]]></title>
         <id>https://www.youtube.com/watch?v=I9AG1YnppHU</id>
@@ -32602,123 +32620,6 @@
         <updated>2023-09-07T07:14:46.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sree Bhoothanatha Bhujanga Stothram (Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=0NErOX4aWqs</id>
-        <link href="https://www.youtube.com/watch?v=0NErOX4aWqs"/>
-        <updated>2023-09-07T07:02:57.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L. Vaidyanathan, K.J. Yesudas - Aakaashamedakku Vaathilundo (Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=qte4Nw_uvfE</id>
-        <link href="https://www.youtube.com/watch?v=qte4Nw_uvfE"/>
-        <updated>2023-09-07T07:02:18.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandit Ramesh Narayan, K.J. Yesudas - Eeshasuthan Ayya (Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=lhJTJV2ozhA</id>
-        <link href="https://www.youtube.com/watch?v=lhJTJV2ozhA"/>
-        <updated>2023-09-07T07:02:03.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandit Ramesh Narayan, K.S. Chithra - Manikandaswamithan (Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=14nnYvTtmQY</id>
-        <link href="https://www.youtube.com/watch?v=14nnYvTtmQY"/>
-        <updated>2023-09-07T07:01:54.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandit Ramesh Narayan - Thathwamasi (Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=YyTzxP80xAc</id>
-        <link href="https://www.youtube.com/watch?v=YyTzxP80xAc"/>
-        <updated>2023-09-07T07:00:15.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L. Vaidyanathan, K.J. Yesudas, Sunanda - Poru Poru (Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=QJVZRMmOSx8</id>
-        <link href="https://www.youtube.com/watch?v=QJVZRMmOSx8"/>
-        <updated>2023-09-07T07:00:13.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L. Vaidyanathan, K.J. Yesudas, Sindhu - Gouri Manohari (Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=IYB6-6-g7rY</id>
-        <link href="https://www.youtube.com/watch?v=IYB6-6-g7rY"/>
-        <updated>2023-09-07T07:00:12.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandit Ramesh Narayan, K.J. Yesudas - Harivarasanam (Version, 1) (Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=K5a7phCuaaQ</id>
-        <link href="https://www.youtube.com/watch?v=K5a7phCuaaQ"/>
-        <updated>2023-09-07T07:00:12.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandit Ramesh Narayan, Madhu Balakrishnan - Daivanindayil (Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=En8bk5sE2wc</id>
-        <link href="https://www.youtube.com/watch?v=En8bk5sE2wc"/>
-        <updated>2023-09-07T07:00:11.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tharakkoottam | Oru Maravathoor Kanavu | Mammootty | Vidyasagar | Biju Menon | Mohini]]></title>
-        <id>https://www.youtube.com/watch?v=K97NMwSrYPU</id>
-        <link href="https://www.youtube.com/watch?v=K97NMwSrYPU"/>
-        <updated>2023-09-07T06:59:36.000Z</updated>
-        <author>
-            <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vinnil MinnumTharame | Adukkalayil Paniyundu | Haricharan | Sangeetha | Manesh Raveendran |Film Song]]></title>
-        <id>https://www.youtube.com/watch?v=wSORNlueLVA</id>
-        <link href="https://www.youtube.com/watch?v=wSORNlueLVA"/>
-        <updated>2023-09-07T06:30:59.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thaarake | Janaki Jaane | Lyrical Video | Vineeth Sreenivasan | Vinayak Sasikumar | Sibi Mathew Alex]]></title>
-        <id>https://www.youtube.com/watch?v=w0Kvx9I8pU0</id>
-        <link href="https://www.youtube.com/watch?v=w0Kvx9I8pU0"/>
-        <updated>2023-09-07T06:27:35.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nenjil Anuragam Lyrical Video | Adukkalayil Paniyundu | K K menon | Prem Kallat | Sangeethaa]]></title>
-        <id>https://www.youtube.com/watch?v=0F77r-TVxlk</id>
-        <link href="https://www.youtube.com/watch?v=0F77r-TVxlk"/>
-        <updated>2023-09-07T06:26:38.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
 </feed>
