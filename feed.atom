@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-05T01:21:12.892Z</updated>
+    <updated>2023-12-05T02:31:19.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32629,33 +32629,6 @@
         <updated>2023-09-06T14:42:20.000Z</updated>
         <author>
             <name>Speed Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തലമുറകൾ തോറും പാടും ഭാഗ്യവതി അമ്മ...]]></title>
-        <id>https://www.youtube.com/watch?v=_e70sYMk79s</id>
-        <link href="https://www.youtube.com/watch?v=_e70sYMk79s"/>
-        <updated>2023-09-06T14:17:13.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Melody Songs | Jessy Raju | Christian Superhit Songs | Bindhu Thomas | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=nYVLulc0_iM</id>
-        <link href="https://www.youtube.com/watch?v=nYVLulc0_iM"/>
-        <updated>2023-09-06T13:30:21.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കേട്ടനാൾ തൊട്ട് മനസ്സിൽ കുടിയിരുത്തിയ മനസ്സ് മടുക്കാത്ത മലയാളസിനിമാഗാനങ്ങൾ | HIT SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=EiN4jGyHA7A</id>
-        <link href="https://www.youtube.com/watch?v=EiN4jGyHA7A"/>
-        <updated>2023-09-06T13:30:07.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
