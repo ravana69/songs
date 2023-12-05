@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-05T22:17:42.931Z</updated>
+    <updated>2023-12-05T23:18:17.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32548,33 +32548,6 @@
         <updated>2023-09-07T11:55:01.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manninte Manamulla | Madhu Balakrishnan | Sajeev Kilikulam | Thirayattom | Ragi A.R. | Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=yPrtrjwD8uU</id>
-        <link href="https://www.youtube.com/watch?v=yPrtrjwD8uU"/>
-        <updated>2023-09-07T11:00:55.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ശുഭ ചിഹ്നം താൻ |ORTHODOX WEDDING SONG|ROY PUTHUR|MITHILA #royputhur #orthodoxwedding]]></title>
-        <id>https://www.youtube.com/watch?v=qi9SbgynRds</id>
-        <link href="https://www.youtube.com/watch?v=qi9SbgynRds"/>
-        <updated>2023-09-07T10:47:54.000Z</updated>
-        <author>
-            <name>Rayan Media Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chimmi Chimmi | Teaser | Krishnadiya | Urumi | Kaithapram | Deepak Dev | Film Song Cover]]></title>
-        <id>https://www.youtube.com/watch?v=4Yo3PREJcu0</id>
-        <link href="https://www.youtube.com/watch?v=4Yo3PREJcu0"/>
-        <updated>2023-09-07T10:43:53.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
