@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-05T10:20:49.492Z</updated>
+    <updated>2023-12-05T11:15:17.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Madhuvidhu raavukale | Aadyathe Kanmani  | KJ Yesudas |  KS Chithra | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=6Gz9gQ0rwv0</id>
+        <link href="https://www.youtube.com/watch?v=6Gz9gQ0rwv0"/>
+        <updated>2023-12-05T10:30:02.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കൊക്കര കൊക്കര | Kokkara Kokkara | MYLAANCHI Movie Song | Vilayil Valsala, VM Kutty | A T Ummer]]></title>
+        <id>https://www.youtube.com/watch?v=PLPH5OMrBvc</id>
+        <link href="https://www.youtube.com/watch?v=PLPH5OMrBvc"/>
+        <updated>2023-12-05T10:22:53.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chiriyil Aliyam Video Song | A Ranjith Cinema | Asif Ali | Anson Paul | Hanna Reji | Nishanth Sattu]]></title>
+        <id>https://www.youtube.com/watch?v=_lZrnrMor6g</id>
+        <link href="https://www.youtube.com/watch?v=_lZrnrMor6g"/>
+        <updated>2023-12-05T10:16:30.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Machakathammaye | #devotionalhits |  #sabarimala |  #Shorts #malayalam]]></title>
         <id>https://www.youtube.com/watch?v=bzgtKFbAouc</id>
@@ -32663,15 +32690,6 @@
         <id>https://www.youtube.com/watch?v=i1Wwm-7C7Dw</id>
         <link href="https://www.youtube.com/watch?v=i1Wwm-7C7Dw"/>
         <updated>2023-09-06T23:30:07.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=fzc0Co2wY2w</id>
-        <link href="https://www.youtube.com/watch?v=fzc0Co2wY2w"/>
-        <updated>2023-09-06T23:00:15.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
