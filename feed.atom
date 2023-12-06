@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-06T01:21:00.125Z</updated>
+    <updated>2023-12-06T02:30:18.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ellam Ange | Fr. Severios Thomas | Shorts #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=SGpCj99HWEE</id>
+        <link href="https://www.youtube.com/watch?v=SGpCj99HWEE"/>
+        <updated>2023-12-06T01:30:13.000Z</updated>
+        <author>
+            <name>Manorama Music Christian Devotional</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pulkudilil | Christmas Video Song | James Kalapurakkal | Rithuraj | Joji Johns | Christmas Song]]></title>
         <id>https://www.youtube.com/watch?v=Qy8VlH54r9E</id>
@@ -32440,33 +32449,6 @@
         <updated>2023-09-07T14:30:25.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannum Kannum Video Song | Mohanlal | Raai Laxmi| Shankar Mahadevan| Shweta Mohan|Christian Brothers]]></title>
-        <id>https://www.youtube.com/watch?v=9wxmfOvVtBY</id>
-        <link href="https://www.youtube.com/watch?v=9wxmfOvVtBY"/>
-        <updated>2023-09-07T13:39:07.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HAPPY BIRTHDAY AMMA]]></title>
-        <id>https://www.youtube.com/watch?v=dzXMmgBzRD8</id>
-        <link href="https://www.youtube.com/watch?v=dzXMmgBzRD8"/>
-        <updated>2023-09-07T13:35:23.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വിശ്വാസികൾ ഹൃദയത്തിൽ ഏറ്റെടുത്ത ക്രിസ്തീയ ഗാനങ്ങൾ  | Christian Devotional Songs Malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=McK811dsBPM</id>
-        <link href="https://www.youtube.com/watch?v=McK811dsBPM"/>
-        <updated>2023-09-07T13:30:11.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
