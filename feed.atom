@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-06T10:20:02.590Z</updated>
+    <updated>2023-12-06T11:15:15.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Choodarum | CheenaTrophy | Shorts  #manoramamusic #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=r-vAR3fCqCE</id>
+        <link href="https://www.youtube.com/watch?v=r-vAR3fCqCE"/>
+        <updated>2023-12-06T10:30:16.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഈറൻ ഉടുത്തുകൊണ്ടു... | ​K S Chithra | Paadiyum Paranjum | Malayala Manorama]]></title>
+        <id>https://www.youtube.com/watch?v=0c7Z5oBuUHU</id>
+        <link href="https://www.youtube.com/watch?v=0c7Z5oBuUHU"/>
+        <updated>2023-12-06T10:30:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subhanalla | Ustad Hotel | Naveen Iyyer | Gopi Sunder | Rafeeq Ahamad]]></title>
+        <id>https://www.youtube.com/watch?v=8eXwtQy3ETE</id>
+        <link href="https://www.youtube.com/watch?v=8eXwtQy3ETE"/>
+        <updated>2023-12-06T10:30:02.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thaimavin Thanalil Video Song | Oru Yathramozhi |  KS Chithra |  MG Sreekumar  | Mohanlal | Ranjitha]]></title>
+        <id>https://www.youtube.com/watch?v=a2P5sC1USXE</id>
+        <link href="https://www.youtube.com/watch?v=a2P5sC1USXE"/>
+        <updated>2023-12-06T10:30:00.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aadhyanuraagam Nee - Video Song| Khadhikan| Ketaki Narayan| Vijay Yesudas| Sanjoy Chowdhury| Jayaraj]]></title>
+        <id>https://www.youtube.com/watch?v=bCuwiLQFcSI</id>
+        <link href="https://www.youtube.com/watch?v=bCuwiLQFcSI"/>
+        <updated>2023-12-06T10:12:40.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ammathinkal Painkili - Lyrical Video | Mad Dad | Shweta Mohan | Evergreen Malayalam Songs]]></title>
         <id>https://www.youtube.com/watch?v=_Scfu4F20Sw</id>
@@ -13,6 +58,15 @@
         <updated>2023-12-06T10:09:47.000Z</updated>
         <author>
             <name>MC Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manjerunne | Cheenatrophy | Dhyan Sreenivasan | Sooraj Santhosh - Varkey | Anil Lal | Jaffer Idukki]]></title>
+        <id>https://www.youtube.com/watch?v=3CYSLKAJ8LI</id>
+        <link href="https://www.youtube.com/watch?v=3CYSLKAJ8LI"/>
+        <updated>2023-12-06T09:39:00.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -32573,15 +32627,6 @@
         <id>https://www.youtube.com/watch?v=DhtFMvWD0y0</id>
         <link href="https://www.youtube.com/watch?v=DhtFMvWD0y0"/>
         <updated>2023-09-07T23:30:03.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=BrqBAMrhqSA</id>
-        <link href="https://www.youtube.com/watch?v=BrqBAMrhqSA"/>
-        <updated>2023-09-07T23:00:05.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
