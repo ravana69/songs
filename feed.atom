@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-06T02:30:18.061Z</updated>
+    <updated>2023-12-06T03:18:55.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kooki Paayum | Dance Party | Shorts  #manoramamusic #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=v18LnQloFTw</id>
+        <link href="https://www.youtube.com/watch?v=v18LnQloFTw"/>
+        <updated>2023-12-06T02:30:30.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choodarum | CheenaTrophy | Shorts  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=UEQ1Zb83OF8</id>
+        <link href="https://www.youtube.com/watch?v=UEQ1Zb83OF8"/>
+        <updated>2023-12-06T02:30:11.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ellam Ange | Fr. Severios Thomas | Shorts #manoramachristiandevotionalsongs]]></title>
         <id>https://www.youtube.com/watch?v=SGpCj99HWEE</id>
@@ -32440,15 +32458,6 @@
         <updated>2023-09-07T15:30:18.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അഖിൽ മാരാരിനെ പുറത്താക്കാൻ ഒരു മന്ത്രി ഇടപെടുന്നു !  ഇങ്ങേര് വീണ്ടും വിവാദം ഉണ്ടാക്കും ! #akhilmarar]]></title>
-        <id>https://www.youtube.com/watch?v=olZ_ih_BhVI</id>
-        <link href="https://www.youtube.com/watch?v=olZ_ih_BhVI"/>
-        <updated>2023-09-07T14:30:25.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
