@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-06T05:17:36.596Z</updated>
+    <updated>2023-12-06T06:23:49.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manjerunne | Cheenatrophy | Dhyan Sreenivasan | Sooraj Santhosh - Varkey | Anil Lal | Jaffer Idukki]]></title>
+        <id>https://www.youtube.com/watch?v=h0_4WkOkrmM</id>
+        <link href="https://www.youtube.com/watch?v=h0_4WkOkrmM"/>
+        <updated>2023-12-06T06:01:59.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puthumazhayil | Karaoke Video | Ithramathram | K S Chithra | Rafeeque Ahammed | Jaison J Nair]]></title>
+        <id>https://www.youtube.com/watch?v=NpU3naun3CI</id>
+        <link href="https://www.youtube.com/watch?v=NpU3naun3CI"/>
+        <updated>2023-12-06T05:30:09.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vineeth Old Malayalam Movie Songs | Manathe Vellitheru Movie Song | Remastered Malayalam Songs]]></title>
         <id>https://www.youtube.com/watch?v=lbkstjSz_I4</id>
