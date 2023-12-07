@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-07T03:18:50.811Z</updated>
+    <updated>2023-12-07T04:22:14.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mamma Mary Punchiriche | Carol 2023 | Releasing Soon #shortsvideo #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=qL4ZYzcayjA</id>
+        <link href="https://www.youtube.com/watch?v=qL4ZYzcayjA"/>
+        <updated>2023-12-07T03:37:17.000Z</updated>
+        <author>
+            <name>Manorama Music Christian Devotional</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kooki Paayum | Dance Party | Shorts  #manoramamusic]]></title>
         <id>https://www.youtube.com/watch?v=U6sDVppUDwE</id>
@@ -32375,24 +32384,6 @@
         <id>https://www.youtube.com/watch?v=8JlrfeVSvAQ</id>
         <link href="https://www.youtube.com/watch?v=8JlrfeVSvAQ"/>
         <updated>2023-09-08T16:30:03.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 September 2023]]></title>
-        <id>https://www.youtube.com/watch?v=wt1QSn2ZZyU</id>
-        <link href="https://www.youtube.com/watch?v=wt1QSn2ZZyU"/>
-        <updated>2023-09-08T16:12:31.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എല്ലാ നഴ്‌സുമാരോടും എനിക്ക് പറയാനുള്ളത് സൂചി കുത്തുമ്പോൾ പയ്യെ കുത്തണം ! AKHIL MARAR BIRTHDAY EVENT]]></title>
-        <id>https://www.youtube.com/watch?v=ZMt8ggq624Y</id>
-        <link href="https://www.youtube.com/watch?v=ZMt8ggq624Y"/>
-        <updated>2023-09-08T15:30:08.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
         </author>
