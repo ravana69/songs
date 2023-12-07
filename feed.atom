@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-07T19:14:34.685Z</updated>
+    <updated>2023-12-07T20:19:20.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32548,42 +32548,6 @@
         <updated>2023-09-09T08:51:13.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികൾ ഒന്നടങ്കം ഏറ്റെടുത്ത ആഘോഷങ്ങൾക്ക് അനുഭൂതിയേകും അടിപൊളി ഗാനങ്ങൾ | MALAYALAM FILM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=R7jjIiIc-Gs</id>
-        <link href="https://www.youtube.com/watch?v=R7jjIiIc-Gs"/>
-        <updated>2023-09-09T07:46:59.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു ജനതയെ മുഴുവൻ സംഗീതത്തിൽ ആറാടിച്ച മഹാനായ ഗായകൻ ദാസേട്ടന്റെ സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | HITS OF YESUDAS]]></title>
-        <id>https://www.youtube.com/watch?v=thLryTrLw9s</id>
-        <link href="https://www.youtube.com/watch?v=thLryTrLw9s"/>
-        <updated>2023-09-09T07:30:13.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannanthalimuttam | Thumbolarcha | Vayalar | G Devarajan | P Susheela | Srividya | Old is Gold]]></title>
-        <id>https://www.youtube.com/watch?v=ZEptZCXcgTM</id>
-        <link href="https://www.youtube.com/watch?v=ZEptZCXcgTM"/>
-        <updated>2023-09-09T07:30:05.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങാന്‍ പോകുമ്പോള്‍ കേള്‍ക്കാവുന്ന ഗാനങ്ങള്‍ # Malayalam Christian songs for Sleep #worshipsongs]]></title>
-        <id>https://www.youtube.com/watch?v=GeuyoMONqc4</id>
-        <link href="https://www.youtube.com/watch?v=GeuyoMONqc4"/>
-        <updated>2023-09-09T07:30:03.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
