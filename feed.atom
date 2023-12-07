@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-07T02:30:25.047Z</updated>
+    <updated>2023-12-07T03:18:50.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kooki Paayum | Dance Party | Shorts  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=U6sDVppUDwE</id>
+        <link href="https://www.youtube.com/watch?v=U6sDVppUDwE"/>
+        <updated>2023-12-07T02:30:10.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kallukolambile | Nona | Shorts  #manoramamusic #shortsvideo]]></title>
         <id>https://www.youtube.com/watch?v=16dVDRQ5HLs</id>
@@ -32386,24 +32395,6 @@
         <updated>2023-09-08T15:30:08.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muttathethum Thennale Video Song | Mohanlal | Meena | Gireesh Puthenchery | Vidyasagar | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=uc6JbFr9A8A</id>
-        <link href="https://www.youtube.com/watch?v=uc6JbFr9A8A"/>
-        <updated>2023-09-08T15:00:43.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kunu Kune Cheru | Yodha | Mohanlal | Jagathy | A R Rahman | Yesudas | Sangeeth Sivan | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=PqFRxCl4mOE</id>
-        <link href="https://www.youtube.com/watch?v=PqFRxCl4mOE"/>
-        <updated>2023-09-08T14:58:43.000Z</updated>
-        <author>
-            <name>Speed Music</name>
         </author>
     </entry>
 </feed>
