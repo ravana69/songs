@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-08T10:19:37.018Z</updated>
+    <updated>2023-12-08T11:15:34.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ariyaatha Pushpavum  Video Song  | Thirakal Ezhuthiya Kavitha | P Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=2fgmrieKfOw</id>
+        <link href="https://www.youtube.com/watch?v=2fgmrieKfOw"/>
+        <updated>2023-12-08T10:30:01.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mamma Mary Carol | Shorts  #manoramamusic #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=KbWCtl3Bn8o</id>
@@ -1291,6 +1300,15 @@
         <updated>2023-12-05T09:30:20.000Z</updated>
         <author>
             <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ente Priyan #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=JmnkzFCPIHw</id>
+        <link href="https://www.youtube.com/watch?v=JmnkzFCPIHw"/>
+        <updated>2023-12-05T09:12:14.000Z</updated>
+        <author>
+            <name>Manorama Music Christian Devotional</name>
         </author>
     </entry>
     <entry>
@@ -32494,15 +32512,6 @@
         <updated>2023-09-10T00:15:00.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=ImWJDNT_04k</id>
-        <link href="https://www.youtube.com/watch?v=ImWJDNT_04k"/>
-        <updated>2023-09-09T23:00:10.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
