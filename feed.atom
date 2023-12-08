@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-08T03:18:43.001Z</updated>
+    <updated>2023-12-08T04:22:05.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christmas Carol Song Manju Peyum]]></title>
+        <id>https://www.youtube.com/watch?v=gbsfX06UYJQ</id>
+        <link href="https://www.youtube.com/watch?v=gbsfX06UYJQ"/>
+        <updated>2023-12-08T03:41:39.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manju Peyyunnoru Raavil | Christmas Songs |Fr.Paul Manayampilly | Sudheesh US |Christian Folk Songs]]></title>
         <id>https://www.youtube.com/watch?v=ssuMtwOHLK0</id>
