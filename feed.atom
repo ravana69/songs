@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-09T10:17:49.492Z</updated>
+    <updated>2023-12-09T11:14:19.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#chithra_songs pathirakottarangalil |Urvashi&Jagadishduo| #oldmalayalammelodysongs #malayalamsongs]]></title>
+        <id>https://www.youtube.com/watch?v=EM7vd2G7NiU</id>
+        <link href="https://www.youtube.com/watch?v=EM7vd2G7NiU"/>
+        <updated>2023-12-09T11:00:09.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വേളിക്കു വെളുപ്പാന്‍ കാലം | Kaliyattam | Kaithapram | Suresh Gopi | Manju Warrier | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=hMSoNyBus6k</id>
+        <link href="https://www.youtube.com/watch?v=hMSoNyBus6k"/>
+        <updated>2023-12-09T10:30:10.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chella Paapa - Lyrical Video | Mad Dad | KS Chithra, P Jayachandran | Alex Paul | Evergreen Song]]></title>
+        <id>https://www.youtube.com/watch?v=u3v6ygZ8VQY</id>
+        <link href="https://www.youtube.com/watch?v=u3v6ygZ8VQY"/>
+        <updated>2023-12-09T10:28:40.000Z</updated>
+        <author>
+            <name>MC Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ലലേട്ടൻ തകർത്ത് അഭിനയിച്ച രാജശില്പിയിലെ ഗാനങ്ങൾ | Rajashilpi Malayalam Movie Jukebox | Mohanlal]]></title>
         <id>https://www.youtube.com/watch?v=I-8df7jJ3ko</id>
@@ -67,6 +94,15 @@
         <updated>2023-12-09T06:30:04.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penninte Peralla Lyrical Video  | Thankamani | Dileep | William Francis | B T Anil Kumar]]></title>
+        <id>https://www.youtube.com/watch?v=hslWqTUwb6g</id>
+        <link href="https://www.youtube.com/watch?v=hslWqTUwb6g"/>
+        <updated>2023-12-09T06:26:04.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
@@ -2092,6 +2128,15 @@
         <updated>2023-12-04T04:22:53.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pulariyil Ilaveyil | Thaal | Video | Bijibal | B K Harinarayanan | K S Harishankar | Shweta Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=jKfZ_6EUW-w</id>
+        <link href="https://www.youtube.com/watch?v=jKfZ_6EUW-w"/>
+        <updated>2023-12-04T04:21:11.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -32629,15 +32674,6 @@
         <updated>2023-09-11T00:00:23.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=xho7c5Oc_9U</id>
-        <link href="https://www.youtube.com/watch?v=xho7c5Oc_9U"/>
-        <updated>2023-09-10T23:00:17.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
