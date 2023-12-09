@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-09T14:15:00.516Z</updated>
+    <updated>2023-12-09T15:16:38.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DILEEP HITS | Vidyasagar | Raveendran | Kavya Madhavan | Malayalam Video Songs]]></title>
+        <id>https://www.youtube.com/watch?v=nY6Lu0X4AWg</id>
+        <link href="https://www.youtube.com/watch?v=nY6Lu0X4AWg"/>
+        <updated>2023-12-09T14:30:17.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കടലിന്റെ നടുവില്‍ കനകംപൂത്തിറങ്ങി കരയായിക്കിടക്കുന്നതേതൊരുമാന്‍ | Aavesham,S Janaki  #malayalamsongs]]></title>
         <id>https://www.youtube.com/watch?v=Y3zTqNZmt1o</id>
@@ -220,6 +229,15 @@
         <updated>2023-12-09T05:30:09.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇഷ്ടപെട്ട ജയറാം ഗാനങ്ങൾ | Jayaram Film songs | Malayalam songs | K J Yesudas | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=WTa4h7OlTZA</id>
+        <link href="https://www.youtube.com/watch?v=WTa4h7OlTZA"/>
+        <updated>2023-12-09T05:09:41.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
