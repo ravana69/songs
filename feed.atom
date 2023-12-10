@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-10T03:18:35.669Z</updated>
+    <updated>2023-12-10T04:21:28.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jagathy & Jagadish🕺| Sightadikkana Maadhavaa #chithra_songs  #kschithra #music  #musicalnostalgia]]></title>
+        <id>https://www.youtube.com/watch?v=Esy1DYAa8Jc</id>
+        <link href="https://www.youtube.com/watch?v=Esy1DYAa8Jc"/>
+        <updated>2023-12-10T03:30:09.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈ ഗാനങ്ങൾ കേട്ടാൽ അത്ഭുതങ്ങൾ സംഭവിക്കും തീർച്ച |]]></title>
         <id>https://www.youtube.com/watch?v=UqTprLSn4CE</id>
@@ -32611,24 +32620,6 @@
         <updated>2023-09-11T18:30:27.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നനുത്ത മഴപോലെ പെയ്തിറങ്ങുന്ന ജോൺസൻ മാഷിൻറെ ഗാനങ്ങൾ | Johnson master Hits | K J Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=5AhPOKam91o</id>
-        <link href="https://www.youtube.com/watch?v=5AhPOKam91o"/>
-        <updated>2023-09-11T16:16:41.000Z</updated>
-        <author>
-            <name>Tharangini Sound of arts Dubai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അമ്മതൻ ഉദരത്തിൽ ഉരുവാകും മുമ്പേ എൻ ദൈവം എന്നെ അറിഞ്ഞിരുന്നു .]]></title>
-        <id>https://www.youtube.com/watch?v=weNPghaMNl8</id>
-        <link href="https://www.youtube.com/watch?v=weNPghaMNl8"/>
-        <updated>2023-09-11T15:33:19.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
