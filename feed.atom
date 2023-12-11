@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-11T21:15:30.415Z</updated>
+    <updated>2023-12-11T22:17:52.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=-pbD801gREA</id>
+        <link href="https://www.youtube.com/watch?v=-pbD801gREA"/>
+        <updated>2023-12-11T22:00:01.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന December 12 # Athiravile Prarthana 12th of December 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=jMPuJjsZrG0</id>
@@ -32683,69 +32692,6 @@
         <updated>2023-09-13T10:30:03.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manninte Manamulla | Thirayattom | Shorts #manoramamusic #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=shKMKl4YKRs</id>
-        <link href="https://www.youtube.com/watch?v=shKMKl4YKRs"/>
-        <updated>2023-09-13T09:39:38.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പാടത്തെ പൈങ്കിളിയേ -  Nigoodam Movie Song #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=5MM1fWJ1S0Q</id>
-        <link href="https://www.youtube.com/watch?v=5MM1fWJ1S0Q"/>
-        <updated>2023-09-13T09:35:13.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthikkallu Pole | Praavu Movie | Shorts #shorts #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=zPl9Qu329HQ</id>
-        <link href="https://www.youtube.com/watch?v=zPl9Qu329HQ"/>
-        <updated>2023-09-13T09:34:12.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthikkallu Pole | Praavu Movie | Shorts #shorts #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=QNavsDop_mA</id>
-        <link href="https://www.youtube.com/watch?v=QNavsDop_mA"/>
-        <updated>2023-09-13T09:34:03.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthikkallu Pole | Praavu Movie | Shorts #shorts #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=7C8yUkHIxl4</id>
-        <link href="https://www.youtube.com/watch?v=7C8yUkHIxl4"/>
-        <updated>2023-09-13T09:24:04.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthikkallu Pole | Praavu Movie | Shorts #shorts #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=xtmAVmgGc70</id>
-        <link href="https://www.youtube.com/watch?v=xtmAVmgGc70"/>
-        <updated>2023-09-13T09:20:54.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manninte Manamulla | Thirayattom | Shorts #manoramamusic #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=lhrlplRcpLY</id>
-        <link href="https://www.youtube.com/watch?v=lhrlplRcpLY"/>
-        <updated>2023-09-13T09:19:54.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
