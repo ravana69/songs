@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-11T10:21:05.182Z</updated>
+    <updated>2023-12-11T11:16:06.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bhagavane Sree Sabareesa | Ayyappa Devotional Song | Jayan (Jaya Vijaya ) | Sabarmala Devotional]]></title>
+        <id>https://www.youtube.com/watch?v=VFtCuo1n_Wk</id>
+        <link href="https://www.youtube.com/watch?v=VFtCuo1n_Wk"/>
+        <updated>2023-12-11T10:33:21.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ലാസ്യഭംഗിയുള്ള പാട്ടുപാടുമ്പോൾ ചിത്രച്ചേച്ചിക്ക് നാണമാണോ | Paadiyum Paranjum | Malayala Manorama]]></title>
+        <id>https://www.youtube.com/watch?v=Xfpre3VS2ZY</id>
+        <link href="https://www.youtube.com/watch?v=Xfpre3VS2ZY"/>
+        <updated>2023-12-11T10:30:12.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nataraajamandapam | Aagneyam | KJ Yesudas | Jayaram | Gautami | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=-kM2yrlp2H0</id>
+        <link href="https://www.youtube.com/watch?v=-kM2yrlp2H0"/>
+        <updated>2023-12-11T10:30:00.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hamsadwani Rasavaahini | Varnakkaazhchakal | K J Yesudas | KS Chithra|Mohan Sithara|Yusufali Kechery]]></title>
         <id>https://www.youtube.com/watch?v=zPnZt6-mf8Q</id>
@@ -32710,15 +32737,6 @@
         <updated>2023-09-12T23:30:01.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=kn1ZeaE0F3U</id>
-        <link href="https://www.youtube.com/watch?v=kn1ZeaE0F3U"/>
-        <updated>2023-09-12T23:00:18.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
