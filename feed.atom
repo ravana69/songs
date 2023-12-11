@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-11T02:30:49.804Z</updated>
+    <updated>2023-12-11T03:19:21.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32629,24 +32629,6 @@
         <updated>2023-09-12T15:35:29.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandit Ramesh Narayan, Vijay Yesudas - Thozhuthittum (Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=owvtjaq3m_g</id>
-        <link href="https://www.youtube.com/watch?v=owvtjaq3m_g"/>
-        <updated>2023-09-12T14:38:17.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandit Ramesh Narayan, Sudeep Kumar - Mandalam (Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=z1vvUU4B_N4</id>
-        <link href="https://www.youtube.com/watch?v=z1vvUU4B_N4"/>
-        <updated>2023-09-12T14:31:28.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
