@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-11T01:21:04.834Z</updated>
+    <updated>2023-12-11T02:30:49.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ente Priyan | Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=71vtIOtmEk0</id>
+        <link href="https://www.youtube.com/watch?v=71vtIOtmEk0"/>
+        <updated>2023-12-11T01:30:02.000Z</updated>
+        <author>
+            <name>Manorama Music Christian Devotional</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കൃപാസനം മാതാവിന്റെ  പ്രാർത്ഥനയും ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #kripasanam  mother mary]]></title>
         <id>https://www.youtube.com/watch?v=QK31_der8mo</id>
@@ -32638,42 +32647,6 @@
         <updated>2023-09-12T14:31:28.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L. Vaidyanathan, K.J. Yesudas - Peraattin Akkare Akkare (Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=Pc7MHLtrVWI</id>
-        <link href="https://www.youtube.com/watch?v=Pc7MHLtrVWI"/>
-        <updated>2023-09-12T14:28:15.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandit Ramesh Narayan, K.J. Yesudas - Harivarasanam (Version, 2) (Lyric Video)]]></title>
-        <id>https://www.youtube.com/watch?v=1n8C02MMPtY</id>
-        <link href="https://www.youtube.com/watch?v=1n8C02MMPtY"/>
-        <updated>2023-09-12T14:27:48.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karuna Chaivaan Video Song | Aananda Bhairavi | Arjun B Krishna | Irayimman Thampi | Classical Song]]></title>
-        <id>https://www.youtube.com/watch?v=kxc6HcMUp3U</id>
-        <link href="https://www.youtube.com/watch?v=kxc6HcMUp3U"/>
-        <updated>2023-09-12T13:51:25.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innente Kannerellam | Christian Melody Songs | Manoj Christy | Joji Johns | Fr.Mathew Kareethara]]></title>
-        <id>https://www.youtube.com/watch?v=bzNBfaVOvBY</id>
-        <link href="https://www.youtube.com/watch?v=bzNBfaVOvBY"/>
-        <updated>2023-09-12T13:30:16.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
