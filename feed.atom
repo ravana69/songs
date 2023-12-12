@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-12T10:20:19.622Z</updated>
+    <updated>2023-12-12T11:15:23.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chandanalepa sugandham Audio Song Oru Vadakkan Veeragadha Song KJ Yesudas K Jayakumar Bombay Ravi]]></title>
+        <id>https://www.youtube.com/watch?v=NACHK_9yuPk</id>
+        <link href="https://www.youtube.com/watch?v=NACHK_9yuPk"/>
+        <updated>2023-12-12T11:05:29.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dhu Dhu Dhurudhoo Video Song | Sharjah to Sharjah | MG Sreekumar | Smitha | Gireesh Puthenchery]]></title>
         <id>https://www.youtube.com/watch?v=MGv2wDErByI</id>
@@ -292,6 +301,15 @@
         <updated>2023-12-11T12:00:38.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puncha Padathu | Making Video | Dance Party | Rahul Raj | OP Sunil | Cochin Archana | Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=KL2_sumj_Jc</id>
+        <link href="https://www.youtube.com/watch?v=KL2_sumj_Jc"/>
+        <updated>2023-12-11T11:54:09.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -32665,15 +32683,6 @@
         <updated>2023-09-14T00:15:57.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=z4qQIGd2Aa8</id>
-        <link href="https://www.youtube.com/watch?v=z4qQIGd2Aa8"/>
-        <updated>2023-09-13T23:00:32.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
