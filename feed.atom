@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-12T09:18:20.408Z</updated>
+    <updated>2023-12-12T10:20:19.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dhu Dhu Dhurudhoo Video Song | Sharjah to Sharjah | MG Sreekumar | Smitha | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=MGv2wDErByI</id>
+        <link href="https://www.youtube.com/watch?v=MGv2wDErByI"/>
+        <updated>2023-12-12T10:17:03.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manassin Madiyile | Manathe Vellitheru 1994 | Chithra, Vani Jairam | Malayalam Movie Song]]></title>
+        <id>https://www.youtube.com/watch?v=44e5xq83GCc</id>
+        <link href="https://www.youtube.com/watch?v=44e5xq83GCc"/>
+        <updated>2023-12-12T09:49:29.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maangayachaar Anjaneya | HanuMan(Malayalam | #malayalamsongs #hanuman #tipsmalayalam]]></title>
         <id>https://www.youtube.com/watch?v=aV4JTQX1N6A</id>
@@ -346,6 +364,15 @@
         <updated>2023-12-11T08:57:43.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanavaayi Video Song - Single Divorced Happy Again | Ashwin Aryan | Bindu Anirudhan | Akhila Sayooj]]></title>
+        <id>https://www.youtube.com/watch?v=bSi5oh_FyWI</id>
+        <link href="https://www.youtube.com/watch?v=bSi5oh_FyWI"/>
+        <updated>2023-12-11T08:36:51.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
