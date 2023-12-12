@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-12T02:31:08.069Z</updated>
+    <updated>2023-12-12T03:18:59.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32539,15 +32539,6 @@
         <updated>2023-09-13T16:56:35.000Z</updated>
         <author>
             <name>Rayan Media Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കുരിശേകും തണലിൽ ഞാൻ അണഞ്ഞുന്നു തിരു കുരിശേ പുൽകിടുന്നു .]]></title>
-        <id>https://www.youtube.com/watch?v=zWsddJiAbkI</id>
-        <link href="https://www.youtube.com/watch?v=zWsddJiAbkI"/>
-        <updated>2023-09-13T15:08:08.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
