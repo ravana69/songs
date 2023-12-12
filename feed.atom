@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-12T08:23:35.766Z</updated>
+    <updated>2023-12-12T09:18:20.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maangayachaar Anjaneya | HanuMan(Malayalam | #malayalamsongs #hanuman #tipsmalayalam]]></title>
+        <id>https://www.youtube.com/watch?v=aV4JTQX1N6A</id>
+        <link href="https://www.youtube.com/watch?v=aV4JTQX1N6A"/>
+        <updated>2023-12-12T09:04:07.000Z</updated>
+        <author>
+            <name>Tips Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy Birthday Superstar Rajinikanth #thalaivaa  #malayalamsongs]]></title>
+        <id>https://www.youtube.com/watch?v=WDqZbhcDw8c</id>
+        <link href="https://www.youtube.com/watch?v=WDqZbhcDw8c"/>
+        <updated>2023-12-12T09:03:24.000Z</updated>
+        <author>
+            <name>Tips Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നവവർഷത്തിൻ രജനി  | Nava Varshathin Rajani | Ithu Njangalude Katha Movie Song | K.J.Yesudas, Johnson]]></title>
         <id>https://www.youtube.com/watch?v=9M8pREm0Jk4</id>
@@ -49,6 +67,15 @@
         <updated>2023-12-12T07:16:16.000Z</updated>
         <author>
             <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KUNJU PAITHAL | SRUTHY SIVADHAS | ABINS ALIAS | DIJO PAUL | NEW CHRISTIAN SONG]]></title>
+        <id>https://www.youtube.com/watch?v=E9IkED8ktIE</id>
+        <link href="https://www.youtube.com/watch?v=E9IkED8ktIE"/>
+        <updated>2023-12-12T07:11:37.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
         </author>
     </entry>
     <entry>
