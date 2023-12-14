@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-14T19:14:40.299Z</updated>
+    <updated>2023-12-14T20:19:43.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32506,6 +32506,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Njayarazhchakal Nammude Sakhikal l Jimmy (1979) l Sreekumaran Thampi l  K J Yesudas l Ambili]]></title>
+        <id>https://www.youtube.com/watch?v=LSZF5-jcHQI</id>
+        <link href="https://www.youtube.com/watch?v=LSZF5-jcHQI"/>
+        <updated>2023-09-17T00:00:11.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #september 17th mother mary hits 2023]]></title>
         <id>https://www.youtube.com/watch?v=Nn6gn4qHko0</id>
         <link href="https://www.youtube.com/watch?v=Nn6gn4qHko0"/>
@@ -32773,33 +32782,6 @@
         <updated>2023-09-16T08:26:44.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പലവട്ടം കേട്ടതാണെങ്കിലും പിന്നെയും പലതവണ കേൾക്കാൻ രസമുള്ള മലയാള ചലച്ചിത്ര ഗാനങ്ങൾ | EVERGREEN HITS]]></title>
-        <id>https://www.youtube.com/watch?v=b6hHNwQBWvY</id>
-        <link href="https://www.youtube.com/watch?v=b6hHNwQBWvY"/>
-        <updated>2023-09-16T07:34:25.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങാന്‍ പോകുമ്പോള്‍ കേള്‍ക്കാവുന്ന ഗാനങ്ങള്‍ # Malayalam Christian songs for Sleep #worshipsongs]]></title>
-        <id>https://www.youtube.com/watch?v=TlkW6yxZw8U</id>
-        <link href="https://www.youtube.com/watch?v=TlkW6yxZw8U"/>
-        <updated>2023-09-16T07:30:07.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പലവട്ടം കേട്ടിട്ടും ഇപ്പോഴും കൊതിതീരാത്ത മലയാളസിനിമയിലെ മനം കവരും സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | SUPERHITS]]></title>
-        <id>https://www.youtube.com/watch?v=qQo06_SRn8Y</id>
-        <link href="https://www.youtube.com/watch?v=qQo06_SRn8Y"/>
-        <updated>2023-09-16T07:29:42.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
