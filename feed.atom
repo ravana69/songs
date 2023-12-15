@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-15T11:15:35.808Z</updated>
+    <updated>2023-12-15T12:34:36.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[O Mayo Oo Mayo | Simhasanam | Vidhu Prathap | Ronnie Raphael | Chittoor Gopi]]></title>
+        <id>https://www.youtube.com/watch?v=itpVoCUMLTw</id>
+        <link href="https://www.youtube.com/watch?v=itpVoCUMLTw"/>
+        <updated>2023-12-15T12:30:24.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanavuminaram |Video Song| Made In Caravan | Najim Arshad  |Annu Antony| Vinu Thomas |Jomy Kuriakose]]></title>
+        <id>https://www.youtube.com/watch?v=SgNjP4JT7sU</id>
+        <link href="https://www.youtube.com/watch?v=SgNjP4JT7sU"/>
+        <updated>2023-12-15T12:30:09.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നക്ഷത്രങ്ങൾ കൂടുകൂട്ടിയ കുളിരുള്ള രാത്രിയിൽ | Rev. Aneesh P Joseph #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=B91ZEa64QqI</id>
+        <link href="https://www.youtube.com/watch?v=B91ZEa64QqI"/>
+        <updated>2023-12-15T12:30:04.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lathiri Poothiri Punchiri Cheppo Video Song | Nokketha Doorathu Kannum Nattu |KJ Yesudas |KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=fOuHqykheOg</id>
+        <link href="https://www.youtube.com/watch?v=fOuHqykheOg"/>
+        <updated>2023-12-15T12:15:03.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസിന് കുളിരേകുന്ന ക്രിസ്മസ് ഗാനങ്ങൾ | Christmas Songs | Rithuraj | Surayanarayanan | Carol Songs]]></title>
+        <id>https://www.youtube.com/watch?v=ay8FmWafbPM</id>
+        <link href="https://www.youtube.com/watch?v=ay8FmWafbPM"/>
+        <updated>2023-12-15T11:31:06.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aniyathipraavinu Video Song | Aniyathipravu Movie Song | REMASTERED |]]></title>
+        <id>https://www.youtube.com/watch?v=s_D9m0TLzqg</id>
+        <link href="https://www.youtube.com/watch?v=s_D9m0TLzqg"/>
+        <updated>2023-12-15T11:30:22.000Z</updated>
+        <author>
+            <name>Wilson Video Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maranamethunna Nerathu | Spirit | Unni Menon | Shahabas Aman | Rafeeq Ahamad]]></title>
+        <id>https://www.youtube.com/watch?v=KmJIhbeSiYQ</id>
+        <link href="https://www.youtube.com/watch?v=KmJIhbeSiYQ"/>
+        <updated>2023-12-15T11:30:14.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 15th of December 2023]]></title>
+        <id>https://www.youtube.com/watch?v=6XYNURwkPkc</id>
+        <link href="https://www.youtube.com/watch?v=6XYNURwkPkc"/>
+        <updated>2023-12-15T11:30:03.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gopeehridayam nirayunnu  | Kankettu | KJ Yesudas | Sujatha Mohan | #shorts]]></title>
         <id>https://www.youtube.com/watch?v=kci2cQfyC78</id>
@@ -166,6 +238,15 @@
         <updated>2023-12-15T04:00:11.000Z</updated>
         <author>
             <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joy to the World - Lyrical Video | Usha Uthup | Evergreen Christmas Carol Lyrics Video]]></title>
+        <id>https://www.youtube.com/watch?v=j1wfXtPYOxc</id>
+        <link href="https://www.youtube.com/watch?v=j1wfXtPYOxc"/>
+        <updated>2023-12-15T03:37:44.000Z</updated>
+        <author>
+            <name>Manorama Music Christian Devotional</name>
         </author>
     </entry>
     <entry>
@@ -400,6 +481,15 @@
         <updated>2023-12-14T10:30:00.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thoomanju Peythidunna Neelaravil | Aparna Rajeev | Baby John Kalayanthani | Rajeev ONV | Carol]]></title>
+        <id>https://www.youtube.com/watch?v=B6mzOwoK9xw</id>
+        <link href="https://www.youtube.com/watch?v=B6mzOwoK9xw"/>
+        <updated>2023-12-14T09:24:16.000Z</updated>
+        <author>
+            <name>Manorama Music Christian Devotional</name>
         </author>
     </entry>
     <entry>
@@ -32719,42 +32809,6 @@
         <updated>2023-09-17T04:30:23.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 17th of September 2023 # Mathavinte Japamala # Mahimayude Rahasyangal 17th of September 23]]></title>
-        <id>https://www.youtube.com/watch?v=n3pzO3TiRq8</id>
-        <link href="https://www.youtube.com/watch?v=n3pzO3TiRq8"/>
-        <updated>2023-09-17T00:30:31.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കെസ്റ്ററിന്റെ പ്രിയപ്പെട്ട ഗാനങ്ങൾ | Christian Devotional Songs Malayalam | Kester| Melody Song]]></title>
-        <id>https://www.youtube.com/watch?v=a1kZC_gmOh4</id>
-        <link href="https://www.youtube.com/watch?v=a1kZC_gmOh4"/>
-        <updated>2023-09-17T00:30:00.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njayarazhchakal Nammude Sakhikal l Jimmy (1979) l Sreekumaran Thampi l  K J Yesudas l Ambili]]></title>
-        <id>https://www.youtube.com/watch?v=LSZF5-jcHQI</id>
-        <link href="https://www.youtube.com/watch?v=LSZF5-jcHQI"/>
-        <updated>2023-09-17T00:00:11.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #september 17th mother mary hits 2023]]></title>
-        <id>https://www.youtube.com/watch?v=Nn6gn4qHko0</id>
-        <link href="https://www.youtube.com/watch?v=Nn6gn4qHko0"/>
-        <updated>2023-09-17T00:00:07.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
         </author>
     </entry>
 </feed>
