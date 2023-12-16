@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-16T21:14:58.326Z</updated>
+    <updated>2023-12-16T22:16:13.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=I7FhsXOv3P8</id>
+        <link href="https://www.youtube.com/watch?v=I7FhsXOv3P8"/>
+        <updated>2023-12-16T22:00:04.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന December 17 # Athiravile Prarthana 17th of December 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=pd0uSn7B9BU</id>
@@ -32818,42 +32827,6 @@
         <updated>2023-09-18T11:04:34.000Z</updated>
         <author>
             <name>OPM Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thaliridum - Lyrical Video | Ival Draupadi | KS Chithra | Rajamani |  Gireesh Puthenchery]]></title>
-        <id>https://www.youtube.com/watch?v=ChS9UjwcR_k</id>
-        <link href="https://www.youtube.com/watch?v=ChS9UjwcR_k"/>
-        <updated>2023-09-18T10:15:54.000Z</updated>
-        <author>
-            <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEE CHERUTHAY EESHO | #shortvideo | #christianstatus  | Fr Shaji Thumpechirayil | Fr Phinil Ezharath]]></title>
-        <id>https://www.youtube.com/watch?v=sr06hT_zEfo</id>
-        <link href="https://www.youtube.com/watch?v=sr06hT_zEfo"/>
-        <updated>2023-09-18T09:53:21.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചൈത്രവേണുവൂതും......ആ...ആ...ചൈത്രവേണുവൂതും മധുമന്ത്രകോകിലങ്ങളുംമേളമേകും ഇന്ദ്രനീല രാത്രി തേടവേ......]]></title>
-        <id>https://www.youtube.com/watch?v=DO4txTuQZWQ</id>
-        <link href="https://www.youtube.com/watch?v=DO4txTuQZWQ"/>
-        <updated>2023-09-18T09:48:02.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virunnu Varum l Kuttikkuppayam 1964 l Madhu l Nazir l Sheela l M. S. Baburaj l P. Leela l Uthaman]]></title>
-        <id>https://www.youtube.com/watch?v=6t9odMlujkk</id>
-        <link href="https://www.youtube.com/watch?v=6t9odMlujkk"/>
-        <updated>2023-09-18T09:18:34.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
         </author>
     </entry>
 </feed>
