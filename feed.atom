@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-17T01:25:10.719Z</updated>
+    <updated>2023-12-17T02:31:30.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bethlahem Pulkoodin | Richukuttan | Kuriakose Mathew #Carol #Shorts]]></title>
+        <id>https://www.youtube.com/watch?v=DS0mSxmp7S0</id>
+        <link href="https://www.youtube.com/watch?v=DS0mSxmp7S0"/>
+        <updated>2023-12-17T02:30:09.000Z</updated>
+        <author>
+            <name>Manorama Music Christian Devotional</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #December 17th 23 #mothermarysongs  songs malayalam]]></title>
         <id>https://www.youtube.com/watch?v=6Jk4eR8dWdA</id>
@@ -32416,6 +32425,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Puthan Puthukkaalam HD Video | Kaboolivala l  SP Venkitesh | Vineeth, Charmila]]></title>
+        <id>https://www.youtube.com/watch?v=u87M4-tAxKA</id>
+        <link href="https://www.youtube.com/watch?v=u87M4-tAxKA"/>
+        <updated>2023-09-19T11:30:10.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[കൊതിച്ചു പോയി കണ്ടു കണ്ടു കൊതിച്ചു പോയിവാർതിങ്കൾ നെഞ്ചിലേറ്റി മെയ് തലോടും സ്വർണ്ണമാനേ#malayalamsongs]]></title>
         <id>https://www.youtube.com/watch?v=sk_RvkXytZA</id>
         <link href="https://www.youtube.com/watch?v=sk_RvkXytZA"/>
@@ -32683,33 +32701,6 @@
         <updated>2023-09-18T15:19:19.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആലാപമായ് സ്വരരാഗഭാവുകങ്ങള്‍....ഹിമബിന്ദുചൂടും സമ്മോഹനങ്ങള്‍ പോലെ.... #yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=aGeOXFxpqws</id>
-        <link href="https://www.youtube.com/watch?v=aGeOXFxpqws"/>
-        <updated>2023-09-18T14:30:00.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാള സിനിമയിൽ പ്രണയത്തിനു പുതിയ രൂപമേകിയ കുഞ്ചാക്കോ ബൊബ്ബന്റെ സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ |Evergreen Songs]]></title>
-        <id>https://www.youtube.com/watch?v=r_PNqG-HB8I</id>
-        <link href="https://www.youtube.com/watch?v=r_PNqG-HB8I"/>
-        <updated>2023-09-18T13:30:28.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു ഗാനം കേൾക്കാൻ ആഗ്രഹിക്കുമ്പോൾ മനസ്സിൽ ആദ്യം ഓടിയെത്തുന്ന ഗാനങ്ങൾ |Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=iTcdcGKXutI</id>
-        <link href="https://www.youtube.com/watch?v=iTcdcGKXutI"/>
-        <updated>2023-09-18T13:30:26.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
