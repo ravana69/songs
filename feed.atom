@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-18T10:20:54.673Z</updated>
+    <updated>2023-12-18T11:15:43.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സായന്തനം ചന്ദ്രികാ ലോലമായ്..നാലമ്പലം നലമെഴും സ്വർഗ്ഗമായ് #mohanlal #yesudas #parvathy]]></title>
+        <id>https://www.youtube.com/watch?v=zNmC6-svcu0</id>
+        <link href="https://www.youtube.com/watch?v=zNmC6-svcu0"/>
+        <updated>2023-12-18T10:30:15.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leo (Kannada) - Naa Ready Video | Thalapathy Vijay | Anirudh Ravichander]]></title>
+        <id>https://www.youtube.com/watch?v=OwigUwengG0</id>
+        <link href="https://www.youtube.com/watch?v=OwigUwengG0"/>
+        <updated>2023-12-18T10:30:13.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leo (Telugu) - Ney Ready Video | Thalapathy Vijay | Anirudh Ravichander]]></title>
+        <id>https://www.youtube.com/watch?v=VLC0N6nNim8</id>
+        <link href="https://www.youtube.com/watch?v=VLC0N6nNim8"/>
+        <updated>2023-12-18T10:30:13.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leo (Malayalam) - Njan Ready Video | Thalapathy Vijay | Anirudh Ravichander]]></title>
+        <id>https://www.youtube.com/watch?v=sqazwaUAJto</id>
+        <link href="https://www.youtube.com/watch?v=sqazwaUAJto"/>
+        <updated>2023-12-18T10:30:12.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manavaatti Penninte Video Song | Kaliyoonjal | Dileep | Shalini |MG Sreekumar | Ilayaraja-Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=mHnjtvt6nH4</id>
+        <link href="https://www.youtube.com/watch?v=mHnjtvt6nH4"/>
+        <updated>2023-12-18T10:30:12.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chakkaramuthe Video Song | Aadyathe Kanmani | P Jayachandran | Biju Narayanan]]></title>
+        <id>https://www.youtube.com/watch?v=1QJuTdMCvC0</id>
+        <link href="https://www.youtube.com/watch?v=1QJuTdMCvC0"/>
+        <updated>2023-12-18T10:30:00.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aattidayakkoottam | RituRaj | Shorts  #christmas]]></title>
         <id>https://www.youtube.com/watch?v=UJ2pCFL-QZc</id>
@@ -3422,6 +3476,15 @@
         <id>https://www.youtube.com/watch?v=15PcGpgk0Jc</id>
         <link href="https://www.youtube.com/watch?v=15PcGpgk0Jc"/>
         <updated>2023-12-08T12:14:24.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A R റഹ്മാന്റെ ഒപ്പമുള്ള ഗാനങ്ങളുടെ അനുഭവങ്ങൾ | Paadiyum Paranjum | Malayala Manorama]]></title>
+        <id>https://www.youtube.com/watch?v=eVV-E7z0mQY</id>
+        <link href="https://www.youtube.com/watch?v=eVV-E7z0mQY"/>
+        <updated>2023-12-08T12:12:00.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
@@ -32701,15 +32764,6 @@
         <updated>2023-09-19T23:30:05.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=E4T380f1jME</id>
-        <link href="https://www.youtube.com/watch?v=E4T380f1jME"/>
-        <updated>2023-09-19T23:00:07.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
