@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-18T13:22:37.466Z</updated>
+    <updated>2023-12-18T14:17:48.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prakrutheeshwari Ninte|Vasanthiyum lekshmiyum pinne njanum|Kalabhavan Mani|]]></title>
+        <id>https://www.youtube.com/watch?v=0mmmPLcvnbY</id>
+        <link href="https://www.youtube.com/watch?v=0mmmPLcvnbY"/>
+        <updated>2023-12-18T13:37:19.000Z</updated>
+        <author>
+            <name>Raaga music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mazhakondu Maathram | Spirit | Gayathri | Shahabas Aman | Rafeeq Ahamad]]></title>
         <id>https://www.youtube.com/watch?v=HLX0ZZScJQQ</id>
@@ -32818,24 +32827,6 @@
         <updated>2023-09-20T04:18:49.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anayatha Oru Agniyaay... #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=_sfh4Cdk_Ys</id>
-        <link href="https://www.youtube.com/watch?v=_sfh4Cdk_Ys"/>
-        <updated>2023-09-20T01:30:22.000Z</updated>
-        <author>
-            <name>Manorama Music Christian Devotional</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PALUNKUKADAL KANUNNU NJAN | #shortvideo | Fr. Shaji Thumpechirayil]]></title>
-        <id>https://www.youtube.com/watch?v=uHQXGUvwIlg</id>
-        <link href="https://www.youtube.com/watch?v=uHQXGUvwIlg"/>
-        <updated>2023-09-20T01:30:20.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
         </author>
     </entry>
 </feed>
