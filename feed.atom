@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-19T21:13:11.486Z</updated>
+    <updated>2023-12-19T22:14:50.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=El1KtWi0cHU</id>
+        <link href="https://www.youtube.com/watch?v=El1KtWi0cHU"/>
+        <updated>2023-12-19T22:00:07.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന December 20 # Athiravile Prarthana 20th of December 2023 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=FAKL-PA4u0U</id>
@@ -32809,33 +32818,6 @@
         <updated>2023-09-21T10:37:14.000Z</updated>
         <author>
             <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanashalabhame | Sithara Krishnakumar | Sadanandan MV | Innalekal Thalirkkumbol | Film Video Song]]></title>
-        <id>https://www.youtube.com/watch?v=zZM_beWVRkw</id>
-        <link href="https://www.youtube.com/watch?v=zZM_beWVRkw"/>
-        <updated>2023-09-21T09:59:21.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maanasa Nilayil | Dhwani l Jayaram l Shobana l Prem Nazeer l Naushad Ali]]></title>
-        <id>https://www.youtube.com/watch?v=nYCgu_Am7z0</id>
-        <link href="https://www.youtube.com/watch?v=nYCgu_Am7z0"/>
-        <updated>2023-09-21T09:50:43.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സഖീനിന്‍ വാര്‍മുടിതന്‍ കാന്തിയേന്തി നീലമേഘങ്ങള്‍  #malayalamsongs #yesudas #jayaram #shobana]]></title>
-        <id>https://www.youtube.com/watch?v=5YdcGN_6Ur8</id>
-        <link href="https://www.youtube.com/watch?v=5YdcGN_6Ur8"/>
-        <updated>2023-09-21T09:30:03.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
