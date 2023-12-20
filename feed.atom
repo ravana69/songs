@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-20T16:22:21.380Z</updated>
+    <updated>2023-12-20T17:14:37.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32944,33 +32944,6 @@
         <updated>2023-09-22T05:30:09.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Raajamalli | Aniyathipraavu 1997 | M. G. Sreekumar | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=sSDMi-5BZj8</id>
-        <link href="https://www.youtube.com/watch?v=sSDMi-5BZj8"/>
-        <updated>2023-09-22T04:56:55.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thulli Ezhunthathu | Geethanjali | Ilaiyaraaja | K.S.Chithra & Ilaiyaraaja | Hi-Res Audio]]></title>
-        <id>https://www.youtube.com/watch?v=EWTk8b4Bbks</id>
-        <link href="https://www.youtube.com/watch?v=EWTk8b4Bbks"/>
-        <updated>2023-09-22T04:42:03.000Z</updated>
-        <author>
-            <name>NANCHIL BEATS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pularaaraayappol | Mooladhanam | Prem Nazeer | P.Bhaskaran | Susheela | Malayalam Classic Song]]></title>
-        <id>https://www.youtube.com/watch?v=AONVEPTI2ls</id>
-        <link href="https://www.youtube.com/watch?v=AONVEPTI2ls"/>
-        <updated>2023-09-22T04:30:03.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
