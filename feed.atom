@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-21T17:16:45.154Z</updated>
+    <updated>2023-12-21T18:20:45.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 22nd December 23]]></title>
+        <id>https://www.youtube.com/watch?v=X7CA4ypkMPA</id>
+        <link href="https://www.youtube.com/watch?v=X7CA4ypkMPA"/>
+        <updated>2023-12-21T18:00:29.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദാസേട്ടനും ചിത്രചേച്ചിയും പാടി മനോഹരങ്ങളാക്കിയ ഗാനങ്ങൾ | കെ ജെ യേശുദാസ് | കെ എസ് ചിത്ര | Duets]]></title>
+        <id>https://www.youtube.com/watch?v=eIK_kHrl9J4</id>
+        <link href="https://www.youtube.com/watch?v=eIK_kHrl9J4"/>
+        <updated>2023-12-21T17:51:25.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pokathe Kariyilakatte | Rappakal | Mammootty | Nayanthara | Kamal | Mohan Sithara | Sarada]]></title>
         <id>https://www.youtube.com/watch?v=dkYeWtrGbc0</id>
