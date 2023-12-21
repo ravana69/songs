@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-21T18:20:45.317Z</updated>
+    <updated>2023-12-21T19:12:58.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന December 22 # Athiravile Prarthana 22nd of December 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Z-9s0yOyNWw</id>
+        <link href="https://www.youtube.com/watch?v=Z-9s0yOyNWw"/>
+        <updated>2023-12-21T19:00:12.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=4r728Z3-jyQ</id>
+        <link href="https://www.youtube.com/watch?v=4r728Z3-jyQ"/>
+        <updated>2023-12-21T18:30:02.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 22nd December 23]]></title>
         <id>https://www.youtube.com/watch?v=X7CA4ypkMPA</id>
@@ -33052,24 +33070,6 @@
         <updated>2023-09-23T07:15:01.000Z</updated>
         <author>
             <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thalam Thulli| Zha Movie Song | Najim Arshad | Rajesh Babu K Sooranad | Sudhi]]></title>
-        <id>https://www.youtube.com/watch?v=2t_HnmfeVb8</id>
-        <link href="https://www.youtube.com/watch?v=2t_HnmfeVb8"/>
-        <updated>2023-09-23T06:32:19.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nin Mugham Kaanuvaan | Abhayavaram Arulunna Kristheeya Bhakthigaanangal | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=Qc90m_ewbdY</id>
-        <link href="https://www.youtube.com/watch?v=Qc90m_ewbdY"/>
-        <updated>2023-09-23T06:24:16.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
