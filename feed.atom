@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-22T07:16:51.485Z</updated>
+    <updated>2023-12-22T08:22:03.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rudraksham - Ellolam Lyric | Sharreth | Suresh Gopi, Annie, Geetha, Maathu, Devan]]></title>
+        <id>https://www.youtube.com/watch?v=uNk9BsDwrNo</id>
+        <link href="https://www.youtube.com/watch?v=uNk9BsDwrNo"/>
+        <updated>2023-12-22T08:00:29.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Varoo Shyaama Hare Lyric | Jithin Shyam | Mukesh, Ranjitha, Chippy]]></title>
+        <id>https://www.youtube.com/watch?v=xv4__bIGXMM</id>
+        <link href="https://www.youtube.com/watch?v=xv4__bIGXMM"/>
+        <updated>2023-12-22T08:00:28.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kudukkinte Koottil Lyric | Jithin Shyam | Mukesh, Ranjitha, Chippy]]></title>
+        <id>https://www.youtube.com/watch?v=Ih-BR4LwFnM</id>
+        <link href="https://www.youtube.com/watch?v=Ih-BR4LwFnM"/>
+        <updated>2023-12-22T08:00:17.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leo - Ratata Video | Thalapathy Vijay | Anirudh Ravichander]]></title>
+        <id>https://www.youtube.com/watch?v=QhWyXj2bQFc</id>
+        <link href="https://www.youtube.com/watch?v=QhWyXj2bQFc"/>
+        <updated>2023-12-22T08:00:14.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rudraksham - Chillu Jaalakathinappuram Lyric | Sharreth | Suresh Gopi, Annie]]></title>
+        <id>https://www.youtube.com/watch?v=BcHow7pLLog</id>
+        <link href="https://www.youtube.com/watch?v=BcHow7pLLog"/>
+        <updated>2023-12-22T08:00:10.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lokam Niranjavane Promo Video | Sreya Jayadeep | Joji Johns | Arun Das Puthiyavila | Christmas Song]]></title>
+        <id>https://www.youtube.com/watch?v=FjH6QEEPzbw</id>
+        <link href="https://www.youtube.com/watch?v=FjH6QEEPzbw"/>
+        <updated>2023-12-22T07:31:40.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unni Pirannu | Christmas Songs Malayalam |Aji Dennis | Cyriac Adithyapuram | Carol Song | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=ekaFkl7SM7M</id>
+        <link href="https://www.youtube.com/watch?v=ekaFkl7SM7M"/>
+        <updated>2023-12-22T07:30:15.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yakshaganam Muzhangi - Nizhalaattam (1970) | Vayalar | P Susheela | Prem Nazeer | Sheela]]></title>
+        <id>https://www.youtube.com/watch?v=5NHTxWl3sdE</id>
+        <link href="https://www.youtube.com/watch?v=5NHTxWl3sdE"/>
+        <updated>2023-12-22T07:30:03.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇത്രേം നാൾ കേട്ടിട്ടും ഇഷ്‌ടം തീരാത്ത മലയാളസിനിമയിലെ മനം മയക്കും ഗാനങ്ങൾ | MALAYALAM HIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=UsPkNiGoZl0</id>
+        <link href="https://www.youtube.com/watch?v=UsPkNiGoZl0"/>
+        <updated>2023-12-22T07:29:58.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pookkaalam Vannu | Godfather | S Balakrishnan | Unni Menon | K S Chithra #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=4JpqF0u6rfs</id>
+        <link href="https://www.youtube.com/watch?v=4JpqF0u6rfs"/>
+        <updated>2023-12-22T07:20:50.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christmas Carol Song Ravil]]></title>
         <id>https://www.youtube.com/watch?v=VfW6uVixF_M</id>
@@ -32998,15 +33088,6 @@
         <updated>2023-09-23T20:30:00.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  September 24 Athiravile Prarthana 24th of September 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=4u7U5YWEBJ0</id>
-        <link href="https://www.youtube.com/watch?v=4u7U5YWEBJ0"/>
-        <updated>2023-09-23T20:00:01.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
