@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-22T15:17:35.817Z</updated>
+    <updated>2023-12-22T16:22:58.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gopaala Gokulapaala | Crazy Gopalan | Dileep | Radha Varma | Rahul Raj]]></title>
+        <id>https://www.youtube.com/watch?v=VZ2tg-wa5ok</id>
+        <link href="https://www.youtube.com/watch?v=VZ2tg-wa5ok"/>
+        <updated>2023-12-22T16:18:10.000Z</updated>
+        <author>
+            <name>Speed Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Angu Doore Mamalayil | New Christmas Video Song | Shijo Sebastian | Sanoop Hrudayanath | Sivapriya]]></title>
         <id>https://www.youtube.com/watch?v=_tXu0-IjNhI</id>
@@ -33196,15 +33205,6 @@
         <updated>2023-09-24T04:30:15.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassum Shareeravum | Onnum Mindatha Bharya 1984 | K. J. Yesudas | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=ysu672cOYKw</id>
-        <link href="https://www.youtube.com/watch?v=ysu672cOYKw"/>
-        <updated>2023-09-24T04:00:36.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
