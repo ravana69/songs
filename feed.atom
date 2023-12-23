@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-23T12:30:45.387Z</updated>
+    <updated>2023-12-23T13:18:57.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christmas Special Songs | ക്രിസ്തുമസ് ഗാനങ്ങൾ | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=Sqhn9ihZBUs</id>
+        <link href="https://www.youtube.com/watch?v=Sqhn9ihZBUs"/>
+        <updated>2023-12-23T13:02:35.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മേലെ മാനത്തൊരു താരം മിന്നി.. #christmas #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=ImpZSfat74U</id>
+        <link href="https://www.youtube.com/watch?v=ImpZSfat74U"/>
+        <updated>2023-12-23T13:00:13.000Z</updated>
+        <author>
+            <name>Celebrants India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaikottu Penne | Karumaadikkuttan | Kalabhavan Mani | Mohan Sithara | Yusufali Kechery | Vinayan]]></title>
+        <id>https://www.youtube.com/watch?v=zhvKSIrgnNc</id>
+        <link href="https://www.youtube.com/watch?v=zhvKSIrgnNc"/>
+        <updated>2023-12-23T12:30:36.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malayalam Christmas Carol Songs 2023 # Christmas Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=vEiAcmicUzA</id>
+        <link href="https://www.youtube.com/watch?v=vEiAcmicUzA"/>
+        <updated>2023-12-23T12:30:35.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ക്രിസ്മസ് ജീവിതത്തിന് പുതിയ തെളിച്ചവും വെളിച്ചവും നൽകുന്നതാകട്ടെ | Rev. Aneesh P Joseph | #shorts]]></title>
         <id>https://www.youtube.com/watch?v=K30L3allQHg</id>
