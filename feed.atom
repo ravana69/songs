@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-23T08:21:10.137Z</updated>
+    <updated>2023-12-23T09:15:40.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VINNILE THARAKAM #frshajithumpechirayil #christmas #carol #twinklestar]]></title>
+        <id>https://www.youtube.com/watch?v=qEcDY1VuEaQ</id>
+        <link href="https://www.youtube.com/watch?v=qEcDY1VuEaQ"/>
+        <updated>2023-12-23T08:43:11.000Z</updated>
+        <author>
+            <name>Celebrants India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mahathwathin Rajave | Fr. Severios Thomas #Carol]]></title>
+        <id>https://www.youtube.com/watch?v=WCYcPg2Jpj4</id>
+        <link href="https://www.youtube.com/watch?v=WCYcPg2Jpj4"/>
+        <updated>2023-12-23T08:30:10.000Z</updated>
+        <author>
+            <name>Manorama Music Christian Devotional</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രേക്ഷക മനസ്സിൽ കുളിരു കോരിയിടും മനസുകൊതിക്കും സിനിമ ഗാനങ്ങൾ |Evergreen Malayalam Film Songs]]></title>
         <id>https://www.youtube.com/watch?v=VVjmb0wl_RE</id>
@@ -445,6 +463,15 @@
         <updated>2023-12-22T08:00:10.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palayam PC - Official Teaser | Kottayam Ramesh, Rahul Madhav, Jaffer Idukki | V.M Anil]]></title>
+        <id>https://www.youtube.com/watch?v=un9k2P4Ymow</id>
+        <link href="https://www.youtube.com/watch?v=un9k2P4Ymow"/>
+        <updated>2023-12-22T07:50:45.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
