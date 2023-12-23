@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-23T11:14:04.050Z</updated>
+    <updated>2023-12-23T12:30:45.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ക്രിസ്മസ് ജീവിതത്തിന് പുതിയ തെളിച്ചവും വെളിച്ചവും നൽകുന്നതാകട്ടെ | Rev. Aneesh P Joseph | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=K30L3allQHg</id>
+        <link href="https://www.youtube.com/watch?v=K30L3allQHg"/>
+        <updated>2023-12-23T12:30:10.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ammoommakkili Vaayaadi Video Song | Chandralekha | KS Chithra | Mohanlal | Malayalam Evergreen Hits]]></title>
+        <id>https://www.youtube.com/watch?v=UQE7Q9h14mg</id>
+        <link href="https://www.youtube.com/watch?v=UQE7Q9h14mg"/>
+        <updated>2023-12-23T12:15:02.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ormappeeli Koodozhinju Poyi | Mafia | Video Song | Suresh Gopi | Vikram | Janardhanan - Yesudas Hits]]></title>
+        <id>https://www.youtube.com/watch?v=iFVhiu22UY0</id>
+        <link href="https://www.youtube.com/watch?v=iFVhiu22UY0"/>
+        <updated>2023-12-23T12:00:43.000Z</updated>
+        <author>
+            <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പടച്ചോന്റെ കൃപകൊണ്ട്‌ | Padachonte Kiripakondu | Kayamkulam Kochunni Movie Song | പി ഭാസ്ക്കരൻ]]></title>
+        <id>https://www.youtube.com/watch?v=vsZLLCGsY6o</id>
+        <link href="https://www.youtube.com/watch?v=vsZLLCGsY6o"/>
+        <updated>2023-12-23T11:31:48.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rakkilithan Vazhi Marayum Video Song | Perumazhakkalam | Meera Jasmine |M Jayachandran|Rafeeq Ahamed]]></title>
+        <id>https://www.youtube.com/watch?v=Nn_8W4Df4-k</id>
+        <link href="https://www.youtube.com/watch?v=Nn_8W4Df4-k"/>
+        <updated>2023-12-23T11:30:19.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lokam Niranjavane | New Christian Video Song | Sreya Jayadeep | Arun Das Puthiyavila | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=pVWdxpwN2gs</id>
+        <link href="https://www.youtube.com/watch?v=pVWdxpwN2gs"/>
+        <updated>2023-12-23T11:30:18.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[En Jeevane Engaanu Nee | Devadoothan | KJ Yesudas | Vidyasagar | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=TuN1HUzJkOU</id>
+        <link href="https://www.youtube.com/watch?v=TuN1HUzJkOU"/>
+        <updated>2023-12-23T11:30:10.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 23rd of December 2023]]></title>
+        <id>https://www.youtube.com/watch?v=QqJ9nGoanOM</id>
+        <link href="https://www.youtube.com/watch?v=QqJ9nGoanOM"/>
+        <updated>2023-12-23T11:30:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SURALOKA SNEHA SAGARAM #frshajithumpechirayil #christmas #carol #twinklestar]]></title>
+        <id>https://www.youtube.com/watch?v=1A7KTbotreQ</id>
+        <link href="https://www.youtube.com/watch?v=1A7KTbotreQ"/>
+        <updated>2023-12-23T11:30:00.000Z</updated>
+        <author>
+            <name>Celebrants India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jam Jam Jambuvante - Lyrical Video | Mad Dad | Kalpana, Sreeranjini Manoj | Alex Paul]]></title>
         <id>https://www.youtube.com/watch?v=W0SBRussWr8</id>
@@ -33349,24 +33430,6 @@
         <updated>2023-09-25T01:30:04.000Z</updated>
         <author>
             <name>Manorama Music Christian Devotional</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 25th of September 23 # Mathavinte Japamala Santhoshathinte Rahasyangal 25th of September 23]]></title>
-        <id>https://www.youtube.com/watch?v=hK7pD6PONts</id>
-        <link href="https://www.youtube.com/watch?v=hK7pD6PONts"/>
-        <updated>2023-09-25T00:30:19.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #september 25th    mother mary morning songs]]></title>
-        <id>https://www.youtube.com/watch?v=qk4vaZtAXC8</id>
-        <link href="https://www.youtube.com/watch?v=qk4vaZtAXC8"/>
-        <updated>2023-09-25T00:00:18.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
         </author>
     </entry>
 </feed>
