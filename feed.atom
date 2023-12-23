@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-23T07:15:43.552Z</updated>
+    <updated>2023-12-23T08:21:10.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രേക്ഷക മനസ്സിൽ കുളിരു കോരിയിടും മനസുകൊതിക്കും സിനിമ ഗാനങ്ങൾ |Evergreen Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=VVjmb0wl_RE</id>
+        <link href="https://www.youtube.com/watch?v=VVjmb0wl_RE"/>
+        <updated>2023-12-23T07:51:21.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unneeshoye Neevarane | ക്രിസ്തുമസ് ഗാനങ്ങൾ | X-Mas Songs | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=zpXOZG-MMp4</id>
+        <link href="https://www.youtube.com/watch?v=zpXOZG-MMp4"/>
+        <updated>2023-12-23T07:45:19.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O Priye | Aniyathipraavu | Ouseppachan | K J Yesudas | S Ramesan Nair #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=P8PSTRZYPIQ</id>
+        <link href="https://www.youtube.com/watch?v=P8PSTRZYPIQ"/>
+        <updated>2023-12-23T07:31:34.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസിനെ ഏതോ മായ ലോകത്തേക്ക് കൂട്ടികൊണ്ടുപോകും  മാന്ത്രിക ഗാനങ്ങൾ  | Evergreen Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Nbfv0mzKTtk</id>
+        <link href="https://www.youtube.com/watch?v=Nbfv0mzKTtk"/>
+        <updated>2023-12-23T07:30:06.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malagavrindhangal Paadi |Christmas Songs Malayalam | Wilson Piravom | Joji Johns | Divyakarunya Song]]></title>
+        <id>https://www.youtube.com/watch?v=7SWsKS0Be9g</id>
+        <link href="https://www.youtube.com/watch?v=7SWsKS0Be9g"/>
+        <updated>2023-12-23T07:30:01.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
         <id>https://www.youtube.com/watch?v=ifpWTJv4fvA</id>
@@ -31,6 +76,15 @@
         <updated>2023-12-23T05:45:38.000Z</updated>
         <author>
             <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alavatta Kaarunyam | Balabhaskar | Santhosh Varma | Christian Devotional Song]]></title>
+        <id>https://www.youtube.com/watch?v=ljfOwsVW0D8</id>
+        <link href="https://www.youtube.com/watch?v=ljfOwsVW0D8"/>
+        <updated>2023-12-23T05:30:33.000Z</updated>
+        <author>
+            <name>East Coast</name>
         </author>
     </entry>
     <entry>
@@ -33230,15 +33284,6 @@
         <id>https://www.youtube.com/watch?v=WEQQwn2K4t4</id>
         <link href="https://www.youtube.com/watch?v=WEQQwn2K4t4"/>
         <updated>2023-09-24T23:00:12.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന September 25 # Athiravile Prarthana 25th of September 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=TL7BNqVMce4</id>
-        <link href="https://www.youtube.com/watch?v=TL7BNqVMce4"/>
-        <updated>2023-09-24T20:00:14.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
