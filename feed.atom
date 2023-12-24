@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-24T02:29:29.316Z</updated>
+    <updated>2023-12-24T03:18:05.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33349,24 +33349,6 @@
         <updated>2023-09-25T17:24:27.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Mounaraagaminnu Video Song | Jayaram | Shruthi | KJ Yesudas | KS Chithra | Berny Ignatius]]></title>
-        <id>https://www.youtube.com/watch?v=E0nzVaZ5Z5o</id>
-        <link href="https://www.youtube.com/watch?v=E0nzVaZ5Z5o"/>
-        <updated>2023-09-25T15:00:14.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaarthinkal Thellalle (M) | Dreams | Vidyasagar | K.J.Yesudas | Hi-Res Audio]]></title>
-        <id>https://www.youtube.com/watch?v=YsIMHMUmzeI</id>
-        <link href="https://www.youtube.com/watch?v=YsIMHMUmzeI"/>
-        <updated>2023-09-25T14:52:28.000Z</updated>
-        <author>
-            <name>NANCHIL BEATS</name>
         </author>
     </entry>
 </feed>
