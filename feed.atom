@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-25T18:21:37.808Z</updated>
+    <updated>2023-12-25T19:14:24.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന December 26 # Athiravile Prarthana 26th of December 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=LBg5onzBPu8</id>
+        <link href="https://www.youtube.com/watch?v=LBg5onzBPu8"/>
+        <updated>2023-12-25T19:00:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=osG22g2V0yY</id>
+        <link href="https://www.youtube.com/watch?v=osG22g2V0yY"/>
+        <updated>2023-12-25T18:30:34.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പൈതലാം യേശുവേ..| കെ ജെ യേശുദാസ് | കെ എസ് ചിത്ര | ക്രിസ്തീയഭക്തിഗാനങ്ങൾ | Remastered Devotional songs]]></title>
         <id>https://www.youtube.com/watch?v=FcXhlRadhak</id>
@@ -33268,24 +33286,6 @@
         <updated>2023-09-27T07:31:15.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാമഴക്കാടേ പൂമരക്കൂടേമഞ്ഞലയില്‍ പൊന്‍വെയിലില്‍ ചന്ദനക്കാറ്റില്‍ #mohanlal #chithra]]></title>
-        <id>https://www.youtube.com/watch?v=AsvOY6uTBlg</id>
-        <link href="https://www.youtube.com/watch?v=AsvOY6uTBlg"/>
-        <updated>2023-09-27T07:00:08.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic moves for #NeelaNilave | #RDX | #KapilKapilan | #SamCS | #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=u0dig_TvdP4</id>
-        <link href="https://www.youtube.com/watch?v=u0dig_TvdP4"/>
-        <updated>2023-09-27T06:30:15.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
