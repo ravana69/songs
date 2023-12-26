@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-26T18:21:44.747Z</updated>
+    <updated>2023-12-26T19:13:46.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന December 27 # Athiravile Prarthana 27th of December 2023 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=S91QNSt2bsg</id>
+        <link href="https://www.youtube.com/watch?v=S91QNSt2bsg"/>
+        <updated>2023-12-26T19:00:14.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=sJnHVf3cr78</id>
+        <link href="https://www.youtube.com/watch?v=sJnHVf3cr78"/>
+        <updated>2023-12-26T18:30:37.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കലിയുഗവരദൻറെ ഭക്തിഗാനങ്ങൾ | കെ ജെ യേശുദാസ് | ഭക്തിഗാനങ്ങൾ | Remastered Ayyappa Devotional Songs]]></title>
         <id>https://www.youtube.com/watch?v=6ny4RVRiZ84</id>
@@ -33151,24 +33169,6 @@
         <updated>2023-09-28T07:30:10.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മഞ്ഞിൻ ചിറകുള്ള വെള്ളരിപ്രാവേ  #malayalamsongs #evergeeenmalayalamhits #jayaram #parvathy]]></title>
-        <id>https://www.youtube.com/watch?v=G8z1zra8-GI</id>
-        <link href="https://www.youtube.com/watch?v=G8z1zra8-GI"/>
-        <updated>2023-09-28T06:55:12.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Athirukalariyatha Pakshi Remastering Audio Ghazal Movie Song KJ Yesudas Yusufali Kecheri Bombay Ravi]]></title>
-        <id>https://www.youtube.com/watch?v=m2Sq074NncU</id>
-        <link href="https://www.youtube.com/watch?v=m2Sq074NncU"/>
-        <updated>2023-09-28T06:37:36.000Z</updated>
-        <author>
-            <name>Speed Audios</name>
         </author>
     </entry>
 </feed>
