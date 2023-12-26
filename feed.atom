@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-26T04:21:31.470Z</updated>
+    <updated>2023-12-26T05:17:24.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oru Shilpagopurathil | Souhrudam | Yesudas | Shyam | Mukesh | Sound of Arts]]></title>
+        <id>https://www.youtube.com/watch?v=53BVg8q3OvI</id>
+        <link href="https://www.youtube.com/watch?v=53BVg8q3OvI"/>
+        <updated>2023-12-26T05:00:02.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suresh Gopi Super Hit Song Then Virunninaay | Parallel College Remastered Malayalam Songs | Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=H0V2fwnBK20</id>
+        <link href="https://www.youtube.com/watch?v=H0V2fwnBK20"/>
+        <updated>2023-12-26T04:59:38.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drowning in the symphony of love 🌊❤️#LoveYouMuthe #Padmini #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=kzQkC-kIrTA</id>
+        <link href="https://www.youtube.com/watch?v=kzQkC-kIrTA"/>
+        <updated>2023-12-26T04:30:25.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azhake Ninakkay | Kayapola | Myjohn Britto  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=UwzRA7tCDiQ</id>
+        <link href="https://www.youtube.com/watch?v=UwzRA7tCDiQ"/>
+        <updated>2023-12-26T04:30:11.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allimalarkkavile Thirunadayil | Kannappanunni | Sheela | Ummar | Yesudas | Prem Nazeer]]></title>
+        <id>https://www.youtube.com/watch?v=Uwc9L3vFqCE</id>
+        <link href="https://www.youtube.com/watch?v=Uwc9L3vFqCE"/>
+        <updated>2023-12-26T04:30:07.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christmas Specials - Jukebox | Eswarane Thedi | Manushya Nee Mannakunnu | Nithyanaya Deivathin]]></title>
         <id>https://www.youtube.com/watch?v=C6PjdPkyQZk</id>
@@ -2567,6 +2612,15 @@
         <id>https://www.youtube.com/watch?v=XCN9hzRnM1o</id>
         <link href="https://www.youtube.com/watch?v=XCN9hzRnM1o"/>
         <updated>2023-12-19T10:35:31.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nee Mukilo | Cover Song | Vijitha Sreejith | Uyare | Rafeeque Ahammed | Gopi Sundar]]></title>
+        <id>https://www.youtube.com/watch?v=9N0ET7rLz9Y</id>
+        <link href="https://www.youtube.com/watch?v=9N0ET7rLz9Y"/>
+        <updated>2023-12-19T10:34:11.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
         </author>
