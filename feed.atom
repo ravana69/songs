@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-27T17:15:29.337Z</updated>
+    <updated>2023-12-27T18:21:49.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 28th December 23]]></title>
+        <id>https://www.youtube.com/watch?v=Zi0s1SVA46k</id>
+        <link href="https://www.youtube.com/watch?v=Zi0s1SVA46k"/>
+        <updated>2023-12-27T18:00:25.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaithapoo Manamenthe | Sneham | Jayaram | Perumbavoor G Ravindranath | Yusufali Kecheri | Biju Menon]]></title>
         <id>https://www.youtube.com/watch?v=ervkCdvQNpY</id>
@@ -33034,33 +33043,6 @@
         <updated>2023-09-29T06:30:10.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambarappoo Veedhiyilu | Irupatham Noottandu 1987 | K. J. Yesudas | Malayalam Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=Ro98HwpCnDU</id>
-        <link href="https://www.youtube.com/watch?v=Ro98HwpCnDU"/>
-        <updated>2023-09-29T05:48:37.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paadathe Pynkiliye | Lyrical Video | Nigoodam | Aristo Suresh | Ronnie Raphael | Krishnachandran CK]]></title>
-        <id>https://www.youtube.com/watch?v=go51afcNeU8</id>
-        <link href="https://www.youtube.com/watch?v=go51afcNeU8"/>
-        <updated>2023-09-29T05:30:15.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ezhaam Baharinte Akkare Remastering Audio Ghazal Malayalam Movie Song  KJ Yesudas Minmini]]></title>
-        <id>https://www.youtube.com/watch?v=Bhzutz1Lz0A</id>
-        <link href="https://www.youtube.com/watch?v=Bhzutz1Lz0A"/>
-        <updated>2023-09-29T05:18:22.000Z</updated>
-        <author>
-            <name>Speed Audios</name>
         </author>
     </entry>
 </feed>
