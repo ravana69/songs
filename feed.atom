@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-27T22:16:27.264Z</updated>
+    <updated>2023-12-27T23:17:47.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32980,24 +32980,6 @@
         <updated>2023-09-29T11:30:04.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ലാത്തിരി പൂത്തിരി പുഞ്ചിരിച്ചെപ്പോകമ്പിത്തിരി മത്താപ്പോ #malayalamsongs #nadiyamoidu]]></title>
-        <id>https://www.youtube.com/watch?v=BuEppdBtVPw</id>
-        <link href="https://www.youtube.com/watch?v=BuEppdBtVPw"/>
-        <updated>2023-09-29T11:15:09.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adiyodadi - Video Song | RDX | Fejo | Sam CS | Shane Nigam, Antony Varghese, Neeraj Madhav]]></title>
-        <id>https://www.youtube.com/watch?v=L1kIjDLbrv4</id>
-        <link href="https://www.youtube.com/watch?v=L1kIjDLbrv4"/>
-        <updated>2023-09-29T10:38:26.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
