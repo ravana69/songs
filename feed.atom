@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-27T04:21:09.009Z</updated>
+    <updated>2023-12-27T05:17:14.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[K. S. Chithra Old Malayalam Movie Songs Aalaapanam | Ambadi Thannilorunni Remastered Malayalam Songs]]></title>
+        <id>https://www.youtube.com/watch?v=6aDx7k_RAiU</id>
+        <link href="https://www.youtube.com/watch?v=6aDx7k_RAiU"/>
+        <updated>2023-12-27T04:48:45.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arikil Nee | Flash  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=sH6q8pew0-Q</id>
+        <link href="https://www.youtube.com/watch?v=sH6q8pew0-Q"/>
+        <updated>2023-12-27T04:30:25.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweet and soulful 🎤💖 #LoveYouMuthe #Padmini #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=gX__R9K7-U4</id>
+        <link href="https://www.youtube.com/watch?v=gX__R9K7-U4"/>
+        <updated>2023-12-27T04:30:24.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mukile Nee Mooliya | Bhoomika | Jayaram | Yesudas | Chithra | Raveendran]]></title>
+        <id>https://www.youtube.com/watch?v=j_CWLs5xHeE</id>
+        <link href="https://www.youtube.com/watch?v=j_CWLs5xHeE"/>
+        <updated>2023-12-27T04:30:12.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daveedhin Pattanathil #christmas #christmascarolsongsmalayalam]]></title>
         <id>https://www.youtube.com/watch?v=kJA1J3_nmPE</id>
