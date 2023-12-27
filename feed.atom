@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-27T16:22:51.585Z</updated>
+    <updated>2023-12-27T17:15:29.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33061,24 +33061,6 @@
         <updated>2023-09-29T05:18:22.000Z</updated>
         <author>
             <name>Speed Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ekaantha Jeevanil | Prem Nazeer | Yesudas | Sreekumaran Thampi | Vilaykku Vangiya Veena]]></title>
-        <id>https://www.youtube.com/watch?v=LhcYlAvf664</id>
-        <link href="https://www.youtube.com/watch?v=LhcYlAvf664"/>
-        <updated>2023-09-29T04:30:13.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassil Oru Poomala | Innathe Chinthavishayam | Shorts  #malayalamfilmsongs #manoramafilmsongs]]></title>
-        <id>https://www.youtube.com/watch?v=ddSBCYbwuPw</id>
-        <link href="https://www.youtube.com/watch?v=ddSBCYbwuPw"/>
-        <updated>2023-09-29T04:25:14.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
 </feed>
