@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-28T20:16:29.026Z</updated>
+    <updated>2023-12-28T21:15:05.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33034,24 +33034,6 @@
         <updated>2023-09-30T09:42:53.000Z</updated>
         <author>
             <name>Manorama Music Christian Devotional</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vagdatham Cheythavan | Elizabeth Raju | Mohan Kanjiramannil #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=DG1ii9aNTQI</id>
-        <link href="https://www.youtube.com/watch?v=DG1ii9aNTQI"/>
-        <updated>2023-09-30T09:12:26.000Z</updated>
-        <author>
-            <name>Manorama Music Christian Devotional</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാഗരാഗപ്പക്ഷീ | Raga Raga Pakshi  | Benz Vasu Movie Song | S Janaki Hits | Jayan]]></title>
-        <id>https://www.youtube.com/watch?v=xvjVoMM6qDM</id>
-        <link href="https://www.youtube.com/watch?v=xvjVoMM6qDM"/>
-        <updated>2023-09-30T08:30:20.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
