@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-29T16:24:43.677Z</updated>
+    <updated>2023-12-29T17:17:42.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32890,42 +32890,6 @@
         <updated>2023-10-01T05:30:08.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഏഴു നിറമുള്ള മലരേ നൂറു കരമുള്ള കുളിരെ  #malayalamsongs #evergeeenmalayalamhits #yesudas #shankar]]></title>
-        <id>https://www.youtube.com/watch?v=6Qj5tbp9H-U</id>
-        <link href="https://www.youtube.com/watch?v=6Qj5tbp9H-U"/>
-        <updated>2023-10-01T05:00:03.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kunji Chittolam | Chithrakoodam 2003 | S.P.Venkitesh | Swarnalatha,Vijay Yesudas| MalayalamMovieSong]]></title>
-        <id>https://www.youtube.com/watch?v=kk4ZU7Bhgn4</id>
-        <link href="https://www.youtube.com/watch?v=kk4ZU7Bhgn4"/>
-        <updated>2023-10-01T04:30:16.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എനിക്കെന്‍റെ ആശ്രയം | RSV | Franco]]></title>
-        <id>https://www.youtube.com/watch?v=KGpn9U4Y-E0</id>
-        <link href="https://www.youtube.com/watch?v=KGpn9U4Y-E0"/>
-        <updated>2023-10-01T04:30:10.000Z</updated>
-        <author>
-            <name>Manorama Music Christian Devotional</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poomaname | Nirakkoottu | Mammootty | Sumalatha | Markose | Shyam | Joshiy]]></title>
-        <id>https://www.youtube.com/watch?v=VzVAZYMsd_Q</id>
-        <link href="https://www.youtube.com/watch?v=VzVAZYMsd_Q"/>
-        <updated>2023-10-01T04:30:10.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
