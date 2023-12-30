@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-30T15:16:26.782Z</updated>
+    <updated>2023-12-30T16:22:57.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32935,15 +32935,6 @@
         <updated>2023-10-02T04:25:23.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medamaasa Pulari Kayalil| Minda Poochakku Kalyanam| Yesudas| Raveendran| Sureshgopi| Sound of Arts]]></title>
-        <id>https://www.youtube.com/watch?v=LNP5KQEUlSk</id>
-        <link href="https://www.youtube.com/watch?v=LNP5KQEUlSk"/>
-        <updated>2023-10-02T03:30:07.000Z</updated>
-        <author>
-            <name>Malayalam Chithrageetham</name>
         </author>
     </entry>
 </feed>
