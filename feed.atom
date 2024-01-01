@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T09:18:11.523Z</updated>
+    <updated>2024-01-01T10:19:54.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Poovu Chodichu | Mokksha Singing | Chithini Movie |  Mokksha | East Coast Vijayan | Vijay Karun]]></title>
+        <id>https://www.youtube.com/watch?v=5AfRhKAzdmg</id>
+        <link href="https://www.youtube.com/watch?v=5AfRhKAzdmg"/>
+        <updated>2024-01-01T09:50:47.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 ൽ ഞാൻ ആദ്യം കേട്ട മരിയൻ ഗാനങ്ങൾ #mothermarysongs  #2024  best mother mary hits]]></title>
         <id>https://www.youtube.com/watch?v=m66PoP7rACI</id>
@@ -32627,15 +32636,6 @@
         <id>https://www.youtube.com/watch?v=8Q1kSm3UEPE</id>
         <link href="https://www.youtube.com/watch?v=8Q1kSm3UEPE"/>
         <updated>2023-10-03T23:30:02.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=OI4p6b6VST8</id>
-        <link href="https://www.youtube.com/watch?v=OI4p6b6VST8"/>
-        <updated>2023-10-03T22:00:22.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
