@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T10:19:54.584Z</updated>
+    <updated>2024-01-01T11:15:00.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Peelithirumudiyunde| Achan Kombathu Amma Varampathu | Chithra | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=s3lVJ_ZJeT4</id>
+        <link href="https://www.youtube.com/watch?v=s3lVJ_ZJeT4"/>
+        <updated>2024-01-01T10:30:22.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദാസേട്ടനോടൊപ്പമുള്ള റെക്കോർഡിങ് അനുഭവങ്ങൾ | K S Chithra | Paadiyum Paranjum]]></title>
+        <id>https://www.youtube.com/watch?v=KWdFriy3d8E</id>
+        <link href="https://www.youtube.com/watch?v=KWdFriy3d8E"/>
+        <updated>2024-01-01T10:30:11.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poovu Chodichu | Mokksha Singing | Chithini Movie |  Mokksha | East Coast Vijayan | Vijay Karun]]></title>
         <id>https://www.youtube.com/watch?v=5AfRhKAzdmg</id>
