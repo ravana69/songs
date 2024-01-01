@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-01T14:16:40.660Z</updated>
+    <updated>2024-01-01T15:18:00.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 ൽ ഞാൻ ആദ്യം കേട്ട ഗാനങ്ങൾ #2024  morning Christian devotional songs Malayalam for January 2nd]]></title>
+        <id>https://www.youtube.com/watch?v=oHYHEJ9q0I4</id>
+        <link href="https://www.youtube.com/watch?v=oHYHEJ9q0I4"/>
+        <updated>2024-01-01T15:00:39.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iru Meyyum Oru Manassum | Njangal Santhushtaraanu | Jayaram | Abhirami | Yesudas | Ouseppachan]]></title>
+        <id>https://www.youtube.com/watch?v=dVhQnT0X9EY</id>
+        <link href="https://www.youtube.com/watch?v=dVhQnT0X9EY"/>
+        <updated>2024-01-01T14:30:10.000Z</updated>
+        <author>
+            <name>Speed Music Videos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moham Manassilittu | Arjunan Pillayum Anchu Makkalum | Pradeep Somasundaram | Mohan Sithara]]></title>
         <id>https://www.youtube.com/watch?v=nSsO4vR42lA</id>
@@ -32674,15 +32692,6 @@
         <updated>2023-10-04T03:30:08.000Z</updated>
         <author>
             <name>Manorama Music Christian Devotional</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neelaravil Innu Ninte | Kudumbasametham | Yesudas | Johnson | Kaithapram | Sound of Arts]]></title>
-        <id>https://www.youtube.com/watch?v=GCK8s_xp6Og</id>
-        <link href="https://www.youtube.com/watch?v=GCK8s_xp6Og"/>
-        <updated>2023-10-04T03:00:06.000Z</updated>
-        <author>
-            <name>Malayalam Chithrageetham</name>
         </author>
     </entry>
 </feed>
