@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T07:16:23.287Z</updated>
+    <updated>2024-01-02T08:22:26.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പുതുവർഷത്തിലും പുതുമോടിയോടെ കേൾക്കും പുത്തനുണർവേകും സിനിമാഗാനങ്ങൾ ! NEW YEAR SPECIAL SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=d_FVzGbCnk8</id>
+        <link href="https://www.youtube.com/watch?v=d_FVzGbCnk8"/>
+        <updated>2024-01-02T08:20:05.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inku Nukarnnurangi | Kaattaruvi (1983) | KJ Yesudas | G Devarajan | Mammootty Songs]]></title>
+        <id>https://www.youtube.com/watch?v=yqx92oZ4lGE</id>
+        <link href="https://www.youtube.com/watch?v=yqx92oZ4lGE"/>
+        <updated>2024-01-02T07:30:12.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thaaram Vaalkannaadi Nokki | Keli | Bharathan | K S Chithra | Kaithapram #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=_kZkXbz4ICo</id>
+        <link href="https://www.youtube.com/watch?v=_kZkXbz4ICo"/>
+        <updated>2024-01-02T07:17:48.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈസ്റ്റ്‌ കോസ്റ്റ് - ചിത്തിനി പുതുവര്‍ഷാഘോഷ വേളയില്‍ നടി ആരതി നായരുടെ തകര്‍പ്പന്‍ പെര്‍ഫോമന്‍സ്]]></title>
         <id>https://www.youtube.com/watch?v=-EfZ5C42mG0</id>
@@ -32395,15 +32422,6 @@
         <updated>2023-10-04T22:00:18.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=8eU36oh_UNk</id>
-        <link href="https://www.youtube.com/watch?v=8eU36oh_UNk"/>
-        <updated>2023-10-04T19:30:01.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
