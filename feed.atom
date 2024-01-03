@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T22:17:13.397Z</updated>
+    <updated>2024-01-03T23:19:07.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32368,15 +32368,6 @@
         <updated>2023-10-06T11:30:00.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theeravum Video Song | Acid Movie | Navneet | Krithikha S | Aravind Dileep Nair | Abins Alias]]></title>
-        <id>https://www.youtube.com/watch?v=yTc7Tbg4VfY</id>
-        <link href="https://www.youtube.com/watch?v=yTc7Tbg4VfY"/>
-        <updated>2023-10-06T10:30:09.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
