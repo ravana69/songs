@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T08:22:42.029Z</updated>
+    <updated>2024-01-03T09:18:48.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[വി.ചാവറ പിതാവിനെക്കുറിച്ചുള്ള മനോഹരമായ ഗാനം #frshajithumpechirayil #cmcvision]]></title>
+        <id>https://www.youtube.com/watch?v=r2AnoVFHjuY</id>
+        <link href="https://www.youtube.com/watch?v=r2AnoVFHjuY"/>
+        <updated>2024-01-03T08:28:33.000Z</updated>
+        <author>
+            <name>Celebrants India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എക്കാലവും മലയാളികളുടെ പ്ലേ ലിസ്റ്റിൽ സ്ഥാനം നേടിയ നിത്യ യൗവന ഗാനങ്ങൾ | SUPERHIT MELODY SONGS]]></title>
         <id>https://www.youtube.com/watch?v=wHSqW119qfs</id>
