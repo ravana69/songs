@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-06T10:18:37.770Z</updated>
+    <updated>2024-01-06T11:14:11.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dhim Dhim Dhimidhimi Video Song | Maanthrikam | Mohanlal | MG Sreekumar | SP Venkitesh | ONV Kurup]]></title>
+        <id>https://www.youtube.com/watch?v=6bZV5Wqmdv4</id>
+        <link href="https://www.youtube.com/watch?v=6bZV5Wqmdv4"/>
+        <updated>2024-01-06T10:30:04.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ദനഹാത്തിരുനാൾ 2024 | Short Video | Fr. Shaji Thumpechirayil]]></title>
         <id>https://www.youtube.com/watch?v=pKp18HksHR4</id>
