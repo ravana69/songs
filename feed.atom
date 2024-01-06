@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-06T22:16:43.158Z</updated>
+    <updated>2024-01-06T23:17:39.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എൻ്റെ  കർത്താവിൻറെ അമ്മയുടെ ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #sangeethajapamala #japamala 7th]]></title>
+        <id>https://www.youtube.com/watch?v=FmmIaHO0_no</id>
+        <link href="https://www.youtube.com/watch?v=FmmIaHO0_no"/>
+        <updated>2024-01-06T23:00:08.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=oBpukvDFHng</id>
@@ -32395,15 +32404,6 @@
         <updated>2023-10-09T11:30:10.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chiri Chiriyo Video Song | Mammootty | Bhavana | Rambha | Mukesh | Deepak Dev | KJ Yesudas | Ganga]]></title>
-        <id>https://www.youtube.com/watch?v=aVrKwfWUUqI</id>
-        <link href="https://www.youtube.com/watch?v=aVrKwfWUUqI"/>
-        <updated>2023-10-09T10:39:17.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
