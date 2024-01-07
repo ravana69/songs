@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-07T13:19:30.075Z</updated>
+    <updated>2024-01-07T14:15:39.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christian Melody Songs | Chithra Arun | Christian Devotional Songs Malayalam | Manoj Christy]]></title>
+        <id>https://www.youtube.com/watch?v=yfSQJ7Dq2k8</id>
+        <link href="https://www.youtube.com/watch?v=yfSQJ7Dq2k8"/>
+        <updated>2024-01-07T13:30:24.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഒരേറ്റുപറച്ചിലിന്റെ കല്ലേറ് ദൂരത്തിൽ അവൻ നിനക്കായി കാത്തിരിപ്പുണ്ട്.  |Rev. Aneesh P Joseph#shorts]]></title>
         <id>https://www.youtube.com/watch?v=kyovexi0JSU</id>
@@ -32341,24 +32350,6 @@
         <updated>2023-10-10T02:30:13.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chimmi Chimmi | Shorts #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=vlPfVub67Ts</id>
-        <link href="https://www.youtube.com/watch?v=vlPfVub67Ts"/>
-        <updated>2023-10-10T01:30:20.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Sambathennu Cholluvan | Sadhu Kochukunjupadeshi #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=5Ce3r1yRUXI</id>
-        <link href="https://www.youtube.com/watch?v=5Ce3r1yRUXI"/>
-        <updated>2023-10-10T01:30:01.000Z</updated>
-        <author>
-            <name>Manorama Music Christian Devotional</name>
         </author>
     </entry>
 </feed>
