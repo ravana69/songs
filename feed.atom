@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-07T18:21:22.536Z</updated>
+    <updated>2024-01-07T19:13:38.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന January 8 # Athiravile Prarthana 8th January 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=23pBe8uZ_UQ</id>
+        <link href="https://www.youtube.com/watch?v=23pBe8uZ_UQ"/>
+        <updated>2024-01-07T19:00:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=pYIDdInqZJA</id>
+        <link href="https://www.youtube.com/watch?v=pYIDdInqZJA"/>
+        <updated>2024-01-07T18:30:41.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 8th January 2024]]></title>
         <id>https://www.youtube.com/watch?v=Yok2mpRbIvw</id>
@@ -32296,24 +32314,6 @@
         <updated>2023-10-10T07:30:04.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pilarnnatham Paraye | Christian Devotional Reels  #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=unYykotgkCo</id>
-        <link href="https://www.youtube.com/watch?v=unYykotgkCo"/>
-        <updated>2023-10-10T06:30:08.000Z</updated>
-        <author>
-            <name>Manorama Music Christian Devotional</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nee Vida Parayumbol Remastering Song Dhanam Movie Song KJ Yesudas  PK Gopi Raveendran]]></title>
-        <id>https://www.youtube.com/watch?v=ak35I814QHg</id>
-        <link href="https://www.youtube.com/watch?v=ak35I814QHg"/>
-        <updated>2023-10-10T06:21:37.000Z</updated>
-        <author>
-            <name>Speed Audios</name>
         </author>
     </entry>
 </feed>
