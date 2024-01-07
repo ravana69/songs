@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-07T14:15:39.060Z</updated>
+    <updated>2024-01-07T15:17:57.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iniyum paribhavamaruthe(കൈക്കുടന്ന നിലാവ് )Vinod velayudhan]]></title>
+        <id>https://www.youtube.com/watch?v=-OtD9HP7lHc</id>
+        <link href="https://www.youtube.com/watch?v=-OtD9HP7lHc"/>
+        <updated>2024-01-07T15:01:42.000Z</updated>
+        <author>
+            <name>ഗാനകേളി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panimathiye Punaroo | Symphony | Deepak Dev | KJ Yesudas | Kaithapram | IV Sasi | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=34UXcnSQhiQ</id>
+        <link href="https://www.youtube.com/watch?v=34UXcnSQhiQ"/>
+        <updated>2024-01-07T14:30:02.000Z</updated>
+        <author>
+            <name>Speed Music Videos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Melody Songs | Chithra Arun | Christian Devotional Songs Malayalam | Manoj Christy]]></title>
         <id>https://www.youtube.com/watch?v=yfSQJ7Dq2k8</id>
@@ -32332,24 +32350,6 @@
         <updated>2023-10-10T04:30:17.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shyamambharam Neele | Artham | Yesudas | Johnson | Mammootty | Sound of Arts]]></title>
-        <id>https://www.youtube.com/watch?v=w-DsbCvxc-Q</id>
-        <link href="https://www.youtube.com/watch?v=w-DsbCvxc-Q"/>
-        <updated>2023-10-10T03:00:34.000Z</updated>
-        <author>
-            <name>Malayalam Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ കേൾക്കാൻ ഇത്ര നല്ല ഗാനം ഉണ്ടോ  അളവില്ലാ നന്മയാം ദൈവമേ #Ammayune Punniyam #jojo johny #johnson]]></title>
-        <id>https://www.youtube.com/watch?v=QcGRToi5U3M</id>
-        <link href="https://www.youtube.com/watch?v=QcGRToi5U3M"/>
-        <updated>2023-10-10T02:30:13.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
         </author>
     </entry>
 </feed>
