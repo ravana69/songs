@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-07T09:16:29.291Z</updated>
+    <updated>2024-01-07T10:19:04.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[shoka mookamay-F(തച്ചിലേടത്ത് ചുണ്ടൻ )Vinod velayudhan]]></title>
+        <id>https://www.youtube.com/watch?v=GJZkOqwV2Xw</id>
+        <link href="https://www.youtube.com/watch?v=GJZkOqwV2Xw"/>
+        <updated>2024-01-07T09:21:27.000Z</updated>
+        <author>
+            <name>ഗാനകേളി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Drowning in the sea of a dramatic serenade #AadhyanuraagamNee #Khadhikan #shorts #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=eeo6jcWzJjI</id>
@@ -32303,15 +32312,6 @@
         <id>https://www.youtube.com/watch?v=1Kxn8MNhjrw</id>
         <link href="https://www.youtube.com/watch?v=1Kxn8MNhjrw"/>
         <updated>2023-10-09T23:30:00.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=M7hkA2J6AoA</id>
-        <link href="https://www.youtube.com/watch?v=M7hkA2J6AoA"/>
-        <updated>2023-10-09T22:00:16.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
