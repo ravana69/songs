@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-08T15:18:58.497Z</updated>
+    <updated>2024-01-08T16:24:06.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[8 January 2024]]></title>
+        <id>https://www.youtube.com/watch?v=7To6LpJGBhk</id>
+        <link href="https://www.youtube.com/watch?v=7To6LpJGBhk"/>
+        <updated>2024-01-08T15:30:14.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാപിതാക്കളുടെ സ്നേഹം ഓർത്തുപോകും ഈ ഗാനങ്ങൾ കേട്ടാൽ | Biju Narayanan | Christian Melody Songs]]></title>
         <id>https://www.youtube.com/watch?v=7vpyPxFGU0Q</id>
@@ -32269,15 +32278,6 @@
         <updated>2023-10-11T04:30:13.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enne Karuthunna Vidhangal Christian Devotional Reels 04]]></title>
-        <id>https://www.youtube.com/watch?v=AqbFsl86Z40</id>
-        <link href="https://www.youtube.com/watch?v=AqbFsl86Z40"/>
-        <updated>2023-10-11T03:30:08.000Z</updated>
-        <author>
-            <name>Manorama Music Christian Devotional</name>
         </author>
     </entry>
 </feed>
