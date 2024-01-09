@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T20:19:35.028Z</updated>
+    <updated>2024-01-09T21:15:53.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32314,15 +32314,6 @@
         <updated>2023-10-12T11:30:02.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പുന്നാരം തുടി | Punnaram Thudi | Newspaper Boy Movie Song | Gireesh Puthenchery | Yesudas | Mukesh]]></title>
-        <id>https://www.youtube.com/watch?v=UxRxNcCiTG0</id>
-        <link href="https://www.youtube.com/watch?v=UxRxNcCiTG0"/>
-        <updated>2023-10-12T08:30:12.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
