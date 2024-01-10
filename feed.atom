@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-10T02:30:28.093Z</updated>
+    <updated>2024-01-10T03:19:22.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32242,24 +32242,6 @@
         <updated>2023-10-12T17:43:20.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enne Ninakkay Njaan - Lyrical Video | Tiger Nageswara Rao (Malayalam) | Ravi Teja | GV Prakash Kumar]]></title>
-        <id>https://www.youtube.com/watch?v=67hKIdk0ftM</id>
-        <link href="https://www.youtube.com/watch?v=67hKIdk0ftM"/>
-        <updated>2023-10-12T15:15:45.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സമുദ്രതാരമേ മേരി മാതേ...]]></title>
-        <id>https://www.youtube.com/watch?v=1Gj7yt9spMc</id>
-        <link href="https://www.youtube.com/watch?v=1Gj7yt9spMc"/>
-        <updated>2023-10-12T14:51:16.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
