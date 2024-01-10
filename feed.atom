@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-10T12:35:17.839Z</updated>
+    <updated>2024-01-10T13:21:50.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32431,15 +32431,6 @@
         <updated>2023-10-13T01:30:10.000Z</updated>
         <author>
             <name>Manorama Music Christian Devotional</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sangeetha japamala prayer #dhukkathinte rahasyangal #അമ്മയെൻ പുണ്യം#ദുഃഖത്തിൻറെ രഹസ്യങ്ങൾ]]></title>
-        <id>https://www.youtube.com/watch?v=KFhoFc0Uxdw</id>
-        <link href="https://www.youtube.com/watch?v=KFhoFc0Uxdw"/>
-        <updated>2023-10-13T00:45:00.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
         </author>
     </entry>
 </feed>
