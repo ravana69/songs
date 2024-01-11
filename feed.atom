@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-11T16:24:37.354Z</updated>
+    <updated>2024-01-11T17:16:28.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32251,24 +32251,6 @@
         <updated>2023-10-14T05:30:10.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninavinte Kaayalil Remastered Audio Song Maniyara Movie Song KJ Yesudas  Ambili P Bhaskaran AT Ummer]]></title>
-        <id>https://www.youtube.com/watch?v=SeymGE74kJ0</id>
-        <link href="https://www.youtube.com/watch?v=SeymGE74kJ0"/>
-        <updated>2023-10-14T05:12:18.000Z</updated>
-        <author>
-            <name>Speed Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kiliye Kiliye | Nokketha Doorath Kannnum MNattu | Mohanlal | Nadiya Moidu | Chithra | Fazil]]></title>
-        <id>https://www.youtube.com/watch?v=F2OqVI1FEOw</id>
-        <link href="https://www.youtube.com/watch?v=F2OqVI1FEOw"/>
-        <updated>2023-10-14T04:30:04.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
