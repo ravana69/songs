@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-12T15:18:13.730Z</updated>
+    <updated>2024-01-12T16:24:11.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32296,24 +32296,6 @@
         <updated>2023-10-15T04:30:03.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CHRISTIAN DEVOTIONAL SONG | എന്റെ ദൈവം മഹത്വത്തിൽ  | ROY PUTHUR | MITHILA #royputhur #devotional]]></title>
-        <id>https://www.youtube.com/watch?v=K2dvdeMX_hA</id>
-        <link href="https://www.youtube.com/watch?v=K2dvdeMX_hA"/>
-        <updated>2023-10-15T03:46:34.000Z</updated>
-        <author>
-            <name>Rayan Media Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devi Navaratri Geetham | Devotional Jukebox | Back-to-Back Navaratri Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Ync3HlJqoag</id>
-        <link href="https://www.youtube.com/watch?v=Ync3HlJqoag"/>
-        <updated>2023-10-15T03:30:20.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
