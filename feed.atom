@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T10:18:44.303Z</updated>
+    <updated>2024-01-13T11:14:19.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[All-Time Love Cues (Malayalam) | Neela Nilave | Elamalakaadinullil | Mazha Pattu]]></title>
+        <id>https://www.youtube.com/watch?v=s2-4IA35LCE</id>
+        <link href="https://www.youtube.com/watch?v=s2-4IA35LCE"/>
+        <updated>2024-01-13T10:30:29.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എല്ലാവർക്കും മാതൃകയാക്കാവുന്ന ഒരു ഉപേദശവുമായ് ചിത്രച്ചേച്ചി | Padiyum Paranjum]]></title>
+        <id>https://www.youtube.com/watch?v=V-xZzE-7PBs</id>
+        <link href="https://www.youtube.com/watch?v=V-xZzE-7PBs"/>
+        <updated>2024-01-13T10:30:16.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virinja Marlarithal Video Song | Mr. Micheal | Prem Nazir | Seema | Jose |]]></title>
+        <id>https://www.youtube.com/watch?v=s35HtE2WKvw</id>
+        <link href="https://www.youtube.com/watch?v=s35HtE2WKvw"/>
+        <updated>2024-01-13T10:30:14.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മകരനിലാവ് | Audio Jukebox | Hits of Kalaratnam KG Jayan | Jaya Vijaya | Ayyappa Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=dH3eHHy_KtM</id>
+        <link href="https://www.youtube.com/watch?v=dH3eHHy_KtM"/>
+        <updated>2024-01-13T09:41:09.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keli Vipinam Video Song | Manthrikam | Mohanlal | Biju Narayanan | SP Venkitesh | ONV Kurup]]></title>
         <id>https://www.youtube.com/watch?v=yEJme9TpliI</id>
