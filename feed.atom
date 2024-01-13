@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T15:17:18.106Z</updated>
+    <updated>2024-01-13T16:22:24.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32314,15 +32314,6 @@
         <updated>2023-10-16T04:30:24.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hits of Prithviraj | Audio Jukebox | Super Hit Malayalam Film Songs | K.J.Yesudas | M G Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=YKSoRs2VMLQ</id>
-        <link href="https://www.youtube.com/watch?v=YKSoRs2VMLQ"/>
-        <updated>2023-10-16T04:16:07.000Z</updated>
-        <author>
-            <name>Malayalam Film songs</name>
         </author>
     </entry>
 </feed>
