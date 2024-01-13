@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T12:32:56.548Z</updated>
+    <updated>2024-01-13T13:19:05.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -32332,24 +32332,6 @@
         <updated>2023-10-16T01:30:11.000Z</updated>
         <author>
             <name>Manorama Music Christian Devotional</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ലോകജനത  ഇരുകൈകളാൽ  സ്വീകരിച്ച  ഏറ്റവും  പുതിയ ഗാനം # തീർച്ച  ഈ ഗാനം നിങ്ങൾക്കും ഇഷ്ടപെടും]]></title>
-        <id>https://www.youtube.com/watch?v=7L3EzWgxdPw</id>
-        <link href="https://www.youtube.com/watch?v=7L3EzWgxdPw"/>
-        <updated>2023-10-16T00:58:39.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സംഗീത ജപമാല #sangeetha #japamala  #അമ്മയെൻ പുണ്യം #ammayenne punnyam #santhoshathinte rahasyangal]]></title>
-        <id>https://www.youtube.com/watch?v=EbwXgaw9Z3E</id>
-        <link href="https://www.youtube.com/watch?v=EbwXgaw9Z3E"/>
-        <updated>2023-10-16T00:51:01.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
         </author>
     </entry>
 </feed>
