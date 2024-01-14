@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-14T07:16:03.642Z</updated>
+    <updated>2024-01-14T08:21:23.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Arayilotta Mundedutha | Oru Sundariyude Kadha | Vayalar | G Devarajan | KJ Yesudas | Jayabharathy]]></title>
+        <id>https://www.youtube.com/watch?v=xP2ooXHUyaE</id>
+        <link href="https://www.youtube.com/watch?v=xP2ooXHUyaE"/>
+        <updated>2024-01-14T07:30:22.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choraveena Mannil | Video Song | Sreenivasan | Arabikadha | Bijibal | Anil Panachooran]]></title>
+        <id>https://www.youtube.com/watch?v=MNJPbSTRbTk</id>
+        <link href="https://www.youtube.com/watch?v=MNJPbSTRbTk"/>
+        <updated>2024-01-14T07:30:10.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A melody that never fades #PraananPol #Bandra #Dileep #Tamannaah #shorts #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=a8pOdAGDGuE</id>
@@ -32161,15 +32179,6 @@
         <updated>2023-10-16T22:00:23.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=HDtmi6yBrzk</id>
-        <link href="https://www.youtube.com/watch?v=HDtmi6yBrzk"/>
-        <updated>2023-10-16T19:30:00.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
