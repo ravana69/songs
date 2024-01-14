@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-14T18:21:30.449Z</updated>
+    <updated>2024-01-14T19:13:59.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന January 15 # Athiravile Prarthana 15th January 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=QLz7-94e8Ek</id>
+        <link href="https://www.youtube.com/watch?v=QLz7-94e8Ek"/>
+        <updated>2024-01-14T19:00:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=pOysFPshC4U</id>
+        <link href="https://www.youtube.com/watch?v=pOysFPshC4U"/>
+        <updated>2024-01-14T18:30:36.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മണ്ഡലകാലത്തിൻറെ ഭക്തി നിറഞ്ഞ രാപ്പകലുകളിൽ കേട്ടിരിക്കാൻ അയ്യപ്പസ്തുതികൾ | കെ ജെ യേശുദാസ് |Remastered]]></title>
         <id>https://www.youtube.com/watch?v=keVDzAP4xRU</id>
@@ -32134,24 +32152,6 @@
         <updated>2023-10-17T07:30:09.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthuthi Aaradhanaganangal | Kester | Wilson Piravom | RSV | Praise & Worship Songs | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=pXowSdDs_vg</id>
-        <link href="https://www.youtube.com/watch?v=pXowSdDs_vg"/>
-        <updated>2023-10-17T07:10:10.000Z</updated>
-        <author>
-            <name>Manorama Music Christian Devotional</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Chandrika - Chill Trap | Shyam Singha Roy (Malayalam) | Mickey J. Meyer | Anurag Kulkarni]]></title>
-        <id>https://www.youtube.com/watch?v=dOuz3t5JFPs</id>
-        <link href="https://www.youtube.com/watch?v=dOuz3t5JFPs"/>
-        <updated>2023-10-17T06:51:14.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
