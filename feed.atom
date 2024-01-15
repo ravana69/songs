@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-15T13:22:15.784Z</updated>
+    <updated>2024-01-15T14:17:49.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Doore Oru Thaaram | Meenathil Thalikettu | KJ Yesudas | KS Chithra |Ouseppachan |Gireesh Puthanchery]]></title>
+        <id>https://www.youtube.com/watch?v=tMsK6mhocMA</id>
+        <link href="https://www.youtube.com/watch?v=tMsK6mhocMA"/>
+        <updated>2024-01-15T13:30:18.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജീവനുള്ള കാലംവരെയും എന്നും പാടുന്ന ക്രിസ്തീയ ഗാനങ്ങൾ  | Christian Devotional Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=KpxrXzTK4r8</id>
+        <link href="https://www.youtube.com/watch?v=KpxrXzTK4r8"/>
+        <updated>2024-01-15T13:30:06.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yeshunadhan | Yeshudevante Divyakarunyam Niranja Kristheeya Bhakthiganangal | Audio Jukebox]]></title>
         <id>https://www.youtube.com/watch?v=ETTQ4KZg9kM</id>
@@ -32053,15 +32071,6 @@
         <updated>2023-10-18T04:17:59.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉഷകാലം നാം എഴുന്നേൽക്കുക | CHRISTIAN DEVOTIONAL SONG  | ROY PUTHUR | MITHILA #royputhur #devotional]]></title>
-        <id>https://www.youtube.com/watch?v=pfplBmFqef4</id>
-        <link href="https://www.youtube.com/watch?v=pfplBmFqef4"/>
-        <updated>2023-10-18T02:06:57.000Z</updated>
-        <author>
-            <name>Rayan Media Productions</name>
         </author>
     </entry>
 </feed>
