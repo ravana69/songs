@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-15T11:15:56.088Z</updated>
+    <updated>2024-01-15T12:35:26.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ദൈവത്തിന് നിങ്ങൾ പ്രിയപ്പെട്ടതാണ്  | Rev. Aneesh P Joseph   | #shorts #motivationalvideo]]></title>
+        <id>https://www.youtube.com/watch?v=3mu7SABjjWE</id>
+        <link href="https://www.youtube.com/watch?v=3mu7SABjjWE"/>
+        <updated>2024-01-15T12:30:07.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chaanchakkam Thenniyum Video Song | Johnnie Walker | KJ Yesudas | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=ANIUaAi4tMU</id>
+        <link href="https://www.youtube.com/watch?v=ANIUaAi4tMU"/>
+        <updated>2024-01-15T12:15:00.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manassil Midhuna Mazha | Nandanam | MG Sreekumar | Raveendran | Gireesh Puthanchery]]></title>
+        <id>https://www.youtube.com/watch?v=tQXJD2PYNmc</id>
+        <link href="https://www.youtube.com/watch?v=tQXJD2PYNmc"/>
+        <updated>2024-01-15T12:00:55.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vilapikkunnavarkku Bhagyam| Elizabeth Raju | Fr.John Pichappilly | Sebi Nayarambalam |Christian Song]]></title>
+        <id>https://www.youtube.com/watch?v=BiigcJIhIf4</id>
+        <link href="https://www.youtube.com/watch?v=BiigcJIhIf4"/>
+        <updated>2024-01-15T11:30:14.000Z</updated>
+        <author>
+            <name>Manorama Music Christian Devotional</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങുംമുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 15th January 2024]]></title>
+        <id>https://www.youtube.com/watch?v=FqMPiv9TNH8</id>
+        <link href="https://www.youtube.com/watch?v=FqMPiv9TNH8"/>
+        <updated>2024-01-15T11:30:10.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Snehadeepam Koluthi Video Song | Sreedevi Malayalam Movie | P Madhuri | Kamal Haasan | Sharada]]></title>
         <id>https://www.youtube.com/watch?v=GMbuSE6F82w</id>
@@ -31990,42 +32035,6 @@
         <updated>2023-10-18T02:06:57.000Z</updated>
         <author>
             <name>Rayan Media Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oo Nadhe Mariye | Christian Video Song | Kester | Mariyan Song | Gisha Sony | Joji Johns|Melody Song]]></title>
-        <id>https://www.youtube.com/watch?v=Pg-njMrq4qs</id>
-        <link href="https://www.youtube.com/watch?v=Pg-njMrq4qs"/>
-        <updated>2023-10-18T00:30:14.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[October 18]]></title>
-        <id>https://www.youtube.com/watch?v=_bk8434xrsg</id>
-        <link href="https://www.youtube.com/watch?v=_bk8434xrsg"/>
-        <updated>2023-10-18T00:29:45.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മഹിമയുടെ രഹസ്യങ്ങൾ  #സംഗീത ജപമാല #sangeetha japamala #2023 new japamala #jojo johny #johnson kk]]></title>
-        <id>https://www.youtube.com/watch?v=nkozec4l6aM</id>
-        <link href="https://www.youtube.com/watch?v=nkozec4l6aM"/>
-        <updated>2023-10-18T00:00:19.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 18th of October 2023 # Mathavinte Japamala # Mahimayude Rahasyangal 18th of October 23]]></title>
-        <id>https://www.youtube.com/watch?v=dEyoBybQVjU</id>
-        <link href="https://www.youtube.com/watch?v=dEyoBybQVjU"/>
-        <updated>2023-10-17T23:30:13.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
