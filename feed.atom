@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-15T16:24:00.062Z</updated>
+    <updated>2024-01-15T17:16:49.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tribute to the maker of Melodies K J Joy | കെ ജെ ജോയ് ഹിറ്റ്‌സ് | മലയാളചലച്ചിത്രഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=phNlme6wdmY</id>
+        <link href="https://www.youtube.com/watch?v=phNlme6wdmY"/>
+        <updated>2024-01-15T16:33:14.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manjil Kulikkum | Veruthe Oru Bharya | Jayaram | Gopika | Shyam Dharman]]></title>
         <id>https://www.youtube.com/watch?v=15PeYtTPcQ8</id>
@@ -32044,42 +32053,6 @@
         <updated>2023-10-18T05:30:04.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vegam Eridunnu | Safeer V Jabbar | Hari S R | Vinayak Saratchandran | Digital Village | Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=TvSWPFWZ-EM</id>
-        <link href="https://www.youtube.com/watch?v=TvSWPFWZ-EM"/>
-        <updated>2023-10-18T04:48:59.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kunnum Keri | Cheenatrophy Film |Dhyan Sreenivasan |Sooraj Santhosh |Varkey | Parvathy AG | Anil Lal]]></title>
-        <id>https://www.youtube.com/watch?v=BfQfoUp2YGo</id>
-        <link href="https://www.youtube.com/watch?v=BfQfoUp2YGo"/>
-        <updated>2023-10-18T04:38:01.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karuthunnavan Njanallayo | Shorts  #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=EBALu5HxYbE</id>
-        <link href="https://www.youtube.com/watch?v=EBALu5HxYbE"/>
-        <updated>2023-10-18T04:30:10.000Z</updated>
-        <author>
-            <name>Manorama Music Christian Devotional</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Utharaayanakkili Paadi | Thaara | Vayalar | G Devarajan | KJ Yesudas | Vayalar Ramavarma]]></title>
-        <id>https://www.youtube.com/watch?v=MAUo7CNRvCA</id>
-        <link href="https://www.youtube.com/watch?v=MAUo7CNRvCA"/>
-        <updated>2023-10-18T04:30:05.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
