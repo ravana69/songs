@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-15T21:16:59.112Z</updated>
+    <updated>2024-01-15T22:17:40.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഇന്ന് ജനുവരി 16  എൻറെ കർത്താവിൻറെ അമ്മയുടെ ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #Dhukathinte രഹസ്യ]]></title>
+        <id>https://www.youtube.com/watch?v=vTn7zaPonSI</id>
+        <link href="https://www.youtube.com/watch?v=vTn7zaPonSI"/>
+        <updated>2024-01-15T22:00:25.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=WJPSMzGSLzY</id>
+        <link href="https://www.youtube.com/watch?v=WJPSMzGSLzY"/>
+        <updated>2024-01-15T22:00:14.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന January 16 # Athiravile Prarthana 16th January 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=03KAhbFwPa8</id>
@@ -31981,24 +31999,6 @@
         <updated>2023-10-18T10:30:18.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swaragaminnente Vdeo Song | Sagaram Sakshi | Mammootty | Sukanya | Kaithapram | KJ Yesudas| Sharreth]]></title>
-        <id>https://www.youtube.com/watch?v=RcEgXOYDTVA</id>
-        <link href="https://www.youtube.com/watch?v=RcEgXOYDTVA"/>
-        <updated>2023-10-18T09:31:19.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കാക്കേ കാക്കേ കാവതി കാക്കേ | Kakke Kakke Kaavathikkakke | Daivatheyorthu Film Song | P Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=01k-g2ITKJU</id>
-        <link href="https://www.youtube.com/watch?v=01k-g2ITKJU"/>
-        <updated>2023-10-18T09:22:04.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
