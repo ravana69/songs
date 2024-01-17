@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T16:24:32.725Z</updated>
+    <updated>2024-01-17T17:16:55.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maranno Nee Nilaavil | Five Star Hospital | KJ Yesudas | Siddique | Kaveri | Bomaby Ravi]]></title>
+        <id>https://www.youtube.com/watch?v=QGXhOA--ONo</id>
+        <link href="https://www.youtube.com/watch?v=QGXhOA--ONo"/>
+        <updated>2024-01-17T16:33:53.000Z</updated>
+        <author>
+            <name>Speed Music Videos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marimaanmizhi Video Song | Aromalunni | P Madhuri | G Devarajan | Vayalar]]></title>
         <id>https://www.youtube.com/watch?v=GGydrpNJ7YI</id>
@@ -31936,24 +31945,6 @@
         <updated>2023-10-20T05:30:09.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anuraaga Lola Gaathri Remastered Audio Song Dhwani Movie KJ Yesudas Yusufali Kecheri Naushad]]></title>
-        <id>https://www.youtube.com/watch?v=1oEgiKcag_s</id>
-        <link href="https://www.youtube.com/watch?v=1oEgiKcag_s"/>
-        <updated>2023-10-20T05:15:59.000Z</updated>
-        <author>
-            <name>Speed Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nee Oru Vasantham | Beena | Bichu Thirumala | Kannur Rajan | K J Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=eGcRN1NhN5Y</id>
-        <link href="https://www.youtube.com/watch?v=eGcRN1NhN5Y"/>
-        <updated>2023-10-20T04:30:19.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
