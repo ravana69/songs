@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T14:17:34.005Z</updated>
+    <updated>2024-01-17T15:18:55.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Marimaanmizhi Video Song | Aromalunni | P Madhuri | G Devarajan | Vayalar]]></title>
+        <id>https://www.youtube.com/watch?v=GGydrpNJ7YI</id>
+        <link href="https://www.youtube.com/watch?v=GGydrpNJ7YI"/>
+        <updated>2024-01-17T14:45:01.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രാർത്ഥിക്കുന്ന നേരം മനസ്സിൽ ഓടിയെത്തുന്ന ക്രിസ്തീയഗാനങ്ങൾ | Wilson Piravom |Christian Melody Songs]]></title>
         <id>https://www.youtube.com/watch?v=So5qEYiIzgU</id>
@@ -31954,24 +31963,6 @@
         <updated>2023-10-20T04:24:32.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanamala Malayalam Devotional Songs Lord Krishna | Yesudas | S.Rameshan Nair | Sound of Arts]]></title>
-        <id>https://www.youtube.com/watch?v=OITTGUEkg3w</id>
-        <link href="https://www.youtube.com/watch?v=OITTGUEkg3w"/>
-        <updated>2023-10-20T03:00:17.000Z</updated>
-        <author>
-            <name>Malayalam Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[October 20]]></title>
-        <id>https://www.youtube.com/watch?v=nm04INf8YXg</id>
-        <link href="https://www.youtube.com/watch?v=nm04INf8YXg"/>
-        <updated>2023-10-20T02:26:16.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
