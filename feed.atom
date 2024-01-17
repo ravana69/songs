@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T17:16:55.946Z</updated>
+    <updated>2024-01-17T18:23:20.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 18th January 24]]></title>
+        <id>https://www.youtube.com/watch?v=RmAzzQibu84</id>
+        <link href="https://www.youtube.com/watch?v=RmAzzQibu84"/>
+        <updated>2024-01-17T18:00:25.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മഞ്ഞൾ പ്രസാദവും നെറ്റിയിൽ ചാർത്തി | കെ ജെ യേശുദാസ് | Selected Remastered Movie songs| Selected Hits]]></title>
+        <id>https://www.youtube.com/watch?v=KBGr4OZqsGo</id>
+        <link href="https://www.youtube.com/watch?v=KBGr4OZqsGo"/>
+        <updated>2024-01-17T17:47:23.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maranno Nee Nilaavil | Five Star Hospital | KJ Yesudas | Siddique | Kaveri | Bomaby Ravi]]></title>
         <id>https://www.youtube.com/watch?v=QGXhOA--ONo</id>
@@ -31927,24 +31945,6 @@
         <updated>2023-10-20T07:30:00.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enne Snehikkunna Daivam | Sneham Thulumbunna Kristheeya Bhakthigaanangal | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=B9KIZaOIqgU</id>
-        <link href="https://www.youtube.com/watch?v=B9KIZaOIqgU"/>
-        <updated>2023-10-20T06:22:00.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mukilvarna Mukunda | Karaoke Video | Bahubali 2 - The Conclusion | Swetha Mohan | M M Keeravani]]></title>
-        <id>https://www.youtube.com/watch?v=wwTqN0my2YU</id>
-        <link href="https://www.youtube.com/watch?v=wwTqN0my2YU"/>
-        <updated>2023-10-20T05:30:09.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
