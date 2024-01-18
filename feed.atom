@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T21:16:25.532Z</updated>
+    <updated>2024-01-18T22:17:44.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=_h88W7Yq_48</id>
+        <link href="https://www.youtube.com/watch?v=_h88W7Yq_48"/>
+        <updated>2024-01-18T22:00:24.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇന്ന് ജനുവരി 19  എൻറെ കർത്താവിൻറെ അമ്മയുടെ ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #dhukathinte]]></title>
+        <id>https://www.youtube.com/watch?v=_XDJ79lMnSU</id>
+        <link href="https://www.youtube.com/watch?v=_XDJ79lMnSU"/>
+        <updated>2024-01-18T22:00:16.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19 January 2024]]></title>
+        <id>https://www.youtube.com/watch?v=FnvOKL8xjk0</id>
+        <link href="https://www.youtube.com/watch?v=FnvOKL8xjk0"/>
+        <updated>2024-01-18T21:39:02.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന January 19 # Athiravile Prarthana 19th January 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=U2nT3qk9UVg</id>
@@ -31891,15 +31918,6 @@
         <updated>2023-10-21T10:30:08.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vikaara Naukayumayi Video Song | Amaram | Mammootty | KJ Yesudas | Raveendran | Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=qboVkft8TtI</id>
-        <link href="https://www.youtube.com/watch?v=qboVkft8TtI"/>
-        <updated>2023-10-21T09:25:19.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
