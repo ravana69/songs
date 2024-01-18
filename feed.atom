@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T07:17:30.610Z</updated>
+    <updated>2024-01-18T08:22:40.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Valuthayoru Marathinte Video Song | Chathurangam | Mohanlal | MG Sreekumar | Shibu Chakravarthy]]></title>
+        <id>https://www.youtube.com/watch?v=10k3R6yPjvc</id>
+        <link href="https://www.youtube.com/watch?v=10k3R6yPjvc"/>
+        <updated>2024-01-18T08:01:27.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മറഞ്ഞിരുന്നാലും മനസിന്റെ കോണിൽ തെളിയുന്ന മലയാളസിനിമയിലെ മെലഡി ഗാനങ്ങൾ ! EVERGREEN SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=NFQYStVoSJg</id>
+        <link href="https://www.youtube.com/watch?v=NFQYStVoSJg"/>
+        <updated>2024-01-18T07:56:43.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eden Poove | Daivathintemakan | Vidyasagar | P Jayachandran | K S Chithra  #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=TGLUsmgQe8Q</id>
+        <link href="https://www.youtube.com/watch?v=TGLUsmgQe8Q"/>
+        <updated>2024-01-18T07:21:19.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dance like no one is watching #Raakk #MalaikottaiVaaliban #Mohanlal #shorts #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=bnZV_DZ8KxM</id>
