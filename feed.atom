@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T11:16:00.592Z</updated>
+    <updated>2024-01-19T12:35:04.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Songs Of The Week | Kester | Christian Devotional Songs Malayalam | Joji Johns | Shymol Alex]]></title>
+        <id>https://www.youtube.com/watch?v=tWQVE9EzriQ</id>
+        <link href="https://www.youtube.com/watch?v=tWQVE9EzriQ"/>
+        <updated>2024-01-19T12:30:37.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നന്മയിലേക്കുള്ള പ്രയാണമല്ലേ ജീവിതം.| Rev. Aneesh P Joseph   | #shorts #motivationalvideo]]></title>
+        <id>https://www.youtube.com/watch?v=HjrCORlNt10</id>
+        <link href="https://www.youtube.com/watch?v=HjrCORlNt10"/>
+        <updated>2024-01-19T12:30:13.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ammaykkoru Ponnum Kudam Video Song | Ulsavamelam | Sujatha Mohan | Mohan Sithara | ONV Kurup]]></title>
+        <id>https://www.youtube.com/watch?v=dCNKXJzAPFE</id>
+        <link href="https://www.youtube.com/watch?v=dCNKXJzAPFE"/>
+        <updated>2024-01-19T12:15:04.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nilave Nilave |  Chattakaari #shreyaghoshal #shortsfeed #shorts #mjayachandran #reels #filmsongs]]></title>
+        <id>https://www.youtube.com/watch?v=zZj9McgyCl0</id>
+        <link href="https://www.youtube.com/watch?v=zZj9McgyCl0"/>
+        <updated>2024-01-19T12:01:01.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ravozhinju Meghangal - Video Song [Malayalam] | Perumkaliyattam |Madhu Balakrishnan |Satheesh Bhadra]]></title>
+        <id>https://www.youtube.com/watch?v=o-foDBJFZ_c</id>
+        <link href="https://www.youtube.com/watch?v=o-foDBJFZ_c"/>
+        <updated>2024-01-19T12:00:50.000Z</updated>
+        <author>
+            <name>MC Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theduvathethoru | Super Hit Malayalam Movie Song | Vaisali | Sanjay Mithra | Suparna - Chithra Hits]]></title>
+        <id>https://www.youtube.com/watch?v=RqQQnCFBXQU</id>
+        <link href="https://www.youtube.com/watch?v=RqQQnCFBXQU"/>
+        <updated>2024-01-19T12:00:19.000Z</updated>
+        <author>
+            <name>Music Zone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snehaswaroopa - Video Song | Palayam PC | Sadique Pandallur | Harsha KH | Suraj John Varkey]]></title>
+        <id>https://www.youtube.com/watch?v=XetwiIaifLA</id>
+        <link href="https://www.youtube.com/watch?v=XetwiIaifLA"/>
+        <updated>2024-01-19T11:45:02.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങുംമുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 19th January 2024]]></title>
+        <id>https://www.youtube.com/watch?v=R85KWjoqG5o</id>
+        <link href="https://www.youtube.com/watch?v=R85KWjoqG5o"/>
+        <updated>2024-01-19T11:30:11.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pathira Poochoodi Video Song | Mayilpeelikkavu | Kunchacko Boban | Jomol| KS Chithra |Berny Ignatius]]></title>
         <id>https://www.youtube.com/watch?v=hYiD6JVcGDo</id>
@@ -13,6 +85,15 @@
         <updated>2024-01-19T11:00:39.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innee Jeevitham | Aanandhapuram Diaries | Lyrical Video | Jackson Vijayan | Meena  | Jaya Jose Raj]]></title>
+        <id>https://www.youtube.com/watch?v=jBkLU7QbmXY</id>
+        <link href="https://www.youtube.com/watch?v=jBkLU7QbmXY"/>
+        <updated>2024-01-19T10:51:08.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -31828,33 +31909,6 @@
         <updated>2023-10-22T01:30:14.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feast of St.John Paul 2 | ഇന്ന് ജോൺപോൾ രണ്ടാമൻ മാർപാപ്പായുടെ തിരുനാൾ #frshajithumpechirayil]]></title>
-        <id>https://www.youtube.com/watch?v=ZggrGMOOtYU</id>
-        <link href="https://www.youtube.com/watch?v=ZggrGMOOtYU"/>
-        <updated>2023-10-22T00:30:24.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[തകർന്ന മനസുകളെ തലോടിയ സുന്ദര ഗാനങ്ങൾ | Christian Devotional Songs Malayalam | Kester]]></title>
-        <id>https://www.youtube.com/watch?v=oZpSVqDrGf8</id>
-        <link href="https://www.youtube.com/watch?v=oZpSVqDrGf8"/>
-        <updated>2023-10-22T00:30:20.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 22nd of October 2023 # Mathavinte Japamala # Mahimayude Rahasyangal 22nd of October 23]]></title>
-        <id>https://www.youtube.com/watch?v=9wtk7cujm7I</id>
-        <link href="https://www.youtube.com/watch?v=9wtk7cujm7I"/>
-        <updated>2023-10-21T23:30:01.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
