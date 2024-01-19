@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-19T21:15:48.909Z</updated>
+    <updated>2024-01-19T22:17:25.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=wb7f1Pkbcbg</id>
+        <link href="https://www.youtube.com/watch?v=wb7f1Pkbcbg"/>
+        <updated>2024-01-19T22:00:34.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇന്ന് ജനുവരി 20  എൻറെ കർത്താവിൻറെ അമ്മയുടെ ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #santhoshathinte]]></title>
+        <id>https://www.youtube.com/watch?v=_UHR0lopoD0</id>
+        <link href="https://www.youtube.com/watch?v=_UHR0lopoD0"/>
+        <updated>2024-01-19T22:00:26.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20 January 2024]]></title>
         <id>https://www.youtube.com/watch?v=1Gr6FknHLUQ</id>
