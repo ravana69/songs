@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-20T20:18:10.529Z</updated>
+    <updated>2024-01-20T21:15:19.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31891,15 +31891,6 @@
         <updated>2023-10-23T10:30:39.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polika Polika  | Mukalpparappu | Video Song | JP Thavarool | Siby Padiyara | Allen Varghese]]></title>
-        <id>https://www.youtube.com/watch?v=1bm2rBI47zE</id>
-        <link href="https://www.youtube.com/watch?v=1bm2rBI47zE"/>
-        <updated>2023-10-23T08:46:00.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
