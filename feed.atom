@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-21T15:17:22.903Z</updated>
+    <updated>2024-01-21T16:22:27.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mooli Mooli Kattinundoru | Theerthadanam | Jayaram | Kaithapram | Suhasini | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=oAxNh14Igx4</id>
+        <link href="https://www.youtube.com/watch?v=oAxNh14Igx4"/>
+        <updated>2024-01-21T15:51:57.000Z</updated>
+        <author>
+            <name>Speed Music Videos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kristhuve Krooshicha | New Christian Video Song | Geogy Thomas | Raphi Malakkaran | Christian Songs]]></title>
         <id>https://www.youtube.com/watch?v=HxWmRS1pswE</id>
@@ -31891,15 +31900,6 @@
         <updated>2023-10-24T04:30:05.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aavani Kattinnu | Ponnona Tharangini | Yesudas | Ramesh Menon | Sound of Arts | Festival Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Z_BVYLKUoGE</id>
-        <link href="https://www.youtube.com/watch?v=Z_BVYLKUoGE"/>
-        <updated>2023-10-24T03:30:11.000Z</updated>
-        <author>
-            <name>Malayalam Chithrageetham</name>
         </author>
     </entry>
 </feed>
