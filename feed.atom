@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-21T16:22:27.774Z</updated>
+    <updated>2024-01-21T17:16:15.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31864,42 +31864,6 @@
         <updated>2023-10-24T05:30:00.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ella Naavum Paadivazhthum | K S Chithra | Shorts #shorts  #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=3WM6k8BjBA8</id>
-        <link href="https://www.youtube.com/watch?v=3WM6k8BjBA8"/>
-        <updated>2023-10-24T04:52:09.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ella Naavum Paadivazhthum | K S Chithra | Shorts #shorts  #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=yqgJfEXMUNM</id>
-        <link href="https://www.youtube.com/watch?v=yqgJfEXMUNM"/>
-        <updated>2023-10-24T04:40:02.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ella Naavum Paadivazhthum | K S Chithra | Shorts #shorts #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=n6Z_x_QQvaI</id>
-        <link href="https://www.youtube.com/watch?v=n6Z_x_QQvaI"/>
-        <updated>2023-10-24T04:38:19.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allikalil Azhakalayo | Praja | Mohanlal | Aishwarya | M G Sreekumar | Gireesh Puthanchery | Sujatha]]></title>
-        <id>https://www.youtube.com/watch?v=7EA3TrL0tJI</id>
-        <link href="https://www.youtube.com/watch?v=7EA3TrL0tJI"/>
-        <updated>2023-10-24T04:30:05.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
