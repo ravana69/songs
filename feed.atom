@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-23T06:24:28.930Z</updated>
+    <updated>2024-01-23T07:17:43.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paattinte Palkadavil | Living Together #shreyaghoshal #shortsfeed #shorts #reels #shreyaghosal]]></title>
+        <id>https://www.youtube.com/watch?v=y5vIqrSLvTI</id>
+        <link href="https://www.youtube.com/watch?v=y5vIqrSLvTI"/>
+        <updated>2024-01-23T07:00:31.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dance to the beat of your dreams #Raakk #MalaikottaiVaaliban #Mohanlal #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=-JZD8T2EsQ4</id>
+        <link href="https://www.youtube.com/watch?v=-JZD8T2EsQ4"/>
+        <updated>2024-01-23T06:30:00.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ormmathan Vaasantha Audio Song | Daisy Movie Song | P Bhaskaran | Shyam | KJ Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=xjE3B9T1Xm4</id>
@@ -31729,24 +31747,6 @@
         <updated>2023-10-25T22:00:29.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  October 26 # Athiravile Prarthana 26th of October 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=AC9Qasr9JwY</id>
-        <link href="https://www.youtube.com/watch?v=AC9Qasr9JwY"/>
-        <updated>2023-10-25T19:00:09.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജപമാല ഗീതങ്ങള്‍ # Holy Rosary Special Songs Malayalam |  Month of Holy Rosary October 2023 Songs]]></title>
-        <id>https://www.youtube.com/watch?v=3waHWHVSaVw</id>
-        <link href="https://www.youtube.com/watch?v=3waHWHVSaVw"/>
-        <updated>2023-10-25T18:30:02.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
