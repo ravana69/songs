@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-24T16:23:55.964Z</updated>
+    <updated>2024-01-24T17:17:15.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31828,24 +31828,6 @@
         <updated>2023-10-27T05:37:49.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജനപ്രിയ ഗാനങ്ങൾ  | Dileep Superhits | K.J. Yesudas | MG Sreekumar | Vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=P4c4KgSTNGw</id>
-        <link href="https://www.youtube.com/watch?v=P4c4KgSTNGw"/>
-        <updated>2023-10-27T04:40:36.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peru Chollam Kathil | Agninakshathram | Biju Menon | Indraja | Chithra | Raveendran]]></title>
-        <id>https://www.youtube.com/watch?v=R2YNWovALpg</id>
-        <link href="https://www.youtube.com/watch?v=R2YNWovALpg"/>
-        <updated>2023-10-27T04:30:08.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
