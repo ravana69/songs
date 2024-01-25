@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-25T22:15:40.213Z</updated>
+    <updated>2024-01-25T23:18:32.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഇന്ന് ജനുവരി 26 എൻറെ കർത്താവിൻറെ അമ്മയുടെ ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം#japamala  dhukkathi]]></title>
+        <id>https://www.youtube.com/watch?v=E2QlzKingeg</id>
+        <link href="https://www.youtube.com/watch?v=E2QlzKingeg"/>
+        <updated>2024-01-25T22:30:01.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=ME89W_K9Z3k</id>
@@ -31738,24 +31747,6 @@
         <updated>2023-10-28T11:30:12.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ma Ma Ma Mayavi - Lyrical Video | Krishnanum Radhayum | Santhosh Pandit, Nimmi | Blockbuster Song]]></title>
-        <id>https://www.youtube.com/watch?v=u3xPIwzLo5E</id>
-        <link href="https://www.youtube.com/watch?v=u3xPIwzLo5E"/>
-        <updated>2023-10-28T10:46:08.000Z</updated>
-        <author>
-            <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanil Padarum Song | Zha Movie | Rajesh Babu K Sooranad | P K Sunil Kumar | K Jayakumar]]></title>
-        <id>https://www.youtube.com/watch?v=g9HHcYVRc4o</id>
-        <link href="https://www.youtube.com/watch?v=g9HHcYVRc4o"/>
-        <updated>2023-10-28T10:30:09.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
