@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-26T17:15:26.885Z</updated>
+    <updated>2024-01-26T18:21:12.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 27th January 24]]></title>
+        <id>https://www.youtube.com/watch?v=1Txq0uG8C7c</id>
+        <link href="https://www.youtube.com/watch?v=1Txq0uG8C7c"/>
+        <updated>2024-01-26T18:00:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ororo Poomuthum | Ilamurathamburan | Manoj K Jayan | ONV Kurupp | KJ Yesudas | Raveendran]]></title>
         <id>https://www.youtube.com/watch?v=vlxc-9aM_qs</id>
@@ -31615,6 +31624,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Thoovanamaake Video Song | Imbam | Sreejith Chandran | Hesham Abdul Wahab | PS Jayhari |Meenakshi ML]]></title>
+        <id>https://www.youtube.com/watch?v=TMoCIvZYh_8</id>
+        <link href="https://www.youtube.com/watch?v=TMoCIvZYh_8"/>
+        <updated>2023-10-29T11:30:10.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 29thof October 2023]]></title>
         <id>https://www.youtube.com/watch?v=NpgXDSNwjKs</id>
         <link href="https://www.youtube.com/watch?v=NpgXDSNwjKs"/>
@@ -31657,24 +31675,6 @@
         <updated>2023-10-29T07:30:25.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പാട്ടുപെട്ടി - Paattupetti Vol 31 | Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=jXQIBMwB--s</id>
-        <link href="https://www.youtube.com/watch?v=jXQIBMwB--s"/>
-        <updated>2023-10-29T06:00:15.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kilum Kilu Kilum | Neelaponman | S Janaki | Salil Chowdury #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=SRNJ0nwY8SU</id>
-        <link href="https://www.youtube.com/watch?v=SRNJ0nwY8SU"/>
-        <updated>2023-10-29T05:30:07.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
         </author>
     </entry>
 </feed>
