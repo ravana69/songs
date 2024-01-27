@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-27T21:13:40.864Z</updated>
+    <updated>2024-01-27T22:15:57.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=dI-nrjRahyE</id>
+        <link href="https://www.youtube.com/watch?v=dI-nrjRahyE"/>
+        <updated>2024-01-27T22:00:14.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന January 28 # Athiravile Prarthana 28th January 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=uP95_yYNWpM</id>
+        <link href="https://www.youtube.com/watch?v=uP95_yYNWpM"/>
+        <updated>2024-01-27T19:00:31.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
         <id>https://www.youtube.com/watch?v=noUZz8FlKT4</id>
@@ -31612,15 +31630,6 @@
         <updated>2023-10-30T10:30:06.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannaanthaliyum   Anubandham   Shyam   Hi Res Audio]]></title>
-        <id>https://www.youtube.com/watch?v=IRYMyc0m--U</id>
-        <link href="https://www.youtube.com/watch?v=IRYMyc0m--U"/>
-        <updated>2023-10-30T09:33:16.000Z</updated>
-        <author>
-            <name>NANCHIL BEATS</name>
         </author>
     </entry>
 </feed>
