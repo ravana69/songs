@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-27T09:15:13.039Z</updated>
+    <updated>2024-01-27T10:17:22.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manathe Velli Vithanicha Kottaram  Video Song | Palunku | Mammootty | Nazriya Nazim | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=58oITjwFY8g</id>
+        <link href="https://www.youtube.com/watch?v=58oITjwFY8g"/>
+        <updated>2024-01-27T10:00:04.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പാട്ടുപെട്ടി | Paattupetti Vol 41| Malayalam Film Songs | Satyam Audios]]></title>
         <id>https://www.youtube.com/watch?v=K61p-dmG_Qk</id>
@@ -31673,15 +31682,6 @@
         <id>https://www.youtube.com/watch?v=SKo6xxKK_rc</id>
         <link href="https://www.youtube.com/watch?v=SKo6xxKK_rc"/>
         <updated>2023-10-29T23:30:04.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=BI75hhlfVvQ</id>
-        <link href="https://www.youtube.com/watch?v=BI75hhlfVvQ"/>
-        <updated>2023-10-29T22:00:05.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
