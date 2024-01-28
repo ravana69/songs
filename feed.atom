@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T14:14:47.213Z</updated>
+    <updated>2024-01-28T15:15:14.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31585,24 +31585,6 @@
         <updated>2023-10-31T03:38:34.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaathil Aro Mozhinju | Aviyal | Shorts | Harishankar KS  #malayalamfilmsongs #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=E9Fp-5FX1pE</id>
-        <link href="https://www.youtube.com/watch?v=E9Fp-5FX1pE"/>
-        <updated>2023-10-31T03:00:05.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala Masam Short October  | Holy Rosary Special Short]]></title>
-        <id>https://www.youtube.com/watch?v=xMjN-yjXj5w</id>
-        <link href="https://www.youtube.com/watch?v=xMjN-yjXj5w"/>
-        <updated>2023-10-31T02:57:36.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
