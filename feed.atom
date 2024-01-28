@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T01:20:25.551Z</updated>
+    <updated>2024-01-28T02:23:32.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഇത്ര ശക്തമായ പ്രാർത്ഥന ഇല്ല  ജപമാല സാത്താൻറെ തല തകർക്കും]]></title>
+        <id>https://www.youtube.com/watch?v=3Y1iBufigdk</id>
+        <link href="https://www.youtube.com/watch?v=3Y1iBufigdk"/>
+        <updated>2024-01-28T02:00:01.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ക്രിസ്തീയ ചരിത്രത്തിലെ ഹിറ്റ് ഗാനങ്ങൾ | Christian Devotional Songs Malayalam | Manoj Christy]]></title>
         <id>https://www.youtube.com/watch?v=cBeQiSWse4w</id>
@@ -31540,24 +31549,6 @@
         <updated>2023-10-30T16:09:14.000Z</updated>
         <author>
             <name>Speed Music Videos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജപമാല നെഞ്ചോടു ചേർത്തു മെല്ലെ . . .]]></title>
-        <id>https://www.youtube.com/watch?v=kRHrSzPqbjQ</id>
-        <link href="https://www.youtube.com/watch?v=kRHrSzPqbjQ"/>
-        <updated>2023-10-30T13:58:23.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avani Ponnunjal Aadikam|Kottaram Veetile Apputtan|Jayaram|Sruthi|]]></title>
-        <id>https://www.youtube.com/watch?v=gDGj3qWGDAk</id>
-        <link href="https://www.youtube.com/watch?v=gDGj3qWGDAk"/>
-        <updated>2023-10-30T13:42:26.000Z</updated>
-        <author>
-            <name>Raaga music</name>
         </author>
     </entry>
 </feed>
