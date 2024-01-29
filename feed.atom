@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-29T22:17:18.579Z</updated>
+    <updated>2024-01-29T23:18:32.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഇന്ന് ജനുവരി 30 എൻറെ കർത്താവിൻറെ അമ്മയുടെ ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം#japamala  dhukkathi]]></title>
+        <id>https://www.youtube.com/watch?v=1sEcnS0HwOc</id>
+        <link href="https://www.youtube.com/watch?v=1sEcnS0HwOc"/>
+        <updated>2024-01-29T22:30:00.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=QUy2YHe091g</id>
@@ -31477,42 +31486,6 @@
         <updated>2023-11-01T11:30:00.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paradhanam Karudhanam - Digital Village | Sooraj Santhosh | Hari S R | Yulin Productions]]></title>
-        <id>https://www.youtube.com/watch?v=jLYxrLAPMLc</id>
-        <link href="https://www.youtube.com/watch?v=jLYxrLAPMLc"/>
-        <updated>2023-11-01T10:30:10.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ringa Ringa | Aarya 2 | Shubha |  Devi Sri Prasad | Siju Thuravur]]></title>
-        <id>https://www.youtube.com/watch?v=5MBUcaSVNX0</id>
-        <link href="https://www.youtube.com/watch?v=5MBUcaSVNX0"/>
-        <updated>2023-11-01T10:30:02.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guruvaayurappa Nin - Lyrical Video | Krishnanum Radhayum | Santhosh Pandit | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=CP8QTAVG72s</id>
-        <link href="https://www.youtube.com/watch?v=CP8QTAVG72s"/>
-        <updated>2023-11-01T10:27:20.000Z</updated>
-        <author>
-            <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ee Lokam - Video Song | Philip's | Hesham Abdul Wahab | Job Kurian | Mukesh | Alfred Kurian]]></title>
-        <id>https://www.youtube.com/watch?v=5_MbaaCA7h4</id>
-        <link href="https://www.youtube.com/watch?v=5_MbaaCA7h4"/>
-        <updated>2023-11-01T10:21:14.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
