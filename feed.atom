@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-30T08:20:53.941Z</updated>
+    <updated>2024-01-30T09:17:46.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thumpappookkaattil | Audio Song | Ninnishtam Ennishtam | Mohanlal | Priya KS Chithra |P Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=h4XoCUp8boE</id>
+        <link href="https://www.youtube.com/watch?v=h4XoCUp8boE"/>
+        <updated>2024-01-30T08:29:43.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pala Naal - Video Song | Philip's | Hesham Abdul Wahab | Vineeth Sreenivasan | Alfred Kurian]]></title>
+        <id>https://www.youtube.com/watch?v=VvoPM7-HMWQ</id>
+        <link href="https://www.youtube.com/watch?v=VvoPM7-HMWQ"/>
+        <updated>2024-01-30T07:59:01.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പാട്ടിനോടുള്ള ഇഷ്ടത്താൽ ഏറെ ഉത്സാഹത്തോടെ ഇരുന്നുകേൾക്കുന്ന സിനിമാഗാനങ്ങൾ | EVERGREEN SONGS MALAYALAM]]></title>
         <id>https://www.youtube.com/watch?v=_pFTKo0IDxc</id>
