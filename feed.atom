@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-30T12:31:10.830Z</updated>
+    <updated>2024-01-30T13:18:54.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kalapila - Video Song | Jerry | Kottayam Naseer, Pramod Veliyanaadu | Arun Vijay | Zia Ul Haq]]></title>
+        <id>https://www.youtube.com/watch?v=MzFRAlAJfxw</id>
+        <link href="https://www.youtube.com/watch?v=MzFRAlAJfxw"/>
+        <updated>2024-01-30T12:40:23.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manchadi Manimuthu | Pothan Vava | MG Sreekumar | Jyotsna | Alex Paul | Vayalar Sarath Chandra Varma]]></title>
         <id>https://www.youtube.com/watch?v=jyjwNxHDos4</id>
@@ -13,6 +22,15 @@
         <updated>2024-01-30T12:30:34.000Z</updated>
         <author>
             <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രിയമുള്ളവരേ ബന്ധങ്ങൾ ഏറെ വിലപ്പെട്ടതാണ്.  | Rev. Aneesh P Joseph | #shorts #motivationalvideo]]></title>
+        <id>https://www.youtube.com/watch?v=90D_doCk3Bo</id>
+        <link href="https://www.youtube.com/watch?v=90D_doCk3Bo"/>
+        <updated>2024-01-30T12:30:07.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
         </author>
     </entry>
     <entry>
