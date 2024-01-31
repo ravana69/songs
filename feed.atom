@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-31T18:17:23.132Z</updated>
+    <updated>2024-01-31T19:12:33.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 1st February # Athiravile Prarthana 1st February 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=BBvKKiMpA1Q</id>
+        <link href="https://www.youtube.com/watch?v=BBvKKiMpA1Q"/>
+        <updated>2024-01-31T19:00:06.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=_q-kbc2jZJQ</id>
+        <link href="https://www.youtube.com/watch?v=_q-kbc2jZJQ"/>
+        <updated>2024-01-31T18:30:32.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 1st February 24]]></title>
         <id>https://www.youtube.com/watch?v=nlP4CSwwJ1M</id>
@@ -31585,24 +31603,6 @@
         <updated>2023-11-03T07:30:19.000Z</updated>
         <author>
             <name>Tips Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chembakapoo Kaatile Video Song | Rathinirvedam | Sudeep Kumar | M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=bDookeLuMxQ</id>
-        <link href="https://www.youtube.com/watch?v=bDookeLuMxQ"/>
-        <updated>2023-11-03T06:54:04.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vazhthuka Maname | Shreya Jayadeep  #shrots #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=ymgfIQiZUPM</id>
-        <link href="https://www.youtube.com/watch?v=ymgfIQiZUPM"/>
-        <updated>2023-11-03T06:30:07.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
