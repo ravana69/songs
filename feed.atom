@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-31T17:14:30.495Z</updated>
+    <updated>2024-01-31T18:17:23.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 1st February 24]]></title>
+        <id>https://www.youtube.com/watch?v=nlP4CSwwJ1M</id>
+        <link href="https://www.youtube.com/watch?v=nlP4CSwwJ1M"/>
+        <updated>2024-01-31T18:00:23.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ചന്ദനത്തെന്നലായ് ഞാൻ നിൻറെ..| കെ ജെ യേശുദാസ് | കെ എസ് ചിത്ര | സുജാത മോഹൻ | Selected Film songs]]></title>
+        <id>https://www.youtube.com/watch?v=D7s9fBsRfCg</id>
+        <link href="https://www.youtube.com/watch?v=D7s9fBsRfCg"/>
+        <updated>2024-01-31T17:55:18.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pavizham Pol Pavizhadharam Pol | Namukku Parkkan Munthirithoppukal | KJ Yesudas | Mohanlal | Shaari]]></title>
         <id>https://www.youtube.com/watch?v=4230jrGmVHY</id>
@@ -31585,24 +31603,6 @@
         <updated>2023-11-03T06:30:07.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Katha Ninte Katha | എന്റെ കഥ നിന്റെ കഥ  |  Ithu Njangalude Katha  Movie Song |  Johnson]]></title>
-        <id>https://www.youtube.com/watch?v=AWGqCJeRLy4</id>
-        <link href="https://www.youtube.com/watch?v=AWGqCJeRLy4"/>
-        <updated>2023-11-03T05:34:59.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onnam Maanathe | Beautiful Romantic Duet by K J Yesudas & K S Chithra #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=gDNPr89S1pw</id>
-        <link href="https://www.youtube.com/watch?v=gDNPr89S1pw"/>
-        <updated>2023-11-03T05:30:08.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
