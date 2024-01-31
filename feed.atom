@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-31T01:16:01.389Z</updated>
+    <updated>2024-01-31T02:22:37.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SWARGATHIN VATHIL THURANNU | #shorts | KESTER | BLAZAN KAITHARA | HOLY GATE SONG]]></title>
+        <id>https://www.youtube.com/watch?v=pUzj_h_c58U</id>
+        <link href="https://www.youtube.com/watch?v=pUzj_h_c58U"/>
+        <updated>2024-01-31T01:30:31.000Z</updated>
+        <author>
+            <name>Celebrants India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karunanidhiye Kalvari Anpe | Wilson Piravom #ytshorts #christianshorts]]></title>
+        <id>https://www.youtube.com/watch?v=-8Y-emQ3scU</id>
+        <link href="https://www.youtube.com/watch?v=-8Y-emQ3scU"/>
+        <updated>2024-01-31T01:30:09.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അതിമനോഹരമായ പഴയകാല ഗാനങ്ങൾ old christian songs malayalam with lyrics ! daily worship songs malayalam]]></title>
         <id>https://www.youtube.com/watch?v=bkCQSPd-4WQ</id>
