@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T02:26:04.721Z</updated>
+    <updated>2024-02-01T03:18:27.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31369,15 +31369,6 @@
         <updated>2023-11-03T17:47:13.000Z</updated>
         <author>
             <name>Tharangini Sound of arts Dubai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manavatti Penninte | Kaliyoonjalu | Dileep | Shobana | Ilayaraja | Mammootty | MG Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=rMVwWQ2inu8</id>
-        <link href="https://www.youtube.com/watch?v=rMVwWQ2inu8"/>
-        <updated>2023-11-03T14:30:21.000Z</updated>
-        <author>
-            <name>Speed Music Videos</name>
         </author>
     </entry>
 </feed>
