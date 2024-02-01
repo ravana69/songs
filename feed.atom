@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T21:15:39.979Z</updated>
+    <updated>2024-02-01T22:17:09.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=JyeVgwxC2mM</id>
+        <link href="https://www.youtube.com/watch?v=JyeVgwxC2mM"/>
+        <updated>2024-02-01T22:00:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന February 2 # Athiravile Prarthana 2nd of February 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=J9MkfZjlBfg</id>
@@ -31414,24 +31423,6 @@
         <updated>2023-11-04T11:00:44.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ആറ്റുവഞ്ചിക്കടവില്‍ | Aattuvanchi Kadavilvachu | Kayamkulam Kochunni SuperHit Movie Song |KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=KJdWA8_d66U</id>
-        <link href="https://www.youtube.com/watch?v=KJdWA8_d66U"/>
-        <updated>2023-11-04T10:05:17.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YATHRAYAY BETHLAHEM  VAZHIYIL | #shorts | Fr Shaji Thumpechirayil | Feby Francis]]></title>
-        <id>https://www.youtube.com/watch?v=1pSjPHKuy6g</id>
-        <link href="https://www.youtube.com/watch?v=1pSjPHKuy6g"/>
-        <updated>2023-11-04T09:51:29.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
         </author>
     </entry>
 </feed>
