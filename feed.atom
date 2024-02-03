@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T23:16:29.448Z</updated>
+    <updated>2024-02-03T01:13:55.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Songs Of The Week | Manoj Christy | Christian Devotional Songs Malayalam | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=vXgwyyR12vA</id>
+        <link href="https://www.youtube.com/watch?v=vXgwyyR12vA"/>
+        <updated>2024-02-03T00:30:34.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 3rd of February 24 # Mathavinte Japamala Santhoshathinte Rahasyangal 3rd of February 24]]></title>
+        <id>https://www.youtube.com/watch?v=457lmel10XA</id>
+        <link href="https://www.youtube.com/watch?v=457lmel10XA"/>
+        <updated>2024-02-02T23:30:01.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഇന്ന് ഫെബ്രുവരി  03 എൻറെ കർത്താവിൻറെ അമ്മയുടെ ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #japamala santh]]></title>
         <id>https://www.youtube.com/watch?v=Acr3n0UDEUs</id>
@@ -31405,69 +31423,6 @@
         <updated>2023-11-05T13:40:46.000Z</updated>
         <author>
             <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനുഷ്യന്റെ വഴികൾ അല്ല ദൈവത്തിന്റെ വഴികൾ | Rev. Aneesh P Joseph #shorts #motivation]]></title>
-        <id>https://www.youtube.com/watch?v=5HiaKAHlMlU</id>
-        <link href="https://www.youtube.com/watch?v=5HiaKAHlMlU"/>
-        <updated>2023-11-05T12:30:07.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaana Theerathe - Video Song | Janvi Movie | Ram Surendar, Vaishnav Girish | Movie Song]]></title>
-        <id>https://www.youtube.com/watch?v=8Rvwf5hlw8E</id>
-        <link href="https://www.youtube.com/watch?v=8Rvwf5hlw8E"/>
-        <updated>2023-11-05T12:00:12.000Z</updated>
-        <author>
-            <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 5th of November 2023]]></title>
-        <id>https://www.youtube.com/watch?v=yXlk86uUOHs</id>
-        <link href="https://www.youtube.com/watch?v=yXlk86uUOHs"/>
-        <updated>2023-11-05T11:30:28.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May Masam Junodu Video Song | Jayaram | Laya | Vidyasagar | Gireesh Puthenchery | Cicily | Karthik]]></title>
-        <id>https://www.youtube.com/watch?v=RNgyAx1BB2o</id>
-        <link href="https://www.youtube.com/watch?v=RNgyAx1BB2o"/>
-        <updated>2023-11-05T11:30:11.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Melody Songs | Biju Narayanan | Christian Songs Malayalam |  Joseph Mathew Padinjerthara]]></title>
-        <id>https://www.youtube.com/watch?v=9j8aQib0yug</id>
-        <link href="https://www.youtube.com/watch?v=9j8aQib0yug"/>
-        <updated>2023-11-05T11:30:05.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannaam Thumbi Video Song | Kakkothikkavile Appooppan Thaadikal |  KS Chithra | Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=Aja2leKkG_A</id>
-        <link href="https://www.youtube.com/watch?v=Aja2leKkG_A"/>
-        <updated>2023-11-05T11:30:05.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കണ്ണില്‍ പൂവ് | Vishukkani | Vani Jairam | Vidhubala #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=21OrQXO90nc</id>
-        <link href="https://www.youtube.com/watch?v=21OrQXO90nc"/>
-        <updated>2023-11-05T11:30:02.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
