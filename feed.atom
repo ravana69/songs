@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-03T09:17:07.345Z</updated>
+    <updated>2024-02-03T10:16:28.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31457,15 +31457,6 @@
         <id>https://www.youtube.com/watch?v=AzymI0rN9fw</id>
         <link href="https://www.youtube.com/watch?v=AzymI0rN9fw"/>
         <updated>2023-11-05T23:30:04.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=ivKY97fFUBI</id>
-        <link href="https://www.youtube.com/watch?v=ivKY97fFUBI"/>
-        <updated>2023-11-05T22:00:16.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
