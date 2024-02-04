@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-04T13:19:28.358Z</updated>
+    <updated>2024-02-04T14:14:41.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Christian Melody Songs | Wilson Piravom | Christian Devotional Songs Malayalam | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=-3ScdCyaqxw</id>
+        <link href="https://www.youtube.com/watch?v=-3ScdCyaqxw"/>
+        <updated>2024-02-04T13:30:00.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[വിശ്വാസം എന്നത്  ആശിക്കുന്നതിന്റെ ഉറപ്പും കാണാത്ത കാര്യങ്ങളുടെ നിശ്ചയവുമാകുന്നുRev. Aneesh P Joseph]]></title>
         <id>https://www.youtube.com/watch?v=CI89DCdsthI</id>
@@ -31459,15 +31468,6 @@
         <updated>2023-11-07T02:30:12.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vazhthuka Maname | Shreya Jayadeep  #shrots #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=MA1ovIdNonE</id>
-        <link href="https://www.youtube.com/watch?v=MA1ovIdNonE"/>
-        <updated>2023-11-07T01:30:09.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
