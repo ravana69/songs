@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-05T04:21:59.244Z</updated>
+    <updated>2024-02-05T05:18:01.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manoj K. Jayan Old Malayalam Movie Songs |  Manjukalavum Kazhinju | Remastered Malayalam Movie Songs]]></title>
+        <id>https://www.youtube.com/watch?v=RAAHTCnFKng</id>
+        <link href="https://www.youtube.com/watch?v=RAAHTCnFKng"/>
+        <updated>2024-02-05T04:29:21.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈ മരിയൻ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #kripasanam #mothermarysongsmalayalam #feb 5th 2024]]></title>
         <id>https://www.youtube.com/watch?v=7gjwv4G5rCY</id>
@@ -3877,12 +3886,48 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sona Sona | Ben Johnson #shortsvideo #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=XkYXn20FpWA</id>
+        <link href="https://www.youtube.com/watch?v=XkYXn20FpWA"/>
+        <updated>2024-01-24T04:30:44.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nizhaladum Deepame | Mr Butler | Dileep | Ruchitha Prasad | K J Yesudas | Vidyasagar]]></title>
         <id>https://www.youtube.com/watch?v=pG_8eJRheb8</id>
         <link href="https://www.youtube.com/watch?v=pG_8eJRheb8"/>
         <updated>2024-01-24T04:30:23.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pularoli | Bhaskar The Rascal #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=cz9DWpXR_JI</id>
+        <link href="https://www.youtube.com/watch?v=cz9DWpXR_JI"/>
+        <updated>2024-01-24T04:30:17.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Njan Chendena | Bahubali #shortsvideo #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=jbagBjlUSKE</id>
+        <link href="https://www.youtube.com/watch?v=jbagBjlUSKE"/>
+        <updated>2024-01-24T04:28:17.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Njan Chendena | Bahubali #shortsvideo #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=lFHpLoNRheg</id>
+        <link href="https://www.youtube.com/watch?v=lFHpLoNRheg"/>
+        <updated>2024-01-24T04:28:10.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
