@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-07T10:19:05.668Z</updated>
+    <updated>2024-02-07T11:14:56.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gopalaka(രാക്കുയിലിൻ രാഗസദസ്സിൽ )Vinod velyudhan]]></title>
+        <id>https://www.youtube.com/watch?v=YaWrgjtPVzM</id>
+        <link href="https://www.youtube.com/watch?v=YaWrgjtPVzM"/>
+        <updated>2024-02-07T10:57:53.000Z</updated>
+        <author>
+            <name>ഗാനകേളി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embrace the Romance: Celebrating Valentine's Week Together Jukebox | Malayalam Romantic Hits]]></title>
+        <id>https://www.youtube.com/watch?v=eErp-tbYJRU</id>
+        <link href="https://www.youtube.com/watch?v=eErp-tbYJRU"/>
+        <updated>2024-02-07T10:30:56.000Z</updated>
+        <author>
+            <name>Lahari Music Malayalam - TSeries</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veyilinte  | English Medium | KJ Yesudas | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=lFv2hsN5qNQ</id>
+        <link href="https://www.youtube.com/watch?v=lFv2hsN5qNQ"/>
+        <updated>2024-02-07T10:30:17.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poopole Chirikum | Thirichadi | Vayalar | R Sudharsanam | P Susheela | Sheela | Prem Nazir]]></title>
         <id>https://www.youtube.com/watch?v=_Nl8LpzTNgc</id>
@@ -4583,6 +4610,24 @@
         <id>https://www.youtube.com/watch?v=RHPrIK6vn4E</id>
         <link href="https://www.youtube.com/watch?v=RHPrIK6vn4E"/>
         <updated>2024-01-24T04:34:52.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vazhivakkil | Annayum Rasoolum #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=iiGF8Dz57t4</id>
+        <link href="https://www.youtube.com/watch?v=iiGF8Dz57t4"/>
+        <updated>2024-01-24T04:34:37.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vazhivakkil | Annayum Rasoolum #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=YoT8LSHs2EA</id>
+        <link href="https://www.youtube.com/watch?v=YoT8LSHs2EA"/>
+        <updated>2024-01-24T04:34:23.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
         </author>
