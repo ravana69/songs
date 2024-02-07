@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-07T06:21:42.210Z</updated>
+    <updated>2024-02-07T07:16:09.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mayangoo Nee Sakhi | Living Together #kjyesudas #mjayachandran #shortsfeed #shortsvideo #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=qGTbNKD38Ls</id>
+        <link href="https://www.youtube.com/watch?v=qGTbNKD38Ls"/>
+        <updated>2024-02-07T07:00:22.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hridhaya Raktham | Samantharapakshikal |Video|Kallara Gopan|Prabha Varma |Dr Vazhamuttom Chandrababu]]></title>
         <id>https://www.youtube.com/watch?v=q44J_GXIZeg</id>
@@ -31306,33 +31315,6 @@
         <updated>2023-11-09T22:00:25.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  November 10 # Athiravile Prarthana 10th of November 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Gu0E8fjuQGk</id>
-        <link href="https://www.youtube.com/watch?v=Gu0E8fjuQGk"/>
-        <updated>2023-11-09T19:00:07.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antha Utchi Malai | Enga Thambi | Ilaiyaraaja | Mano | Hi-Res Audio]]></title>
-        <id>https://www.youtube.com/watch?v=p9U2I8b5rx4</id>
-        <link href="https://www.youtube.com/watch?v=p9U2I8b5rx4"/>
-        <updated>2023-11-09T18:54:19.000Z</updated>
-        <author>
-            <name>NANCHIL BEATS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=3XoQQxD5LkE</id>
-        <link href="https://www.youtube.com/watch?v=3XoQQxD5LkE"/>
-        <updated>2023-11-09T18:30:02.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
