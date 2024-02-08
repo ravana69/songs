@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T01:14:05.597Z</updated>
+    <updated>2024-02-08T02:21:59.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31342,24 +31342,6 @@
         <updated>2023-11-10T15:07:55.000Z</updated>
         <author>
             <name>NANCHIL BEATS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mangala Deepavumaay Video Song | Kaikudanna Nilavu | KS Chithra | Gireesh Puthenchery]]></title>
-        <id>https://www.youtube.com/watch?v=6YjFA3uoMRQ</id>
-        <link href="https://www.youtube.com/watch?v=6YjFA3uoMRQ"/>
-        <updated>2023-11-10T14:21:11.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കനിവുള്ള കൈകൾ നീട്ടും ...]]></title>
-        <id>https://www.youtube.com/watch?v=qfLm6QXhf3E</id>
-        <link href="https://www.youtube.com/watch?v=qfLm6QXhf3E"/>
-        <updated>2023-11-10T13:23:37.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
