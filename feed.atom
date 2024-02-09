@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-09T06:22:16.647Z</updated>
+    <updated>2024-02-09T07:15:04.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thaamarappoovil | Chandralekha | Berny Ignatius | MG Sreekumar | Gireesh Puthenchery #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=OQZlL2T8tFU</id>
+        <link href="https://www.youtube.com/watch?v=OQZlL2T8tFU"/>
+        <updated>2024-02-09T07:12:23.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaru Nee Kanmani | Aanandhapuram Diaries | K S Chithra #kschithra #malayalamfilmsongs #shortsfeed]]></title>
+        <id>https://www.youtube.com/watch?v=__YF2cuvAbQ</id>
+        <link href="https://www.youtube.com/watch?v=__YF2cuvAbQ"/>
+        <updated>2024-02-09T07:00:23.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എൻ‌റെ ഓർമയിൽ പൂത്തുനിന്നൊരുമഞ്ഞ മന്ദാരമേ #malayalamsongs #mohanlal #malayalamsongs]]></title>
+        <id>https://www.youtube.com/watch?v=KHuTI6Tfvz0</id>
+        <link href="https://www.youtube.com/watch?v=KHuTI6Tfvz0"/>
+        <updated>2024-02-09T06:42:47.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kattu Kurinji Poovum Choodi Song | Radha Enna Penkutty | P Jayachandran | Shyam | Devadas]]></title>
+        <id>https://www.youtube.com/watch?v=cv6FbwXU0tg</id>
+        <link href="https://www.youtube.com/watch?v=cv6FbwXU0tg"/>
+        <updated>2024-02-09T06:32:48.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kanneerppoovinte | Chenkol(Title Song) | Mohanlal | Thilakan | Sibi Malayil | Johnson]]></title>
         <id>https://www.youtube.com/watch?v=Ygvp0Le8lZ8</id>
@@ -31324,42 +31360,6 @@
         <updated>2023-11-11T22:00:22.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  November 12 # Athiravile Prarthana 12th of November 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=wI5C8faKKz0</id>
-        <link href="https://www.youtube.com/watch?v=wI5C8faKKz0"/>
-        <updated>2023-11-11T19:00:33.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Y24awnBBfsk</id>
-        <link href="https://www.youtube.com/watch?v=Y24awnBBfsk"/>
-        <updated>2023-11-11T18:30:22.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beats of #RakkaRakka | #Bandra | #Dileep, #Tamannaah | #SamCS | #ytshorts #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=8l1V_ENWoiM</id>
-        <link href="https://www.youtube.com/watch?v=8l1V_ENWoiM"/>
-        <updated>2023-11-11T18:22:46.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dance to #RakkaRakka | #Bandra | #Dileep, #Tamannaah | #SamCS | #ytshorts #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=82P4nw5TAIM</id>
-        <link href="https://www.youtube.com/watch?v=82P4nw5TAIM"/>
-        <updated>2023-11-11T18:22:17.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
