@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-09T10:18:23.948Z</updated>
+    <updated>2024-02-09T11:15:23.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sreeragamo Video Song | Pavithram | Mohanlal | Shobana | KJ Yesudas | Sharreth | ONV Kurup]]></title>
+        <id>https://www.youtube.com/watch?v=Da6R0-L8DJ8</id>
+        <link href="https://www.youtube.com/watch?v=Da6R0-L8DJ8"/>
+        <updated>2024-02-09T10:43:58.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thamara Malarin - Audio Song | Aaradhika | P. Susheela | M. S. Baburaj | Sreekumaran Thambi]]></title>
+        <id>https://www.youtube.com/watch?v=paTxI-IbW0A</id>
+        <link href="https://www.youtube.com/watch?v=paTxI-IbW0A"/>
+        <updated>2024-02-09T10:30:18.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അത്തിപ്പഴത്തിന്നിളന്നീർ ചുരത്തും | Suresh Gopi | Swetha Menon | Romantic Song #malayalamoldsongs]]></title>
+        <id>https://www.youtube.com/watch?v=UASc7PZs-ME</id>
+        <link href="https://www.youtube.com/watch?v=UASc7PZs-ME"/>
+        <updated>2024-02-09T10:30:11.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KURISHINTE VAZHIYIL | JOYCEMARY SHAM K| JILIMOL THOMAS #jinokunnumpurath #christiansong #newrelease]]></title>
         <id>https://www.youtube.com/watch?v=bSFxBKTGl4g</id>
@@ -310,6 +337,15 @@
         <updated>2024-02-08T10:30:09.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ezhupatho Ereyayal | Biju Kumbanad | Sunny Chandraviruthil | Malayalam Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=I0ypqMmQico</id>
+        <link href="https://www.youtube.com/watch?v=I0ypqMmQico"/>
+        <updated>2024-02-08T09:17:04.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
