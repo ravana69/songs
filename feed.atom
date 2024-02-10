@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-10T02:20:26.081Z</updated>
+    <updated>2024-02-10T03:18:13.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31486,24 +31486,6 @@
         <updated>2023-11-12T16:00:25.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ellam Ange | Fr. Severios Thomas | Shorts #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=L6jLsn6q0r0</id>
-        <link href="https://www.youtube.com/watch?v=L6jLsn6q0r0"/>
-        <updated>2023-11-12T14:58:31.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neela Kamaladalam | Panchapandavar | KJ Yesudas | KS Chithra | Sithara | Vijayakumar]]></title>
-        <id>https://www.youtube.com/watch?v=LpygPCVnFjA</id>
-        <link href="https://www.youtube.com/watch?v=LpygPCVnFjA"/>
-        <updated>2023-11-12T14:30:10.000Z</updated>
-        <author>
-            <name>Speed Music Videos</name>
         </author>
     </entry>
 </feed>
