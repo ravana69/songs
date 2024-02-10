@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-10T13:18:50.958Z</updated>
+    <updated>2024-02-10T14:15:14.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10 February 2024]]></title>
+        <id>https://www.youtube.com/watch?v=kWmkv0RUBNY</id>
+        <link href="https://www.youtube.com/watch?v=kWmkv0RUBNY"/>
+        <updated>2024-02-10T13:41:30.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valiya Nombu Songs Malayalam | Manoj Christy | Christian Melody Songs | Joji Johns | Lent Songs]]></title>
+        <id>https://www.youtube.com/watch?v=LQ9h50z41sU</id>
+        <link href="https://www.youtube.com/watch?v=LQ9h50z41sU"/>
+        <updated>2024-02-10T13:30:14.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒരുവട്ടം കൂടി കേൾക്കാൻ മനസ്സ് കൊതിച്ച മലയാളസിനിമാഗാനങ്ങൾ ! FILM SONGS MALAYALAM | MOVIEWORLD MUSIC]]></title>
+        <id>https://www.youtube.com/watch?v=ZQMquFbxzbw</id>
+        <link href="https://www.youtube.com/watch?v=ZQMquFbxzbw"/>
+        <updated>2024-02-10T13:30:13.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pulare Poonkodiyil Video Song | Amaram | Mammootty | KJ Yesudas | Lathika | Raveendran | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=z1uCrvgXW-M</id>
@@ -31657,15 +31684,6 @@
         <updated>2023-11-13T04:30:12.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vazhthuka Maname | Shreya Jayadeep  #shrots #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=OB9JaZT4d54</id>
-        <link href="https://www.youtube.com/watch?v=OB9JaZT4d54"/>
-        <updated>2023-11-13T01:30:10.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
