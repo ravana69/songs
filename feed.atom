@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-12T13:20:41.476Z</updated>
+    <updated>2024-02-12T14:16:16.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sruthiyil - Audio Song | Thrishna | Mammootty, Suhasini, Swapna | Susheela | Shyam]]></title>
+        <id>https://www.youtube.com/watch?v=U7HAuYGNT6g</id>
+        <link href="https://www.youtube.com/watch?v=U7HAuYGNT6g"/>
+        <updated>2024-02-12T14:03:30.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bhagyanattil Pokum Njan | Pr. Muttom Geevarghese | Kester  #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=f35ZpFyS3rU</id>
+        <link href="https://www.youtube.com/watch?v=f35ZpFyS3rU"/>
+        <updated>2024-02-12T13:26:11.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mannu Vaanam | Pappachan Olivilanu | Ouseppachan | Sinto Sunny | Amal Antony | Akhila Anand]]></title>
         <id>https://www.youtube.com/watch?v=j-zfKwlQTxQ</id>
@@ -31495,24 +31513,6 @@
         <updated>2023-11-15T04:00:06.000Z</updated>
         <author>
             <name>Malayalam Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non Stop Christmas Carols | Jukebox | Christmas Songs]]></title>
-        <id>https://www.youtube.com/watch?v=yDmieBlEjeM</id>
-        <link href="https://www.youtube.com/watch?v=yDmieBlEjeM"/>
-        <updated>2023-11-15T02:08:54.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manjin Thooval | Aviyal | Shorts | Harishankar KS  #malayalamfilmsongs #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=oMEwMO84Sn8</id>
-        <link href="https://www.youtube.com/watch?v=oMEwMO84Sn8"/>
-        <updated>2023-11-15T01:45:05.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
 </feed>
