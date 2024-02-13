@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T21:15:50.028Z</updated>
+    <updated>2024-02-13T22:18:43.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=TL5G4W_xIzY</id>
+        <link href="https://www.youtube.com/watch?v=TL5G4W_xIzY"/>
+        <updated>2024-02-13T22:00:15.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന 14th of February # Athiravile Prarthana 14th February 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=mtmbvZ8NMXU</id>
@@ -31432,24 +31441,6 @@
         <updated>2023-11-16T10:19:27.000Z</updated>
         <author>
             <name>Magic Frames Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulariyil Ilaveyil | Thaal |Lyrical Video| Bijibal |B K Harinarayanan| K S Harishankar |Shweta Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=QuG04w8pxtY</id>
-        <link href="https://www.youtube.com/watch?v=QuG04w8pxtY"/>
-        <updated>2023-11-16T10:10:05.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulariyil Ilaveyil | Thaal |Lyrical Video| Bijibal |B K Harinarayanan| K S Harishankar |Shweta Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=6w1XNDateF4</id>
-        <link href="https://www.youtube.com/watch?v=6w1XNDateF4"/>
-        <updated>2023-11-16T09:47:38.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
