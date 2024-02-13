@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T22:18:43.310Z</updated>
+    <updated>2024-02-13T23:17:15.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japamala 14th of February 2024 # Mathavinte Japamala # Mahimayude Rahasyangal 14th of February 2024]]></title>
+        <id>https://www.youtube.com/watch?v=s0dyZfiQPG8</id>
+        <link href="https://www.youtube.com/watch?v=s0dyZfiQPG8"/>
+        <updated>2024-02-13T22:30:10.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇന്ന് ഫെബ്രുവരി  14 എൻറെ കർത്താവിൻറെ അമ്മയുടെ ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം#japamala  mahim]]></title>
+        <id>https://www.youtube.com/watch?v=cq4RCuYGfGQ</id>
+        <link href="https://www.youtube.com/watch?v=cq4RCuYGfGQ"/>
+        <updated>2024-02-13T22:30:05.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇന്ന് ഫെബ്രുവരി 14 എൻറെ കർത്താവിൻറെ അമ്മയുടെ ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #japamala prakas]]></title>
+        <id>https://www.youtube.com/watch?v=rvZ56E47wFQ</id>
+        <link href="https://www.youtube.com/watch?v=rvZ56E47wFQ"/>
+        <updated>2024-02-13T22:30:05.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=TL5G4W_xIzY</id>
@@ -31414,33 +31441,6 @@
         <updated>2023-11-16T11:30:08.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മഞ്ഞുനിലാവേ നിന്റെ പുഞ്ചിരി പൂമുഖം കാണാൻ..  | Fr. Shaji Thumpechirayil | #shortsvideo  #shots]]></title>
-        <id>https://www.youtube.com/watch?v=VILG5TEqKNs</id>
-        <link href="https://www.youtube.com/watch?v=VILG5TEqKNs"/>
-        <updated>2023-11-16T10:57:15.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kuzhi Madiya Song Shorts | Oridathoru Postman #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=qfmzqWgKXnA</id>
-        <link href="https://www.youtube.com/watch?v=qfmzqWgKXnA"/>
-        <updated>2023-11-16T10:30:17.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Garudan OST Jukebox | Jakes Bejoy | Suresh Gopi | Biju Menon | Arun Varma]]></title>
-        <id>https://www.youtube.com/watch?v=NM5efDlUSfo</id>
-        <link href="https://www.youtube.com/watch?v=NM5efDlUSfo"/>
-        <updated>2023-11-16T10:19:27.000Z</updated>
-        <author>
-            <name>Magic Frames Music</name>
         </author>
     </entry>
 </feed>
