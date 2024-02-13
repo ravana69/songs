@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T10:18:32.291Z</updated>
+    <updated>2024-02-13T11:16:43.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രണയ ഗാനങ്ങൾ 2024 | Valentine's Day Special Songs | Malayalam Film Songs | Mohanlal, Dileep]]></title>
+        <id>https://www.youtube.com/watch?v=eGjyR9FMRMw</id>
+        <link href="https://www.youtube.com/watch?v=eGjyR9FMRMw"/>
+        <updated>2024-02-13T11:10:22.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pranaya Sarovaratheeram - Audio Song | Innale Innu | Premnazeer, Sheela | G. Devarajan]]></title>
+        <id>https://www.youtube.com/watch?v=kdI3JlCyfk4</id>
+        <link href="https://www.youtube.com/watch?v=kdI3JlCyfk4"/>
+        <updated>2024-02-13T10:30:17.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അനുരാഗപ്പുഴവക്കിൽ | English Medium | Pattanakkad Purushothaman | Susmitha #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=jXhawcun3zg</id>
+        <link href="https://www.youtube.com/watch?v=jXhawcun3zg"/>
+        <updated>2024-02-13T10:30:14.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[❤️പ്രണയമെന്ന വികാരത്തിന് ചിറകുകളേകും മധുരസ്വപ്ന ഗാനങ്ങൾ ❤️VALENTINES'S DAY SPECIAL SONGS !]]></title>
         <id>https://www.youtube.com/watch?v=V1PnttB9ZJM</id>
