@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-14T09:17:37.005Z</updated>
+    <updated>2024-02-14T10:18:56.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mazhaneer Thullikal | Krishnadiya | Shorts  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=yDvZyFfcNN4</id>
+        <link href="https://www.youtube.com/watch?v=yDvZyFfcNN4"/>
+        <updated>2024-02-14T10:13:53.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aarum Kothikkum Ninte Sneham | Kelkkan Kothikkunna Kristheeya Bhakthiganangal | Audio Jukebox]]></title>
         <id>https://www.youtube.com/watch?v=yXE4EGcFmsE</id>
@@ -31475,15 +31484,6 @@
         <id>https://www.youtube.com/watch?v=-j1RDtz3nEQ</id>
         <link href="https://www.youtube.com/watch?v=-j1RDtz3nEQ"/>
         <updated>2023-11-16T23:30:00.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=jcfkwo4k_Mg</id>
-        <link href="https://www.youtube.com/watch?v=jcfkwo4k_Mg"/>
-        <updated>2023-11-16T22:00:27.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
