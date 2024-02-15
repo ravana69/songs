@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-15T09:20:06.486Z</updated>
+    <updated>2024-02-15T10:19:17.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Palayathinappurathu | Alpakalam Mathram | Pr. Muttom Geevarghese #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=ikR0Ff-QHmw</id>
+        <link href="https://www.youtube.com/watch?v=ikR0Ff-QHmw"/>
+        <updated>2024-02-15T10:00:11.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളികളുടെ മനസ്സിൽ പ്രണയത്തിന്റെ വിത്തുപാകിയ അനുരാഗലോല നായകന്മാരുടെ ഹിറ്റ് ഗാനങ്ങൾ !]]></title>
         <id>https://www.youtube.com/watch?v=aCryu5qLPTI</id>
@@ -47,6 +56,15 @@
         <id>https://www.youtube.com/watch?v=fHKWBFI0rjo</id>
         <link href="https://www.youtube.com/watch?v=fHKWBFI0rjo"/>
         <updated>2024-02-15T07:00:24.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aanandhapuram Diaries | Trailer| Meena Sagar |T Srikant | Manoj K Jayan | Jaya Jose Raj |Sasi G Nair]]></title>
+        <id>https://www.youtube.com/watch?v=6zpG2K0x3m4</id>
+        <link href="https://www.youtube.com/watch?v=6zpG2K0x3m4"/>
+        <updated>2024-02-15T06:47:34.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
@@ -506,6 +524,42 @@
         <id>https://www.youtube.com/watch?v=gZ9i9CYtA5c</id>
         <link href="https://www.youtube.com/watch?v=gZ9i9CYtA5c"/>
         <updated>2024-02-14T04:47:44.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maya Imbam Vidunne | Bhagyanattil | Pr. Muttom Geevarghese | Kester  #manoramamusic #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Fm12xNLOjLo</id>
+        <link href="https://www.youtube.com/watch?v=Fm12xNLOjLo"/>
+        <updated>2024-02-14T04:44:26.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bhagyanattil Pokum Njan | Pr. Muttom Geevarghese | Kester  #manoramachristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=TsgOz1gQrgk</id>
+        <link href="https://www.youtube.com/watch?v=TsgOz1gQrgk"/>
+        <updated>2024-02-14T04:44:22.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marubhooprayanathil | Azhalerum | Pr. Muttom Geevarghese | Kester  #malayalamchristiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=xOC6kcg-Ovw</id>
+        <link href="https://www.youtube.com/watch?v=xOC6kcg-Ovw"/>
+        <updated>2024-02-14T04:44:11.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karmukil Ere Karerukilum | Pr. Muttom Geevarghese | Kester  #malayalamchristiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=msULGLmW_8o</id>
+        <link href="https://www.youtube.com/watch?v=msULGLmW_8o"/>
+        <updated>2024-02-14T04:44:07.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
         </author>
@@ -31493,15 +31547,6 @@
         <id>https://www.youtube.com/watch?v=3MPR07geJ8I</id>
         <link href="https://www.youtube.com/watch?v=3MPR07geJ8I"/>
         <updated>2023-11-17T23:30:00.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=nBXKqsSfBQc</id>
-        <link href="https://www.youtube.com/watch?v=nBXKqsSfBQc"/>
-        <updated>2023-11-17T22:00:20.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
