@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-19T15:18:02.968Z</updated>
+    <updated>2024-02-19T16:23:37.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Poomanam (Revival) - Audio Song | Etho Oru Swapnam | Prem Nizar | K.J. Yesudas | Salil Chowdhury]]></title>
+        <id>https://www.youtube.com/watch?v=26LqEi2f8u8</id>
+        <link href="https://www.youtube.com/watch?v=26LqEi2f8u8"/>
+        <updated>2024-02-19T15:30:01.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shalabham Vazhimarumaa | Achaneyanenikkishttam | Biju Menon | Lakshmi Gopalaswamy | MG Sreekumar]]></title>
         <id>https://www.youtube.com/watch?v=rKEOgGkDcOY</id>
@@ -31648,33 +31657,6 @@
         <updated>2023-11-22T04:30:22.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[യേശുവേ എൻ അഭയ കേന്ദ്രം| ROY PUTHUR | IRIN P BINU #christiandevotionalsongs #royputhur]]></title>
-        <id>https://www.youtube.com/watch?v=wnFjiQi4RhY</id>
-        <link href="https://www.youtube.com/watch?v=wnFjiQi4RhY"/>
-        <updated>2023-11-22T04:15:40.000Z</updated>
-        <author>
-            <name>Rayan Media Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulariyil Ilaveyil | Thaal |Studio Version| Bijibal|B K Harinarayanan| K S Harishankar |Shweta Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=7lsMR_sHAkU</id>
-        <link href="https://www.youtube.com/watch?v=7lsMR_sHAkU"/>
-        <updated>2023-11-22T04:03:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivathin Puthran | Fr. Shyju & Grace | Shorts #shortsvideo #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=lk_oH9tCdMI</id>
-        <link href="https://www.youtube.com/watch?v=lk_oH9tCdMI"/>
-        <updated>2023-11-22T03:30:14.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
