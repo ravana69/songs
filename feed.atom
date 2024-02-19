@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-19T19:14:38.403Z</updated>
+    <updated>2024-02-19T20:17:50.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31639,24 +31639,6 @@
         <updated>2023-11-22T08:30:13.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വ്യത്യസ്തമായ ജീവിതാനുഭവങ്ങളേകും മികവാർന്ന സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | EVERGREEN SUPERHIT SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=_4PNvMYAdJs</id>
-        <link href="https://www.youtube.com/watch?v=_4PNvMYAdJs"/>
-        <updated>2023-11-22T07:33:07.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poomakal Vaazhunna | Kaattu Vannu Vilichappol (2000)  | M G Radhakrishnan | Chippy | M G Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=7FFnpZDq87o</id>
-        <link href="https://www.youtube.com/watch?v=7FFnpZDq87o"/>
-        <updated>2023-11-22T07:30:02.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
