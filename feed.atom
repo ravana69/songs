@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-20T18:23:43.737Z</updated>
+    <updated>2024-02-20T19:13:28.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന 21st of February # Athiravile Prarthana 21st February 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=OrO0CazNUjU</id>
+        <link href="https://www.youtube.com/watch?v=OrO0CazNUjU"/>
+        <updated>2024-02-20T19:00:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=8jYlJs_1iUQ</id>
+        <link href="https://www.youtube.com/watch?v=8jYlJs_1iUQ"/>
+        <updated>2024-02-20T18:30:04.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 21st February 24]]></title>
         <id>https://www.youtube.com/watch?v=izdIH-D57Us</id>
@@ -31039,6 +31057,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pulli Official Trailer | Jiju Asokan | Indrans | Dev Mohan | Bijibal | 123Musix]]></title>
+        <id>https://www.youtube.com/watch?v=Q7E-9bTNkNA</id>
+        <link href="https://www.youtube.com/watch?v=Q7E-9bTNkNA"/>
+        <updated>2023-11-24T13:00:11.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[O Manuja - Video Song | Djinn | Soubin Shahir, Santhy | Prashant Pillai | Sidharth Bharathan]]></title>
         <id>https://www.youtube.com/watch?v=jCLAR7JsVTc</id>
         <link href="https://www.youtube.com/watch?v=jCLAR7JsVTc"/>
@@ -31612,33 +31639,6 @@
         <updated>2023-11-23T07:30:04.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KANUMBOL KANUMBOL | FR. SHAJI THUMPECHIARAYIL | #shorts #shortvideo]]></title>
-        <id>https://www.youtube.com/watch?v=aY7SqJO5iNA</id>
-        <link href="https://www.youtube.com/watch?v=aY7SqJO5iNA"/>
-        <updated>2023-11-23T07:00:00.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NONA FILM | TEASER | RAJESH IRULAM | JACOB UTHUP | HEMANTH KUMAR | MYSTICALROSE PRODUCTIONS]]></title>
-        <id>https://www.youtube.com/watch?v=dEYBQexQKTg</id>
-        <link href="https://www.youtube.com/watch?v=dEYBQexQKTg"/>
-        <updated>2023-11-23T06:42:32.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#malayalamoldsongs #chithra_songs #malayalamwhatsappstatusvideosong]]></title>
-        <id>https://www.youtube.com/watch?v=fsSyl7iF8jE</id>
-        <link href="https://www.youtube.com/watch?v=fsSyl7iF8jE"/>
-        <updated>2023-11-23T06:27:28.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
