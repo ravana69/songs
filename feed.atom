@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-20T12:32:01.750Z</updated>
+    <updated>2024-02-20T13:20:17.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yuddam Kurisu Yuddam - Audio Song | Kurishuyudham | K. J. Yesudas | K.J.Joy]]></title>
+        <id>https://www.youtube.com/watch?v=QU128Ay_9v0</id>
+        <link href="https://www.youtube.com/watch?v=QU128Ay_9v0"/>
+        <updated>2024-02-20T13:00:36.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ascharyameyithu | Pr. Muttom Geevarghese | K S Chithra #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=CEdDr3tNuPk</id>
+        <link href="https://www.youtube.com/watch?v=CEdDr3tNuPk"/>
+        <updated>2024-02-20T13:00:09.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Legs go Gaga!💃 #NeelaNilave #RDX #ytshorts #shorts]]></title>
         <id>https://www.youtube.com/watch?v=teHK1pZzNz8</id>
