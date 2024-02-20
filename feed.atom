@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-20T06:22:56.634Z</updated>
+    <updated>2024-02-20T07:16:22.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nashtaswargangale Audio Song Veenapoovu Sreekumaran Thampi Vidyadharan Master KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=6NS0kFo09go</id>
+        <link href="https://www.youtube.com/watch?v=6NS0kFo09go"/>
+        <updated>2024-02-20T07:02:36.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chithirappanthalittu | Darling Darling | Ouseppachan | K J Yesudas | K S Chithra #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=4SAnSNEQuzw</id>
+        <link href="https://www.youtube.com/watch?v=4SAnSNEQuzw"/>
+        <updated>2024-02-20T07:02:27.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thiri Theliyunnoo | Kristheeya Bhakthiganangal | Malaylam Christian Devotional Songs| Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=ZX7nVH607NE</id>
+        <link href="https://www.youtube.com/watch?v=ZX7nVH607NE"/>
+        <updated>2024-02-20T06:39:41.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thanuppicha Beerinte | Nee Ko Njaa Cha | Video Song | Prashant Pillai | Gireesh | Sunny Wayne]]></title>
         <id>https://www.youtube.com/watch?v=_IXTUAMwfqo</id>
@@ -31504,33 +31531,6 @@
         <updated>2023-11-22T22:00:24.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന  November 23 # Athiravile Prarthana 23rd of November 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=50V0A11Vj14</id>
-        <link href="https://www.youtube.com/watch?v=50V0A11Vj14"/>
-        <updated>2023-11-22T19:00:02.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Y63R1dwWehU</id>
-        <link href="https://www.youtube.com/watch?v=Y63R1dwWehU"/>
-        <updated>2023-11-22T18:30:31.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raja Chenkolilum | Fr. Shaji Thumpechirayil | #shorts #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=LDEkEaPOlSg</id>
-        <link href="https://www.youtube.com/watch?v=LDEkEaPOlSg"/>
-        <updated>2023-11-22T18:30:13.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
         </author>
     </entry>
 </feed>
