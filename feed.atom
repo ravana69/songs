@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-21T21:14:32.561Z</updated>
+    <updated>2024-02-21T22:16:16.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=rRkLUUMOZ_A</id>
+        <link href="https://www.youtube.com/watch?v=rRkLUUMOZ_A"/>
+        <updated>2024-02-21T22:00:25.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 22nd of February # Athiravile Prarthana 22nd February 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=BoeI8OABUYo</id>
@@ -31513,51 +31522,6 @@
         <updated>2023-11-24T10:30:10.000Z</updated>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aliyarude Omana Beevi | അലിയാരുടെ ഓമനബീവി | Sharan Appus | Harmonium Instrumental Song]]></title>
-        <id>https://www.youtube.com/watch?v=Y51NBiSj6LQ</id>
-        <link href="https://www.youtube.com/watch?v=Y51NBiSj6LQ"/>
-        <updated>2023-11-24T10:05:58.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vilakku Koluthum Studio Recording |Meenakshi |Rajesh Babu K |B K Harinarayanan |Sreenath & Keerthana]]></title>
-        <id>https://www.youtube.com/watch?v=YluOLmF3JXM</id>
-        <link href="https://www.youtube.com/watch?v=YluOLmF3JXM"/>
-        <updated>2023-11-24T10:00:00.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sadened for the day 😌  #KanneerpoovinuKootumay | #MrHacker | #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=_uQ2NWTfW3M</id>
-        <link href="https://www.youtube.com/watch?v=_uQ2NWTfW3M"/>
-        <updated>2023-11-24T09:30:15.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thazhvaram Manpoove | Short Video | Jackpot | Mammoootty | Yesudas | Malayalam Short Video]]></title>
-        <id>https://www.youtube.com/watch?v=13GeyeinwRI</id>
-        <link href="https://www.youtube.com/watch?v=13GeyeinwRI"/>
-        <updated>2023-11-24T09:30:00.000Z</updated>
-        <author>
-            <name>Malayalam Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaro Melle Love Song | Class By A Soldier | Vijay Yesudas | Swetha Mohan | Chinmayi Nair]]></title>
-        <id>https://www.youtube.com/watch?v=HMR72OQroII</id>
-        <link href="https://www.youtube.com/watch?v=HMR72OQroII"/>
-        <updated>2023-11-24T09:29:48.000Z</updated>
-        <author>
-            <name>Magic Frames Music</name>
         </author>
     </entry>
 </feed>
