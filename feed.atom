@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T17:15:41.417Z</updated>
+    <updated>2024-02-22T18:22:14.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 23rd February 24]]></title>
+        <id>https://www.youtube.com/watch?v=9WDZSFee1Mg</id>
+        <link href="https://www.youtube.com/watch?v=9WDZSFee1Mg"/>
+        <updated>2024-02-22T18:00:05.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[S P BALASUBRAHMANYAM HITS/CHRISTIAN DEVOTIONAL SONGS/]]></title>
         <id>https://www.youtube.com/watch?v=Il-U7d4yjXA</id>
@@ -31549,15 +31558,6 @@
         <updated>2023-11-25T06:30:09.000Z</updated>
         <author>
             <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassilayiram |Lyrical Video| Bhaskar The Rascal | Mammootty |Afsal| Harinarayanan BK | Deepak Dev]]></title>
-        <id>https://www.youtube.com/watch?v=X8yC_iAixQE</id>
-        <link href="https://www.youtube.com/watch?v=X8yC_iAixQE"/>
-        <updated>2023-11-25T05:30:13.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
