@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-25T02:24:07.360Z</updated>
+    <updated>2024-02-25T03:19:24.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaramba Ppoo Beevi - Audio Song | S.V. Peer Mohammed | T.K. Ramamoorthy | P.T.Abdurahiman]]></title>
+        <id>https://www.youtube.com/watch?v=cPnFY6XfkQM</id>
+        <link href="https://www.youtube.com/watch?v=cPnFY6XfkQM"/>
+        <updated>2024-02-25T02:30:20.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നോമ്പുകാല പ്രഭാതഗീതങ്ങൾ | Christian Devotional Songs Malayalam | Kester | Christian Melody Songs]]></title>
         <id>https://www.youtube.com/watch?v=gyYgRjD9obA</id>
@@ -31495,15 +31504,6 @@
         <updated>2023-11-27T15:21:23.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thumbapoo Kattil  | Ninnishtam Ennishtam | Mohanlal | Kannur Rajan | KJ Yesudas | S Janaki]]></title>
-        <id>https://www.youtube.com/watch?v=GX4TQsMGN48</id>
-        <link href="https://www.youtube.com/watch?v=GX4TQsMGN48"/>
-        <updated>2023-11-27T14:30:06.000Z</updated>
-        <author>
-            <name>Speed Music Videos</name>
         </author>
     </entry>
 </feed>
