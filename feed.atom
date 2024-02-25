@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-25T20:16:31.648Z</updated>
+    <updated>2024-02-25T21:15:55.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31513,24 +31513,6 @@
         <updated>2023-11-28T09:30:12.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kooki paayum  song from Film - Dance Party | Jassie Gift | Moeha | V3K]]></title>
-        <id>https://www.youtube.com/watch?v=2sPuDw5PjWc</id>
-        <link href="https://www.youtube.com/watch?v=2sPuDw5PjWc"/>
-        <updated>2023-11-28T08:57:09.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ammoommakkili Video Song | Chandralekha | Pooja Batra | KS Chithra | Gireesh Puthenchery]]></title>
-        <id>https://www.youtube.com/watch?v=YPOsrvoiiTw</id>
-        <link href="https://www.youtube.com/watch?v=YPOsrvoiiTw"/>
-        <updated>2023-11-28T08:30:09.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
