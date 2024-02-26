@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T08:21:50.535Z</updated>
+    <updated>2024-02-26T09:18:38.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oru Nalum Piriyathe | Yeshuvinte Divyasannidhyamekunna Kristheeya Bhakthiganangal | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=X6mH68rhoS0</id>
+        <link href="https://www.youtube.com/watch?v=X6mH68rhoS0"/>
+        <updated>2024-02-26T08:32:26.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aa Pullel Ee Pullel | Badal | G Ajayan | Bijibal | Engandiyoor Chandrasekharan | Soumya Ramakrishnan]]></title>
+        <id>https://www.youtube.com/watch?v=AoCXLg3UXns</id>
+        <link href="https://www.youtube.com/watch?v=AoCXLg3UXns"/>
+        <updated>2024-02-26T08:12:17.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[அமரகாவியம் - மௌனம் பேசும் தமிழ் பாடல் வரிகள் | ஜிப்ரான்]]></title>
         <id>https://www.youtube.com/watch?v=vteLt_MVBeI</id>
