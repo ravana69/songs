@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T09:18:38.430Z</updated>
+    <updated>2024-02-26T10:19:40.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Enthanennu Chodikkalle | Ulakam Chuttum Valiban #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=nv4soRFdOVo</id>
+        <link href="https://www.youtube.com/watch?v=nv4soRFdOVo"/>
+        <updated>2024-02-26T09:39:20.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enthanennu Chodikkalle | Ulakam Chuttum Valiban #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=jy0T0Dr_GcY</id>
+        <link href="https://www.youtube.com/watch?v=jy0T0Dr_GcY"/>
+        <updated>2024-02-26T09:35:04.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vazhivakkil | Annayum Rasoolum #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=fgAhwrJ4hAw</id>
+        <link href="https://www.youtube.com/watch?v=fgAhwrJ4hAw"/>
+        <updated>2024-02-26T09:27:34.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oru Nalum Piriyathe | Yeshuvinte Divyasannidhyamekunna Kristheeya Bhakthiganangal | Audio Jukebox]]></title>
         <id>https://www.youtube.com/watch?v=X6mH68rhoS0</id>
@@ -67,6 +94,15 @@
         <updated>2024-02-26T05:55:42.000Z</updated>
         <author>
             <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angulangale | THANUPP | Video Song | Bijibal | Vivek Muzhakkunnu  | Bibin Ashok | Ragesh Narayanan]]></title>
+        <id>https://www.youtube.com/watch?v=Jpy9xsAGUFU</id>
+        <link href="https://www.youtube.com/watch?v=Jpy9xsAGUFU"/>
+        <updated>2024-02-26T05:53:11.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -31475,15 +31511,6 @@
         <id>https://www.youtube.com/watch?v=RYge_ST0ANo</id>
         <link href="https://www.youtube.com/watch?v=RYge_ST0ANo"/>
         <updated>2023-11-28T23:30:10.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=aDMSxuKe4_8</id>
-        <link href="https://www.youtube.com/watch?v=aDMSxuKe4_8"/>
-        <updated>2023-11-28T22:00:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
