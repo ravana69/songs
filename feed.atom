@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T20:18:30.293Z</updated>
+    <updated>2024-03-01T21:16:23.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഇന്ന് മാർച്ച്  02 എൻറെ കർത്താവിൻറെ അമ്മയുടെ ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #japamala  santho]]></title>
+        <id>https://www.youtube.com/watch?v=q0Kam0rt7vA</id>
+        <link href="https://www.youtube.com/watch?v=q0Kam0rt7vA"/>
+        <updated>2024-03-01T21:00:25.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer 2nd of March # Athiravile Prarthana 2nd March 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=JL4JEIxqnAs</id>
@@ -31684,15 +31693,6 @@
         <updated>2023-12-03T10:30:16.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blissful melody  #MunnilRandChembarathi #BhagavanDasanteRamarajyam #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=Gg_sfior4f0</id>
-        <link href="https://www.youtube.com/watch?v=Gg_sfior4f0"/>
-        <updated>2023-12-03T08:30:03.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
