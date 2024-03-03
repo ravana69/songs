@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T11:13:02.140Z</updated>
+    <updated>2024-03-03T12:29:45.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rithusankramappakshi paadi Video Song | Rithubhedam | KJ Yesudas | Monisha | Vineeth]]></title>
+        <id>https://www.youtube.com/watch?v=8J1sTi8JVp0</id>
+        <link href="https://www.youtube.com/watch?v=8J1sTi8JVp0"/>
+        <updated>2024-03-03T12:15:00.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhathulli Palunkukal | Pranayam #vijayyesudas #shreyaghoshal #filmsongs #shortsfeed #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=2x17fUmL2DA</id>
+        <link href="https://www.youtube.com/watch?v=2x17fUmL2DA"/>
+        <updated>2024-03-03T12:00:01.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urangum Munpu Daiva Sannidhiyil # Night Prayer and Worship # Rathri Japam 3rd of March 2024]]></title>
+        <id>https://www.youtube.com/watch?v=kpxcpzswtEs</id>
+        <link href="https://www.youtube.com/watch?v=kpxcpzswtEs"/>
+        <updated>2024-03-03T11:30:31.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സഹനങ്ങൾ കുരിശോടു ചേർക്കാൻ ശക്തിയേകും ഗാനങ്ങൾ | Valiya Nombu Geethangal | Wilson Piravom | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=9gSITH4gEv0</id>
+        <link href="https://www.youtube.com/watch?v=9gSITH4gEv0"/>
+        <updated>2024-03-03T11:30:04.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മേഘന കുട്ടിയുടെ ഈ മനോഹരമായ ഗാനം വിജയത്തിലെത്തിച്ച ഓരോരുത്തർക്കും നന്ദി...🙏🏻❤️@MeghnaSumesh]]></title>
+        <id>https://www.youtube.com/watch?v=Ayf8n-UgdQQ</id>
+        <link href="https://www.youtube.com/watch?v=Ayf8n-UgdQQ"/>
+        <updated>2024-03-03T11:30:04.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pranaya Sankalpame Video Song | Nirakkoottu | Vani Jairam | Mammootty | Sumalathav]]></title>
         <id>https://www.youtube.com/watch?v=tfAUFd059D8</id>
@@ -31603,24 +31648,6 @@
         <updated>2023-12-05T00:30:17.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 5th of December 2023 Mathavinte Japamala # Dhukhathinte Rahasyangal 5th of December 23]]></title>
-        <id>https://www.youtube.com/watch?v=JqzOovb05xA</id>
-        <link href="https://www.youtube.com/watch?v=JqzOovb05xA"/>
-        <updated>2023-12-04T23:30:04.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിൻറെ ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #mother mary songs and prayer for December 6th 23]]></title>
-        <id>https://www.youtube.com/watch?v=HrHE-FAaR2E</id>
-        <link href="https://www.youtube.com/watch?v=HrHE-FAaR2E"/>
-        <updated>2023-12-04T23:30:02.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
         </author>
     </entry>
 </feed>
