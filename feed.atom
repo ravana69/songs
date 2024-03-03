@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T12:29:45.217Z</updated>
+    <updated>2024-03-03T13:17:22.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BTS from Jawanum Mullapoovum #JingaJinga #JawanumMullapoovum #ytshorts #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=xLSLq6vIOCY</id>
+        <link href="https://www.youtube.com/watch?v=xLSLq6vIOCY"/>
+        <updated>2024-03-03T12:30:40.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഇന്ന് നീ എന്നോടുകൂടെ പറുദീസയിലായിരിക്കും.  | Rev. Aneesh P Joseph | #shorts #lent #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=bwQm1eh0xcU</id>
+        <link href="https://www.youtube.com/watch?v=bwQm1eh0xcU"/>
+        <updated>2024-03-03T12:30:25.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rithusankramappakshi paadi Video Song | Rithubhedam | KJ Yesudas | Monisha | Vineeth]]></title>
         <id>https://www.youtube.com/watch?v=8J1sTi8JVp0</id>
@@ -31639,15 +31657,6 @@
         <updated>2023-12-05T02:30:02.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apakadadivasam | Christian Devotional Songs Malayalam | Kester | Praise and Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=UtzrbxkDd_k</id>
-        <link href="https://www.youtube.com/watch?v=UtzrbxkDd_k"/>
-        <updated>2023-12-05T00:30:17.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
