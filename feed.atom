@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T21:14:45.542Z</updated>
+    <updated>2024-03-03T22:15:37.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=EuLv8tuKQn4</id>
+        <link href="https://www.youtube.com/watch?v=EuLv8tuKQn4"/>
+        <updated>2024-03-03T22:00:07.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer 4th of March # Athiravile Prarthana 4th March 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=xy9F4C53JKQ</id>
@@ -31594,33 +31603,6 @@
         <updated>2023-12-05T10:16:30.000Z</updated>
         <author>
             <name>Magic Frames Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Priyan | Shorts]]></title>
-        <id>https://www.youtube.com/watch?v=gk4bImWX4h0</id>
-        <link href="https://www.youtube.com/watch?v=gk4bImWX4h0"/>
-        <updated>2023-12-05T09:43:27.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machakathammaye | #devotionalhits |  #sabarimala |  #Shorts #malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=bzgtKFbAouc</id>
-        <link href="https://www.youtube.com/watch?v=bzgtKFbAouc"/>
-        <updated>2023-12-05T09:42:44.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികൾക്ക് ഒത്തിരി നല്ല ഗാനങ്ങൾ സമ്മാനിച്ച സംഗീതജോഡി ബേർണി ഇഗ്നേഷ്യസ് ടീമിന്റെ ജനപ്രിയ ഗാനങ്ങൾ !]]></title>
-        <id>https://www.youtube.com/watch?v=kTzyW52tKVI</id>
-        <link href="https://www.youtube.com/watch?v=kTzyW52tKVI"/>
-        <updated>2023-12-05T09:30:20.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
