@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T07:14:11.942Z</updated>
+    <updated>2024-03-03T08:22:21.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[பாணா - தாக்குதே கண் தாக்குதே தமிழ் பாடல் வரிகள் | யுவன் சங்கர் ராஜா]]></title>
+        <id>https://www.youtube.com/watch?v=X-PSfpoBWJw</id>
+        <link href="https://www.youtube.com/watch?v=X-PSfpoBWJw"/>
+        <updated>2024-03-03T08:00:15.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[அவன் இவன் - ராசாத்தி தமிழ் பாடல் வரிகள் | யுவன் சங்கர் ராஜா]]></title>
+        <id>https://www.youtube.com/watch?v=aIfoBq-5Fp0</id>
+        <link href="https://www.youtube.com/watch?v=aIfoBq-5Fp0"/>
+        <updated>2024-03-03T08:00:00.000Z</updated>
+        <author>
+            <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[തുലാമഴക്കാലം തീർന്നാൽ സ്വയംവരം ...#evergreenhits #movieworldmusic #dileep #samvruthasunil #harahara]]></title>
+        <id>https://www.youtube.com/watch?v=gHucg_OJApE</id>
+        <link href="https://www.youtube.com/watch?v=gHucg_OJApE"/>
+        <updated>2024-03-03T07:30:18.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swarga nandini | Lankadhahanam | K.J.Yesudas | M.S.Viswanathan | Sreekumaran Thambi]]></title>
+        <id>https://www.youtube.com/watch?v=cFjyAV9ixPo</id>
+        <link href="https://www.youtube.com/watch?v=cFjyAV9ixPo"/>
+        <updated>2024-03-03T07:30:10.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Randu Poovithal Chundil Virinju | My Dear Muthachan | Bichu Thirumala | Johnson | KJ Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=DPojtkRz4LU</id>
