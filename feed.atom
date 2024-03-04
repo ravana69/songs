@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-04T14:16:23.857Z</updated>
+    <updated>2024-03-04T15:18:57.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thennal Vannathum |  Kabooliwala | SP Venkitesh| KS Chithra #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=sWdy_FP28HQ</id>
+        <link href="https://www.youtube.com/watch?v=sWdy_FP28HQ"/>
+        <updated>2024-03-04T14:30:30.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Salabham Vazhimarumo - Audio Song | Achaneyaanenikkishtam | M.G. Sreekumar, K.S. Chithra]]></title>
         <id>https://www.youtube.com/watch?v=QY9c4aqjymo</id>
@@ -31621,24 +31630,6 @@
         <updated>2023-12-06T03:47:15.000Z</updated>
         <author>
             <name>OPM Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kooki Paayum | Dance Party | Shorts  #manoramamusic #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=v18LnQloFTw</id>
-        <link href="https://www.youtube.com/watch?v=v18LnQloFTw"/>
-        <updated>2023-12-06T02:30:30.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choodarum | CheenaTrophy | Shorts  #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=UEQ1Zb83OF8</id>
-        <link href="https://www.youtube.com/watch?v=UEQ1Zb83OF8"/>
-        <updated>2023-12-06T02:30:11.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
