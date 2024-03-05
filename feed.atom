@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T10:20:23.344Z</updated>
+    <updated>2024-03-05T11:16:22.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nakshathram Minnunna video song | Mimics Parade |  Krishnachandran | Unni Menon]]></title>
+        <id>https://www.youtube.com/watch?v=G1JuKPMXkxI</id>
+        <link href="https://www.youtube.com/watch?v=G1JuKPMXkxI"/>
+        <updated>2024-03-05T10:30:07.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ആട്ടവും പാട്ടുമായി മത്സരച്ചൂടിലാണ് ഓരോ താരങ്ങളും ! Mollywood Magic | Mollywood Magic Qatar]]></title>
         <id>https://www.youtube.com/watch?v=AXchw8TiSmU</id>
@@ -31396,15 +31405,6 @@
         <updated>2023-12-06T23:30:10.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിൻറെ  ഗാനങ്ങൾ കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം # കൃപാസനം   പ്രാർത്ഥനയും ഇതിൽ ഉണ്ട് #kripasanam]]></title>
-        <id>https://www.youtube.com/watch?v=NtaZywBbUYs</id>
-        <link href="https://www.youtube.com/watch?v=NtaZywBbUYs"/>
-        <updated>2023-12-06T23:00:13.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
         </author>
     </entry>
 </feed>
