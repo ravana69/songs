@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T09:17:01.883Z</updated>
+    <updated>2024-03-05T10:20:23.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആട്ടവും പാട്ടുമായി മത്സരച്ചൂടിലാണ് ഓരോ താരങ്ങളും ! Mollywood Magic | Mollywood Magic Qatar]]></title>
+        <id>https://www.youtube.com/watch?v=AXchw8TiSmU</id>
+        <link href="https://www.youtube.com/watch?v=AXchw8TiSmU"/>
+        <updated>2024-03-05T09:23:05.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[எங்கேயும் காதல் - தீ இல்லை தமிழ் பாடல் வரிகள் | ஹாரிஸ் ஜெயராஜ்]]></title>
         <id>https://www.youtube.com/watch?v=JPre4DfeMts</id>
@@ -31396,15 +31405,6 @@
         <updated>2023-12-06T23:00:13.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=RujfWNQen2I</id>
-        <link href="https://www.youtube.com/watch?v=RujfWNQen2I"/>
-        <updated>2023-12-06T22:00:21.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
