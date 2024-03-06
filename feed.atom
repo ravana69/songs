@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T03:17:50.378Z</updated>
+    <updated>2024-03-06T04:20:09.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kukkurukukku kurukkan | Animation Song #animation #kidsanimationvideo #shortsfeed #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=1B8y_Gjzcos</id>
+        <link href="https://www.youtube.com/watch?v=1B8y_Gjzcos"/>
+        <updated>2024-03-06T03:30:01.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ishara Musical Video... Releasing Soon...]]></title>
         <id>https://www.youtube.com/watch?v=SySa5mmOUAE</id>
@@ -616,6 +625,15 @@
         <updated>2024-03-04T09:47:21.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ishaara | Malayalam Music Album | Kavithayayi 🦋 Niharika | Vinu | Vishnu | Vijeesh | Emotional Song]]></title>
+        <id>https://www.youtube.com/watch?v=fGto0LApUlI</id>
+        <link href="https://www.youtube.com/watch?v=fGto0LApUlI"/>
+        <updated>2024-03-04T08:09:59.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
