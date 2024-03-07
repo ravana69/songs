@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-07T05:16:22.550Z</updated>
+    <updated>2024-03-07T06:23:12.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tharattupattukal | Malayalam Lullaby Film Songs |Jukebox |സൂപ്പർഹിറ്റ് മലയാളം സിനിമ താരാട്ടുപാട്ടുകൾ]]></title>
+        <id>https://www.youtube.com/watch?v=7QjA6x_1M68</id>
+        <link href="https://www.youtube.com/watch?v=7QjA6x_1M68"/>
+        <updated>2024-03-07T05:30:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Varuvaanillarumee Video Song | Manichitrathazhu | Shobana | KS Chithra | MG Radhakrishnan]]></title>
+        <id>https://www.youtube.com/watch?v=bP5QZn97SyU</id>
+        <link href="https://www.youtube.com/watch?v=bP5QZn97SyU"/>
+        <updated>2024-03-07T05:17:51.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manikkuyile Karaoke with Lyrics|  Vaalkannadi | Karaoke Video | Kalabhavan Mani | M. Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=Q0YReUT08FE</id>
+        <link href="https://www.youtube.com/watch?v=Q0YReUT08FE"/>
+        <updated>2024-03-07T05:00:14.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anaadhi Yugangalaay | Karaoke with Lyrics | Lavender | Karaoke Video | Vijay Yesudas | Deepak Dev]]></title>
+        <id>https://www.youtube.com/watch?v=Vs526Oi9DwA</id>
+        <link href="https://www.youtube.com/watch?v=Vs526Oi9DwA"/>
+        <updated>2024-03-07T04:59:35.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M. G. Soman Old Malayalam Movie Songs | Oonjaal Remastered Malayalam Songs | P. Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=F8FZ9Cogq3M</id>
@@ -31315,15 +31351,6 @@
         <updated>2023-12-08T18:30:27.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 9th December 23]]></title>
-        <id>https://www.youtube.com/watch?v=qgniocwe36Y</id>
-        <link href="https://www.youtube.com/watch?v=qgniocwe36Y"/>
-        <updated>2023-12-08T18:00:33.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
