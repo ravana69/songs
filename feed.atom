@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-09T20:16:32.645Z</updated>
+    <updated>2024-03-09T21:17:53.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31423,24 +31423,6 @@
         <updated>2023-12-11T10:17:59.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Johnykutty - Lyrical Video | Antony | Vijayaraghavan,Chemban Vinod,Joju George| Joshiy | Jakes Bejoy]]></title>
-        <id>https://www.youtube.com/watch?v=qST0KIJWk0A</id>
-        <link href="https://www.youtube.com/watch?v=qST0KIJWk0A"/>
-        <updated>2023-12-11T08:57:43.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanavaayi Video Song - Single Divorced Happy Again | Ashwin Aryan | Bindu Anirudhan | Akhila Sayooj]]></title>
-        <id>https://www.youtube.com/watch?v=bSi5oh_FyWI</id>
-        <link href="https://www.youtube.com/watch?v=bSi5oh_FyWI"/>
-        <updated>2023-12-11T08:36:51.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
