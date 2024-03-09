@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-09T22:18:06.649Z</updated>
+    <updated>2024-03-09T23:17:10.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -31396,33 +31396,6 @@
         <updated>2023-12-11T11:30:01.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bhagavane Sree Sabareesa | Ayyappa Devotional Song | Jayan (Jaya Vijaya ) | Sabarmala Devotional]]></title>
-        <id>https://www.youtube.com/watch?v=VFtCuo1n_Wk</id>
-        <link href="https://www.youtube.com/watch?v=VFtCuo1n_Wk"/>
-        <updated>2023-12-11T10:33:21.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ലാസ്യഭംഗിയുള്ള പാട്ടുപാടുമ്പോൾ ചിത്രച്ചേച്ചിക്ക് നാണമാണോ | Paadiyum Paranjum | Malayala Manorama]]></title>
-        <id>https://www.youtube.com/watch?v=Xfpre3VS2ZY</id>
-        <link href="https://www.youtube.com/watch?v=Xfpre3VS2ZY"/>
-        <updated>2023-12-11T10:30:12.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nataraajamandapam | Aagneyam | KJ Yesudas | Jayaram | Gautami | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=-kM2yrlp2H0</id>
-        <link href="https://www.youtube.com/watch?v=-kM2yrlp2H0"/>
-        <updated>2023-12-11T10:30:00.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
