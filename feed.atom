@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-09T18:20:04.885Z</updated>
+    <updated>2024-03-09T19:12:27.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer 10th of March # Athiravile Prarthana 10th March 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=_4O7rH0ZstU</id>
+        <link href="https://www.youtube.com/watch?v=_4O7rH0ZstU"/>
+        <updated>2024-03-09T19:00:18.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=5ODoJrJTABo</id>
+        <link href="https://www.youtube.com/watch?v=5ODoJrJTABo"/>
+        <updated>2024-03-09T18:30:02.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mathavinodulla Samprakshana Prarthana The Immaculate Heart of Mother Mary Prayer 10th March 24]]></title>
         <id>https://www.youtube.com/watch?v=zTqh1PuVNk0</id>
@@ -31450,33 +31468,6 @@
         <updated>2023-12-11T07:30:01.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thankathoni | Mazhavilkkaavadi | Johnson | K S Chithra | Kaithapram | Urvashi #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=PqyFwBPi85E</id>
-        <link href="https://www.youtube.com/watch?v=PqyFwBPi85E"/>
-        <updated>2023-12-11T07:05:58.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haadhi Dhoorahidhe | Digital Village | Sudheesh Maruthalam | Hari S R | Yulin Productions |Film Song]]></title>
-        <id>https://www.youtube.com/watch?v=luL6O_h5AQg</id>
-        <link href="https://www.youtube.com/watch?v=luL6O_h5AQg"/>
-        <updated>2023-12-11T06:46:56.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jealousy moment 😜 #NeelaNilave #RDX #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=zZBpqfP4hP0</id>
-        <link href="https://www.youtube.com/watch?v=zZBpqfP4hP0"/>
-        <updated>2023-12-11T06:30:16.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
