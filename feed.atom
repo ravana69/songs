@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-09T21:17:53.297Z</updated>
+    <updated>2024-03-09T22:18:06.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=QqLC0I_Zvwg</id>
+        <link href="https://www.youtube.com/watch?v=QqLC0I_Zvwg"/>
+        <updated>2024-03-09T22:00:10.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer 10th of March # Athiravile Prarthana 10th March 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=_4O7rH0ZstU</id>
@@ -31414,15 +31423,6 @@
         <updated>2023-12-11T10:30:00.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nee Thanna Dhanam | Roy Puthoor | M K Binu Komalloor | Liju John Mathew | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=FEaMlR8ht6g</id>
-        <link href="https://www.youtube.com/watch?v=FEaMlR8ht6g"/>
-        <updated>2023-12-11T10:17:59.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
