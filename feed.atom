@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-10T01:19:28.750Z</updated>
+    <updated>2024-03-10T02:26:10.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Katte Katte | Celluloid  #manoramamusic #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=hLBEAvgxNJg</id>
+        <link href="https://www.youtube.com/watch?v=hLBEAvgxNJg"/>
+        <updated>2024-03-10T02:00:07.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nira Thinkale | My Big Father #shortsvideo  #manoramamusic]]></title>
         <id>https://www.youtube.com/watch?v=YCNRKRAn6kc</id>
@@ -31324,24 +31333,6 @@
         <updated>2023-12-11T15:50:26.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പുൽക്കൂട് -vol .2/ കരോൾ ഗാനങ്ങൾ/pulkoodu -vol .2/Carol songs/ OWN MEDIA MUSIC COLLECTION.]]></title>
-        <id>https://www.youtube.com/watch?v=gbfqSNf6-gk</id>
-        <link href="https://www.youtube.com/watch?v=gbfqSNf6-gk"/>
-        <updated>2023-12-11T13:36:11.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tharalitha Raavil Mayangiyo|Soorya manasam|Mammootty|Sowcar Janaki|]]></title>
-        <id>https://www.youtube.com/watch?v=Z7A6OeMwyVw</id>
-        <link href="https://www.youtube.com/watch?v=Z7A6OeMwyVw"/>
-        <updated>2023-12-11T13:33:14.000Z</updated>
-        <author>
-            <name>Raaga music</name>
         </author>
     </entry>
 </feed>
