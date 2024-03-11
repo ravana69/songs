@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-11T19:15:34.610Z</updated>
+    <updated>2024-03-11T20:19:38.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -30877,6 +30877,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ayyane Thedi | Pulimel Amarum | Music Video | Binni Raj | Sajith Chandran | Ayyappa Devotional Song]]></title>
+        <id>https://www.youtube.com/watch?v=Lqgsizcz7aw</id>
+        <link href="https://www.youtube.com/watch?v=Lqgsizcz7aw"/>
+        <updated>2023-12-14T11:30:11.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Manassil kulirukorum Video Song | Aadyathe Kanmani | KS Chithra | Biju Narayanan]]></title>
         <id>https://www.youtube.com/watch?v=F2NADXtkNo0</id>
         <link href="https://www.youtube.com/watch?v=F2NADXtkNo0"/>
@@ -31306,24 +31315,6 @@
         <updated>2023-12-13T08:39:45.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഡിസംബർ മാസത്തിൽ കേൾക്കുമ്പോൾ മനസിന് എന്തെന്നില്ലാത്ത കുളിർമ്മയേകുന്ന തണുപ്പുള്ള ഗാനങ്ങൾ !]]></title>
-        <id>https://www.youtube.com/watch?v=_osN56Qvmd0</id>
-        <link href="https://www.youtube.com/watch?v=_osN56Qvmd0"/>
-        <updated>2023-12-13T07:45:46.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സൈന്യം സിനിമയിലെ കിടിലൻ പാട്ടുകൾ | Sainyam Video Jukebox | Mammootty Hit Movie Songs | Mammootty]]></title>
-        <id>https://www.youtube.com/watch?v=MxxidI4uu6g</id>
-        <link href="https://www.youtube.com/watch?v=MxxidI4uu6g"/>
-        <updated>2023-12-13T07:20:01.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
