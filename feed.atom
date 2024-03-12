@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-12T06:22:27.202Z</updated>
+    <updated>2024-03-12T07:15:56.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manathoru Pontharakam Video Song | Pranaya Nilavu | Dileep | Mohini | KS Chithra | Berny Ignatius]]></title>
+        <id>https://www.youtube.com/watch?v=GSJWCNpUh14</id>
+        <link href="https://www.youtube.com/watch?v=GSJWCNpUh14"/>
+        <updated>2024-03-12T07:14:23.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OTHIRI NOMBARAM (St Joseph's Day) | #shorts | Fr Shaji Thumpechirayil | NEETHIMAN]]></title>
+        <id>https://www.youtube.com/watch?v=udENNanwvw8</id>
+        <link href="https://www.youtube.com/watch?v=udENNanwvw8"/>
+        <updated>2024-03-12T06:30:13.000Z</updated>
+        <author>
+            <name>Celebrants India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കെസ്റ്ററിനെ പോലും കരയിപ്പിച്ച  നോമ്പ് ഗാനങ്ങൾ | Kester Hits | #kestersongs]]></title>
         <id>https://www.youtube.com/watch?v=3ABiGrwMoTU</id>
@@ -31216,24 +31234,6 @@
         <updated>2023-12-13T22:00:06.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന December 14 # Athiravile Prarthana 14th of December 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=jEEHjyX56nk</id>
-        <link href="https://www.youtube.com/watch?v=jEEHjyX56nk"/>
-        <updated>2023-12-13T19:00:17.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=qjnA3g6w_xI</id>
-        <link href="https://www.youtube.com/watch?v=qjnA3g6w_xI"/>
-        <updated>2023-12-13T18:30:27.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
