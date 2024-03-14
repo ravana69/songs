@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-14T08:21:14.488Z</updated>
+    <updated>2024-03-14T09:17:01.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Punchirichal Poonilavudikkum | Sreedevi Malayalam Movie | KJ Yesudas | Kamal Haasan | #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=N_pCFjep-e8</id>
+        <link href="https://www.youtube.com/watch?v=N_pCFjep-e8"/>
+        <updated>2024-03-14T08:53:51.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മാർത്തോമ്മൻ സിംഹാസനം | A  SYMPHONY  ON  HISTORY | #christiandevotionalsongs #royputhur]]></title>
+        <id>https://www.youtube.com/watch?v=Mj5YfAZAMPQ</id>
+        <link href="https://www.youtube.com/watch?v=Mj5YfAZAMPQ"/>
+        <updated>2024-03-14T08:44:07.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uthama Snehithare | നോമ്പുകാല ഗാനങ്ങൾ | Christian Devotional Songs | ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=b0Zi5RWwFe0</id>
+        <link href="https://www.youtube.com/watch?v=b0Zi5RWwFe0"/>
+        <updated>2024-03-14T08:37:49.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മനസിലെന്നും വർണ്ണ പൂക്കാലം  തീർക്കും മനം കവരുന്ന മലയാളസിനിമാ ഗാനങ്ങൾ ! MALAYALAM FILM SONGS]]></title>
         <id>https://www.youtube.com/watch?v=M23EoogqppY</id>
