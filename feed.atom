@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-14T04:20:15.643Z</updated>
+    <updated>2024-03-14T05:16:55.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[You are meant to Thrive, not just Survive! |  lyric video "Neram" from JaiGanesh]]></title>
+        <id>https://www.youtube.com/watch?v=Lc_u1R8PeqM</id>
+        <link href="https://www.youtube.com/watch?v=Lc_u1R8PeqM"/>
+        <updated>2024-03-14T04:45:02.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thenurum Ragam | Uyire Unakkaga | Laxmikant-Pyarelal | S.Janaki | Hi-Res Audio]]></title>
+        <id>https://www.youtube.com/watch?v=LidBByT2WrI</id>
+        <link href="https://www.youtube.com/watch?v=LidBByT2WrI"/>
+        <updated>2024-03-14T04:35:41.000Z</updated>
+        <author>
+            <name>NANCHIL BEATS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M. G. Soman Old Malayalam Movie Song| Aval Viswasthayayirunnu Remastered MalayalamSong |Vani Jairam]]></title>
         <id>https://www.youtube.com/watch?v=7Wzhdl9aS_4</id>
@@ -31297,15 +31315,6 @@
         <updated>2023-12-15T17:52:50.000Z</updated>
         <author>
             <name>Tharangini Sound of arts Dubai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambotti Chemboth | Kottaram Veetile Appoottan | Jayaram | MG Sreekumar | Kalabhavan Mani]]></title>
-        <id>https://www.youtube.com/watch?v=Xs_RhvS0XSM</id>
-        <link href="https://www.youtube.com/watch?v=Xs_RhvS0XSM"/>
-        <updated>2023-12-15T16:25:31.000Z</updated>
-        <author>
-            <name>Speed Music Videos</name>
         </author>
     </entry>
 </feed>
