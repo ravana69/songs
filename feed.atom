@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-17T14:14:17.440Z</updated>
+    <updated>2024-03-17T15:17:26.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[17 March 2024]]></title>
+        <id>https://www.youtube.com/watch?v=xq8f4kuf6lA</id>
+        <link href="https://www.youtube.com/watch?v=xq8f4kuf6lA"/>
+        <updated>2024-03-17T14:32:29.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[കുരിശിൽ മരിച്ച യേശുവിനോട് ചേർന്ന് ആ സഹനങ്ങൾ ഏറ്റുവാങ്ങാൻ ശക്തിയേകും ഗാനങ്ങൾ | Easter Special Songs]]></title>
+        <id>https://www.youtube.com/watch?v=uJNMBFTPEDU</id>
+        <link href="https://www.youtube.com/watch?v=uJNMBFTPEDU"/>
+        <updated>2024-03-17T14:30:25.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kandu Njan| Abhimanyu|Raveendran| MG Sreekumar | Kaithapram #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=UBqLCG8IBQ8</id>
+        <link href="https://www.youtube.com/watch?v=UBqLCG8IBQ8"/>
+        <updated>2024-03-17T14:30:10.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രാണൻ പോകുവോളം എന്നെ സ്നേഹിക്കുന്ന നാഥൻ  | Rev. Aneesh P Joseph | #shorts #lent]]></title>
         <id>https://www.youtube.com/watch?v=zcL1ssaG5oc</id>
