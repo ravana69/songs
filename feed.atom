@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T07:16:54.504Z</updated>
+    <updated>2024-03-18T08:21:33.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JayaJaya JayaJaya Kristhurajane | നോമ്പുകാല ഗാനങ്ങൾ  | Christian Devotional Songs| Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=V_C2OQM2KDI</id>
+        <link href="https://www.youtube.com/watch?v=V_C2OQM2KDI"/>
+        <updated>2024-03-18T07:51:00.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanakanilave | Kauravar | Malayalam Super Hit Song | Mammootty | Anju - SP Venkitesh Hits]]></title>
+        <id>https://www.youtube.com/watch?v=yJBzAc3WwGU</id>
+        <link href="https://www.youtube.com/watch?v=yJBzAc3WwGU"/>
+        <updated>2024-03-18T07:30:14.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Velli Nila Thullikalo | Varnapakittu | Mohanlal | Meena | Gireesh Puthenchery | Vidyasagar]]></title>
+        <id>https://www.youtube.com/watch?v=mTRCaHBv2wY</id>
+        <link href="https://www.youtube.com/watch?v=mTRCaHBv2wY"/>
+        <updated>2024-03-18T07:30:12.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kathirola Thumbi  | Mayaponman | Mohan Sithara | S Ramesan Nair | MG Sreekumar | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=UQoOTnSkyyE</id>
+        <link href="https://www.youtube.com/watch?v=UQoOTnSkyyE"/>
+        <updated>2024-03-18T07:30:11.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വി. യൗസേപ്പ്  പിതാവിന്റെ മരണ തിരുനാൾ | Fr. Shaji Thumpechirayil]]></title>
+        <id>https://www.youtube.com/watch?v=4OY9sMacVvA</id>
+        <link href="https://www.youtube.com/watch?v=4OY9sMacVvA"/>
+        <updated>2024-03-18T07:26:34.000Z</updated>
+        <author>
+            <name>Celebrants India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Omane | Boy Friend | Malayalam Lullaby Film Songs #sujatha #shortsfeed #shortsvideo #shorts #reels]]></title>
         <id>https://www.youtube.com/watch?v=5SUHQOm82eA</id>
