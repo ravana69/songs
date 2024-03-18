@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T18:21:33.534Z</updated>
+    <updated>2024-03-18T19:14:21.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer 19th of March # Athiravile Prarthana 19th March 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=yPoXfCrlAEE</id>
+        <link href="https://www.youtube.com/watch?v=yPoXfCrlAEE"/>
+        <updated>2024-03-18T19:00:34.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=yy7YTNQHm1Y</id>
+        <link href="https://www.youtube.com/watch?v=yy7YTNQHm1Y"/>
+        <updated>2024-03-18T18:30:44.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aathi Vadayile | Sindhu Nathi Poo | Soundaryan | K.J.Yesudas & Asha Latha | Hi-Res Audio]]></title>
         <id>https://www.youtube.com/watch?v=O4-kcrSRVo0</id>
@@ -31252,33 +31270,6 @@
         <updated>2023-12-20T07:20:01.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devadoothar Paadi | Kathodu Kathoram | Yesudas | Ouseppachan | Sound of Arts]]></title>
-        <id>https://www.youtube.com/watch?v=lTcys4K_wVs</id>
-        <link href="https://www.youtube.com/watch?v=lTcys4K_wVs"/>
-        <updated>2023-12-20T07:13:13.000Z</updated>
-        <author>
-            <name>Malayalam Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoomanju Peythidunna Neelaravil | Aparna Rajeev #Shorts #Carol]]></title>
-        <id>https://www.youtube.com/watch?v=mAUs3Yvn5_o</id>
-        <link href="https://www.youtube.com/watch?v=mAUs3Yvn5_o"/>
-        <updated>2023-12-20T06:52:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vintage souls, modern hearts 💕 #PunnaraKattilePoovanatthil #MalaikottaiVaaliban #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=DrqYxJOZw0w</id>
-        <link href="https://www.youtube.com/watch?v=DrqYxJOZw0w"/>
-        <updated>2023-12-20T06:30:03.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
