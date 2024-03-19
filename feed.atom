@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T07:17:06.746Z</updated>
+    <updated>2024-03-19T08:21:28.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[കേട്ട് കേട്ട് ഇനിയും കൊതി തീരാത്ത മലയാളസിനിമയിലെ തരളിതഗാനങ്ങൾ ! FAVOURITE SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=ja76cTf6jBQ</id>
+        <link href="https://www.youtube.com/watch?v=ja76cTf6jBQ"/>
+        <updated>2024-03-19T07:30:11.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kazhchayekam Kasayil | നോമ്പുകാല ഗാനങ്ങൾ | ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Christian Devotional Songs|]]></title>
+        <id>https://www.youtube.com/watch?v=E61brhIWsrQ</id>
+        <link href="https://www.youtube.com/watch?v=E61brhIWsrQ"/>
+        <updated>2024-03-19T07:23:23.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aaro Viral Neetti Video Song | Pranayavarnangal | Vidyasagar | Gireesh Puthenchery | KJ Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=Prtyqn2Bybs</id>
