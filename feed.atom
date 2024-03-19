@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T06:22:08.493Z</updated>
+    <updated>2024-03-19T07:17:06.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaro Viral Neetti Video Song | Pranayavarnangal | Vidyasagar | Gireesh Puthenchery | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=Prtyqn2Bybs</id>
+        <link href="https://www.youtube.com/watch?v=Prtyqn2Bybs"/>
+        <updated>2024-03-19T06:53:52.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enente Chankile | Video | Red Salute | Kalabhavan Mani | Satheesh Varma | Alex Paul | Vinod Vinayan]]></title>
         <id>https://www.youtube.com/watch?v=vkKs_0iTLoM</id>
@@ -31099,24 +31108,6 @@
         <updated>2023-12-20T22:00:22.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന December 21 # Athiravile Prarthana 21st of December 2023 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=u6kz_G-A3N4</id>
-        <link href="https://www.youtube.com/watch?v=u6kz_G-A3N4"/>
-        <updated>2023-12-20T19:00:25.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=B9QJctLP8QU</id>
-        <link href="https://www.youtube.com/watch?v=B9QJctLP8QU"/>
-        <updated>2023-12-20T18:30:07.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
