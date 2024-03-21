@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T14:16:32.505Z</updated>
+    <updated>2024-03-21T15:18:28.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nettiyil Poovulla Video Song | Mammootty | Suhasini | KJ Yesudas | ONV Kurup | MB Sreenivasan]]></title>
+        <id>https://www.youtube.com/watch?v=27s8HZLiF30</id>
+        <link href="https://www.youtube.com/watch?v=27s8HZLiF30"/>
+        <updated>2024-03-21T14:30:01.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Superhit Songs | Sujatha | Vishudhavara Geethangal | Joji Johns | Valiya Nombu Geethangal]]></title>
         <id>https://www.youtube.com/watch?v=uZxxU5k1TdI</id>
@@ -31468,15 +31477,6 @@
         <updated>2023-12-23T04:00:13.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salabhamay | Kalimannu | Shreya Ghoshal #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=yOs33QvSDqE</id>
-        <link href="https://www.youtube.com/watch?v=yOs33QvSDqE"/>
-        <updated>2023-12-23T02:30:24.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
 </feed>
