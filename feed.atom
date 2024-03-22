@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T21:15:36.020Z</updated>
+    <updated>2024-03-22T22:16:30.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=NYPy2eTJn7A</id>
+        <link href="https://www.youtube.com/watch?v=NYPy2eTJn7A"/>
+        <updated>2024-03-22T22:00:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നിങ്ങൾ കേട്ടുപഴകിയ തൊണ്ണൂറുകളിലെ ഗാനങ്ങൾ |Melodies of 90's | മലയാളചലച്ചിത്രഗാനങ്ങൾ | കെ ജെ യേശുദാസ്]]></title>
         <id>https://www.youtube.com/watch?v=aIbui3aBfBA</id>
