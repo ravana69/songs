@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-25T10:18:30.262Z</updated>
+    <updated>2024-03-25T11:15:52.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinkara Kinnaram | ചിങ്കാരകിന്നാരം | Evergreen hit song | Minnaram | Mohanlal | Shobana]]></title>
+        <id>https://www.youtube.com/watch?v=2d2EFzPrUhY</id>
+        <link href="https://www.youtube.com/watch?v=2d2EFzPrUhY"/>
+        <updated>2024-03-25T11:05:36.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arikilo Akaleyo - Novemberinte Nashtam (1982) | K S Chithra | Poovachal Khader | M.G Radhakrishnan]]></title>
+        <id>https://www.youtube.com/watch?v=JcG8I9pbwT8</id>
+        <link href="https://www.youtube.com/watch?v=JcG8I9pbwT8"/>
+        <updated>2024-03-25T10:53:12.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kadhali vanavum Kaadum | Thirakkil Alpa Samayam | Shyam | KJ Yesudas | Mammootty]]></title>
+        <id>https://www.youtube.com/watch?v=bH2WUtPlga8</id>
+        <link href="https://www.youtube.com/watch?v=bH2WUtPlga8"/>
+        <updated>2024-03-25T10:37:52.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M.G. Sreekumar - Ganapathi Sahajaa]]></title>
         <id>https://www.youtube.com/watch?v=v008o40Vy0s</id>
