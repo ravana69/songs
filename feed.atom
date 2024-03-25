@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-25T19:14:18.982Z</updated>
+    <updated>2024-03-25T20:18:05.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DIVINE MERCY OF ROSARY SHORT | Fr.SHAJI THUMPECHIRAYIL | KESTER CELEBRANTS INDIA HOLY WEEK SHORT]]></title>
+        <id>https://www.youtube.com/watch?v=cUOdxqYB7CQ</id>
+        <link href="https://www.youtube.com/watch?v=cUOdxqYB7CQ"/>
+        <updated>2024-03-25T20:00:25.000Z</updated>
+        <author>
+            <name>Celebrants India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malkosinte Gadhgathangal Day 44]]></title>
+        <id>https://www.youtube.com/watch?v=X1pK0mZ6iXQ</id>
+        <link href="https://www.youtube.com/watch?v=X1pK0mZ6iXQ"/>
+        <updated>2024-03-25T19:43:21.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer 26th of March # Athiravile Prarthana 26th March 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=LO79ItewABY</id>
@@ -32116,33 +32134,6 @@
         <updated>2023-12-27T09:21:53.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grampoo Manam Thookum | Kattaruvi (1983) | A.P.Gopalan | G.Devarajan | Malayalam Romantic Song]]></title>
-        <id>https://www.youtube.com/watch?v=te0QoSnm-sU</id>
-        <link href="https://www.youtube.com/watch?v=te0QoSnm-sU"/>
-        <updated>2023-12-27T07:30:17.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഓർമ്മയിൽ എപ്പോഴും സൂക്ഷിക്കുന്ന കേൾക്കാൻ സുഖമുള്ള മലയാളസിനിമയിലെ മനോഹര ഗാനങ്ങൾ ! EVERGREEN SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=ZfAoOv_JHKE</id>
-        <link href="https://www.youtube.com/watch?v=ZfAoOv_JHKE"/>
-        <updated>2023-12-27T07:30:13.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poovaay Virinju | Adharvam | Ilayaraja | M G Sreekumar | O N V Kurup #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=RlcgjnmWNTc</id>
-        <link href="https://www.youtube.com/watch?v=RlcgjnmWNTc"/>
-        <updated>2023-12-27T07:17:36.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
