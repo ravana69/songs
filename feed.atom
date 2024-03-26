@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-26T07:15:45.701Z</updated>
+    <updated>2024-03-26T08:21:26.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ശ്രോതാക്കളുടെ ഹൃദയം കീഴടക്കിയ മലയാളസിനിമയിലെ വിസ്‌മയഗാനങ്ങൾ ! MALAYALAM FILM SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=IrcqK_gCmSs</id>
+        <link href="https://www.youtube.com/watch?v=IrcqK_gCmSs"/>
+        <updated>2024-03-26T07:30:08.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kandal Chirikkatha -Oru Muthassikkatha(1987) |MG Sreekumar |Sujatha |Shibu Chakravarthy |Ouseppachan]]></title>
+        <id>https://www.youtube.com/watch?v=AWzz4z8AU8o</id>
+        <link href="https://www.youtube.com/watch?v=AWzz4z8AU8o"/>
+        <updated>2024-03-26T07:30:04.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[கோவா - இது வரை தமிழ் பாடல் வரிகள் | யுவன் சங்கர் ராஜா]]></title>
         <id>https://www.youtube.com/watch?v=rYT9j8cGvFA</id>
