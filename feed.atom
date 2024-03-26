@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-25T23:19:02.534Z</updated>
+    <updated>2024-03-26T01:15:16.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഇന്ന് മാർച്ച്  26 എൻറെ കർത്താവിൻറെ അമ്മയുടെ ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #japamala dhukkat]]></title>
+        <id>https://www.youtube.com/watch?v=D6mUsxjp0AQ</id>
+        <link href="https://www.youtube.com/watch?v=D6mUsxjp0AQ"/>
+        <updated>2024-03-26T00:00:06.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japamala 26th of March 2024 Mathavinte Japamala # Dhukhathinte Rahasyangal 26th of March 24]]></title>
+        <id>https://www.youtube.com/watch?v=9YiFzeOTWWQ</id>
+        <link href="https://www.youtube.com/watch?v=9YiFzeOTWWQ"/>
+        <updated>2024-03-25T23:30:02.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
         <id>https://www.youtube.com/watch?v=Ld5AJ3i3bnE</id>
@@ -32017,87 +32035,6 @@
         <updated>2023-12-27T13:30:15.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Niraye - Lyrical Video | Philip's | Hesham Abdul Wahab | Mukesh Madhavan | Alfred Kurian]]></title>
-        <id>https://www.youtube.com/watch?v=esoHf4VEanI</id>
-        <link href="https://www.youtube.com/watch?v=esoHf4VEanI"/>
-        <updated>2023-12-27T12:30:11.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൈവത്തിലാശ്രയിക്കുന്ന ദൈവമക്കൾ പതറാതെ ദൈവകൃപയിലാശ്രയിച്ച് ഉറച്ച് നിൽക്കണം | Rev. Aneesh P Joseph]]></title>
-        <id>https://www.youtube.com/watch?v=Ox-9mvqrJGo</id>
-        <link href="https://www.youtube.com/watch?v=Ox-9mvqrJGo"/>
-        <updated>2023-12-27T12:30:11.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaavalam Kiliye Video Song | Samoohyapadam | K S Chithra | S P Venkitesh | Dileep]]></title>
-        <id>https://www.youtube.com/watch?v=TSijtn9-eyM</id>
-        <link href="https://www.youtube.com/watch?v=TSijtn9-eyM"/>
-        <updated>2023-12-27T12:15:04.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വേനല്‍ കൂടിനുള്ളില്‍  | Venalkkoodinullil |  Newspaper Boy Superhit Movie Song | Mukesh | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=nxKhL_4kcEg</id>
-        <link href="https://www.youtube.com/watch?v=nxKhL_4kcEg"/>
-        <updated>2023-12-27T11:30:19.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nettimele Pottittaalum | Valyettan | KJ Yesudas | Mohan Sithara | Gireesh Puthenchery]]></title>
-        <id>https://www.youtube.com/watch?v=ZszwYPGRfUM</id>
-        <link href="https://www.youtube.com/watch?v=ZszwYPGRfUM"/>
-        <updated>2023-12-27T11:30:14.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennamilla Nanmakal Lyrical Video | Chithra | Renjith Christy | Malayalam Christian Songs Lyrics]]></title>
-        <id>https://www.youtube.com/watch?v=bvdRwJ-qPuE</id>
-        <link href="https://www.youtube.com/watch?v=bvdRwJ-qPuE"/>
-        <updated>2023-12-27T11:30:10.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Singer Of The Week | Kester | Christian Devotional Songs Malayalam | Joji Johns | Superhit Songs]]></title>
-        <id>https://www.youtube.com/watch?v=O2ZBD5QIsB8</id>
-        <link href="https://www.youtube.com/watch?v=O2ZBD5QIsB8"/>
-        <updated>2023-12-27T11:30:10.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 27th of December 2023]]></title>
-        <id>https://www.youtube.com/watch?v=L5oho-Py0aA</id>
-        <link href="https://www.youtube.com/watch?v=L5oho-Py0aA"/>
-        <updated>2023-12-27T11:30:07.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uppinu Pona - Lyrical Video | Utopiayile Raajaavu | Jassie Gift, Vaikkom Vijayalakshmi | Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=SGL_Mjlh5OY</id>
-        <link href="https://www.youtube.com/watch?v=SGL_Mjlh5OY"/>
-        <updated>2023-12-27T11:23:16.000Z</updated>
-        <author>
-            <name>MC Music</name>
         </author>
     </entry>
 </feed>
