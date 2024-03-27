@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T10:19:13.192Z</updated>
+    <updated>2024-03-27T11:14:26.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Elohi Elohi Lama Sabakthani | #short | Holy Week Song | Kester | Mobet Rajan | Good Friday Song]]></title>
+        <id>https://www.youtube.com/watch?v=Jlfm7Hlm1CA</id>
+        <link href="https://www.youtube.com/watch?v=Jlfm7Hlm1CA"/>
+        <updated>2024-03-27T11:00:17.000Z</updated>
+        <author>
+            <name>Celebrants India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devesha Yeshupara Karaoke | Christian Songs Karaoke | Karaoke with Lyrics Video]]></title>
+        <id>https://www.youtube.com/watch?v=xPix196LMY0</id>
+        <link href="https://www.youtube.com/watch?v=xPix196LMY0"/>
+        <updated>2024-03-27T10:59:43.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pakalin Pavanil | Traffic | Sithara Krishnakumar | Vineeth Sreenivasan | Mejo Joseph]]></title>
+        <id>https://www.youtube.com/watch?v=C10EBGsdXkg</id>
+        <link href="https://www.youtube.com/watch?v=C10EBGsdXkg"/>
+        <updated>2024-03-27T10:30:04.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[സഹനത്തിൻ്റെ ഗാഗുൽത്താ | യേശുവേ... സ്നേഹ നായകാ...അകലരുതേ ഒരു നാളും നീ.. | Feat. Evugin, Jibin TS]]></title>
         <id>https://www.youtube.com/watch?v=QsBza7fIjoQ</id>
