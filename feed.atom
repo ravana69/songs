@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-28T19:12:46.650Z</updated>
+    <updated>2024-03-28T20:19:20.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഒരു ദുഃഖവെള്ളിസന്ദേശം Good Friday Message By Sonychen CMI & Fr Juby Maniyamkeril CMI | Dhukhavelli]]></title>
+        <id>https://www.youtube.com/watch?v=YkzbMaarJw4</id>
+        <link href="https://www.youtube.com/watch?v=YkzbMaarJw4"/>
+        <updated>2024-03-28T19:50:29.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Prayer 29th of March # Athiravile Prarthana 29th March 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=JOyFurPCzz4</id>
@@ -32665,24 +32674,6 @@
         <updated>2023-12-30T10:30:07.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കേൾക്കുന്ന മാത്രയിൽ തന്നെ അനുരാഗം തോന്നുന്ന മലയാളസിനിമയിലെ പ്രിയങ്കരമാം സിനിമാഗാനങ്ങൾ ! NISARI SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=sJ54iFoZUro</id>
-        <link href="https://www.youtube.com/watch?v=sJ54iFoZUro"/>
-        <updated>2023-12-30T07:44:15.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രണയിക്കുന്നവർക്കും  പ്രണയം മനസ്സിൽ കാത്തുസൂക്ഷിക്കുന്നവർക്കും ഏറെ ഇഷ്‌ടമുള്ള പ്രണയഗാനങ്ങൾ !]]></title>
-        <id>https://www.youtube.com/watch?v=FIGMmZ4R4Xw</id>
-        <link href="https://www.youtube.com/watch?v=FIGMmZ4R4Xw"/>
-        <updated>2023-12-30T07:30:06.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
