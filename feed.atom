@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-30T08:21:47.629Z</updated>
+    <updated>2024-03-30T09:15:40.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kandalum]]></title>
+        <id>https://www.youtube.com/watch?v=UVHwdWgMj3o</id>
+        <link href="https://www.youtube.com/watch?v=UVHwdWgMj3o"/>
+        <updated>2024-03-30T09:01:27.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kandalum Kalavariyil....]]></title>
+        <id>https://www.youtube.com/watch?v=k73htTnsXQo</id>
+        <link href="https://www.youtube.com/watch?v=k73htTnsXQo"/>
+        <updated>2024-03-30T08:58:39.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഓർമ്മകൾ ഓടിയെത്തുന്ന മലയാളസിനിമയിലെ ഒരിക്കലും മറക്കാനാവാത്ത ഗാനങ്ങൾ ! MALAYALAM EVERGREEN SONGS]]></title>
         <id>https://www.youtube.com/watch?v=fbOlpNk5atQ</id>
@@ -22,6 +40,15 @@
         <updated>2024-03-30T07:30:01.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manninte Punyam Thalirthu | Easter Songs | ഈസ്റ്റർദിന ഗാനങ്ങൾ Malayalam Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=iBvLhUv_snA</id>
+        <link href="https://www.youtube.com/watch?v=iBvLhUv_snA"/>
+        <updated>2024-03-30T06:58:32.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
         </author>
     </entry>
     <entry>
