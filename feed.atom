@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-30T06:21:18.536Z</updated>
+    <updated>2024-03-30T07:16:48.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ente Ishta Gaahangal |Hits of Blessy Film Songs|Video Jukebox| സംവിധായകൻ ബ്ലെസ്സിയുടെ മികച്ച ഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=NEij62I7OZU</id>
+        <link href="https://www.youtube.com/watch?v=NEij62I7OZU"/>
+        <updated>2024-03-30T06:48:22.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[@royputhur ദുഃഖ ശനി | ROY PUTHUR #greatlent #passionweek #royputhur]]></title>
         <id>https://www.youtube.com/watch?v=Za0r2KjH5jA</id>
@@ -32989,24 +32998,6 @@
         <updated>2023-12-31T19:19:12.000Z</updated>
         <author>
             <name>Tharangini Sound of arts Dubai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥനJanuary 1 # Athiravile Prarthana 1st January 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Z_hvSJMbhnM</id>
-        <link href="https://www.youtube.com/watch?v=Z_hvSJMbhnM"/>
-        <updated>2023-12-31T19:00:30.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=da_Fjsj208I</id>
-        <link href="https://www.youtube.com/watch?v=da_Fjsj208I"/>
-        <updated>2023-12-31T18:30:43.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
