@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T18:20:27.430Z</updated>
+    <updated>2024-03-31T19:14:49.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന April 1 # Athiravile Prarthana 1st April 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=9MtZYSSizg4</id>
+        <link href="https://www.youtube.com/watch?v=9MtZYSSizg4"/>
+        <updated>2024-03-31T19:00:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Fd_5PoWIjfM</id>
+        <link href="https://www.youtube.com/watch?v=Fd_5PoWIjfM"/>
+        <updated>2024-03-31T18:30:10.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 1st April 2024]]></title>
         <id>https://www.youtube.com/watch?v=viyFG_Xy5cw</id>
@@ -33160,33 +33178,6 @@
         <updated>2024-01-02T07:17:48.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഈസ്റ്റ്‌ കോസ്റ്റ് - ചിത്തിനി പുതുവര്‍ഷാഘോഷ വേളയില്‍ നടി ആരതി നായരുടെ തകര്‍പ്പന്‍ പെര്‍ഫോമന്‍സ്]]></title>
-        <id>https://www.youtube.com/watch?v=-EfZ5C42mG0</id>
-        <link href="https://www.youtube.com/watch?v=-EfZ5C42mG0"/>
-        <updated>2024-01-02T06:42:58.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനോജ് കെ ജയൻ അഭിനയിച്ച ഇളമുറത്തമ്പുരാൻ ചിത്രത്തിലെ കിടിലൻ പാട്ടുകൾ | Ilamurathamburan  Video Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=VTpRPLKt3Hk</id>
-        <link href="https://www.youtube.com/watch?v=VTpRPLKt3Hk"/>
-        <updated>2024-01-02T06:42:02.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kappy Vibes | Garshia O | Dr.Seema SP | Ragesh Swaminathan | Mukkam Premi | Music Video | Album Song]]></title>
-        <id>https://www.youtube.com/watch?v=7D_wID42JfM</id>
-        <link href="https://www.youtube.com/watch?v=7D_wID42JfM"/>
-        <updated>2024-01-02T06:30:48.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
