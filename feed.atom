@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T21:16:47.536Z</updated>
+    <updated>2024-04-01T22:17:29.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=y9EddNVjwwY</id>
+        <link href="https://www.youtube.com/watch?v=y9EddNVjwwY"/>
+        <updated>2024-04-01T22:00:39.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന April 2 # Athiravile Prarthana 2nd April 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=Xu5yDIHGmC4</id>
@@ -33106,15 +33115,6 @@
         <updated>2024-01-03T10:30:04.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mele Vaanam - Lyrical Video | Palayam PC | Shahabaz Aman, Sruthy | Sadique Pandallur | V.M Anil]]></title>
-        <id>https://www.youtube.com/watch?v=G3JaOgMTiuw</id>
-        <link href="https://www.youtube.com/watch?v=G3JaOgMTiuw"/>
-        <updated>2024-01-03T09:26:24.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
