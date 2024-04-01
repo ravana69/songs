@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T22:17:29.223Z</updated>
+    <updated>2024-04-01T23:19:18.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33088,33 +33088,6 @@
         <updated>2024-01-03T11:24:25.000Z</updated>
         <author>
             <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Malakhe | #shorts  | Intercession Song to St. Michael | Fr. Shaji Thumpechirayil | Biju L. T]]></title>
-        <id>https://www.youtube.com/watch?v=15zBh2k_Ufo</id>
-        <link href="https://www.youtube.com/watch?v=15zBh2k_Ufo"/>
-        <updated>2024-01-03T11:03:49.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kakkala kannamma... |  Oru Yathramozhi | MG Sreekumar | SP Balasubrahmanyam #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=JFYG92QRRtw</id>
-        <link href="https://www.youtube.com/watch?v=JFYG92QRRtw"/>
-        <updated>2024-01-03T10:30:07.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chandhanamani Sandhyakalude | Praja | MG Sreekumar | MG Radhakrishnan | Gireesh Puthenchery]]></title>
-        <id>https://www.youtube.com/watch?v=CUrtrnNiXCQ</id>
-        <link href="https://www.youtube.com/watch?v=CUrtrnNiXCQ"/>
-        <updated>2024-01-03T10:30:04.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
         </author>
     </entry>
 </feed>
