@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T16:22:35.733Z</updated>
+    <updated>2024-04-02T17:18:18.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33142,24 +33142,6 @@
         <updated>2024-01-04T05:30:05.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gandharva Poornima | Video Jukebox | Dasettan @ 84 | Super Hit Songs of K J Yesudas | ഗന്ധർവ പൂർണിമ]]></title>
-        <id>https://www.youtube.com/watch?v=PI3g_-0qhfc</id>
-        <link href="https://www.youtube.com/watch?v=PI3g_-0qhfc"/>
-        <updated>2024-01-04T04:36:25.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vibing through the chaos #Raakk #MalaikottaiVaaliban #Mohanlal #Shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=cz9Jlcr0DHU</id>
-        <link href="https://www.youtube.com/watch?v=cz9Jlcr0DHU"/>
-        <updated>2024-01-04T04:30:16.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
