@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T22:19:39.944Z</updated>
+    <updated>2024-04-02T23:18:38.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33079,24 +33079,6 @@
         <updated>2024-01-04T11:27:28.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്തുതി സ്തോത്ര ഗാനങ്ങൾ | Video Songs Jukebox | Thanksgiving Songs | Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=pqA81aon47A</id>
-        <link href="https://www.youtube.com/watch?v=pqA81aon47A"/>
-        <updated>2024-01-04T10:52:20.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daivam Thanna Vidhi Alle Video Song | Snehithan | Kunchacko Boban | KJ Yesudas | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=qEJmlhje5xs</id>
-        <link href="https://www.youtube.com/watch?v=qEJmlhje5xs"/>
-        <updated>2024-01-04T10:30:15.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
