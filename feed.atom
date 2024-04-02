@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T19:13:20.943Z</updated>
+    <updated>2024-04-02T20:17:35.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33106,15 +33106,6 @@
         <updated>2024-01-04T08:24:42.000Z</updated>
         <author>
             <name>Speed Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iniyenthu Nalkanam - Life is Beautiful | Ouseppachan | K J Yesudas | Sujatha Mohan #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=ptvBpShWG5I</id>
-        <link href="https://www.youtube.com/watch?v=ptvBpShWG5I"/>
-        <updated>2024-01-04T07:27:14.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
