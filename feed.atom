@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-04T07:18:42.176Z</updated>
+    <updated>2024-04-04T08:22:37.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chithira Panthalittu  | Darling Darling | Ouseppachan | Dileep | Kavya Madhavan | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=pxYHfehSOTY</id>
+        <link href="https://www.youtube.com/watch?v=pxYHfehSOTY"/>
+        <updated>2024-04-04T08:03:01.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സിൽ കുളിർമഴ പെയ്തിറങ്ങും മലയാളസിനിമയിലെ മനോഹരമായ മെലഡി ഗാനങ്ങൾ ! EVERGREEN SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=Lhq2Kz2p1mk</id>
+        <link href="https://www.youtube.com/watch?v=Lhq2Kz2p1mk"/>
+        <updated>2024-04-04T07:38:21.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chand Hoga | Ghazals & Quawali Film Songs #ghazal #shorts #shortsfeed #shortsvideo #manjuwarrier]]></title>
         <id>https://www.youtube.com/watch?v=lycVazgYYDQ</id>
