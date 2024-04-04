@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-04T21:15:16.139Z</updated>
+    <updated>2024-04-04T22:16:20.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=q8yZtM83ino</id>
+        <link href="https://www.youtube.com/watch?v=q8yZtM83ino"/>
+        <updated>2024-04-04T22:00:26.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന April 5 # Athiravile Prarthana 5th of April 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=l9cEVaiwWNo</id>
