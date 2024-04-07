@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-07T15:18:03.015Z</updated>
+    <updated>2024-04-07T16:20:09.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7 April 2024]]></title>
+        <id>https://www.youtube.com/watch?v=jD8uX8WIKpM</id>
+        <link href="https://www.youtube.com/watch?v=jD8uX8WIKpM"/>
+        <updated>2024-04-07T16:00:57.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manimukile Nee | Kuberan | Gireesh Puthenchery | Mohan Sithara | Swarnalatha|  #SongOfTheDay]]></title>
         <id>https://www.youtube.com/watch?v=3N9exFzrB10</id>
@@ -33259,60 +33268,6 @@
         <updated>2024-01-09T04:30:07.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uyire  | K J Yesudas  #shortsfeed #shorts #mjayachandran #kjyesudas #reels #mohanlal #malayalam]]></title>
-        <id>https://www.youtube.com/watch?v=ceRJJqlMh2E</id>
-        <link href="https://www.youtube.com/watch?v=ceRJJqlMh2E"/>
-        <updated>2024-01-09T03:53:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pahadi Padu  | K J Yesudas  #shortsfeed #shorts #mjayachandran #kjyesudas #reels #filmsongs]]></title>
-        <id>https://www.youtube.com/watch?v=zcf_Pb90Kzw</id>
-        <link href="https://www.youtube.com/watch?v=zcf_Pb90Kzw"/>
-        <updated>2024-01-09T03:52:42.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ormayil  | K J Yesudas  #shortsfeed #shorts  #kjyesudas #reels #filmsongs #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=oT23TkdfZT8</id>
-        <link href="https://www.youtube.com/watch?v=oT23TkdfZT8"/>
-        <updated>2024-01-09T03:52:36.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maanazhako  | K J Yesudas  #shortsfeed #shorts #mjayachandran #kjyesudas #reels #filmsongs]]></title>
-        <id>https://www.youtube.com/watch?v=YwcwHMYk0Ms</id>
-        <link href="https://www.youtube.com/watch?v=YwcwHMYk0Ms"/>
-        <updated>2024-01-09T03:52:16.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innale Ente Nenjile  | K J Yesudas  #shortsfeed #shorts #mjayachandran #kjyesudas #reels #mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=Ca_vm2nKOQM</id>
-        <link href="https://www.youtube.com/watch?v=Ca_vm2nKOQM"/>
-        <updated>2024-01-09T03:52:00.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chempazhukka Nalla Chempazhukka | K J Yesudas  #shortsfeed #shorts #mjayachandran #kjyesudas #reels]]></title>
-        <id>https://www.youtube.com/watch?v=kuIHnhgPX0A</id>
-        <link href="https://www.youtube.com/watch?v=kuIHnhgPX0A"/>
-        <updated>2024-01-09T03:51:51.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
