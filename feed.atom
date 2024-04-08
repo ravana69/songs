@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T20:20:09.759Z</updated>
+    <updated>2024-04-08T21:15:53.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33106,15 +33106,6 @@
         <updated>2024-01-10T10:30:14.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Velutha Penninte Video Song | Snehithan | Krishna | Nandana | KJ Yesudas | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=cDMcEzd7p7U</id>
-        <link href="https://www.youtube.com/watch?v=cDMcEzd7p7U"/>
-        <updated>2024-01-10T08:30:09.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
