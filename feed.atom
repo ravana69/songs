@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T17:16:54.824Z</updated>
+    <updated>2024-04-09T18:19:50.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33124,24 +33124,6 @@
         <updated>2024-01-11T06:30:09.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thazhika Kudame | College Kumaran | Video Song | Mohanlal  Shibu Chakravarthi | Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=dFt92vw7VdU</id>
-        <link href="https://www.youtube.com/watch?v=dFt92vw7VdU"/>
-        <updated>2024-01-11T05:30:16.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhumasa Mounaragam|Lyrical Video| Rathinirvedam |Shreya Ghoshal |Murugan Kattakkada|M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=7ggoweZ5vKs</id>
-        <link href="https://www.youtube.com/watch?v=7ggoweZ5vKs"/>
-        <updated>2024-01-11T05:30:03.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
