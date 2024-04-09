@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T08:21:52.272Z</updated>
+    <updated>2024-04-09T09:19:26.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ashubha Mangalakaari - Video Lyrical | Super Sharanya |Anaswara Rajan |Mamitha Baiju|Justin Varghese]]></title>
+        <id>https://www.youtube.com/watch?v=43AJmDFoEDc</id>
+        <link href="https://www.youtube.com/watch?v=43AJmDFoEDc"/>
+        <updated>2024-04-09T09:04:44.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ilaman Mizhiyil | Kusruthikkattu | Jayaram | Unniolrishnan | Tomin Thachankary | Speed Audios]]></title>
+        <id>https://www.youtube.com/watch?v=O93XYU81Qas</id>
+        <link href="https://www.youtube.com/watch?v=O93XYU81Qas"/>
+        <updated>2024-04-09T09:00:16.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[വ്യത്യസ്ത അഭിരുചിയുള്ള ആസ്വാദകരെ ഒരു കുടകീഴിൽ കൊണ്ടുവന്ന മലയാളസിനിമയിലെ പ്രശസ്‌ത മെലഡി ഗാനങ്ങൾ !]]></title>
         <id>https://www.youtube.com/watch?v=R2X9CJBHPIU</id>
