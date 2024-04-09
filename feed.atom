@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T22:16:32.655Z</updated>
+    <updated>2024-04-09T23:18:09.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=oRtINLXFYPQ</id>
+        <link href="https://www.youtube.com/watch?v=oRtINLXFYPQ"/>
+        <updated>2024-04-09T23:00:30.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന April 10 # Athiravile Prarthana 10th of April 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=Hrx_RBExDvE</id>
@@ -33079,33 +33088,6 @@
         <updated>2024-01-11T11:30:16.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chantham Thelinju - Lyrical Video | Utopiayile Raajaavu |Mridula Warrier, Rahul R Nath  |Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=NSY90GWSEDI</id>
-        <link href="https://www.youtube.com/watch?v=NSY90GWSEDI"/>
-        <updated>2024-01-11T10:59:11.000Z</updated>
-        <author>
-            <name>MC Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njan Rajanithan Kusumam Video Song  | Aattakkalaasham  | S Janaki | Mohanlal | Silk Smitha]]></title>
-        <id>https://www.youtube.com/watch?v=uudRKh5hH8A</id>
-        <link href="https://www.youtube.com/watch?v=uudRKh5hH8A"/>
-        <updated>2024-01-11T10:30:24.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നീല നീല സമുദ്രത്തിന്നക്കരെയായി | Neela Neela Samudrathin | Achaani |  P Madhuri | Prem Nazir]]></title>
-        <id>https://www.youtube.com/watch?v=vIUvTEcYkHY</id>
-        <link href="https://www.youtube.com/watch?v=vIUvTEcYkHY"/>
-        <updated>2024-01-11T10:24:59.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
