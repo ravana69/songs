@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T04:20:25.344Z</updated>
+    <updated>2024-04-10T05:17:03.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shilayaay Piravi Undenkil | Thattakam | Sreehari | Ranjitha | Jayaraj | Yesudas | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=lUn0VRLyj1U</id>
+        <link href="https://www.youtube.com/watch?v=lUn0VRLyj1U"/>
+        <updated>2024-04-10T04:30:25.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mamarangale | Ee Pattanathil Bhootham | Gireesh Puthencherry #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=GtEoXz_n28g</id>
@@ -859,6 +868,15 @@
         <updated>2024-04-07T05:30:01.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NAZHOORI PAALU VIDEO SONG | PORATTU NAADAKAM | NOUSHAD SAFFRON | SAIJU KURUP | DHARMAJAN | RAHUL RAJ]]></title>
+        <id>https://www.youtube.com/watch?v=XFEzoMtZSRk</id>
+        <link href="https://www.youtube.com/watch?v=XFEzoMtZSRk"/>
+        <updated>2024-04-07T05:00:19.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
