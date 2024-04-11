@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-11T08:24:06.664Z</updated>
+    <updated>2024-04-11T09:18:22.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anchu Sharangalum | അഞ്ചുശരങ്ങളും | Evergreen Malayalam Movie Song | Parinayam | K. J. Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=st_0QSlaD0c</id>
+        <link href="https://www.youtube.com/watch?v=st_0QSlaD0c"/>
+        <updated>2024-04-11T09:01:15.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[En Jeevane Video Song | Devadoothan | Vidyasagar | Jayaprada | Mohanlal | | S Janaki | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=-AUh7lAiOZY</id>
+        <link href="https://www.youtube.com/watch?v=-AUh7lAiOZY"/>
+        <updated>2024-04-11T09:00:00.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കുടുംബത്തിലെ ഒരംഗത്തെപോലെ മലയാളികൾ മനസിൽ കൊണ്ട് നടക്കുന്ന  ചിത്രച്ചേച്ചിയുടെ ആരും കൊതിക്കും ഗാനങ്ങൾ]]></title>
         <id>https://www.youtube.com/watch?v=tFNFeQRQflc</id>
