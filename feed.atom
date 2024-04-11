@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-11T05:17:49.281Z</updated>
+    <updated>2024-04-11T06:23:24.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NAZHOORI PAALU VIDEO SONG FROM PORATTU NAADAKAM OUT NOW]]></title>
+        <id>https://www.youtube.com/watch?v=DK8ErKM7K2Y</id>
+        <link href="https://www.youtube.com/watch?v=DK8ErKM7K2Y"/>
+        <updated>2024-04-11T06:03:47.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Melody Songs | Wilson Piravom | Christian Devotional Songs Malayalam | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=AZvBixkuXAU</id>
+        <link href="https://www.youtube.com/watch?v=AZvBixkuXAU"/>
+        <updated>2024-04-11T05:41:30.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paadiyum Paranjum | ഗാനരചന ഒഴിവാക്കിയ ജീവിത കാലഘട്ടം   | പാടിയും പറഞ്ഞും |  K Jayakumar | Interview]]></title>
+        <id>https://www.youtube.com/watch?v=9eIpyeHY6nE</id>
+        <link href="https://www.youtube.com/watch?v=9eIpyeHY6nE"/>
+        <updated>2024-04-11T05:30:03.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[𝐀𝐍𝐆𝐔𝐃𝐎𝐎𝐑𝐄 𝐊𝐀𝐋𝐕𝐀𝐑𝐈𝐘𝐈𝐋 | 𝐅𝐫. 𝐒𝐇𝐀𝐉𝐈 𝐓𝐇𝐔𝐌𝐏𝐄𝐂𝐇𝐈𝐑𝐀𝐘𝐈𝐋 |𝐒𝐓𝐀𝐑 𝐒𝐈𝐍𝐆𝐄𝐑 𝐀𝐑𝐀𝐕𝐈𝐍𝐃 𝐃𝐈𝐋𝐄𝐄𝐏 𝐍𝐀𝐈𝐑 |𝐅𝐫. 𝐑𝐎𝐉𝐀𝐍 𝐏𝐔𝐑𝐀𝐂𝐊𝐀𝐋]]></title>
         <id>https://www.youtube.com/watch?v=PoaB2Bs5o60</id>
@@ -20,6 +47,15 @@
         <id>https://www.youtube.com/watch?v=roseZHd43LM</id>
         <link href="https://www.youtube.com/watch?v=roseZHd43LM"/>
         <updated>2024-04-11T04:30:15.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malarvadi Arts Club  Audio |  Jukebox | Vineeth Sreenivasan | Nivin Pauly | Shaan Rahman]]></title>
+        <id>https://www.youtube.com/watch?v=i8yVFR1EEq4</id>
+        <link href="https://www.youtube.com/watch?v=i8yVFR1EEq4"/>
+        <updated>2024-04-11T04:02:14.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
@@ -32971,15 +33007,6 @@
         <updated>2024-01-12T18:30:23.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 13th January 24]]></title>
-        <id>https://www.youtube.com/watch?v=ZehVu5zwCmY</id>
-        <link href="https://www.youtube.com/watch?v=ZehVu5zwCmY"/>
-        <updated>2024-01-12T18:00:17.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
