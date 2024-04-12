@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T09:18:55.167Z</updated>
+    <updated>2024-04-12T10:20:01.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ankam Vettan Munnil | Aanandhapuram Diaries  #manoramamusic #malayalamlyricalvideos]]></title>
+        <id>https://www.youtube.com/watch?v=Fiy1X737jDQ</id>
+        <link href="https://www.youtube.com/watch?v=Fiy1X737jDQ"/>
+        <updated>2024-04-12T09:27:01.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ramanennum Porali | Achanoru Vazha Vechu | Shorts  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=Yg7NLnmQWXo</id>
+        <link href="https://www.youtube.com/watch?v=Yg7NLnmQWXo"/>
+        <updated>2024-04-12T09:25:30.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pineapple Penne | Vellinakshatram | Shorts  #manoramamusic #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=-qX_YYDXJ2U</id>
+        <link href="https://www.youtube.com/watch?v=-qX_YYDXJ2U"/>
+        <updated>2024-04-12T09:25:23.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kabadi Kabadi | Nammal Thammil | Shorts  #manoramamusic #filmsongs]]></title>
+        <id>https://www.youtube.com/watch?v=Lt8hc889rcA</id>
+        <link href="https://www.youtube.com/watch?v=Lt8hc889rcA"/>
+        <updated>2024-04-12T09:25:18.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ente Mavum Poothe | Adi Kapyare Koottamani | Shorts  #manoramamusic #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=hiuD8hu1iMg</id>
+        <link href="https://www.youtube.com/watch?v=hiuD8hu1iMg"/>
+        <updated>2024-04-12T09:25:14.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chirichente Manasile Video Song | Anuragakottaram | Dileep | Suvalakshmi | KJ Yesudas | KS Chithra]]></title>
         <id>https://www.youtube.com/watch?v=zLV2xtO-bL8</id>
@@ -3418,10 +3463,55 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Taarapadham Thedumbolum | Christian Devotional | Shorts  #christiansongsmalayalamdevotional]]></title>
+        <id>https://www.youtube.com/watch?v=mop1foDWis4</id>
+        <link href="https://www.youtube.com/watch?v=mop1foDWis4"/>
+        <updated>2024-04-02T12:13:11.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mannakal Pozhiyum | Christian Devotional | Shorts #ytshorts  #christiansongsmalayalamdevotional]]></title>
+        <id>https://www.youtube.com/watch?v=ipKN7b-aogU</id>
+        <link href="https://www.youtube.com/watch?v=ipKN7b-aogU"/>
+        <updated>2024-04-02T12:12:45.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mannakal Pozhiyum | Christian Devotional | Shorts #ytshorts  #christiansongsmalayalamdevotional]]></title>
+        <id>https://www.youtube.com/watch?v=DbF9rZu_960</id>
+        <link href="https://www.youtube.com/watch?v=DbF9rZu_960"/>
+        <updated>2024-04-02T12:12:38.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kallaravathil Thurannu | K G Markose #shorts #christiansongs]]></title>
         <id>https://www.youtube.com/watch?v=tWCkwJFLwcw</id>
         <link href="https://www.youtube.com/watch?v=tWCkwJFLwcw"/>
         <updated>2024-04-02T12:12:30.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kallaravathil Thurannu | K G Markose #shorts #christiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=hMVCboEZbRo</id>
+        <link href="https://www.youtube.com/watch?v=hMVCboEZbRo"/>
+        <updated>2024-04-02T12:12:21.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kallaravathil Thurannu | KG Markose #shorts #christiansongs #latestmalayalamchristiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=9h77OVleOsw</id>
+        <link href="https://www.youtube.com/watch?v=9h77OVleOsw"/>
+        <updated>2024-04-02T12:12:15.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
         </author>
@@ -33005,24 +33095,6 @@
         <id>https://www.youtube.com/watch?v=Q4KkI21Enko</id>
         <link href="https://www.youtube.com/watch?v=Q4KkI21Enko"/>
         <updated>2024-01-13T23:30:04.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=4ayrDkURWpI</id>
-        <link href="https://www.youtube.com/watch?v=4ayrDkURWpI"/>
-        <updated>2024-01-13T22:00:03.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്ന് ജനുവരി 14  എൻറെ കർത്താവിൻറെ അമ്മയുടെ ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #Mahimayude  രഹസ്യ]]></title>
-        <id>https://www.youtube.com/watch?v=1-Hj9vCTxfc</id>
-        <link href="https://www.youtube.com/watch?v=1-Hj9vCTxfc"/>
-        <updated>2024-01-13T22:00:01.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
         </author>
