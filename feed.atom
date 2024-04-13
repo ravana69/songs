@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-13T18:17:39.916Z</updated>
+    <updated>2024-04-13T19:11:42.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 14th April 2024]]></title>
+        <id>https://www.youtube.com/watch?v=-bwuKQZ7jyI</id>
+        <link href="https://www.youtube.com/watch?v=-bwuKQZ7jyI"/>
+        <updated>2024-04-13T19:00:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=LqPacEEHg-8</id>
+        <link href="https://www.youtube.com/watch?v=LqPacEEHg-8"/>
+        <updated>2024-04-13T18:30:13.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഹൃദയരാഗ തന്ത്രിമീട്ടി| മലയാളചലച്ചിത്രഗാനങ്ങൾ |കെ ജെ യേശുദാസ് | Malayalam melodies | Remastered songs]]></title>
         <id>https://www.youtube.com/watch?v=Ena7YCB7joQ</id>
@@ -33241,33 +33259,6 @@
         <updated>2024-01-15T07:33:01.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hits Of K.J Joy | കെജെ.ജോയിയുടെ ഗാനങ്ങൾ | K.J Joy Hit songs | Evergreen Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=v6z-jiZtjcg</id>
-        <link href="https://www.youtube.com/watch?v=v6z-jiZtjcg"/>
-        <updated>2024-01-15T07:03:02.000Z</updated>
-        <author>
-            <name>Wilson Video Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neeharam Nila | Guardian Angel |Saju S DaslMadhu Balakrishnan|Mridula Varier|Ram Surendar|Sreejith R]]></title>
-        <id>https://www.youtube.com/watch?v=60bqR6xT_CA</id>
-        <link href="https://www.youtube.com/watch?v=60bqR6xT_CA"/>
-        <updated>2024-01-15T06:49:34.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every heartbeat becomes a musical expression #PraananPol #Bandra #Dileep #Tamannaah #shorts#ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=i7K2l7C5Ka8</id>
-        <link href="https://www.youtube.com/watch?v=i7K2l7C5Ka8"/>
-        <updated>2024-01-15T06:30:09.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
