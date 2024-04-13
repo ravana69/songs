@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-13T22:14:50.214Z</updated>
+    <updated>2024-04-13T23:18:36.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=F_7D0bMErxE</id>
+        <link href="https://www.youtube.com/watch?v=F_7D0bMErxE"/>
+        <updated>2024-04-13T23:00:06.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന April 14 # Athiravile Prarthana 14th of April 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=JOenSXDHpkU</id>
@@ -33214,24 +33223,6 @@
         <updated>2024-01-15T11:30:10.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehadeepam Koluthi Video Song | Sreedevi Malayalam Movie | P Madhuri | Kamal Haasan | Sharada]]></title>
-        <id>https://www.youtube.com/watch?v=GMbuSE6F82w</id>
-        <link href="https://www.youtube.com/watch?v=GMbuSE6F82w"/>
-        <updated>2024-01-15T10:30:04.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Porinayi Njan Varunneda - Dudu's Love | Exter | Joby K A  | Noble Francis | Anoop Davis]]></title>
-        <id>https://www.youtube.com/watch?v=8F2JbCDirOE</id>
-        <link href="https://www.youtube.com/watch?v=8F2JbCDirOE"/>
-        <updated>2024-01-15T10:26:47.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
