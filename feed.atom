@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T07:13:51.888Z</updated>
+    <updated>2024-04-15T08:18:15.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oru Paatin Kaatil  | Dubai | Vidyasagar | Gireesh Puthenchery | Sujatha | Nikhil | Mammooty]]></title>
+        <id>https://www.youtube.com/watch?v=kNyzhOu9Ndk</id>
+        <link href="https://www.youtube.com/watch?v=kNyzhOu9Ndk"/>
+        <updated>2024-04-15T07:30:20.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എത്രകേട്ടിട്ടും പുതുമ മായാത്ത മലയാളസിനിമയിലെ സൂപ്പർഹിറ്റ് മെലഡി ഗാനങ്ങൾ | EVERGREENSUPERHIT MELODIES]]></title>
+        <id>https://www.youtube.com/watch?v=XGk5MfhkuG0</id>
+        <link href="https://www.youtube.com/watch?v=XGk5MfhkuG0"/>
+        <updated>2024-04-15T07:30:09.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monchathipenne Ninchundil | Maram | Ummar | Jayabharathi | Yousafali Kecheri | Devarajan]]></title>
+        <id>https://www.youtube.com/watch?v=01jLXDVBQAs</id>
+        <link href="https://www.youtube.com/watch?v=01jLXDVBQAs"/>
+        <updated>2024-04-15T07:30:00.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chellam Chellam Manjadi Video Song | Kunchacko Boban | Kavya Madhavan | KJ Yesudas | KS Chithra]]></title>
         <id>https://www.youtube.com/watch?v=rEEDyNOW_zo</id>
