@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T19:14:49.017Z</updated>
+    <updated>2024-04-15T20:18:09.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന April 16 # Athiravile Prarthana 16th of April 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=aLAJSRm_iGk</id>
+        <link href="https://www.youtube.com/watch?v=aLAJSRm_iGk"/>
+        <updated>2024-04-15T20:00:00.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 16th April 2024]]></title>
         <id>https://www.youtube.com/watch?v=EDFZwyAptSk</id>
@@ -33259,33 +33268,6 @@
         <updated>2024-01-17T08:50:46.000Z</updated>
         <author>
             <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സംഗീതാസ്വാദകർ കേട്ടതിൽ വെച്ച് ഹൃദയത്തിൽ അങ്ങേയറ്റം ആഴ്ന്നിറങ്ങിയ മലയാളസിനിമയിലെ അനശ്വര ഗാനങ്ങൾ !]]></title>
-        <id>https://www.youtube.com/watch?v=RKmmQIX-krQ</id>
-        <link href="https://www.youtube.com/watch?v=RKmmQIX-krQ"/>
-        <updated>2024-01-17T07:30:05.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Padu Hridhayame |  Abhinivesham | P Susheela | Sreekumaran Thampi | Shyam | Old Is Gold]]></title>
-        <id>https://www.youtube.com/watch?v=ON6L_18cdAM</id>
-        <link href="https://www.youtube.com/watch?v=ON6L_18cdAM"/>
-        <updated>2024-01-17T07:30:05.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing on clouds of pure delight #Raakk #MalaikottaiVaaliban #Mohanlal #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=EJY2xFDgb3c</id>
-        <link href="https://www.youtube.com/watch?v=EJY2xFDgb3c"/>
-        <updated>2024-01-17T07:15:24.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
