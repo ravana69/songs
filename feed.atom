@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T04:21:12.518Z</updated>
+    <updated>2024-04-16T05:18:05.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oru Murai Vanthu Parthaya Video Song | Manichithrathazhu | Shobana| mohanlal |KJ Yesudas |KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=cKeIETLixKQ</id>
+        <link href="https://www.youtube.com/watch?v=cKeIETLixKQ"/>
+        <updated>2024-04-16T05:15:37.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Madhumaasa Ponnala | Kuttettan | Mammootty | Saritha | Mathu | Yesudas | Raveendran]]></title>
+        <id>https://www.youtube.com/watch?v=VUbiALJiKEM</id>
+        <link href="https://www.youtube.com/watch?v=VUbiALJiKEM"/>
+        <updated>2024-04-16T04:30:10.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sukumaran  Old Malayalam Movie Songs | Bandhanam Remastered Malayalam Songs | Vani Jairam]]></title>
         <id>https://www.youtube.com/watch?v=H_e5-0RBKjA</id>
@@ -33205,15 +33223,6 @@
         <updated>2024-01-17T17:47:23.000Z</updated>
         <author>
             <name>Tharangini Sound of arts Dubai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maranno Nee Nilaavil | Five Star Hospital | KJ Yesudas | Siddique | Kaveri | Bomaby Ravi]]></title>
-        <id>https://www.youtube.com/watch?v=QGXhOA--ONo</id>
-        <link href="https://www.youtube.com/watch?v=QGXhOA--ONo"/>
-        <updated>2024-01-17T16:33:53.000Z</updated>
-        <author>
-            <name>Speed Music Videos</name>
         </author>
     </entry>
 </feed>
