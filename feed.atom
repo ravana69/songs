@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T22:17:09.230Z</updated>
+    <updated>2024-04-17T23:19:13.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=iSZ3EgTSbm0</id>
+        <link href="https://www.youtube.com/watch?v=iSZ3EgTSbm0"/>
+        <updated>2024-04-17T23:00:19.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന April 18 # Athiravile Prarthana 18th of April 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=CQCVVJ5_qZ4</id>
@@ -33277,42 +33286,6 @@
         <updated>2024-01-19T11:30:11.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathira Poochoodi Video Song | Mayilpeelikkavu | Kunchacko Boban | Jomol| KS Chithra |Berny Ignatius]]></title>
-        <id>https://www.youtube.com/watch?v=hYiD6JVcGDo</id>
-        <link href="https://www.youtube.com/watch?v=hYiD6JVcGDo"/>
-        <updated>2024-01-19T11:00:39.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innee Jeevitham | Aanandhapuram Diaries | Lyrical Video | Jackson Vijayan | Meena  | Jaya Jose Raj]]></title>
-        <id>https://www.youtube.com/watch?v=jBkLU7QbmXY</id>
-        <link href="https://www.youtube.com/watch?v=jBkLU7QbmXY"/>
-        <updated>2024-01-19T10:51:08.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naarimani Naadodi Video Song  | Mr. Micheal | Kuthiravattam Pappu | Sreelatha Namboothiri]]></title>
-        <id>https://www.youtube.com/watch?v=eK-bwNDX0Z8</id>
-        <link href="https://www.youtube.com/watch?v=eK-bwNDX0Z8"/>
-        <updated>2024-01-19T10:30:21.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dayana Dayana|DJ Remix #shortsfeed #shorts #malayalamfilmsongs #gopisundar #dileep #shankarmahadevan]]></title>
-        <id>https://www.youtube.com/watch?v=Zn94YQnr25c</id>
-        <link href="https://www.youtube.com/watch?v=Zn94YQnr25c"/>
-        <updated>2024-01-19T10:30:08.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
