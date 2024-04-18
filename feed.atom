@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-18T19:13:24.434Z</updated>
+    <updated>2024-04-18T20:18:27.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന April 19 # Athiravile Prarthana 19th of April 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=jsfl10qwJGo</id>
+        <link href="https://www.youtube.com/watch?v=jsfl10qwJGo"/>
+        <updated>2024-04-18T20:00:14.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 19th April 2024]]></title>
         <id>https://www.youtube.com/watch?v=reKdV-jRUpE</id>
@@ -33466,51 +33475,6 @@
         <updated>2024-01-20T08:19:26.000Z</updated>
         <author>
             <name>Speed Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എന്നും പ്രണയിക്കാൻ കൊതിക്കുന്നവർക്കായ് സൂപ്പർഹിറ്റ് പ്രണയഗാനങ്ങൾ | LOVE SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=deZgLQ3ad10</id>
-        <link href="https://www.youtube.com/watch?v=deZgLQ3ad10"/>
-        <updated>2024-01-20T07:59:43.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pakaliravukal - Lofi Beats | Kurup | Sushin Shyam | Neha Nair | EternaLove]]></title>
-        <id>https://www.youtube.com/watch?v=Eq5bP9FR8FM</id>
-        <link href="https://www.youtube.com/watch?v=Eq5bP9FR8FM"/>
-        <updated>2024-01-20T07:30:05.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ജയറാമിന്റെ ഇഷ്ടഗാനങ്ങൾ  | EVERGREEN HITS OF JAYARAM | HITS OF JAYARAM | MELODY HITS]]></title>
-        <id>https://www.youtube.com/watch?v=BXKpw2ALZac</id>
-        <link href="https://www.youtube.com/watch?v=BXKpw2ALZac"/>
-        <updated>2024-01-20T07:30:02.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YESHUVIN NIZHALAKUVAN | LIBIN SCARIA | Fr. JUBIN MARIA KALLIDAYIL SDV]]></title>
-        <id>https://www.youtube.com/watch?v=GDHkmfDC-8M</id>
-        <link href="https://www.youtube.com/watch?v=GDHkmfDC-8M"/>
-        <updated>2024-01-20T07:20:25.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medapponnaniyum | Devaasuram | M G Radhakrishnan | M G Sreekumar | Gireesh Puthenchery #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=d_Ryq4nue_c</id>
-        <link href="https://www.youtube.com/watch?v=d_Ryq4nue_c"/>
-        <updated>2024-01-20T07:17:37.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
