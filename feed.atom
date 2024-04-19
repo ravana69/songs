@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-19T18:21:37.672Z</updated>
+    <updated>2024-04-19T19:15:46.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 20th April 2024]]></title>
+        <id>https://www.youtube.com/watch?v=i6ONXrV5iCY</id>
+        <link href="https://www.youtube.com/watch?v=i6ONXrV5iCY"/>
+        <updated>2024-04-19T19:00:30.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=SvBpaR0UL5s</id>
+        <link href="https://www.youtube.com/watch?v=SvBpaR0UL5s"/>
+        <updated>2024-04-19T18:30:30.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ചന്ദനലേപസുഗന്ധം ചൂടിയതാരോ..| മലയാളചലച്ചിത്രഗാനങ്ങൾ |കെ ജെ യേശുദാസ് | Remastered Malayalam melodies]]></title>
         <id>https://www.youtube.com/watch?v=rsL8IlufdBk</id>
@@ -33457,24 +33475,6 @@
         <updated>2024-01-21T07:30:07.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vagamon Travel Guide #shorts #shortsvideo #shortsfeed #kerala #tourism #travel #southindia #idukki]]></title>
-        <id>https://www.youtube.com/watch?v=4I0mMDRT6aA</id>
-        <link href="https://www.youtube.com/watch?v=4I0mMDRT6aA"/>
-        <updated>2024-01-21T07:00:03.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing through life #Raakk #MalaikottaiVaaliban #Mohanlal #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=21Ipj6AGLvM</id>
-        <link href="https://www.youtube.com/watch?v=21Ipj6AGLvM"/>
-        <updated>2024-01-21T06:30:00.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
