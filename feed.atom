@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-21T06:23:20.942Z</updated>
+    <updated>2024-04-21T07:16:32.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Johny Mone Johny  | Animation Video  #shortsfeed #shortsvideo #shorts #reels #animation #cartoon]]></title>
+        <id>https://www.youtube.com/watch?v=fZFcuwNmzmU</id>
+        <link href="https://www.youtube.com/watch?v=fZFcuwNmzmU"/>
+        <updated>2024-04-21T07:00:29.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dayana Dayana | Animation Video | Shankar Mahadevan | Gopi Sundar |സൂപ്പർഹിറ്റ് സിനിമാഗാനം അനിമേഷനിൽ]]></title>
         <id>https://www.youtube.com/watch?v=QmHpWYjk5bI</id>
@@ -33358,24 +33367,6 @@
         <updated>2024-01-22T22:00:00.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന January 23 # Athiravile Prarthana 23rd January 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=h62vZ1EC8yw</id>
-        <link href="https://www.youtube.com/watch?v=h62vZ1EC8yw"/>
-        <updated>2024-01-22T19:00:30.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Uozy5LhwYMQ</id>
-        <link href="https://www.youtube.com/watch?v=Uozy5LhwYMQ"/>
-        <updated>2024-01-22T18:30:19.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
