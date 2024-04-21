@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-21T20:18:22.346Z</updated>
+    <updated>2024-04-21T21:15:36.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33322,24 +33322,6 @@
         <updated>2024-01-23T10:30:12.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഹൃദയം നുറുങ്ങുന്ന വേദനയിലും കേൾക്കാൻ മനസ്സ് വെമ്പുന്ന നൊമ്പര ഗാനങ്ങൾ | HEART WARMING SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=zc9HRRHaSCE</id>
-        <link href="https://www.youtube.com/watch?v=zc9HRRHaSCE"/>
-        <updated>2024-01-23T08:48:39.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ammaye Thedunna Paithale Pole Njan | Snehardramaya Kristheeya Bhakthiganangal | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=Qxuc-P4YJto</id>
-        <link href="https://www.youtube.com/watch?v=Qxuc-P4YJto"/>
-        <updated>2024-01-23T08:27:10.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
