@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-22T20:18:55.456Z</updated>
+    <updated>2024-04-22T21:15:18.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33124,15 +33124,6 @@
         <updated>2024-01-24T10:30:01.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sathyameva Jayathe | Aanandhapuram Diaries | Lyrical Video | Shan Rahman | Meena  | Jaya Jose Raj]]></title>
-        <id>https://www.youtube.com/watch?v=2pHi13pdL80</id>
-        <link href="https://www.youtube.com/watch?v=2pHi13pdL80"/>
-        <updated>2024-01-24T08:26:00.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
