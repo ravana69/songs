@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-23T16:22:48.720Z</updated>
+    <updated>2024-04-23T17:17:12.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[23 April 2024]]></title>
+        <id>https://www.youtube.com/watch?v=l0dBVSL7now</id>
+        <link href="https://www.youtube.com/watch?v=l0dBVSL7now"/>
+        <updated>2024-04-23T17:11:06.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Krooshilninum | Maria Kolady | Raju Varghese   #manoramachristiandevotionalsongs #shortsvideo]]></title>
         <id>https://www.youtube.com/watch?v=2pIX2notTF0</id>
@@ -33205,42 +33214,6 @@
         <updated>2024-01-25T05:30:11.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sathyameva Jayathe | Aanandhapuram Diaries #filmsongs #shortsfeed #shorts #reels #meena #latestsong]]></title>
-        <id>https://www.youtube.com/watch?v=xTlI4IXhKYg</id>
-        <link href="https://www.youtube.com/watch?v=xTlI4IXhKYg"/>
-        <updated>2024-01-25T05:00:22.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Srividya Old Malayalam Movie Songs |Vilkkanundu Swapnangal Remastered Malayalam Songs | S. Janaki]]></title>
-        <id>https://www.youtube.com/watch?v=qn2BjIsKw70</id>
-        <link href="https://www.youtube.com/watch?v=qn2BjIsKw70"/>
-        <updated>2024-01-25T04:38:14.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aayiram Perkalil | Shorts #ytshorts  #malayalamchristiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=1pgR3n_Ktws</id>
-        <link href="https://www.youtube.com/watch?v=1pgR3n_Ktws"/>
-        <updated>2024-01-25T04:30:12.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rakkadambin | One Man Show | Jayaram | Lal | Shafi | Kalabhavan Mani | Suresh Peters]]></title>
-        <id>https://www.youtube.com/watch?v=Y4qMktdeLvw</id>
-        <link href="https://www.youtube.com/watch?v=Y4qMktdeLvw"/>
-        <updated>2024-01-25T04:30:10.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
