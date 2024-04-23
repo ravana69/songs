@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-23T22:18:24.477Z</updated>
+    <updated>2024-04-23T23:17:56.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=bISjIm2e-w8</id>
+        <link href="https://www.youtube.com/watch?v=bISjIm2e-w8"/>
+        <updated>2024-04-23T23:00:30.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന April 24 # Athiravile Prarthana 24th of April 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=PbwTCHsFhLs</id>
@@ -33160,33 +33169,6 @@
         <updated>2024-01-25T11:30:30.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ilammanjin Kulirumaayoru Video Song | Ninnishtam Ennishtam | KJ Yesudas | S Janaki | Mohanlal |]]></title>
-        <id>https://www.youtube.com/watch?v=bPverDfni5E</id>
-        <link href="https://www.youtube.com/watch?v=bPverDfni5E"/>
-        <updated>2024-01-25T10:30:12.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mele Vellithinkal | Lyrical Video | Thanmathra | Mohanlal | Blessy | Mohan Sithara | Karthik]]></title>
-        <id>https://www.youtube.com/watch?v=a-pGpflJHMQ</id>
-        <link href="https://www.youtube.com/watch?v=a-pGpflJHMQ"/>
-        <updated>2024-01-25T10:30:07.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puzhayarikathu Dumm - Indian Drill Mix | Jo & Jo | Govind Vasantha | Milan V S | Nikul Sabalpara]]></title>
-        <id>https://www.youtube.com/watch?v=3iG51PVQT-g</id>
-        <link href="https://www.youtube.com/watch?v=3iG51PVQT-g"/>
-        <updated>2024-01-25T10:30:01.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
