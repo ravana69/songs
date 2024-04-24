@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-24T18:22:06.959Z</updated>
+    <updated>2024-04-24T19:14:38.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 25th April 2024]]></title>
+        <id>https://www.youtube.com/watch?v=3wNWIF02tRE</id>
+        <link href="https://www.youtube.com/watch?v=3wNWIF02tRE"/>
+        <updated>2024-04-24T19:00:03.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സങ്കടങ്ങൾ ഏറ്റെടുക്കുന്ന ഗാനങ്ങൾ | KESTER SONGS #KESTERHITS]]></title>
+        <id>https://www.youtube.com/watch?v=kvxOKiLxqak</id>
+        <link href="https://www.youtube.com/watch?v=kvxOKiLxqak"/>
+        <updated>2024-04-24T18:30:24.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=5mhLQzRnUlY</id>
+        <link href="https://www.youtube.com/watch?v=5mhLQzRnUlY"/>
+        <updated>2024-04-24T18:30:05.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vaidooryakkammal | Ee Puzhayum Kadannu | Johnson #SongOfTheDay]]></title>
         <id>https://www.youtube.com/watch?v=o0aK-0pf9Go</id>
@@ -33268,33 +33295,6 @@
         <updated>2024-01-26T07:30:02.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Goa Travel Guide #shorts #shortsvideo #shortsfeed #goa #tourism #travel #southindia #beaches]]></title>
-        <id>https://www.youtube.com/watch?v=PjsR2acgrpQ</id>
-        <link href="https://www.youtube.com/watch?v=PjsR2acgrpQ"/>
-        <updated>2024-01-26T07:00:11.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pavizham Pol Pavizhaadharam Pol Namukku Paarkkaan Munthirithoppukal ONV Kurup Johnson KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=vZkPkn6Z9QY</id>
-        <link href="https://www.youtube.com/watch?v=vZkPkn6Z9QY"/>
-        <updated>2024-01-26T06:41:06.000Z</updated>
-        <author>
-            <name>Speed Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every step is a celebration #Raakk #MalaikottaiVaaliban #Mohanlal #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=NEPeS2nYBZs</id>
-        <link href="https://www.youtube.com/watch?v=NEPeS2nYBZs"/>
-        <updated>2024-01-26T06:30:04.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
