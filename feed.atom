@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-24T14:19:14.242Z</updated>
+    <updated>2024-04-24T15:20:21.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vaidooryakkammal | Ee Puzhayum Kadannu | Johnson #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=o0aK-0pf9Go</id>
+        <link href="https://www.youtube.com/watch?v=o0aK-0pf9Go"/>
+        <updated>2024-04-24T14:30:16.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Othiri Othiri Swapnangal | Divya Unni | KS Chithra | Vidyasagar | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=-YtWEmdNs9c</id>
+        <link href="https://www.youtube.com/watch?v=-YtWEmdNs9c"/>
+        <updated>2024-04-24T14:30:00.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Melody Songs | KG Markose | Holy Spirit Songs | Chrisian Melody Songs | Joji Johns]]></title>
         <id>https://www.youtube.com/watch?v=PiCuVq1nCsg</id>
@@ -33313,15 +33331,6 @@
         <updated>2024-01-26T04:00:15.000Z</updated>
         <author>
             <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sathyameva Jayathe | Aanandhapuram Diaries #filmsongs #shortsfeed #shorts #reels #meena #latestsong]]></title>
-        <id>https://www.youtube.com/watch?v=A4lZlAzBxb4</id>
-        <link href="https://www.youtube.com/watch?v=A4lZlAzBxb4"/>
-        <updated>2024-01-26T02:30:08.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
