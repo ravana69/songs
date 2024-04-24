@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-24T22:19:15.350Z</updated>
+    <updated>2024-04-24T23:20:46.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=OfDMm-9uXRY</id>
+        <link href="https://www.youtube.com/watch?v=OfDMm-9uXRY"/>
+        <updated>2024-04-24T23:00:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന April 25 # Athiravile Prarthana 25th of April 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=sBH_cxBFi7s</id>
@@ -33259,24 +33268,6 @@
         <updated>2024-01-26T11:30:11.000Z</updated>
         <author>
             <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മമ്മൂട്ടി - മോഹൻലാൽ ഗാനങ്ങൾ | Mammootty - Mohanlal  All time Superhits | K.J Yesudas | K.S Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=6Vj7T1qrQmc</id>
-        <link href="https://www.youtube.com/watch?v=6Vj7T1qrQmc"/>
-        <updated>2024-01-26T11:03:40.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YESU RAKSHA NAMAM | ISRAELUM EGYPTUM | New Christian Devotional 2024 | Fr Shaji Thumpechirayil]]></title>
-        <id>https://www.youtube.com/watch?v=qdT51J2wDRw</id>
-        <link href="https://www.youtube.com/watch?v=qdT51J2wDRw"/>
-        <updated>2024-01-26T10:24:39.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
         </author>
     </entry>
 </feed>
