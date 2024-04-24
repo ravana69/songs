@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-24T09:18:20.469Z</updated>
+    <updated>2024-04-24T10:20:12.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -229,6 +229,24 @@
         <updated>2024-04-23T17:11:06.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krooshilninum | Maria Kolady | Raju Varghese   #manoramachristiandevotionalsongs #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=VMLSWCnuL4w</id>
+        <link href="https://www.youtube.com/watch?v=VMLSWCnuL4w"/>
+        <updated>2024-04-23T16:12:14.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krooshilninum | Maria Kolady | Raju Varghese   #manoramachristiandevotionalsongs #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=ItNODxePGWU</id>
+        <link href="https://www.youtube.com/watch?v=ItNODxePGWU"/>
+        <updated>2024-04-23T16:03:03.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -33214,15 +33232,6 @@
         <updated>2024-01-25T22:30:01.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=ME89W_K9Z3k</id>
-        <link href="https://www.youtube.com/watch?v=ME89W_K9Z3k"/>
-        <updated>2024-01-25T22:00:11.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
