@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-24T12:39:38.169Z</updated>
+    <updated>2024-04-24T13:24:13.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33304,15 +33304,6 @@
         <updated>2024-01-26T02:30:08.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bharathame Bhagyame | #shorts  | Malayalam Patriotic Song | Vande Mataram | Deshabhakthiganam]]></title>
-        <id>https://www.youtube.com/watch?v=OAI2sbmJITE</id>
-        <link href="https://www.youtube.com/watch?v=OAI2sbmJITE"/>
-        <updated>2024-01-26T01:15:01.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
         </author>
     </entry>
 </feed>
