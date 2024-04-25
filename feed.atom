@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-25T04:21:24.564Z</updated>
+    <updated>2024-04-25T05:17:21.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Charlie Movie Song | Sneham Nee Nadha | Ambili peter | Kings & Queens Band]]></title>
+        <id>https://www.youtube.com/watch?v=k-wNPtjCwAE</id>
+        <link href="https://www.youtube.com/watch?v=k-wNPtjCwAE"/>
+        <updated>2024-04-25T04:42:38.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayangi Poyi Njan Mayangi Poyi Video Song | Nottam | KS Chithra | M Jayachandran | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=RAuYL_jxxp8</id>
+        <link href="https://www.youtube.com/watch?v=RAuYL_jxxp8"/>
+        <updated>2024-04-25T04:30:11.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orupole Chimmum | Innanu Aa Kalyanam #bijibal  #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=B0jhEPYgEM0</id>
+        <link href="https://www.youtube.com/watch?v=B0jhEPYgEM0"/>
+        <updated>2024-04-25T04:30:04.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sheela Old Malayalam Movie Songs | Mindapennu Remastered Malayalam Songs | P. Susheela]]></title>
         <id>https://www.youtube.com/watch?v=QEJPYVtPx2A</id>
