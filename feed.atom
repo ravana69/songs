@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-25T05:17:21.821Z</updated>
+    <updated>2024-04-25T06:23:57.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paadiyum Paranjum |സംഗീതത്തിലെ കാഴ്ചപ്പാട് മാറ്റിയത് എം ബി ശ്രീനിവാസൻ|പാടിയും പറഞ്ഞും|M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=N0Pa8216i4U</id>
+        <link href="https://www.youtube.com/watch?v=N0Pa8216i4U"/>
+        <updated>2024-04-25T05:30:22.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[En Prema Geetham  |Joanne Maria Jaison | Kings Queens band Kottayam]]></title>
+        <id>https://www.youtube.com/watch?v=q0a4s3T0V6k</id>
+        <link href="https://www.youtube.com/watch?v=q0a4s3T0V6k"/>
+        <updated>2024-04-25T05:13:02.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entha paryuka VS Enth Adhishyamae | Christian Devotional Song | kings & Queens band]]></title>
+        <id>https://www.youtube.com/watch?v=eXSswgocqPg</id>
+        <link href="https://www.youtube.com/watch?v=eXSswgocqPg"/>
+        <updated>2024-04-25T04:45:21.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Divya Karuniymae Snehamae | Theresa Mathew &  Athulya Shaji \ Kings & Queens Band]]></title>
+        <id>https://www.youtube.com/watch?v=3BwfZVq0PJI</id>
+        <link href="https://www.youtube.com/watch?v=3BwfZVq0PJI"/>
+        <updated>2024-04-25T04:43:30.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nanniyodae Njan Sthuthi Padidum | Alana Mariya Gimmi & Rose Maria Jinu| Kings & Queens band Kottayam]]></title>
+        <id>https://www.youtube.com/watch?v=UhPIyaNTF38</id>
+        <link href="https://www.youtube.com/watch?v=UhPIyaNTF38"/>
+        <updated>2024-04-25T04:42:58.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Charlie Movie Song | Sneham Nee Nadha | Ambili peter | Kings & Queens Band]]></title>
         <id>https://www.youtube.com/watch?v=k-wNPtjCwAE</id>
@@ -33232,15 +33277,6 @@
         <updated>2024-01-26T18:30:20.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 27th January 24]]></title>
-        <id>https://www.youtube.com/watch?v=1Txq0uG8C7c</id>
-        <link href="https://www.youtube.com/watch?v=1Txq0uG8C7c"/>
-        <updated>2024-01-26T18:00:00.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
