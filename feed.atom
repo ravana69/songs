@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-25T18:23:02.998Z</updated>
+    <updated>2024-04-25T19:14:46.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 26th April 2024]]></title>
+        <id>https://www.youtube.com/watch?v=fx145HxCqNA</id>
+        <link href="https://www.youtube.com/watch?v=fx145HxCqNA"/>
+        <updated>2024-04-25T19:00:28.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മംഗളങ്ങളരുളും മഴനീർക്കണങ്ങളേ.. |കെ ജെ യേശുദാസ് | chitra |മലയാളചലച്ചിത്രഗാനങ്ങൾ | Remastered melodies]]></title>
+        <id>https://www.youtube.com/watch?v=XVluvwmAkpM</id>
+        <link href="https://www.youtube.com/watch?v=XVluvwmAkpM"/>
+        <updated>2024-04-25T18:36:30.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=qv9Ds7cozTo</id>
+        <link href="https://www.youtube.com/watch?v=qv9Ds7cozTo"/>
+        <updated>2024-04-25T18:30:34.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25 April 2024]]></title>
         <id>https://www.youtube.com/watch?v=RYLH10qe9gU</id>
@@ -33394,33 +33421,6 @@
         <updated>2024-01-27T07:30:08.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raappadippakshikkoottam | Ente Sooryaputhrikku | Ilaiyaraaja | K S Chithra #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=MU8gO_YFGXg</id>
-        <link href="https://www.youtube.com/watch?v=MU8gO_YFGXg"/>
-        <updated>2024-01-27T07:11:11.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The dance floor is my happy place #Raakk #MalaikottaiVaaliban #Mohanlal #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=lqQckzDjtXk</id>
-        <link href="https://www.youtube.com/watch?v=lqQckzDjtXk"/>
-        <updated>2024-01-27T06:30:18.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികളുടെ ഇഷ്ടഗായികമാർ ഒന്നിക്കുന്ന സൂപ്പർഹിറ്റ് ക്രിസ്തീയ ഗാനങ്ങൾ | Christian Video Songs]]></title>
-        <id>https://www.youtube.com/watch?v=cog31R65O9k</id>
-        <link href="https://www.youtube.com/watch?v=cog31R65O9k"/>
-        <updated>2024-01-27T06:30:11.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
