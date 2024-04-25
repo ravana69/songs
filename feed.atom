@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-25T19:14:46.988Z</updated>
+    <updated>2024-04-25T20:17:46.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന April 26 # Athiravile Prarthana 26th of April 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=N9faDb7HFTA</id>
+        <link href="https://www.youtube.com/watch?v=N9faDb7HFTA"/>
+        <updated>2024-04-25T20:00:06.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 26th April 2024]]></title>
         <id>https://www.youtube.com/watch?v=fx145HxCqNA</id>
@@ -33394,33 +33403,6 @@
         <updated>2024-01-27T10:00:04.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പാട്ടുപെട്ടി | Paattupetti Vol 41| Malayalam Film Songs | Satyam Audios]]></title>
-        <id>https://www.youtube.com/watch?v=K61p-dmG_Qk</id>
-        <link href="https://www.youtube.com/watch?v=K61p-dmG_Qk"/>
-        <updated>2024-01-27T07:50:34.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കാതിന് കുളിരേകി മനസ്സിൽ വിസ്മയമായ് നിലകൊള്ളുന്ന മലയാളസിനിമയിലെ അതിപ്രശസ്തഗാനങ്ങൾ ! EVERGREEN HITS]]></title>
-        <id>https://www.youtube.com/watch?v=uPD4Bdx520w</id>
-        <link href="https://www.youtube.com/watch?v=uPD4Bdx520w"/>
-        <updated>2024-01-27T07:30:14.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വീണ്ടും വീണ്ടും കേൾക്കാൻ മനസ്സ് വെമ്പുന്ന മലയാളസിനിമയിലെ അതിമനോഹര ഗാനങ്ങൾ ! EVERGREEN MOVIE SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=V3CIOkMc5nA</id>
-        <link href="https://www.youtube.com/watch?v=V3CIOkMc5nA"/>
-        <updated>2024-01-27T07:30:08.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
