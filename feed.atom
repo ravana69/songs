@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-25T07:17:26.905Z</updated>
+    <updated>2024-04-25T08:24:17.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അനവധി നിത്യഹരിത ഗാനങ്ങൾ ആലപിച്ച എം ജി ശ്രീകുമാറിന്റെ തെരഞ്ഞെടുത്ത ഗാനങ്ങൾ | MG SREEKUMAR HITS]]></title>
+        <id>https://www.youtube.com/watch?v=KuCidvlGmeU</id>
+        <link href="https://www.youtube.com/watch?v=KuCidvlGmeU"/>
+        <updated>2024-04-25T07:44:47.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malayalam Mashup Songs | Christian Songs | Kings & Queens Band Karaoke]]></title>
         <id>https://www.youtube.com/watch?v=d28wdjnJ5uw</id>
