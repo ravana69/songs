@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T22:19:09.395Z</updated>
+    <updated>2024-04-26T23:18:07.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=ujaBv0kpCS0</id>
+        <link href="https://www.youtube.com/watch?v=ujaBv0kpCS0"/>
+        <updated>2024-04-26T23:00:33.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന April 27 # Athiravile Prarthana 27th of April 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=k81ndrYmNmo</id>
@@ -33367,15 +33376,6 @@
         <updated>2024-01-28T11:30:31.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naarimani Naadodi |  Mr. Micheal | Kuthiravattam Pappu | Sreelatha Namboothiri]]></title>
-        <id>https://www.youtube.com/watch?v=ML7bz3ElyLc</id>
-        <link href="https://www.youtube.com/watch?v=ML7bz3ElyLc"/>
-        <updated>2024-01-28T10:30:05.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
