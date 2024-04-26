@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T17:18:00.599Z</updated>
+    <updated>2024-04-26T18:22:51.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33394,15 +33394,6 @@
         <updated>2024-01-28T06:42:46.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oorum Perum Parayathe | Thappana | Lyrical  + Karaoke Video | Mammootty | Vijay Yesudas | Vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=C4VdqyYvlb0</id>
-        <link href="https://www.youtube.com/watch?v=C4VdqyYvlb0"/>
-        <updated>2024-01-28T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
