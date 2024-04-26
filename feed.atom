@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T09:18:53.899Z</updated>
+    <updated>2024-04-26T10:20:41.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എന്നെന്നും ഓർക്കുന്ന മലയാള സിനിമാ ഗാനങ്ങൾ | Malayalam Film Songs | Satyam Audios]]></title>
+        <id>https://www.youtube.com/watch?v=3tIEgZWaXm8</id>
+        <link href="https://www.youtube.com/watch?v=3tIEgZWaXm8"/>
+        <updated>2024-04-26T10:00:02.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Praneswara | Vanadevatha | Yusufali Kecheri | G Devarajan | P Madhuri | Old is Gold | Old Songs]]></title>
         <id>https://www.youtube.com/watch?v=lrCKD8_Z6WA</id>
@@ -33358,15 +33367,6 @@
         <updated>2024-01-27T22:30:00.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=dI-nrjRahyE</id>
-        <link href="https://www.youtube.com/watch?v=dI-nrjRahyE"/>
-        <updated>2024-01-27T22:00:14.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
