@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-26T06:26:05.629Z</updated>
+    <updated>2024-04-26T07:17:42.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mukilvarna Mukunda | Bahubali 2 #prabhas #mmkeeravani #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=K7SIuUgxisA</id>
+        <link href="https://www.youtube.com/watch?v=K7SIuUgxisA"/>
+        <updated>2024-04-26T07:00:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Premikkumbol | Live with UNTAGGED | Cover Version |Anila Rajeev|Mahesh Mohan| Bijibal |Rafeeq Ahamed]]></title>
         <id>https://www.youtube.com/watch?v=DpoxGSGRVdM</id>
@@ -33331,24 +33340,6 @@
         <updated>2024-01-27T22:00:14.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന January 28 # Athiravile Prarthana 28th January 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=uP95_yYNWpM</id>
-        <link href="https://www.youtube.com/watch?v=uP95_yYNWpM"/>
-        <updated>2024-01-27T19:00:31.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=noUZz8FlKT4</id>
-        <link href="https://www.youtube.com/watch?v=noUZz8FlKT4"/>
-        <updated>2024-01-27T18:30:45.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
