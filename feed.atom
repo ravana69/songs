@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T15:17:05.476Z</updated>
+    <updated>2024-04-27T16:20:21.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33601,24 +33601,6 @@
         <updated>2024-01-29T04:30:11.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manjayuduppitta | RichuKuttan | Rev.Dr. Vincent Variath | Malayalam Christian Songs | Kids Animation]]></title>
-        <id>https://www.youtube.com/watch?v=D6S6L37h0LY</id>
-        <link href="https://www.youtube.com/watch?v=D6S6L37h0LY"/>
-        <updated>2024-01-29T04:12:26.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhavil Poovayi | Iyer In Arabia | B K Harinarayanan | Vijay Yesudas | Nithya Mammen | M A Nishad]]></title>
-        <id>https://www.youtube.com/watch?v=S27Zr46aQ_k</id>
-        <link href="https://www.youtube.com/watch?v=S27Zr46aQ_k"/>
-        <updated>2024-01-29T03:44:11.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
