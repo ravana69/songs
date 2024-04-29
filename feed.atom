@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-29T12:34:51.548Z</updated>
+    <updated>2024-04-29T13:20:09.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -22,6 +22,15 @@
         <updated>2024-04-29T12:30:25.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Madangiyethumbol | Ghazal Video | Shahabaz Aman | O P Suresh | Malayalam Ghazal]]></title>
+        <id>https://www.youtube.com/watch?v=_pfuVXTfkWI</id>
+        <link href="https://www.youtube.com/watch?v=_pfuVXTfkWI"/>
+        <updated>2024-04-29T12:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
     <entry>
