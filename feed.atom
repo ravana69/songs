@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-29T17:15:39.310Z</updated>
+    <updated>2024-04-29T18:23:16.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രാവിൻ രൂപമണിഞ്ഞവനെ | ROY PUTHUR | FR LIBIN VARGHESE @royputhur]]></title>
+        <id>https://www.youtube.com/watch?v=qWNZpdpFqv8</id>
+        <link href="https://www.youtube.com/watch?v=qWNZpdpFqv8"/>
+        <updated>2024-04-29T17:32:00.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Velutha Penninte | Snehithan | Mohan Sithara | KJ Yesudas | Kunchakko Boban | Krishna | Nandana]]></title>
         <id>https://www.youtube.com/watch?v=tAu7Pzx8ba8</id>
@@ -33394,15 +33403,6 @@
         <updated>2024-01-31T06:30:09.000Z</updated>
         <author>
             <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannoram Kathoram | Thilothama | Sannidhanandan | Roopa| Engandiyoor Chandrasekharan | Deepak Dev]]></title>
-        <id>https://www.youtube.com/watch?v=7LAICxzaxdU</id>
-        <link href="https://www.youtube.com/watch?v=7LAICxzaxdU"/>
-        <updated>2024-01-31T05:30:11.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
