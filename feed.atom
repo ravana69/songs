@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-29T04:22:02.659Z</updated>
+    <updated>2024-04-29T05:19:28.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kanakam Mannil Video Song | Dr Pashupati | Parvathy| Risabava| Johnson | MG Sreekumar| Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=Fi_L7aOqoUU</id>
+        <link href="https://www.youtube.com/watch?v=Fi_L7aOqoUU"/>
+        <updated>2024-04-29T05:09:25.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഹൃദയത്തിൽ പതിഞ്ഞു പോയ പഴയകാല സിനിമ ഗാനങ്ങൾ Evergreen Malayalam Hits 80s 90s Malayalam Hits]]></title>
+        <id>https://www.youtube.com/watch?v=qamxDAfj3y0</id>
+        <link href="https://www.youtube.com/watch?v=qamxDAfj3y0"/>
+        <updated>2024-04-29T04:59:06.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pacha Theeyanu Nee | Bahubali 1#prabhas #ssrajamouli #mmkeeravani #shortsfeed #shortsvideo #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=9EbHH-iJf_w</id>
+        <link href="https://www.youtube.com/watch?v=9EbHH-iJf_w"/>
+        <updated>2024-04-29T04:30:02.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jayabharathi Old Malayalam Movie Songs | Mudramothiram Remastered Malayalam Songs | P. Susheela]]></title>
         <id>https://www.youtube.com/watch?v=sfbIUABBLlw</id>
