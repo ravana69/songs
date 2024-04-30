@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-30T17:16:14.212Z</updated>
+    <updated>2024-04-30T18:25:41.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33682,24 +33682,6 @@
         <updated>2024-02-01T07:29:28.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nettiyil Poovulla Audio Song Manivathoorile Aayiram Shivaraathrikal Mammootty Suhasini KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=gKwjGjrjosM</id>
-        <link href="https://www.youtube.com/watch?v=gKwjGjrjosM"/>
-        <updated>2024-02-01T05:36:23.000Z</updated>
-        <author>
-            <name>Speed Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innaleyolam |  Video Song | Praise The Lord | Mammootty | Vijay Yesudas| Shweta Mohan | Shan Rahman]]></title>
-        <id>https://www.youtube.com/watch?v=SVHvTyysJs0</id>
-        <link href="https://www.youtube.com/watch?v=SVHvTyysJs0"/>
-        <updated>2024-02-01T05:30:09.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
