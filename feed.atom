@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-30T14:17:22.701Z</updated>
+    <updated>2024-04-30T15:15:29.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Entha paryuka🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵🩵]]></title>
+        <id>https://www.youtube.com/watch?v=YmADXRCCA3w</id>
+        <link href="https://www.youtube.com/watch?v=YmADXRCCA3w"/>
+        <updated>2024-04-30T14:34:11.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaro Viral Neetti | Gireesh Puthenchery | Vidyasagar KJ Yesudas |Manju Warrier]]></title>
+        <id>https://www.youtube.com/watch?v=jpgP0jbuAes</id>
+        <link href="https://www.youtube.com/watch?v=jpgP0jbuAes"/>
+        <updated>2024-04-30T14:30:27.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#NeelaNilave | #RDX | #KapilKapilan | #SamCS | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=sX8ivv_VWdw</id>
+        <link href="https://www.youtube.com/watch?v=sX8ivv_VWdw"/>
+        <updated>2024-04-30T14:30:15.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Therirangum Mukile | Mazhathullikkilukkam | Suresh Peters | P Jayachandran  #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=WPbSEbz-T6c</id>
+        <link href="https://www.youtube.com/watch?v=WPbSEbz-T6c"/>
+        <updated>2024-04-30T14:30:09.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muthum Pavizhavum | Darling Darling | Ouseppachan | Hariharan | Sujatha Mohan #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=DzObIbAiAuU</id>
+        <link href="https://www.youtube.com/watch?v=DzObIbAiAuU"/>
+        <updated>2024-04-30T14:30:07.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pathinalam Ravudichathu  | Maram  | Yusufali Kecheri  | G Devarajan  | KJ Yesudas | Prem Nazir]]></title>
         <id>https://www.youtube.com/watch?v=cR2pb82b4Lk</id>
