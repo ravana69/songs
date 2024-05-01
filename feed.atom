@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-01T17:16:53.597Z</updated>
+    <updated>2024-05-01T18:23:33.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33745,15 +33745,6 @@
         <updated>2024-02-02T06:31:12.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhaneer Thullikal | Lyrical + Karaoke Video | Beautiful | Unni Menon | Anoop Menon | Ratheesh Vega]]></title>
-        <id>https://www.youtube.com/watch?v=cSFuRllplgQ</id>
-        <link href="https://www.youtube.com/watch?v=cSFuRllplgQ"/>
-        <updated>2024-02-02T05:30:11.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
