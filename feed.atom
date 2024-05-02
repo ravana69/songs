@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-02T13:18:50.690Z</updated>
+    <updated>2024-05-02T14:17:08.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oduvilee Sandhyayum Njanum | Kadha | Prithviraj | Kavya Madhavan | Ouseppachan | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=_KjI3vBwT-k</id>
+        <link href="https://www.youtube.com/watch?v=_KjI3vBwT-k"/>
+        <updated>2024-05-02T14:06:57.000Z</updated>
+        <author>
+            <name>Speed Music Videos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പത്തരമാറ്റ് പവനേക്കാൾ സൗന്ദര്യവും മൂല്യവുമുള്ള സൂപ്പർഹിറ്റ് ഗാനങ്ങൾ | MALAYALAM CLASSIC SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=NrPlK7J99pk</id>
+        <link href="https://www.youtube.com/watch?v=NrPlK7J99pk"/>
+        <updated>2024-05-02T13:47:56.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ജാനകിയമ്മ ആലപിച്ച കേൾക്കാൻ ഇമ്പമുള്ള അതുല്ല്യ ഗാനങ്ങൾ | S JANAKI HITS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=YVfabMuyHLI</id>
+        <link href="https://www.youtube.com/watch?v=YVfabMuyHLI"/>
+        <updated>2024-05-02T13:30:13.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrisitan Superhit Songs | Abhijith Kollam | Christian Devotional Songs Malayalam | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=Ba2mbkonlkM</id>
+        <link href="https://www.youtube.com/watch?v=Ba2mbkonlkM"/>
+        <updated>2024-05-02T13:30:05.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 2nd of May 2024]]></title>
         <id>https://www.youtube.com/watch?v=rmHyHhkvBXA</id>
