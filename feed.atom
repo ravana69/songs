@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-02T04:21:38.275Z</updated>
+    <updated>2024-05-02T05:19:33.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bahadur Old Malayalam Movie Songs | Chuzhi  Remastered Malayalam Songs |  Baburaj]]></title>
+        <id>https://www.youtube.com/watch?v=mHyCpGZ0oSM</id>
+        <link href="https://www.youtube.com/watch?v=mHyCpGZ0oSM"/>
+        <updated>2024-05-02T05:04:33.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannum Chimmi Chimmi Video Song | Inspector Garud | Dileep | Kavya Madhavan | Vineeth Sreenivasan]]></title>
+        <id>https://www.youtube.com/watch?v=AQi64a6gHdo</id>
+        <link href="https://www.youtube.com/watch?v=AQi64a6gHdo"/>
+        <updated>2024-05-02T04:30:06.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#HariHaraVeeraMallu: Sword vs Spirit - Teaser (MALAYALAM) | Pawan Kalyan | Marakathamani |AM Rathnam]]></title>
         <id>https://www.youtube.com/watch?v=yit2SRb7k-A</id>
