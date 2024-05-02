@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-02T17:17:18.885Z</updated>
+    <updated>2024-05-02T18:23:56.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സ്നേഹം മാത്രമെൻ മനസിൽ]]></title>
+        <id>https://www.youtube.com/watch?v=kB3uhpcyjIo</id>
+        <link href="https://www.youtube.com/watch?v=kB3uhpcyjIo"/>
+        <updated>2024-05-02T18:12:48.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daivame Daivame Video Song | Malayalee From India | Jakes Bejoy | Nivin Pauly | Dijo Jose Antony]]></title>
         <id>https://www.youtube.com/watch?v=Kluqcsghpvc</id>
@@ -33745,24 +33754,6 @@
         <updated>2024-02-03T07:30:04.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neermathalappoo |Lyrical Video| Aami | Shreya Ghoshal |Rafeeque Ahammed|M Jayachandran|Manju Warrier]]></title>
-        <id>https://www.youtube.com/watch?v=n65qR3YZ1xw</id>
-        <link href="https://www.youtube.com/watch?v=n65qR3YZ1xw"/>
-        <updated>2024-02-03T05:30:10.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enundodi | Video Song | Celluloid | Sithara Krishnakumar | Prithviraj | M Jayachandran | Kamal]]></title>
-        <id>https://www.youtube.com/watch?v=U2bSFlgU3LU</id>
-        <link href="https://www.youtube.com/watch?v=U2bSFlgU3LU"/>
-        <updated>2024-02-03T05:30:08.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
