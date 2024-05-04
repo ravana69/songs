@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-04T14:17:06.213Z</updated>
+    <updated>2024-05-04T15:18:01.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manjuneeril | Thirakkatha | Sharreth | Rafeeq Ahammed | Anoop Menon | Priyamani | Prithviraj]]></title>
+        <id>https://www.youtube.com/watch?v=1hfr8DAioPE</id>
+        <link href="https://www.youtube.com/watch?v=1hfr8DAioPE"/>
+        <updated>2024-05-04T14:52:31.000Z</updated>
+        <author>
+            <name>Speed Music Videos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Kunjupoovinte |  Chandranudikkunna Dikkil | Vidyasagar | KJ Yesudas |S Ramesan Nair#songoftheday]]></title>
+        <id>https://www.youtube.com/watch?v=QbJ7SIWv5CM</id>
+        <link href="https://www.youtube.com/watch?v=QbJ7SIWv5CM"/>
+        <updated>2024-05-04T14:30:16.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vattolakkuda Choodiyethiya  | Mammootty | Lal | KJ Yesudas | KS Chithra | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=Qu2e7JnRLPY</id>
+        <link href="https://www.youtube.com/watch?v=Qu2e7JnRLPY"/>
+        <updated>2024-05-04T14:30:07.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HUTHOMO | ഹൂത്തോമോ | Fr. JUSTIN KURIAKOS #holyqurbana #royputhur]]></title>
         <id>https://www.youtube.com/watch?v=zlSa_xST6AU</id>
