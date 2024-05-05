@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-05T22:18:33.467Z</updated>
+    <updated>2024-05-05T23:17:20.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=WRrnmdqixmU</id>
+        <link href="https://www.youtube.com/watch?v=WRrnmdqixmU"/>
+        <updated>2024-05-05T23:00:14.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന May 6 # Athiravile Prarthana 6th of May 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=cZVD9JVdSpQ</id>
@@ -33952,24 +33961,6 @@
         <updated>2024-02-06T11:30:17.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കൂട്ടിൽ നിന്നും മേട്ടിൽ വന്ന പൈങ്കിളിയല്ലേ #mohanlal #thalavattam #hitsongs]]></title>
-        <id>https://www.youtube.com/watch?v=1uOKUXp4fA8</id>
-        <link href="https://www.youtube.com/watch?v=1uOKUXp4fA8"/>
-        <updated>2024-02-06T11:00:11.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anjanakanna Vaa Vaa Video Song | Sreedevi Malayalam Movie | P Madhuri]]></title>
-        <id>https://www.youtube.com/watch?v=Srj469nsnHQ</id>
-        <link href="https://www.youtube.com/watch?v=Srj469nsnHQ"/>
-        <updated>2024-02-06T10:30:16.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
