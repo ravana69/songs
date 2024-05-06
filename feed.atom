@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-06T14:19:06.494Z</updated>
+    <updated>2024-05-06T15:19:17.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Priyasakhi Evide Nee |  Kayyethum Doorathu |Ouseppachan |KJ Yesudas  #songoftheday]]></title>
+        <id>https://www.youtube.com/watch?v=t9SgY7Ug_kI</id>
+        <link href="https://www.youtube.com/watch?v=t9SgY7Ug_kI"/>
+        <updated>2024-05-06T14:30:31.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nadodi Theyyavum | Bichu Thirumala | Ouseppachan | KJ Yesudas | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=Nv51h5JZpY8</id>
+        <link href="https://www.youtube.com/watch?v=Nv51h5JZpY8"/>
+        <updated>2024-05-06T14:30:12.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നിൻ തിരുസുതനെ കാണാതിരുന്നപ്പോൾ തേടിയരികിൽ നീ കണ്ടെത്തിയപോൽ]]></title>
         <id>https://www.youtube.com/watch?v=XxoImPrNpBA</id>
