@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-06T07:18:38.810Z</updated>
+    <updated>2024-05-06T08:23:18.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സിന്ദൂരപ്പൂ മനസ്സിൽ | Sindhoora Poomanasil | Gamanam Malayalam Movie Song | K.JYesudas, K. S Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=NfnqoBkk9J0</id>
+        <link href="https://www.youtube.com/watch?v=NfnqoBkk9J0"/>
+        <updated>2024-05-06T07:59:51.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എന്നും എപ്പോഴും മൂളി നടക്കുന്ന അത്രമേൽ പ്രിയമുള്ള സിനിമാഗാനങ്ങൾ  | EVERGREEN SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=Xrk7TfIK5kc</id>
+        <link href="https://www.youtube.com/watch?v=Xrk7TfIK5kc"/>
+        <updated>2024-05-06T07:30:06.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omalale Kandu Njan | Sindooracheppu | Yusufali Kecheri | G Devarajan | KJ Yesudas | Madhu]]></title>
+        <id>https://www.youtube.com/watch?v=PyQpNKamjpc</id>
+        <link href="https://www.youtube.com/watch?v=PyQpNKamjpc"/>
+        <updated>2024-05-06T07:30:06.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chembazhukka | Kunjaliyan |Video| K J Yesudas | Sujatha | M G Sreekumar | Jayasurya | Vayalar Sarath]]></title>
         <id>https://www.youtube.com/watch?v=hbHOabMZzrI</id>
