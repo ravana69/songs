@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-06T22:18:24.131Z</updated>
+    <updated>2024-05-06T23:17:48.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=FVWpoQmYbsU</id>
+        <link href="https://www.youtube.com/watch?v=FVWpoQmYbsU"/>
+        <updated>2024-05-06T23:00:06.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 7 # Athiravile Prarthana 7th of May 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=Q2xMgHaMeEQ</id>
@@ -33898,42 +33907,6 @@
         <updated>2024-02-07T11:20:06.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gopalaka(രാക്കുയിലിൻ രാഗസദസ്സിൽ )Vinod velyudhan]]></title>
-        <id>https://www.youtube.com/watch?v=YaWrgjtPVzM</id>
-        <link href="https://www.youtube.com/watch?v=YaWrgjtPVzM"/>
-        <updated>2024-02-07T10:57:53.000Z</updated>
-        <author>
-            <name>ഗാനകേളി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhaneer Thullikal | Krishnadiya | Shorts  #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=7ZqX-3UHsS0</id>
-        <link href="https://www.youtube.com/watch?v=7ZqX-3UHsS0"/>
-        <updated>2024-02-07T10:50:34.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embrace the Romance: Celebrating Valentine's Week Together Jukebox | Malayalam Romantic Hits]]></title>
-        <id>https://www.youtube.com/watch?v=eErp-tbYJRU</id>
-        <link href="https://www.youtube.com/watch?v=eErp-tbYJRU"/>
-        <updated>2024-02-07T10:30:56.000Z</updated>
-        <author>
-            <name>Lahari Music Malayalam - TSeries</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veyilinte  | English Medium | KJ Yesudas | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=lFv2hsN5qNQ</id>
-        <link href="https://www.youtube.com/watch?v=lFv2hsN5qNQ"/>
-        <updated>2024-02-07T10:30:17.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
