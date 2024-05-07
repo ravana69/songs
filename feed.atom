@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-07T19:15:13.104Z</updated>
+    <updated>2024-05-07T20:15:28.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന May 8 # Athiravile Prarthana 8th of May 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=UPzRRVXWpwg</id>
+        <link href="https://www.youtube.com/watch?v=UPzRRVXWpwg"/>
+        <updated>2024-05-07T20:00:09.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 8th of May 2024]]></title>
         <id>https://www.youtube.com/watch?v=eY9H-rzT344</id>
@@ -33934,24 +33943,6 @@
         <updated>2024-02-08T08:44:30.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സംഗീതാസ്വാദകർ എന്നും കേൾക്കാൻ കൊതിക്കുന്ന മലയാളസിനിമയിലെ സുരഭില ഗാനങ്ങൾ ! EVERGREEN HITS]]></title>
-        <id>https://www.youtube.com/watch?v=PeNQjRrMmvU</id>
-        <link href="https://www.youtube.com/watch?v=PeNQjRrMmvU"/>
-        <updated>2024-02-08T07:55:52.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mazhameettum- Chathikkaatha Chanthu | Alex Paul | Jyotsna | Gireesh Puthenchery #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=dVcYlYNKPYg</id>
-        <link href="https://www.youtube.com/watch?v=dVcYlYNKPYg"/>
-        <updated>2024-02-08T07:21:03.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
