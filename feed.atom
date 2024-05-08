@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-08T20:18:47.564Z</updated>
+    <updated>2024-05-08T21:18:11.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33988,33 +33988,6 @@
         <updated>2024-02-09T10:30:11.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KURISHINTE VAZHIYIL | JOYCEMARY SHAM K| JILIMOL THOMAS #jinokunnumpurath #christiansong #newrelease]]></title>
-        <id>https://www.youtube.com/watch?v=bSFxBKTGl4g</id>
-        <link href="https://www.youtube.com/watch?v=bSFxBKTGl4g"/>
-        <updated>2024-02-09T09:06:14.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanniloorumoru | Aanandhapuram Diaries |Video| Sooraj Santhosh | Shan Rahman | Meena | Jaya Jose Raj]]></title>
-        <id>https://www.youtube.com/watch?v=HuQ8lZ19Bo4</id>
-        <link href="https://www.youtube.com/watch?v=HuQ8lZ19Bo4"/>
-        <updated>2024-02-09T09:04:37.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hits of John Britto | latest Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=20B5IuEn52w</id>
-        <link href="https://www.youtube.com/watch?v=20B5IuEn52w"/>
-        <updated>2024-02-09T08:26:12.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
