@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-08T18:24:25.077Z</updated>
+    <updated>2024-05-08T19:14:25.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 9th of May 2024]]></title>
+        <id>https://www.youtube.com/watch?v=QpftGkbI3J4</id>
+        <link href="https://www.youtube.com/watch?v=QpftGkbI3J4"/>
+        <updated>2024-05-08T19:00:17.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=ArPmM0j8NEg</id>
+        <link href="https://www.youtube.com/watch?v=ArPmM0j8NEg"/>
+        <updated>2024-05-08T18:30:09.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ആഷാഢരതിയിൽ അലിയുന്നൂ ഭൂമി..| കെ ജെ യേശുദാസ് | K S Chitra|മലയാളചലച്ചിത്രഗാനങ്ങൾ|Remastered melodies]]></title>
         <id>https://www.youtube.com/watch?v=0z2qLS-bYjU</id>
@@ -34024,42 +34042,6 @@
         <updated>2024-02-09T07:30:02.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thaamarappoovil | Chandralekha | Berny Ignatius | MG Sreekumar | Gireesh Puthenchery #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=OQZlL2T8tFU</id>
-        <link href="https://www.youtube.com/watch?v=OQZlL2T8tFU"/>
-        <updated>2024-02-09T07:12:23.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaru Nee Kanmani | Aanandhapuram Diaries | K S Chithra #kschithra #malayalamfilmsongs #shortsfeed]]></title>
-        <id>https://www.youtube.com/watch?v=__YF2cuvAbQ</id>
-        <link href="https://www.youtube.com/watch?v=__YF2cuvAbQ"/>
-        <updated>2024-02-09T07:00:23.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എൻ‌റെ ഓർമയിൽ പൂത്തുനിന്നൊരുമഞ്ഞ മന്ദാരമേ #malayalamsongs #mohanlal #malayalamsongs]]></title>
-        <id>https://www.youtube.com/watch?v=KHuTI6Tfvz0</id>
-        <link href="https://www.youtube.com/watch?v=KHuTI6Tfvz0"/>
-        <updated>2024-02-09T06:42:47.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kattu Kurinji Poovum Choodi Song | Radha Enna Penkutty | P Jayachandran | Shyam | Devadas]]></title>
-        <id>https://www.youtube.com/watch?v=cv6FbwXU0tg</id>
-        <link href="https://www.youtube.com/watch?v=cv6FbwXU0tg"/>
-        <updated>2024-02-09T06:32:48.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
