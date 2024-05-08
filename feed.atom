@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-08T04:19:14.374Z</updated>
+    <updated>2024-05-08T05:16:38.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daddy My Daddy Video | Daddy Cool | Mammootty | Dhananjay | Bijibal | Swetha Menon | Aashiq Abu]]></title>
+        <id>https://www.youtube.com/watch?v=Urn7ViWbw2Q</id>
+        <link href="https://www.youtube.com/watch?v=Urn7ViWbw2Q"/>
+        <updated>2024-05-08T04:30:09.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thelu Thele | Urumi |  Folk Film Songs #prithvirajsukumaran  #shortsfeed #shorts #reels #urumisong]]></title>
         <id>https://www.youtube.com/watch?v=7lNy2gFxMSI</id>
@@ -33862,15 +33871,6 @@
         <updated>2024-02-08T18:00:33.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Darling Darling Neeyenikkoru | Darling Darling | Vineeth | Kavya Madhavan | Dileep | Hariharan]]></title>
-        <id>https://www.youtube.com/watch?v=rqFaS0GfK4A</id>
-        <link href="https://www.youtube.com/watch?v=rqFaS0GfK4A"/>
-        <updated>2024-02-08T16:28:45.000Z</updated>
-        <author>
-            <name>Speed Music Videos</name>
         </author>
     </entry>
 </feed>
