@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-08T22:17:50.539Z</updated>
+    <updated>2024-05-08T23:19:24.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=t6Zn1MJNqnc</id>
+        <link href="https://www.youtube.com/watch?v=t6Zn1MJNqnc"/>
+        <updated>2024-05-08T23:00:32.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 9 # Athiravile Prarthana 9th of May 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=M0rrt1aGBBk</id>
@@ -33943,51 +33952,6 @@
         <updated>2024-02-09T11:30:12.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanneeru Kanunna Kanyambike | Kristheeya Bhakthiganangal | Mother Mary Songs | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=49aTzyrcQ08</id>
-        <link href="https://www.youtube.com/watch?v=49aTzyrcQ08"/>
-        <updated>2024-02-09T11:15:18.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sreeragamo Video Song | Pavithram | Mohanlal | Shobana | KJ Yesudas | Sharreth | ONV Kurup]]></title>
-        <id>https://www.youtube.com/watch?v=Da6R0-L8DJ8</id>
-        <link href="https://www.youtube.com/watch?v=Da6R0-L8DJ8"/>
-        <updated>2024-02-09T10:43:58.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പാട്ടിന്റെ പ്രണയകാലം | Timeless Melodies of Romance | East Coast Vijayan | Malayalam Romantic Songs]]></title>
-        <id>https://www.youtube.com/watch?v=n5Zt43nDMB4</id>
-        <link href="https://www.youtube.com/watch?v=n5Zt43nDMB4"/>
-        <updated>2024-02-09T10:42:47.000Z</updated>
-        <author>
-            <name>East Coast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thamara Malarin - Audio Song | Aaradhika | P. Susheela | M. S. Baburaj | Sreekumaran Thambi]]></title>
-        <id>https://www.youtube.com/watch?v=paTxI-IbW0A</id>
-        <link href="https://www.youtube.com/watch?v=paTxI-IbW0A"/>
-        <updated>2024-02-09T10:30:18.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അത്തിപ്പഴത്തിന്നിളന്നീർ ചുരത്തും | Suresh Gopi | Swetha Menon | Romantic Song #malayalamoldsongs]]></title>
-        <id>https://www.youtube.com/watch?v=UASc7PZs-ME</id>
-        <link href="https://www.youtube.com/watch?v=UASc7PZs-ME"/>
-        <updated>2024-02-09T10:30:11.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
