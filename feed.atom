@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-09T19:14:11.830Z</updated>
+    <updated>2024-05-09T20:18:40.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന May 10 # Athiravile Prarthana 10th of May 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Zm0svul484g</id>
+        <link href="https://www.youtube.com/watch?v=Zm0svul484g"/>
+        <updated>2024-05-09T20:00:10.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 10th of May 2024]]></title>
         <id>https://www.youtube.com/watch?v=am7-iiC3xlU</id>
@@ -34033,33 +34042,6 @@
         <updated>2024-02-10T10:19:38.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കേൾക്കാൻ കൊതിക്കുന്ന തൊണ്ണൂറുകളിലെ മനം മയക്കുന്ന സിനിമാപാട്ടുകൾ | 90s HITS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=21DdgcX1-zM</id>
-        <link href="https://www.youtube.com/watch?v=21DdgcX1-zM"/>
-        <updated>2024-02-10T07:37:24.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രേക്ഷകമനസുകളിൽ നൊമ്പരമുണർത്തിയ മലയാളസിനിമയിലെ പേരുകേട്ട വിഷാദഗാനങ്ങൾ ! SAD SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=3q--w3eTZ7E</id>
-        <link href="https://www.youtube.com/watch?v=3q--w3eTZ7E"/>
-        <updated>2024-02-10T07:30:01.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pazham Thamizhppaattizhayum | Manichithrathaazhu | M G Radhakrishnan | K J Yesudas #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=GTzej9mQdNM</id>
-        <link href="https://www.youtube.com/watch?v=GTzej9mQdNM"/>
-        <updated>2024-02-10T07:22:24.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
