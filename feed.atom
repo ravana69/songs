@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-09T04:24:58.170Z</updated>
+    <updated>2024-05-09T05:19:08.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Minnale Minnale Video Song | Vesham | Gopika | KS Chithra | Kaithapram | SA Rajkumar]]></title>
+        <id>https://www.youtube.com/watch?v=xNObCYiUFL4</id>
+        <link href="https://www.youtube.com/watch?v=xNObCYiUFL4"/>
+        <updated>2024-05-09T04:30:20.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neermathalapoo | Aami #manjuwarrier #shreyaghoshal   #shortsfeed #shortsvideo #shorts #reels]]></title>
         <id>https://www.youtube.com/watch?v=VF2Ra_zyAsA</id>
