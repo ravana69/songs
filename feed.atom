@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-09T10:21:22.304Z</updated>
+    <updated>2024-05-09T11:15:47.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രണയത്തെക്കുറിച്ച്‌  വെട്ടിത്തുറന്നു പറഞ്ഞ് കെ. പി. ഉദയഭാനു | K P Udayabhanu | East Coast  Vijayan]]></title>
+        <id>https://www.youtube.com/watch?v=BKTURqhx5qI</id>
+        <link href="https://www.youtube.com/watch?v=BKTURqhx5qI"/>
+        <updated>2024-05-09T10:22:23.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malare Mathala Malare - Audio Song | Aa Nimisham | K.J. Yesudas | G. Devarajan]]></title>
         <id>https://www.youtube.com/watch?v=KSC9o3XynNM</id>
@@ -33932,15 +33941,6 @@
         <id>https://www.youtube.com/watch?v=9s068bGmTRE</id>
         <link href="https://www.youtube.com/watch?v=9s068bGmTRE"/>
         <updated>2024-02-09T23:30:02.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്ന് ഫെബ്രുവരി10എൻറെ കർത്താവിൻറെ അമ്മയുടെ ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം#japamala  santhos]]></title>
-        <id>https://www.youtube.com/watch?v=ZQJ2XByk3QY</id>
-        <link href="https://www.youtube.com/watch?v=ZQJ2XByk3QY"/>
-        <updated>2024-02-09T22:30:03.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
         </author>
