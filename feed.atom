@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-10T07:18:22.851Z</updated>
+    <updated>2024-05-10T08:22:45.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Padasmarana sukham | Sallaapam | Kaithapram | Johnson | K J Yesudas | Evergreen Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=HtjcYRM9QTY</id>
+        <link href="https://www.youtube.com/watch?v=HtjcYRM9QTY"/>
+        <updated>2024-05-10T07:33:35.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രേക്ഷക സ്വീകാര്യത നേടിയ ചിത്ര ചേച്ചിയുടെ മനം മയക്കുന്ന സിനിമാഗാനങ്ങൾ | KS CHITHRA HITS]]></title>
+        <id>https://www.youtube.com/watch?v=J2b3UgONgWI</id>
+        <link href="https://www.youtube.com/watch?v=J2b3UgONgWI"/>
+        <updated>2024-05-10T07:30:06.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kunuku Penmaniye | കുണുക്കുപെണ്മണിയെ  | Mr.Butler Malayalam Movie Song | Innocent | Dileep]]></title>
         <id>https://www.youtube.com/watch?v=Nm550jdptlU</id>
@@ -34,12 +52,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cherathilaay Lyrical|Guardian Angel|Saju S DaslSooraj Santhosh|Ram Surendar|Jyothish Kassi|Shobika]]></title>
+        <id>https://www.youtube.com/watch?v=VpnWTkejeDU</id>
+        <link href="https://www.youtube.com/watch?v=VpnWTkejeDU"/>
+        <updated>2024-05-10T05:06:57.000Z</updated>
+        <author>
+            <name>East Coast</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Thakilu Pukilu Video Song| Ravanaprabhu | Mohanlal| MG Sreekumar| Sujatha Mohan| Gireesh Puthenchery]]></title>
         <id>https://www.youtube.com/watch?v=62b3ESDiaM8</id>
         <link href="https://www.youtube.com/watch?v=62b3ESDiaM8"/>
         <updated>2024-05-10T04:30:04.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaro Nee Aaro | Gayathry Rajiv | Urumi | The Salt Session | Unplugged | Film Songs | Irul Parappil]]></title>
+        <id>https://www.youtube.com/watch?v=fVVTIMg_79I</id>
+        <link href="https://www.youtube.com/watch?v=fVVTIMg_79I"/>
+        <updated>2024-05-10T03:44:08.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
     <entry>
@@ -310,6 +346,15 @@
         <updated>2024-05-09T07:30:11.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thedi Thedi Song | Maalayogam | Sourav Suresh | Jnjansreshta | Babitha Basheer | Musthafa Sargam]]></title>
+        <id>https://www.youtube.com/watch?v=LJZjZqS7tRY</id>
+        <link href="https://www.youtube.com/watch?v=LJZjZqS7tRY"/>
+        <updated>2024-05-09T06:31:59.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
