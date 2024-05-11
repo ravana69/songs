@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-11T17:17:14.487Z</updated>
+    <updated>2024-05-11T18:22:48.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34123,42 +34123,6 @@
         <updated>2024-02-12T06:28:48.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[വിഭൂതി തിരുനാൾ| Ash Monday status|  Kurishinte munnil | #shorts | #christianshorts | #lent]]></title>
-        <id>https://www.youtube.com/watch?v=wRhEalveslA</id>
-        <link href="https://www.youtube.com/watch?v=wRhEalveslA"/>
-        <updated>2024-02-12T06:11:29.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aarum Koodeyillennu Njan Karuthi # Lord's Presence # Ft. Kester , Sabarimani , Samji Arattupuzha]]></title>
-        <id>https://www.youtube.com/watch?v=vrFnuy21QzI</id>
-        <link href="https://www.youtube.com/watch?v=vrFnuy21QzI"/>
-        <updated>2024-02-12T06:08:55.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malkosinte Gadhgathangal]]></title>
-        <id>https://www.youtube.com/watch?v=ddS9UBns3r4</id>
-        <link href="https://www.youtube.com/watch?v=ddS9UBns3r4"/>
-        <updated>2024-02-12T05:57:58.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassu Mayakki | Marubhoomi Kadha | Sudeep Kumar | Rimi Tomy | Santhosh Varma|||M.G.Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=P8VqGIuZc9Y</id>
-        <link href="https://www.youtube.com/watch?v=P8VqGIuZc9Y"/>
-        <updated>2024-02-12T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
