@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-12T17:15:05.343Z</updated>
+    <updated>2024-05-12T18:24:36.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ചന്ദന മണിവാതിൽ പാതിചാരി..| കെ ജെ യേശുദാസ് | K S Chitra |മലയാളചലച്ചിത്രഗാനങ്ങൾ | Remastered melodies]]></title>
+        <id>https://www.youtube.com/watch?v=UoDXMZzITFU</id>
+        <link href="https://www.youtube.com/watch?v=UoDXMZzITFU"/>
+        <updated>2024-05-12T18:17:10.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഇവിടെ ഈ തണലിൽ..- അമ്മതൻ വാത്സല്യ തണലിൽ]]></title>
         <id>https://www.youtube.com/watch?v=ynjrAa3yr6s</id>
@@ -33997,42 +34006,6 @@
         <updated>2024-02-13T06:40:59.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Padiyum Paranjum | കർണാടകസംഗീത പഠനം സംഗീതസംവിധായകൻ ആയതിനു ശേഷം  | പാടിയും പറഞ്ഞും |  Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=u772hW8qzkw</id>
-        <link href="https://www.youtube.com/watch?v=u772hW8qzkw"/>
-        <updated>2024-02-13T05:30:22.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kali Bhadrakali - Audio Song | Marunattil Oro Malayali | Premnazeer, Vijayasri, Adoor Bhasi]]></title>
-        <id>https://www.youtube.com/watch?v=kTmEcFOokd4</id>
-        <link href="https://www.youtube.com/watch?v=kTmEcFOokd4"/>
-        <updated>2024-02-13T05:30:21.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KURISHINTE VAZHIYIL |നോമ്പിനുവേണ്ടി ഒരുങ്ങാം ഈ ഗാനത്തോടൊപ്പം|#shorts #newchristiansong #lent |REEL 3]]></title>
-        <id>https://www.youtube.com/watch?v=RWl25i006hE</id>
-        <link href="https://www.youtube.com/watch?v=RWl25i006hE"/>
-        <updated>2024-02-13T05:30:11.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anpathu Nalukal | Vibhoothi thirunal | #shorts | Fr Shaji Thumpechirayil | Neenu James]]></title>
-        <id>https://www.youtube.com/watch?v=PljmQYGuYuQ</id>
-        <link href="https://www.youtube.com/watch?v=PljmQYGuYuQ"/>
-        <updated>2024-02-13T05:23:43.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
         </author>
     </entry>
 </feed>
