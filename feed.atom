@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-12T14:16:24.914Z</updated>
+    <updated>2024-05-12T15:18:19.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാള സിനിമയിലെ അടിപൊളി ഗാനങ്ങൾ | MG Sreekumar | Vidyasagar | Gireesh Puthenchery | Sujatha Mohan]]></title>
+        <id>https://www.youtube.com/watch?v=bHWWU1K359s</id>
+        <link href="https://www.youtube.com/watch?v=bHWWU1K359s"/>
+        <updated>2024-05-12T15:00:07.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kandu Njan | Abhimanyu | Raveendran | MG Sreekumar | Kaithapram #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=czJdjOSQLBM</id>
+        <link href="https://www.youtube.com/watch?v=czJdjOSQLBM"/>
+        <updated>2024-05-12T14:30:18.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponne Ponnambili | Mammootty| Mohanlal| Babi Shamili| KJ Yesudas| Ouseppachan| Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=OvkaLQnE5Vc</id>
+        <link href="https://www.youtube.com/watch?v=OvkaLQnE5Vc"/>
+        <updated>2024-05-12T14:30:15.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Melody Songs | Jayachandran | Christian Superhit Songs Malayalam | Joji Johns | KG Markose]]></title>
         <id>https://www.youtube.com/watch?v=US4ofFs0Ypo</id>
