@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-12T22:16:19.451Z</updated>
+    <updated>2024-05-12T23:18:33.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=IFjrL7s8a50</id>
+        <link href="https://www.youtube.com/watch?v=IFjrL7s8a50"/>
+        <updated>2024-05-12T23:00:08.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന May 13 # Athiravile Prarthana 13th of May 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=9lZrTIhFRns</id>
@@ -33943,33 +33952,6 @@
         <updated>2024-02-13T11:30:06.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രണയ ഗാനങ്ങൾ 2024 | Valentine's Day Special Songs | Malayalam Film Songs | Mohanlal, Dileep]]></title>
-        <id>https://www.youtube.com/watch?v=eGjyR9FMRMw</id>
-        <link href="https://www.youtube.com/watch?v=eGjyR9FMRMw"/>
-        <updated>2024-02-13T11:10:22.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pranaya Sarovaratheeram - Audio Song | Innale Innu | Premnazeer, Sheela | G. Devarajan]]></title>
-        <id>https://www.youtube.com/watch?v=kdI3JlCyfk4</id>
-        <link href="https://www.youtube.com/watch?v=kdI3JlCyfk4"/>
-        <updated>2024-02-13T10:30:17.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[അനുരാഗപ്പുഴവക്കിൽ | English Medium | Pattanakkad Purushothaman | Susmitha #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=jXhawcun3zg</id>
-        <link href="https://www.youtube.com/watch?v=jXhawcun3zg"/>
-        <updated>2024-02-13T10:30:14.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
