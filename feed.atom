@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-13T19:14:19.270Z</updated>
+    <updated>2024-05-13T20:19:31.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 14 # Athiravile Prarthana 14th of May 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=Gq3X1_tjtKc</id>
+        <link href="https://www.youtube.com/watch?v=Gq3X1_tjtKc"/>
+        <updated>2024-05-13T20:00:04.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 14th of May 2024]]></title>
         <id>https://www.youtube.com/watch?v=j7ohO9-CmpI</id>
@@ -33934,42 +33943,6 @@
         <updated>2024-02-14T08:22:20.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jolly Molly - Video Song | Palayam PC | Abin Thej | Kiran Paul | Suraj John Varkey]]></title>
-        <id>https://www.youtube.com/watch?v=MF8_BBMV-0U</id>
-        <link href="https://www.youtube.com/watch?v=MF8_BBMV-0U"/>
-        <updated>2024-02-14T08:04:50.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Come On Girls (The Celebration of Love) (Tamil Lyric Video [From "3 (Tamil)"])]]></title>
-        <id>https://www.youtube.com/watch?v=wD8qVWAr9G4</id>
-        <link href="https://www.youtube.com/watch?v=wD8qVWAr9G4"/>
-        <updated>2024-02-14T08:00:34.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kannum Kannum Plus (Tamil Lyric Video [From "100% Kaadhal"])]]></title>
-        <id>https://www.youtube.com/watch?v=afJA9A_im9M</id>
-        <link href="https://www.youtube.com/watch?v=afJA9A_im9M"/>
-        <updated>2024-02-14T08:00:01.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രേക്ഷകഹൃദയം കവർന്ന പ്രണയസല്ലാപ ഗാനങ്ങൾ | LOVE SONGS MALAYALAM  | 90s LOVE SONGS |]]></title>
-        <id>https://www.youtube.com/watch?v=nOt9Cviexuc</id>
-        <link href="https://www.youtube.com/watch?v=nOt9Cviexuc"/>
-        <updated>2024-02-14T07:41:32.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
