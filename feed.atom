@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-13T22:18:28.696Z</updated>
+    <updated>2024-05-13T23:18:31.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=SVkY0TgSjm0</id>
+        <link href="https://www.youtube.com/watch?v=SVkY0TgSjm0"/>
+        <updated>2024-05-13T23:00:13.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 14 # Athiravile Prarthana 14th of May 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=Gq3X1_tjtKc</id>
@@ -33871,51 +33880,6 @@
         <updated>2024-02-14T11:19:36.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshu En Pakshamay | Mashup | Rosh Music Team #shorts  #malayalamdevotionalchristiansong]]></title>
-        <id>https://www.youtube.com/watch?v=aAp3pCs3uWE</id>
-        <link href="https://www.youtube.com/watch?v=aAp3pCs3uWE"/>
-        <updated>2024-02-14T11:09:38.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onnum Parayathe | K S Harisankar | Shinsy Thomas | Dr. Sunil V T #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=yeSG_vCg8ig</id>
-        <link href="https://www.youtube.com/watch?v=yeSG_vCg8ig"/>
-        <updated>2024-02-14T11:05:25.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onnum Parayathe | K S Harisankar | Shinsy Thomas | Dr. Sunil V T #shortsvideo]]></title>
-        <id>https://www.youtube.com/watch?v=u7n1yojd7Z8</id>
-        <link href="https://www.youtube.com/watch?v=u7n1yojd7Z8"/>
-        <updated>2024-02-14T11:01:55.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poonkaatte Poyi Chollamo | Shyama | Unni Menon | KS Chithra | Raghukumar | Shibu Chakravarthy]]></title>
-        <id>https://www.youtube.com/watch?v=ZapKE4U6G1A</id>
-        <link href="https://www.youtube.com/watch?v=ZapKE4U6G1A"/>
-        <updated>2024-02-14T10:30:15.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Thira Video Song | Oru Thira Pinneyum Thira Malayalam Movie | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=jHzU6gZ-ISY</id>
-        <link href="https://www.youtube.com/watch?v=jHzU6gZ-ISY"/>
-        <updated>2024-02-14T10:30:15.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
