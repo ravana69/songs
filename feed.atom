@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-14T13:20:41.586Z</updated>
+    <updated>2024-05-14T14:17:49.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അമ്മേ അമലേ അനുഗ്രഹീതേ...]]></title>
+        <id>https://www.youtube.com/watch?v=_fbOY7EIPCg</id>
+        <link href="https://www.youtube.com/watch?v=_fbOY7EIPCg"/>
+        <updated>2024-05-14T14:13:51.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എത്രകേട്ടാലും മതി വരാത്ത പ്രണയം തുളുമ്പുന്ന സിനിമാഗാനങ്ങൾ | EVERGREEN LOVE SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=sDNfJH7DxJo</id>
+        <link href="https://www.youtube.com/watch?v=sDNfJH7DxJo"/>
+        <updated>2024-05-14T13:30:20.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lജനലക്ഷങ്ങളുടെ ഇഷ്ടം നേടിയെടുത്ത പ്രിയ ഗായകൻ ഗാഗുൽ ജോസെഫിന്റെ ജനപ്രിയ ഗാനങ്ങൾ | Singer Of The Week]]></title>
+        <id>https://www.youtube.com/watch?v=aOvVxQSztjg</id>
+        <link href="https://www.youtube.com/watch?v=aOvVxQSztjg"/>
+        <updated>2024-05-14T13:30:02.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഡേറ്റ് ഇട്ടു പ്രാർത്ഥിക്കുക l Kreupasanam powerful prayer l miraculous prayer l marian]]></title>
         <id>https://www.youtube.com/watch?v=xX1wAYV5_6I</id>
@@ -33907,15 +33934,6 @@
         <updated>2024-02-15T04:19:05.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maramon Convention Songs Mashup | Malayalam Christian Songs Mashup | Super Hit Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=aQSg27J7deY</id>
-        <link href="https://www.youtube.com/watch?v=aQSg27J7deY"/>
-        <updated>2024-02-15T01:36:26.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
