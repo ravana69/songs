@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-14T04:21:33.913Z</updated>
+    <updated>2024-05-14T05:18:51.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Veshangal Janmangal Video Song | Vesham | Mammootty | KJ Yesudas | Kaithapram | SA Rajkumar]]></title>
+        <id>https://www.youtube.com/watch?v=OgosiUtLskc</id>
+        <link href="https://www.youtube.com/watch?v=OgosiUtLskc"/>
+        <updated>2024-05-14T04:30:09.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lets Vibe for Vatteppam | Mandakini | Dabzee | Altaf Salim | Bibin Ashok | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=VuQwZJtAF0s</id>
+        <link href="https://www.youtube.com/watch?v=VuQwZJtAF0s"/>
+        <updated>2024-05-14T04:30:08.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sharada Malayalam Romantic Old Superhit Song l Udayam Movie | Madhu, Sharada, Adoor Bhasi]]></title>
         <id>https://www.youtube.com/watch?v=aY4HQU08k_Y</id>
