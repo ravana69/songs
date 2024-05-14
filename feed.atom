@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-14T18:24:11.345Z</updated>
+    <updated>2024-05-14T19:14:12.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 15th of May 2024]]></title>
+        <id>https://www.youtube.com/watch?v=VsCPnTEm4bw</id>
+        <link href="https://www.youtube.com/watch?v=VsCPnTEm4bw"/>
+        <updated>2024-05-14T19:00:13.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=uAb2Petghdw</id>
+        <link href="https://www.youtube.com/watch?v=uAb2Petghdw"/>
+        <updated>2024-05-14T18:30:38.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രവീന്ദ്രസംഗീതം| ഓർമകളിലൂടെ ഇന്നും ജീവിക്കുന്ന മാഷിൻറെ ഗാനങ്ങൾ | Raveendrasangeetham | കെ ജെ യേശുദാസ്]]></title>
         <id>https://www.youtube.com/watch?v=Lypf3pAc8jY</id>
@@ -22,6 +40,15 @@
         <updated>2024-05-14T17:56:38.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guruvayoorambala Nadayil - Release Teaser | Prithviraj | Basil | Vipin Das | Ankit Menon]]></title>
+        <id>https://www.youtube.com/watch?v=_nv4yQbKA0A</id>
+        <link href="https://www.youtube.com/watch?v=_nv4yQbKA0A"/>
+        <updated>2024-05-14T17:36:04.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
@@ -33871,42 +33898,6 @@
         <updated>2024-02-15T07:29:33.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over The Ocean | Kolambi  #rameshnarayanan #filmsongs #shortsfeed #shortsvideo #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=fHKWBFI0rjo</id>
-        <link href="https://www.youtube.com/watch?v=fHKWBFI0rjo"/>
-        <updated>2024-02-15T07:00:24.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aanandhapuram Diaries | Trailer| Meena Sagar |T Srikant | Manoj K Jayan | Jaya Jose Raj |Sasi G Nair]]></title>
-        <id>https://www.youtube.com/watch?v=6zpG2K0x3m4</id>
-        <link href="https://www.youtube.com/watch?v=6zpG2K0x3m4"/>
-        <updated>2024-02-15T06:47:34.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ascharyameyithu | Pr. Muttom Geevarghese | K S Chithra #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=t_ovZqBhAi8</id>
-        <link href="https://www.youtube.com/watch?v=t_ovZqBhAi8"/>
-        <updated>2024-02-15T06:30:10.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amme - Audio Song | Edimuzhakkam | Jayan, Lalu Alex, Ratheesh | Shyam]]></title>
-        <id>https://www.youtube.com/watch?v=3Mql1woUVVk</id>
-        <link href="https://www.youtube.com/watch?v=3Mql1woUVVk"/>
-        <updated>2024-02-15T06:30:01.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
