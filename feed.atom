@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-14T05:18:51.994Z</updated>
+    <updated>2024-05-14T06:26:35.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaranne Aaranne | Lyrical + Karaoke Video | Urumi | Deepak Dev | Prithviraj | Job Kurian | Rita]]></title>
+        <id>https://www.youtube.com/watch?v=xswvXHE8Gao</id>
+        <link href="https://www.youtube.com/watch?v=xswvXHE8Gao"/>
+        <updated>2024-05-14T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Veshangal Janmangal Video Song | Vesham | Mammootty | KJ Yesudas | Kaithapram | SA Rajkumar]]></title>
         <id>https://www.youtube.com/watch?v=OgosiUtLskc</id>
@@ -33835,15 +33844,6 @@
         <updated>2024-02-14T18:30:00.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 15th February 24]]></title>
-        <id>https://www.youtube.com/watch?v=r_LstsSXXd8</id>
-        <link href="https://www.youtube.com/watch?v=r_LstsSXXd8"/>
-        <updated>2024-02-14T18:00:35.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
