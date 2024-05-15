@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-15T01:21:25.865Z</updated>
+    <updated>2024-05-15T02:33:09.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Suruma | Camel Safari | Shorts #ytshorts #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=DV5swK13lsE</id>
+        <link href="https://www.youtube.com/watch?v=DV5swK13lsE"/>
+        <updated>2024-05-15T01:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adipoli Bhootham | Pattanathil Bhootham   #manoramamusic #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=2ugCPOUdyYo</id>
+        <link href="https://www.youtube.com/watch?v=2ugCPOUdyYo"/>
+        <updated>2024-05-15T01:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krooshilninnum | Maria Kolady | Raju Varghese #manoramachristiandevotionalsongs #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=PL7_BIuqG_A</id>
+        <link href="https://www.youtube.com/watch?v=PL7_BIuqG_A"/>
+        <updated>2024-05-15T01:30:06.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swarga Santhoshavum | Christian Video Song | KG Markose | Praise and Worship Songs]]></title>
         <id>https://www.youtube.com/watch?v=2m3CIq7gJpg</id>
@@ -33781,33 +33808,6 @@
         <updated>2024-02-15T15:08:01.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Jeevane | Devadoothan |  Mohanlal | Vidyasagar | Sibi Malayil | Jayachandran | S Janaki]]></title>
-        <id>https://www.youtube.com/watch?v=7JlQoZwS4zk</id>
-        <link href="https://www.youtube.com/watch?v=7JlQoZwS4zk"/>
-        <updated>2024-02-15T14:31:50.000Z</updated>
-        <author>
-            <name>Speed Music Videos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chandirane Kayyileduthu | Mahasamudram | Alex | M Jayachandran | Kaithapram | Evergreen hits]]></title>
-        <id>https://www.youtube.com/watch?v=S1vuNbarNNY</id>
-        <link href="https://www.youtube.com/watch?v=S1vuNbarNNY"/>
-        <updated>2024-02-15T13:30:11.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചെറുപ്പകാലം മുതലേ കേട്ട് മനസ്സിൽ പതിഞ്ഞ സൂപ്പർഹിറ്റ് ക്രിസ്തീയഗാനങ്ങൾ  |Old Is Gold |Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=5Kf2yhdOLOU</id>
-        <link href="https://www.youtube.com/watch?v=5Kf2yhdOLOU"/>
-        <updated>2024-02-15T13:30:01.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
