@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-15T18:24:05.902Z</updated>
+    <updated>2024-05-15T19:15:07.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 16th of May 2024]]></title>
+        <id>https://www.youtube.com/watch?v=_K6rE_DS3cc</id>
+        <link href="https://www.youtube.com/watch?v=_K6rE_DS3cc"/>
+        <updated>2024-05-15T19:00:29.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=22-rJ7_hSDc</id>
+        <link href="https://www.youtube.com/watch?v=22-rJ7_hSDc"/>
+        <updated>2024-05-15T18:30:01.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അമ്മേ ഈ വീട്ടിൽ വന്നീടണേ...]]></title>
         <id>https://www.youtube.com/watch?v=P5SPBy2nmys</id>
@@ -33934,15 +33952,6 @@
         <updated>2024-02-16T07:30:06.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaathiripoo (Revival) | Aaroodam, S. Janaki Revival Hits | Shyam]]></title>
-        <id>https://www.youtube.com/watch?v=yFeGJiaEhmk</id>
-        <link href="https://www.youtube.com/watch?v=yFeGJiaEhmk"/>
-        <updated>2024-02-16T06:30:18.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
