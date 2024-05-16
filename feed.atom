@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-16T12:36:03.141Z</updated>
+    <updated>2024-05-16T13:21:06.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Soubhagyam | Pattanapravesham | Satheesh Babu | Cochin Ibrahim | Shyam | Yusufali Kechery]]></title>
+        <id>https://www.youtube.com/watch?v=WxhP60uz4NE</id>
+        <link href="https://www.youtube.com/watch?v=WxhP60uz4NE"/>
+        <updated>2024-05-16T13:00:32.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 16th of May 2024]]></title>
         <id>https://www.youtube.com/watch?v=rMkY0QoagFk</id>
