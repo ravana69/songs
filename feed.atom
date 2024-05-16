@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-16T06:21:57.234Z</updated>
+    <updated>2024-05-16T07:14:23.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Santhwanam Karthika Rathriyil | Kanalkkattu | Mammootty | Yesudas | Urvashi | Sound of Arts]]></title>
+        <id>https://www.youtube.com/watch?v=mrY-BA35AXQ</id>
+        <link href="https://www.youtube.com/watch?v=mrY-BA35AXQ"/>
+        <updated>2024-05-16T07:00:20.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maarathavan | K S Chithra |  R S V #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=SVwvg8deOi4</id>
+        <link href="https://www.youtube.com/watch?v=SVwvg8deOi4"/>
+        <updated>2024-05-16T06:30:06.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kalla Kalla Kochukalla | Youth Festival | Video | Shibu Chakravarthi | M.Jayachandran | Jose Thomas]]></title>
         <id>https://www.youtube.com/watch?v=jrJvSp79qog</id>
@@ -33844,33 +33862,6 @@
         <updated>2024-02-16T22:00:13.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന 17th of February # Athiravile Prarthana 17th February 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=lcj58hCkzko</id>
-        <link href="https://www.youtube.com/watch?v=lcj58hCkzko"/>
-        <updated>2024-02-16T19:00:21.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=CbxKvlrMt8k</id>
-        <link href="https://www.youtube.com/watch?v=CbxKvlrMt8k"/>
-        <updated>2024-02-16T18:30:08.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ദൂരെ വിണ്ണിലെ വരസൂര്യബിംബം | കെ ജെ യേശുദാസ് | swarnalatha | KS Chithra | Selected Film songs]]></title>
-        <id>https://www.youtube.com/watch?v=30nnScHh9-I</id>
-        <link href="https://www.youtube.com/watch?v=30nnScHh9-I"/>
-        <updated>2024-02-16T18:22:31.000Z</updated>
-        <author>
-            <name>Tharangini Sound of arts Dubai</name>
         </author>
     </entry>
 </feed>
