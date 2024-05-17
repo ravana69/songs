@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-17T19:15:05.345Z</updated>
+    <updated>2024-05-17T20:20:12.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 18 # Athiravile Prarthana 18th of May 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=yH_SIejZ8DM</id>
+        <link href="https://www.youtube.com/watch?v=yH_SIejZ8DM"/>
+        <updated>2024-05-17T20:00:19.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 18th of May 2024]]></title>
         <id>https://www.youtube.com/watch?v=XTadSy2ePy8</id>
@@ -34213,51 +34222,6 @@
         <updated>2024-02-18T10:00:27.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ఆర్య 2 - కరిగే లోగా - తెలుగు లిరికల్ | దేవి శ్రీ ప్రసాద్]]></title>
-        <id>https://www.youtube.com/watch?v=di75BlFAlJc</id>
-        <link href="https://www.youtube.com/watch?v=di75BlFAlJc"/>
-        <updated>2024-02-18T08:00:18.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ఆర్య 2 - ఉప్పెనంత - తెలుగు లిరికల్ | దేవి శ్రీ ప్రసాద్]]></title>
-        <id>https://www.youtube.com/watch?v=RS11HiPFeb8</id>
-        <link href="https://www.youtube.com/watch?v=RS11HiPFeb8"/>
-        <updated>2024-02-18T08:00:13.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vishudhanaya - Audio Song | Pearl View | Prem Nazir, Sharada | K.J. Yesudas | G. Devarajan]]></title>
-        <id>https://www.youtube.com/watch?v=iRzstWvK0QY</id>
-        <link href="https://www.youtube.com/watch?v=iRzstWvK0QY"/>
-        <updated>2024-02-18T07:38:43.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എന്നാളും എന്നാളും എന്റേതല്ലേ നീ... #evergreenhits #rasikan #samvruthasunil #movieworldmusic]]></title>
-        <id>https://www.youtube.com/watch?v=f_G_-rXXGO0</id>
-        <link href="https://www.youtube.com/watch?v=f_G_-rXXGO0"/>
-        <updated>2024-02-18T07:30:16.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naladamayanthi Kadhayile | Rowdy Ramu | Malayalam Super Hit Movie Song | Ft. Madhu | Jayabharathi]]></title>
-        <id>https://www.youtube.com/watch?v=7hw8JLaUF0M</id>
-        <link href="https://www.youtube.com/watch?v=7hw8JLaUF0M"/>
-        <updated>2024-02-18T07:30:02.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
