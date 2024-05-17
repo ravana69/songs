@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-17T10:19:50.345Z</updated>
+    <updated>2024-05-17T11:16:15.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dayaparanaya Karthave | Malayalam Christian Devotional Songs | Super Hit Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=HAuK-BGnC_o</id>
+        <link href="https://www.youtube.com/watch?v=HAuK-BGnC_o"/>
+        <updated>2024-05-17T10:51:53.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cholamalankattadikkanu | Sradha | MG Sreekumar | Sujatha Mohan | Bharadwaj | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=U2kicQ2GBJw</id>
+        <link href="https://www.youtube.com/watch?v=U2kicQ2GBJw"/>
+        <updated>2024-05-17T10:30:16.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഹാ മനോഹരം യാഹേ നിന്റെ ആലയം  | ROY PUTHUR | MONBY PODIMON | #christiandevotionalsongs #royputhur]]></title>
         <id>https://www.youtube.com/watch?v=NoND20OPXYo</id>
@@ -526,6 +544,15 @@
         <updated>2024-05-16T12:00:13.000Z</updated>
         <author>
             <name>Wilson Video Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nenchoram Lyrical Video | Vijay Yesudas | Ronnie Raphael | Saju Sadanandan | New Film Songs 2024]]></title>
+        <id>https://www.youtube.com/watch?v=aCygmsrNXRQ</id>
+        <link href="https://www.youtube.com/watch?v=aCygmsrNXRQ"/>
+        <updated>2024-05-16T11:27:01.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
