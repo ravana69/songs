@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-18T07:18:11.158Z</updated>
+    <updated>2024-05-18T08:21:21.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളത്തിന്റെ അഭിമാനം ,സ്വകാര്യ അഹങ്കാരം ഗാനഗന്ധർവ്വൻ യേശുദാസിന്റെ അനശ്വര ഗാനങ്ങൾ | YESUDAS HITS]]></title>
+        <id>https://www.youtube.com/watch?v=o69uAv7yg8w</id>
+        <link href="https://www.youtube.com/watch?v=o69uAv7yg8w"/>
+        <updated>2024-05-18T07:30:12.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പഴകുംതോറും വീര്യം കൂടുന്ന മലയാളസിനിമയിലെ എവർഗ്രീൻ മെലഡി ഗാനങ്ങൾ | EVERGREEN MELODY SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=G9tcRNl8WME</id>
+        <link href="https://www.youtube.com/watch?v=G9tcRNl8WME"/>
+        <updated>2024-05-18T07:30:07.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എൺപതുകളിൽ തരംഗം സൃഷ്‌ടിച്ച മനോഹര മെലഡി ഗാനങ്ങൾ | 80S HIT SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=UeyxQgaWoEE</id>
+        <link href="https://www.youtube.com/watch?v=UeyxQgaWoEE"/>
+        <updated>2024-05-18T07:30:06.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mazhathulli Palunkukal| Pranayam | Mohanlal | Blessy |M Jayachandran| Shreya Ghoshal |Vijay Yesudas]]></title>
         <id>https://www.youtube.com/watch?v=M8CVvQnv9wE</id>
