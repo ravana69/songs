@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-18T18:23:37.772Z</updated>
+    <updated>2024-05-18T19:13:41.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 19th of May 2024]]></title>
+        <id>https://www.youtube.com/watch?v=fUCKYgakLTY</id>
+        <link href="https://www.youtube.com/watch?v=fUCKYgakLTY"/>
+        <updated>2024-05-18T19:00:15.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=DRu8IIkqqsI</id>
+        <link href="https://www.youtube.com/watch?v=DRu8IIkqqsI"/>
+        <updated>2024-05-18T18:30:16.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thallu Thallu | Hariharanpilla Happiyaanu | Mohanlal | Stephen Devassy | Ambili Devi | Nikhil]]></title>
         <id>https://www.youtube.com/watch?v=Q7noDQeYwyM</id>
@@ -34285,15 +34303,6 @@
         <updated>2024-02-19T07:16:45.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manimukile Video Song | Kuberan | Samyuktha Varma | Swarnalatha| Mohan Sithara | Gireesh Puthenchery]]></title>
-        <id>https://www.youtube.com/watch?v=0CN1G8OXXug</id>
-        <link href="https://www.youtube.com/watch?v=0CN1G8OXXug"/>
-        <updated>2024-02-19T06:47:45.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
