@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-18T17:15:13.609Z</updated>
+    <updated>2024-05-18T18:23:37.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34294,24 +34294,6 @@
         <updated>2024-02-19T06:47:45.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KURISHOLAM SNEHAM | Song of the Cross | #shorts | Fr. Libin Varghese OIC | Maria Kolady]]></title>
-        <id>https://www.youtube.com/watch?v=_u9hUHtHe_4</id>
-        <link href="https://www.youtube.com/watch?v=_u9hUHtHe_4"/>
-        <updated>2024-02-19T05:35:19.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Annayum Rasoolum | Evergreen Movie Songs Video Jukebox | Fahadh Faasil | Andrea Jeremiah | Anvar Ali]]></title>
-        <id>https://www.youtube.com/watch?v=GZZB29kLScw</id>
-        <link href="https://www.youtube.com/watch?v=GZZB29kLScw"/>
-        <updated>2024-02-19T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
