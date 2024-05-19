@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-19T16:22:40.035Z</updated>
+    <updated>2024-05-19T17:16:14.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആത്മീയ സന്തോഷ തണലേകാൻഅമ്മേ നീ വിടരേണം അരികത്തെന്നും മലരായ്.]]></title>
+        <id>https://www.youtube.com/watch?v=2Kc2k2KxbQE</id>
+        <link href="https://www.youtube.com/watch?v=2Kc2k2KxbQE"/>
+        <updated>2024-05-19T17:06:37.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kilippenne | Dosth | Vidyasagar | K J Yesudas | S Ramesan Nair #SongOfTheDay]]></title>
         <id>https://www.youtube.com/watch?v=rFnXqk3rVp4</id>
@@ -34276,15 +34285,6 @@
         <updated>2024-02-20T05:17:11.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muthummante Kozhi Video Song | Kuruvi Paapa |Joshy John | Pradeep Tom | Vineeth | Muktha | Kailash]]></title>
-        <id>https://www.youtube.com/watch?v=wOVGfZLHEYk</id>
-        <link href="https://www.youtube.com/watch?v=wOVGfZLHEYk"/>
-        <updated>2024-02-20T04:41:40.000Z</updated>
-        <author>
-            <name>123Musix</name>
         </author>
     </entry>
 </feed>
