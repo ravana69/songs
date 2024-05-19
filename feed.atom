@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-19T22:19:19.434Z</updated>
+    <updated>2024-05-19T23:20:09.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=SlED8nGTxko</id>
+        <link href="https://www.youtube.com/watch?v=SlED8nGTxko"/>
+        <updated>2024-05-19T23:00:11.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 20 # Athiravile Prarthana 20th of May 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=anI22EjFZ4c</id>
@@ -34177,33 +34186,6 @@
         <updated>2024-02-20T11:30:07.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raghunandana |HanuMan(Malayalam)|Prasanth Varma,GowraHari, Saicharan,Lokeshwar,Harshavardhan,Kalyana]]></title>
-        <id>https://www.youtube.com/watch?v=IMasoWYRGV4</id>
-        <link href="https://www.youtube.com/watch?v=IMasoWYRGV4"/>
-        <updated>2024-02-20T10:37:28.000Z</updated>
-        <author>
-            <name>Tips Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeevane - Audio Song | Sneha Bandham | P. Jayachandran, Krishnachandran | Gangai Amaran]]></title>
-        <id>https://www.youtube.com/watch?v=BMoW-pRrMo8</id>
-        <link href="https://www.youtube.com/watch?v=BMoW-pRrMo8"/>
-        <updated>2024-02-20T10:30:03.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andhakaram Full Video Song | Padheyam Movie | Lohithadas | Mammootty |  Chippy]]></title>
-        <id>https://www.youtube.com/watch?v=2HTv7gA6FyU</id>
-        <link href="https://www.youtube.com/watch?v=2HTv7gA6FyU"/>
-        <updated>2024-02-20T10:30:02.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
