@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-20T17:19:01.579Z</updated>
+    <updated>2024-05-20T18:24:43.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The complete Actor ലാലേട്ടൻ। മോഹൻലാൽ ഹിറ്റ്‌സ് | Hits Of Mohanlal | മലയാളചലച്ചിത്രഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=2JbHfOIwUA4</id>
+        <link href="https://www.youtube.com/watch?v=2JbHfOIwUA4"/>
+        <updated>2024-05-20T18:13:44.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ariyathe Ariyathe | Ravanaprabhu | Mohanlal | Vasundara | Suresh Peters | Jayachandran | Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=iJ0Hs-EP4wE</id>
+        <link href="https://www.youtube.com/watch?v=iJ0Hs-EP4wE"/>
+        <updated>2024-05-20T17:56:09.000Z</updated>
+        <author>
+            <name>Speed Music Videos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Padakaali Video Song | Yodha | AR Rahman | KJ Yesudas | MG Sreekumar | Mohanlal]]></title>
         <id>https://www.youtube.com/watch?v=bU1cdkTpQIk</id>
@@ -34247,24 +34265,6 @@
         <id>https://www.youtube.com/watch?v=H4y_Di340M0</id>
         <link href="https://www.youtube.com/watch?v=H4y_Di340M0"/>
         <updated>2024-02-21T07:00:10.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Omal Poove - Romeo Laiju | Shine Tom Chacko, Aadhya Prasad | Azim Roshan | Rohan D M | Hrishikesh]]></title>
-        <id>https://www.youtube.com/watch?v=iyeHbPGtibs</id>
-        <link href="https://www.youtube.com/watch?v=iyeHbPGtibs"/>
-        <updated>2024-02-21T05:49:30.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mamboo Pozhikkunna | Ottamandaram | Video Song | Sujatha Mohan | Vinod Mankara | Ramesh Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=mTzKHa3xaFE</id>
-        <link href="https://www.youtube.com/watch?v=mTzKHa3xaFE"/>
-        <updated>2024-02-21T05:30:08.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
