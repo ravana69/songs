@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-20T09:22:55.765Z</updated>
+    <updated>2024-05-20T10:21:19.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hits of Mohan Lal | വീണ്ടും കാതോർക്കുന്ന മോഹൻലാൽ ഗാനങ്ങൾ | Malayalam Film Songs | Satyam audios]]></title>
+        <id>https://www.youtube.com/watch?v=EkGmFN2ahl4</id>
+        <link href="https://www.youtube.com/watch?v=EkGmFN2ahl4"/>
+        <updated>2024-05-20T10:00:16.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manju Peyyana Video Song | Chandranudikkunna Dikhil| Kavya Madhavan Dileep| Sujatha Mohan|Vidyasagar]]></title>
+        <id>https://www.youtube.com/watch?v=50ff5ocPW0E</id>
+        <link href="https://www.youtube.com/watch?v=50ff5ocPW0E"/>
+        <updated>2024-05-20T09:52:27.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഡേറ്റ് ഇട്ടു പ്രാർത്ഥിക്കുക l Kreupasanam powerful prayer l miraculous prayer l marian]]></title>
+        <id>https://www.youtube.com/watch?v=hjMJGSl2ZYA</id>
+        <link href="https://www.youtube.com/watch?v=hjMJGSl2ZYA"/>
+        <updated>2024-05-20T09:30:20.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yahovayude Vishudhare | Super Hit Christian Devotional Songs |  Malayalam Christian Devotional Songs]]></title>
         <id>https://www.youtube.com/watch?v=fLplZb8mS7w</id>
@@ -34177,15 +34204,6 @@
         <updated>2024-02-20T23:30:01.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=rfoOC8_mzoc</id>
-        <link href="https://www.youtube.com/watch?v=rfoOC8_mzoc"/>
-        <updated>2024-02-20T22:00:23.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
