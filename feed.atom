@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-21T17:17:20.440Z</updated>
+    <updated>2024-05-21T18:24:31.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34310,15 +34310,6 @@
         <id>https://www.youtube.com/watch?v=nPgVNPIQ8Q8</id>
         <link href="https://www.youtube.com/watch?v=nPgVNPIQ8Q8"/>
         <updated>2024-02-22T07:00:17.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Award winning Film Songs | Jukebox | ദേശിയ -സംസ്ഥാന അവാർഡുകൾ നേടിയ സിനിമാഗാനങ്ങൾ]]></title>
-        <id>https://www.youtube.com/watch?v=PQlTcxPJjIM</id>
-        <link href="https://www.youtube.com/watch?v=PQlTcxPJjIM"/>
-        <updated>2024-02-22T05:30:09.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
