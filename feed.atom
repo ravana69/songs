@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-21T10:20:05.378Z</updated>
+    <updated>2024-05-21T11:17:41.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -238,6 +238,15 @@
         <updated>2024-05-20T13:00:01.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orunaal Orunaal Video Song | Malayalee From India | Nivin Pauly | Dijo Jose Antony | Jakes Bejoy]]></title>
+        <id>https://www.youtube.com/watch?v=bUSxf_lNAYU</id>
+        <link href="https://www.youtube.com/watch?v=bUSxf_lNAYU"/>
+        <updated>2024-05-20T12:42:54.000Z</updated>
+        <author>
+            <name>Magic Frames Music</name>
         </author>
     </entry>
     <entry>
