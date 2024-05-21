@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-21T21:17:34.347Z</updated>
+    <updated>2024-05-21T22:18:01.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34267,24 +34267,6 @@
         <updated>2024-02-22T10:30:02.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Darshanam Nalkoo | Kristheeya Bhakthiganangal | Christian Devotional Songs| Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=pMH2dXTqaAQ</id>
-        <link href="https://www.youtube.com/watch?v=pMH2dXTqaAQ"/>
-        <updated>2024-02-22T09:55:54.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elephant Video Stories | Shikkari Shanku | Animation Video | Kids Animation Stories | Balarama]]></title>
-        <id>https://www.youtube.com/watch?v=5f0t_poikMk</id>
-        <link href="https://www.youtube.com/watch?v=5f0t_poikMk"/>
-        <updated>2024-02-22T09:30:09.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
 </feed>
