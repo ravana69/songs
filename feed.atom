@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-22T14:17:37.802Z</updated>
+    <updated>2024-05-22T15:21:10.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Olakkayyil Neeraadi Song | Mukesh | Vani Viswanath | KJ Yesudas, KS Chithra | Bichu Thirumala]]></title>
+        <id>https://www.youtube.com/watch?v=lSzvvrzttU8</id>
+        <link href="https://www.youtube.com/watch?v=lSzvvrzttU8"/>
+        <updated>2024-05-22T14:30:24.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enthe Innum Vanneela | Gramophone | Vidyasagar | P Jayachandran |  Gireesh Puthenchery #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=r0P9qqsbWYQ</id>
+        <link href="https://www.youtube.com/watch?v=r0P9qqsbWYQ"/>
+        <updated>2024-05-22T14:30:19.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vara Chandralekhayalle | HD Video Song | Gireesh Puthenchery  | SP Venkitesh  |Yesudas |]]></title>
         <id>https://www.youtube.com/watch?v=Nw7simFr9EA</id>
