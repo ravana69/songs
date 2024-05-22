@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-22T22:17:38.950Z</updated>
+    <updated>2024-05-22T23:20:26.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=CbwS6xY6w7c</id>
+        <link href="https://www.youtube.com/watch?v=CbwS6xY6w7c"/>
+        <updated>2024-05-22T23:00:11.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന May 23 # Athiravile Prarthana 23rd of May 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=j1tT1xP3n40</id>
@@ -34337,33 +34346,6 @@
         <id>https://www.youtube.com/watch?v=wuHMZKJ1eIQ</id>
         <link href="https://www.youtube.com/watch?v=wuHMZKJ1eIQ"/>
         <updated>2024-02-23T11:30:26.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Than Thirunamathinay | Prathiphalam Thanneeduvan | Christian Songs #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=NwV4wJZ2vDc</id>
-        <link href="https://www.youtube.com/watch?v=NwV4wJZ2vDc"/>
-        <updated>2024-02-23T11:00:08.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Velikku Veluppaankaalam | Kaliyattam | Kaithapram | Suresh Gopi | Manju Warrier | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=qmocQ2Cv9Uk</id>
-        <link href="https://www.youtube.com/watch?v=qmocQ2Cv9Uk"/>
-        <updated>2024-02-23T10:30:17.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naattuvazhiyorathe | Gadhama | KS Chithra | Bennet Veetraag | Rafeeq Ahamed]]></title>
-        <id>https://www.youtube.com/watch?v=idmt_PrhYiM</id>
-        <link href="https://www.youtube.com/watch?v=idmt_PrhYiM"/>
-        <updated>2024-02-23T10:30:14.000Z</updated>
         <author>
             <name>Satyam Audios</name>
         </author>
