@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-22T17:16:34.684Z</updated>
+    <updated>2024-05-22T18:25:00.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഇളംമഞ്ഞിൻ കുളിരുമായൊരു കുയിൽ..| കെ ജെ യേശുദാസ് | Chitra | Remastered songs | മലയാളചലച്ചിത്രഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=NrXarW6jyTc</id>
+        <link href="https://www.youtube.com/watch?v=NrXarW6jyTc"/>
+        <updated>2024-05-22T17:50:24.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[സ്നേഹത്തിൻ ഉറവിടമാകും കന്യേ...]]></title>
         <id>https://www.youtube.com/watch?v=G2qXdhfOaKk</id>
@@ -34391,15 +34400,6 @@
         <id>https://www.youtube.com/watch?v=fSmwvtbtk_0</id>
         <link href="https://www.youtube.com/watch?v=fSmwvtbtk_0"/>
         <updated>2024-02-23T07:00:15.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Padiyum Paranjum | കഥകളിപദങ്ങൾ പാടി ഉറക്കിയ അമ്മ  | പാടിയും പറഞ്ഞും | Sreekumaran Thampi]]></title>
-        <id>https://www.youtube.com/watch?v=O9Q-1oSrc-M</id>
-        <link href="https://www.youtube.com/watch?v=O9Q-1oSrc-M"/>
-        <updated>2024-02-23T05:30:12.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
