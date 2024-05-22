@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-22T15:21:10.663Z</updated>
+    <updated>2024-05-22T16:25:21.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സ്നേഹത്തിൻ ഉറവിടമാകും കന്യേ...]]></title>
+        <id>https://www.youtube.com/watch?v=G2qXdhfOaKk</id>
+        <link href="https://www.youtube.com/watch?v=G2qXdhfOaKk"/>
+        <updated>2024-05-22T15:28:26.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Olakkayyil Neeraadi Song | Mukesh | Vani Viswanath | KJ Yesudas, KS Chithra | Bichu Thirumala]]></title>
         <id>https://www.youtube.com/watch?v=lSzvvrzttU8</id>
@@ -34438,24 +34447,6 @@
         <updated>2024-02-23T04:30:11.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ya Ya yaaya(ദേവരാഗം )Vinod velyudhan]]></title>
-        <id>https://www.youtube.com/watch?v=f9TwQsTes4A</id>
-        <link href="https://www.youtube.com/watch?v=f9TwQsTes4A"/>
-        <updated>2024-02-23T04:20:11.000Z</updated>
-        <author>
-            <name>ഗാനകേളി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ilam Manjin Kulirumayoru | Ninnishtam Ennishtam | Yesudas | Mohanlal | Kannur Rajan | Sound of Arts]]></title>
-        <id>https://www.youtube.com/watch?v=Qexm47b70EY</id>
-        <link href="https://www.youtube.com/watch?v=Qexm47b70EY"/>
-        <updated>2024-02-23T03:32:06.000Z</updated>
-        <author>
-            <name>Malayalam Chithrageetham</name>
         </author>
     </entry>
 </feed>
