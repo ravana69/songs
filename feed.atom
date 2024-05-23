@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-23T18:24:39.108Z</updated>
+    <updated>2024-05-23T19:17:48.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 24th of May 2024]]></title>
+        <id>https://www.youtube.com/watch?v=6qtHcwKbiuw</id>
+        <link href="https://www.youtube.com/watch?v=6qtHcwKbiuw"/>
+        <updated>2024-05-23T19:00:04.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=g7xua6WD8gk</id>
+        <link href="https://www.youtube.com/watch?v=g7xua6WD8gk"/>
+        <updated>2024-05-23T18:30:33.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പത്മരാജൻ ഹിറ്റ്‌സ് | കെ ജെ യേശുദാസ് | കെ എസ് ചിത്ര | മലയാളചലച്ചിത്രഗാനങ്ങൾ | Padmarajan Hits]]></title>
         <id>https://www.youtube.com/watch?v=Ylahw1N1dgI</id>
@@ -34402,24 +34420,6 @@
         <updated>2024-02-24T07:56:29.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ankam Vettan Munnil | Aanandhapuram Diaries #shortsfeed #shortsvideo #shorts #reels #meena]]></title>
-        <id>https://www.youtube.com/watch?v=iqQJNcDEaak</id>
-        <link href="https://www.youtube.com/watch?v=iqQJNcDEaak"/>
-        <updated>2024-02-24T07:00:24.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പാട്ടുപെട്ടി | Paattupetti Vol 43 | Malayalam Film Songs | Satyam Audios]]></title>
-        <id>https://www.youtube.com/watch?v=Nu_znjGWASU</id>
-        <link href="https://www.youtube.com/watch?v=Nu_znjGWASU"/>
-        <updated>2024-02-24T06:30:07.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
         </author>
     </entry>
 </feed>
