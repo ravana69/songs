@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-23T06:26:59.362Z</updated>
+    <updated>2024-05-23T07:17:08.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34321,33 +34321,6 @@
         <updated>2024-02-23T21:18:05.000Z</updated>
         <author>
             <name>NANCHIL BEATS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന 24th of February # Athiravile Prarthana 24th February 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=cIPFPSxPnqg</id>
-        <link href="https://www.youtube.com/watch?v=cIPFPSxPnqg"/>
-        <updated>2024-02-23T19:00:29.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=t7MP5-D9xHY</id>
-        <link href="https://www.youtube.com/watch?v=t7MP5-D9xHY"/>
-        <updated>2024-02-23T18:30:39.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=nWLqEgK8v4I</id>
-        <link href="https://www.youtube.com/watch?v=nWLqEgK8v4I"/>
-        <updated>2024-02-23T18:30:37.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
