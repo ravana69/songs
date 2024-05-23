@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-23T17:18:59.395Z</updated>
+    <updated>2024-05-23T18:24:39.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പത്മരാജൻ ഹിറ്റ്‌സ് | കെ ജെ യേശുദാസ് | കെ എസ് ചിത്ര | മലയാളചലച്ചിത്രഗാനങ്ങൾ | Padmarajan Hits]]></title>
+        <id>https://www.youtube.com/watch?v=Ylahw1N1dgI</id>
+        <link href="https://www.youtube.com/watch?v=Ylahw1N1dgI"/>
+        <updated>2024-05-23T18:19:10.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ka kaattile | Video Song | Gireesh Puthenchery | Ouseppachan | KJ Yesudas | KS Chithra]]></title>
         <id>https://www.youtube.com/watch?v=iRpIZGrc7mY</id>
@@ -34411,24 +34420,6 @@
         <updated>2024-02-24T06:30:07.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Mazha Pakshi Video Song | Kuberan | Dileep | Umashankari | MG Sreekumar | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=d2cDFmrXw9Q</id>
-        <link href="https://www.youtube.com/watch?v=d2cDFmrXw9Q"/>
-        <updated>2024-02-24T06:08:43.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vennilave | Sagar Alias Jacky Reloaded | Shreya Ghoshal | M.G.Sreekumar | Gopi Sundar | Mohanlal]]></title>
-        <id>https://www.youtube.com/watch?v=MtHbBvSdB80</id>
-        <link href="https://www.youtube.com/watch?v=MtHbBvSdB80"/>
-        <updated>2024-02-24T05:30:10.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
