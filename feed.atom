@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-24T06:26:06.902Z</updated>
+    <updated>2024-05-24T07:17:02.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Swapnam Thyajichal Video Song | Rakshasa rajavu | Mammootty | KJ Yesudas| KS Chithra|Aswathy Vijayan]]></title>
+        <id>https://www.youtube.com/watch?v=ekyG5NWyD40</id>
+        <link href="https://www.youtube.com/watch?v=ekyG5NWyD40"/>
+        <updated>2024-05-24T06:40:07.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manassil Ayiram | Lyrical +Karaoke Video | Bhaskar The Rascal | Mammootty |Harinarayanan| Deepak Dev]]></title>
         <id>https://www.youtube.com/watch?v=j6D1m-Jd97c</id>
@@ -34483,24 +34492,6 @@
         <updated>2024-02-24T20:59:56.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന 25th of February # Athiravile Prarthana 25th February 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=CNz_Lf190rs</id>
-        <link href="https://www.youtube.com/watch?v=CNz_Lf190rs"/>
-        <updated>2024-02-24T19:00:09.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=XYHAoXHFUR0</id>
-        <link href="https://www.youtube.com/watch?v=XYHAoXHFUR0"/>
-        <updated>2024-02-24T18:30:31.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
