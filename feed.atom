@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-24T19:15:08.927Z</updated>
+    <updated>2024-05-24T20:19:43.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന May 25 # Athiravile Prarthana 25th of May 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=SOEdpMPmW1Q</id>
+        <link href="https://www.youtube.com/watch?v=SOEdpMPmW1Q"/>
+        <updated>2024-05-24T20:00:11.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 25th of May 2024]]></title>
         <id>https://www.youtube.com/watch?v=RhpH539JFWI</id>
@@ -34645,33 +34654,6 @@
         <updated>2024-02-25T10:00:10.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arivin Nilave Marayunuvo Nee Audio Song Raajashilpi Bhanupriya ONV Kurup Raveendran KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=b2eKYOWI-G0</id>
-        <link href="https://www.youtube.com/watch?v=b2eKYOWI-G0"/>
-        <updated>2024-02-25T07:45:15.000Z</updated>
-        <author>
-            <name>Speed Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaaname Prema Gaaname... | Malayalam Super Hit Movie Song | Rowdy Ramu | Ft.Madhu, Jayabharathi]]></title>
-        <id>https://www.youtube.com/watch?v=T5UKSzFW7XY</id>
-        <link href="https://www.youtube.com/watch?v=T5UKSzFW7XY"/>
-        <updated>2024-02-25T07:30:11.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇടയന്റെ ഹൃദയത്തിൽ നിറഞ്ഞോരീണം #evergreenhits #movieworldmusic]]></title>
-        <id>https://www.youtube.com/watch?v=ABkH4kNtYmE</id>
-        <link href="https://www.youtube.com/watch?v=ABkH4kNtYmE"/>
-        <updated>2024-02-25T07:30:03.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
         </author>
     </entry>
 </feed>
