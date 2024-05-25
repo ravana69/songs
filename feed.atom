@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-25T18:23:07.960Z</updated>
+    <updated>2024-05-25T19:14:49.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 26th of May 2024]]></title>
+        <id>https://www.youtube.com/watch?v=eAKB-eW7-zE</id>
+        <link href="https://www.youtube.com/watch?v=eAKB-eW7-zE"/>
+        <updated>2024-05-25T19:00:17.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=s6i4RnqQxj0</id>
+        <link href="https://www.youtube.com/watch?v=s6i4RnqQxj0"/>
+        <updated>2024-05-25T18:30:39.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പിതാവിനും പുത്രനും പിശുദ്ധാത്മാവിനും സ്തുതി .]]></title>
         <id>https://www.youtube.com/watch?v=8fyb8l_AA3Q</id>
@@ -34654,24 +34672,6 @@
         <updated>2024-02-26T08:00:00.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bhasuri  | Award Winning Film Songs | Rathrimazha #sujatha #srinivas #shortsfeed #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=pEWEtEKL7FQ</id>
-        <link href="https://www.youtube.com/watch?v=pEWEtEKL7FQ"/>
-        <updated>2024-02-26T07:00:18.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mandarappoove X Kannilu Kannilu - Back2Back | Kumari | Ayisha | Aishwarya Lekshmi | Manju Warrier]]></title>
-        <id>https://www.youtube.com/watch?v=M7K8d6iaaaQ</id>
-        <link href="https://www.youtube.com/watch?v=M7K8d6iaaaQ"/>
-        <updated>2024-02-26T06:30:09.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
