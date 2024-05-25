@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-25T17:18:34.024Z</updated>
+    <updated>2024-05-25T18:23:07.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പിതാവിനും പുത്രനും പിശുദ്ധാത്മാവിനും സ്തുതി .]]></title>
+        <id>https://www.youtube.com/watch?v=8fyb8l_AA3Q</id>
+        <link href="https://www.youtube.com/watch?v=8fyb8l_AA3Q"/>
+        <updated>2024-05-25T17:59:39.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Njanoru Paattu Paadam | Megham | K J Yesudas | Ouseppachan | Gireesh Puthenchery #SongOfTheDay]]></title>
         <id>https://www.youtube.com/watch?v=MWFI3YpffOk</id>
@@ -34663,33 +34672,6 @@
         <updated>2024-02-26T06:30:09.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kathileeran Video Song | Thankamani | Dileep | William Francis | B T Anil Kumar | Mridula Warrier]]></title>
-        <id>https://www.youtube.com/watch?v=QRZ2F8iOYbc</id>
-        <link href="https://www.youtube.com/watch?v=QRZ2F8iOYbc"/>
-        <updated>2024-02-26T05:55:42.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angulangale | THANUPP | Video Song | Bijibal | Vivek Muzhakkunnu  | Bibin Ashok | Ragesh Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=Jpy9xsAGUFU</id>
-        <link href="https://www.youtube.com/watch?v=Jpy9xsAGUFU"/>
-        <updated>2024-02-26T05:53:11.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhura Naranga |Evergreen Movie Songs Video Jukebox| Kunchacko Boban | Biju Menon |Sreejith-Saachin]]></title>
-        <id>https://www.youtube.com/watch?v=y7mALfncPY8</id>
-        <link href="https://www.youtube.com/watch?v=y7mALfncPY8"/>
-        <updated>2024-02-26T05:30:09.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
