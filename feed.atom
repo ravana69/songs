@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-25T22:17:33.144Z</updated>
+    <updated>2024-05-25T23:17:34.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=KvMPpREUk7g</id>
+        <link href="https://www.youtube.com/watch?v=KvMPpREUk7g"/>
+        <updated>2024-05-25T23:00:10.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 26 # Athiravile Prarthana 26th of May 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=n_h27Bq3-J8</id>
@@ -34537,24 +34546,6 @@
         <updated>2024-02-26T11:30:04.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Krooshitha Karunamaya | Karoke with Lyrics | Baby John Kalayanthani | Latest Christian Songs Karaoke]]></title>
-        <id>https://www.youtube.com/watch?v=YhYky7sB1RI</id>
-        <link href="https://www.youtube.com/watch?v=YhYky7sB1RI"/>
-        <updated>2024-02-26T11:05:59.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ragini Ragaroopini Video Song | Kadha Ithuvare  | KJ Yesudas | KS Chithra |]]></title>
-        <id>https://www.youtube.com/watch?v=9aj5T40SOwQ</id>
-        <link href="https://www.youtube.com/watch?v=9aj5T40SOwQ"/>
-        <updated>2024-02-26T10:30:02.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
