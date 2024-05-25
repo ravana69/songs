@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-25T16:21:31.487Z</updated>
+    <updated>2024-05-25T17:18:34.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34690,42 +34690,6 @@
         <updated>2024-02-26T05:30:09.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kasthoori Ente Kasthoori Video Song | Vishnulokam | Mohanlal | Urvashi| MG Sreekumar | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=A4xz8vWFbKM</id>
-        <link href="https://www.youtube.com/watch?v=A4xz8vWFbKM"/>
-        <updated>2024-02-26T05:13:14.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yaahe Neeyen Daivam Vazhthum Njan Ninne | Libin Scaria | Rev.EV Varghese | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=BMf-lMD5JJU</id>
-        <link href="https://www.youtube.com/watch?v=BMf-lMD5JJU"/>
-        <updated>2024-02-26T05:07:23.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prem Nazir Old Malayalam Movie Songs | Chirikkudukka Remastered Malayalam Songs | K. J. Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=Z9hQeHC9Yz0</id>
-        <link href="https://www.youtube.com/watch?v=Z9hQeHC9Yz0"/>
-        <updated>2024-02-26T04:57:32.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanimullakal Poothath Pole | Thillana Thillana | Krishna | Jomol | Yesudas | Thankaraj]]></title>
-        <id>https://www.youtube.com/watch?v=BtvrHExxY78</id>
-        <link href="https://www.youtube.com/watch?v=BtvrHExxY78"/>
-        <updated>2024-02-26T04:30:04.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
