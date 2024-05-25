@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-25T08:23:06.339Z</updated>
+    <updated>2024-05-25T09:18:14.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hits of M G Sreekumar | Non Stop Malayalam Film Songs | Selected M G Sreekumar Evergreen Hit Songs]]></title>
+        <id>https://www.youtube.com/watch?v=6ZrQrfZCk6E</id>
+        <link href="https://www.youtube.com/watch?v=6ZrQrfZCk6E"/>
+        <updated>2024-05-25T08:30:02.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എപ്പോൾ കേട്ടാലും മനസിനുള്ളിൽ നോവുണർത്തുന്ന വിരഹദുഃഖ ഗാനങ്ങൾ |  EVERGREEN SONGS]]></title>
         <id>https://www.youtube.com/watch?v=V1lS0xm-xCA</id>
