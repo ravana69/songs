@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-26T15:19:45.366Z</updated>
+    <updated>2024-05-26T16:23:06.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34582,15 +34582,6 @@
         <updated>2024-02-27T04:30:00.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thirayezhuthum Mannil | Meenakshi Kalyanam | Mukesh |Yesudas | Nadirshah | Speed Audios]]></title>
-        <id>https://www.youtube.com/watch?v=UbFeBBheEmQ</id>
-        <link href="https://www.youtube.com/watch?v=UbFeBBheEmQ"/>
-        <updated>2024-02-27T03:30:09.000Z</updated>
-        <author>
-            <name>Malayalam Chithrageetham</name>
         </author>
     </entry>
 </feed>
