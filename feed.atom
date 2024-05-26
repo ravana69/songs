@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-26T01:33:14.046Z</updated>
+    <updated>2024-05-26T02:33:31.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Radhaykorunal | Mayavi | Balarama #ytshorts  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=1Cc9roBEE4k</id>
+        <link href="https://www.youtube.com/watch?v=1Cc9roBEE4k"/>
+        <updated>2024-05-26T02:00:06.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[എന്നേശു നാഥനെ | CHRISTIAN DEVOTIONAL | ROY PUTHUR | LINTA THOMAS #royputhur]]></title>
+        <id>https://www.youtube.com/watch?v=MsMQQ0i42mA</id>
+        <link href="https://www.youtube.com/watch?v=MsMQQ0i42mA"/>
+        <updated>2024-05-26T01:55:21.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kalakkatha | Ayyappanum Koshiyum | Folk Film #ytshorts  #manoramamusic]]></title>
         <id>https://www.youtube.com/watch?v=dcE2dCWulwM</id>
