@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-26T22:17:07.609Z</updated>
+    <updated>2024-05-26T23:19:58.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pazhayakala Aradhanaganangal | Non Stop Malayalam Christian Songs | Christian Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=dZTqLvbPy3U</id>
+        <link href="https://www.youtube.com/watch?v=dZTqLvbPy3U"/>
+        <updated>2024-05-26T23:15:07.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=z6Jo40xFGXk</id>
+        <link href="https://www.youtube.com/watch?v=z6Jo40xFGXk"/>
+        <updated>2024-05-26T23:00:25.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന May 27 # Athiravile Prarthana 27th of May 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=hZFosYYa8vI</id>
@@ -34510,42 +34528,6 @@
         <updated>2024-02-27T11:30:21.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swarga Bhagyam | Bhagyanattil | Pr. Muttom Geevarghese | Kester  #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=PBjAIOcNfo8</id>
-        <link href="https://www.youtube.com/watch?v=PBjAIOcNfo8"/>
-        <updated>2024-02-27T11:00:07.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എന്നോടെന്തിനീപ്പിണക്കം | Kaliyattam | Kaithapram  | Suresh Gopi | Manju Warrier | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=c521zGyGpcA</id>
-        <link href="https://www.youtube.com/watch?v=c521zGyGpcA"/>
-        <updated>2024-02-27T10:30:16.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maramonnundu | KIds Animation Videos | Thakkudu | Kids Song Videos | Numbers Song Animation Video]]></title>
-        <id>https://www.youtube.com/watch?v=KD8I_Bv0UMo</id>
-        <link href="https://www.youtube.com/watch?v=KD8I_Bv0UMo"/>
-        <updated>2024-02-27T10:30:11.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muthukkuda Nivarthi | Chithra Arun | Prakash Master | Joji Johns | Jithin Devasya | Video Album]]></title>
-        <id>https://www.youtube.com/watch?v=oDjlFX7NDag</id>
-        <link href="https://www.youtube.com/watch?v=oDjlFX7NDag"/>
-        <updated>2024-02-27T10:25:07.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
 </feed>
