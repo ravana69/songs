@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-26T07:17:02.334Z</updated>
+    <updated>2024-05-26T08:22:22.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mandakini - Sneak Peek 2 | Altaf Salim | Anarkali Marikar | Vinod Leela | Bibin Ashok]]></title>
+        <id>https://www.youtube.com/watch?v=lhyDK7XOTJ0</id>
+        <link href="https://www.youtube.com/watch?v=lhyDK7XOTJ0"/>
+        <updated>2024-05-26T08:00:31.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KARAOKE | NAAVIL NEEYE NAAMAM NEEYE |FR.LIBIN VARGHES|FR.JERIN VALIYAPARAMBIL|DR. SHERIN]]></title>
+        <id>https://www.youtube.com/watch?v=jb_gkmGyeas</id>
+        <link href="https://www.youtube.com/watch?v=jb_gkmGyeas"/>
+        <updated>2024-05-26T07:31:11.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Njan Oru Malayali | Oru Madapravinte Kadha  |  Yusufali Kechery |  G.Devarajan | K.J.Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=5mljejDWx8U</id>
+        <link href="https://www.youtube.com/watch?v=5mljejDWx8U"/>
+        <updated>2024-05-26T07:30:01.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[En Tholile Video Song | Jai Ganesh Movie | Ranjith Sankar | Unni Mukundan | Sankar Sharma]]></title>
         <id>https://www.youtube.com/watch?v=pHP65GujokE</id>
