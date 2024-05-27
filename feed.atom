@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-27T22:17:12.704Z</updated>
+    <updated>2024-05-27T23:20:31.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=6vNGWbFKG44</id>
+        <link href="https://www.youtube.com/watch?v=6vNGWbFKG44"/>
+        <updated>2024-05-27T23:00:05.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 28 # Athiravile Prarthana 28th of May 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=fsbvvrixQjU</id>
@@ -34582,60 +34591,6 @@
         <updated>2024-02-28T11:30:10.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninneyere Drohichu Njan | Maria Kolady | Baby John Kalayanthani  #malayalamchristiansongs #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=X9J5V-mJiW8</id>
-        <link href="https://www.youtube.com/watch?v=X9J5V-mJiW8"/>
-        <updated>2024-02-28T11:00:34.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS from Kannilu Kannilu #KanniluKannilu #Ayisha #ytshorts #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=JIQViLzyswo</id>
-        <link href="https://www.youtube.com/watch?v=JIQViLzyswo"/>
-        <updated>2024-02-28T11:00:18.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ee Puzhayum Sandhyakalum | Unplugged Version | Indian Rupee | Vijay Yesudas | Shahabaz Aman]]></title>
-        <id>https://www.youtube.com/watch?v=yhIX4741MD8</id>
-        <link href="https://www.youtube.com/watch?v=yhIX4741MD8"/>
-        <updated>2024-02-28T10:30:21.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chellakkaattin Pallitheril video song | Mimics Parade | KS Chithra | Unni Menon]]></title>
-        <id>https://www.youtube.com/watch?v=hw6t9faHMx4</id>
-        <link href="https://www.youtube.com/watch?v=hw6t9faHMx4"/>
-        <updated>2024-02-28T10:30:13.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassode Shapamarathil | Elizabeth Raju | Mosa Valsalam Sasthriyar | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=HOSawQNdSR4</id>
-        <link href="https://www.youtube.com/watch?v=HOSawQNdSR4"/>
-        <updated>2024-02-28T10:26:12.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanivinte Nadha | Karunamayanaya Yeshunadhante Manoharamaya Ganangal, Kristheeya Bhakthiganangal]]></title>
-        <id>https://www.youtube.com/watch?v=dYk61J-LAUo</id>
-        <link href="https://www.youtube.com/watch?v=dYk61J-LAUo"/>
-        <updated>2024-02-28T10:20:38.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
