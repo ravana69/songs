@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-27T15:21:07.174Z</updated>
+    <updated>2024-05-27T16:23:08.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[അമ്മതൻ താരാട്ടുപാട്ടിൻ്റെ ഈണം ഇന്നെൻ്റെ കാതിൽ ഒഴുകിയെത്തി..]]></title>
+        <id>https://www.youtube.com/watch?v=VRBnZDn5VQw</id>
+        <link href="https://www.youtube.com/watch?v=VRBnZDn5VQw"/>
+        <updated>2024-05-27T16:09:28.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ദൈവത്തിന് സ്‌തോത്രം | DHAIVATHINU STHOTHRAM |ROY PUTHUR  & TEAM #christiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=jli-4WyzQV8</id>
+        <link href="https://www.youtube.com/watch?v=jli-4WyzQV8"/>
+        <updated>2024-05-27T15:59:48.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mounam Swaramaay | Aayushkkaalam | Ouseppachan | K J Yesudas | K S Chithra #SongOfTheDay]]></title>
         <id>https://www.youtube.com/watch?v=RW99Lg4joSM</id>
@@ -34681,24 +34699,6 @@
         <updated>2024-02-28T04:34:19.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshuve Rakshadayaka | Amaravila Youth Chorus | Asish Raj | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=pK0xawnIAZM</id>
-        <link href="https://www.youtube.com/watch?v=pK0xawnIAZM"/>
-        <updated>2024-02-28T04:14:34.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kunchacko Boban Old Malayalam Movie Hit Song | Sathyam Sivam Sundaram Remastered Malayalam Song]]></title>
-        <id>https://www.youtube.com/watch?v=H9BVMIIjPtA</id>
-        <link href="https://www.youtube.com/watch?v=H9BVMIIjPtA"/>
-        <updated>2024-02-28T04:00:06.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
