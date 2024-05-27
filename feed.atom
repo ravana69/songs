@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-27T05:18:47.421Z</updated>
+    <updated>2024-05-27T06:27:40.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[En Mozhi Kelkkaathe | Malayalam Christian Devotional Song | Christian Album Song | Spiritual Song]]></title>
+        <id>https://www.youtube.com/watch?v=lz9kFoZuBGc</id>
+        <link href="https://www.youtube.com/watch?v=lz9kFoZuBGc"/>
+        <updated>2024-05-27T06:21:54.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Varika Rasika | Panchavarna Thatha | Video | Shankar Mahadevan | Santhosh Varma | Nadirsha | Jayaram]]></title>
+        <id>https://www.youtube.com/watch?v=dNpIa9zoy5Q</id>
+        <link href="https://www.youtube.com/watch?v=dNpIa9zoy5Q"/>
+        <updated>2024-05-27T05:30:26.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മഞ്ജരികൾ മഞ്ജുഷകൾ | Manjarikal Manjushakal | Enthino Pookkunna Pookkal | K. J. Yesudas | Shyam]]></title>
+        <id>https://www.youtube.com/watch?v=iycTLF7fC9U</id>
+        <link href="https://www.youtube.com/watch?v=iycTLF7fC9U"/>
+        <updated>2024-05-27T05:26:40.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rajakokila Old Superhit Movie Song l Pennpada Movie |  Vincent, Reena, Vijayalalitha,]]></title>
         <id>https://www.youtube.com/watch?v=AlOC3vLR7uo</id>
@@ -34357,15 +34384,6 @@
         <updated>2024-02-27T18:30:10.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 28th February 24]]></title>
-        <id>https://www.youtube.com/watch?v=omyypd0hZ_c</id>
-        <link href="https://www.youtube.com/watch?v=omyypd0hZ_c"/>
-        <updated>2024-02-27T18:00:25.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
