@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-27T16:23:08.230Z</updated>
+    <updated>2024-05-27T17:16:36.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HITS OF RADHIKA THILAK /CHRISTIAN DEVOTIONAL SONGS/OWN MEDIA MUSIC COLLECTION]]></title>
+        <id>https://www.youtube.com/watch?v=FN20D5jPI3U</id>
+        <link href="https://www.youtube.com/watch?v=FN20D5jPI3U"/>
+        <updated>2024-05-27T16:39:03.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അമ്മതൻ താരാട്ടുപാട്ടിൻ്റെ ഈണം ഇന്നെൻ്റെ കാതിൽ ഒഴുകിയെത്തി..]]></title>
         <id>https://www.youtube.com/watch?v=VRBnZDn5VQw</id>
@@ -34681,24 +34690,6 @@
         <updated>2024-02-28T05:30:17.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akkare Ninnoru Video Song | Spanish Masala | Dileep | Vidyasagar |Sujatha Mohan |Vineeth Sreenivasan]]></title>
-        <id>https://www.youtube.com/watch?v=B-UPFJssLVI</id>
-        <link href="https://www.youtube.com/watch?v=B-UPFJssLVI"/>
-        <updated>2024-02-28T05:11:48.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thaaram Thaaram Theril | Innocent | Jagathy | Nagama | Yesudas | S P Venkitesh]]></title>
-        <id>https://www.youtube.com/watch?v=eQH3tvC1HlY</id>
-        <link href="https://www.youtube.com/watch?v=eQH3tvC1HlY"/>
-        <updated>2024-02-28T04:34:19.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
