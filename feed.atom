@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-29T22:19:08.871Z</updated>
+    <updated>2024-05-29T23:19:08.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=n04BzzrTeiM</id>
+        <link href="https://www.youtube.com/watch?v=n04BzzrTeiM"/>
+        <updated>2024-05-29T23:00:22.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന May 30 # Athiravile Prarthana 30th of May 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=WyEOLrpAWpQ</id>
@@ -34654,42 +34663,6 @@
         <updated>2024-03-01T11:25:27.000Z</updated>
         <author>
             <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manassu Neeridumbol | Kristheeya Bhakthiganangal | Christian Devotional Songs | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=qWPX-CUQOYo</id>
-        <link href="https://www.youtube.com/watch?v=qWPX-CUQOYo"/>
-        <updated>2024-03-01T11:15:53.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nilamalare | Diamond Necklace | Nivas | Vidyasagar | Rafeeq Ahammed]]></title>
-        <id>https://www.youtube.com/watch?v=tXqYh8YaWNs</id>
-        <link href="https://www.youtube.com/watch?v=tXqYh8YaWNs"/>
-        <updated>2024-03-01T10:30:28.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unarvarulka Inneram | Pr. Muttom Geevarghese  #malayalamchristiansongs]]></title>
-        <id>https://www.youtube.com/watch?v=TNv_luJ9RPk</id>
-        <link href="https://www.youtube.com/watch?v=TNv_luJ9RPk"/>
-        <updated>2024-03-01T10:30:08.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chandrakaantham kondu video song | Paadheyam | Kaithapram | KJ Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=EcNA9cDRRTk</id>
-        <link href="https://www.youtube.com/watch?v=EcNA9cDRRTk"/>
-        <updated>2024-03-01T10:30:05.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
