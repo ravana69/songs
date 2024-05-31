@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-31T06:26:10.366Z</updated>
+    <updated>2024-05-31T07:18:57.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pavi Caretaker - Full Album | Dilieep | Midhun Mukundan | Vineeth kumar]]></title>
+        <id>https://www.youtube.com/watch?v=al0TgxW80Ts</id>
+        <link href="https://www.youtube.com/watch?v=al0TgxW80Ts"/>
+        <updated>2024-05-31T06:30:00.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[സുന്ദരി നീയും| Michael Madana Kama Rajan Film Song| Kamal Haasan #malayalam #kamalhaasan]]></title>
         <id>https://www.youtube.com/watch?v=mPF-iLP94pM</id>
@@ -25,6 +34,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Abhirami Official Trailer | Gayathri Suresh | Harikrishnan | Mushthaq Rahman]]></title>
+        <id>https://www.youtube.com/watch?v=e7X_2k3K9i4</id>
+        <link href="https://www.youtube.com/watch?v=e7X_2k3K9i4"/>
+        <updated>2024-05-31T04:49:51.000Z</updated>
+        <author>
+            <name>123Musix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jayabharathi Old Superhit Movie Song l Mooladhanam Movie | Sathyan, Sharada, Jayabharathi]]></title>
         <id>https://www.youtube.com/watch?v=Xcj2E7TBnOo</id>
         <link href="https://www.youtube.com/watch?v=Xcj2E7TBnOo"/>
@@ -40,6 +58,15 @@
         <updated>2024-05-31T04:30:09.000Z</updated>
         <author>
             <name>Speed Music Videos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nadhan | നാഥൻ | Binha Rose | Shiju S.P. Nallila | Gopan Swarathraya | Malayalam Christian Songs 2024]]></title>
+        <id>https://www.youtube.com/watch?v=D1ENKXYv1OY</id>
+        <link href="https://www.youtube.com/watch?v=D1ENKXYv1OY"/>
+        <updated>2024-05-31T04:10:24.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
     <entry>
@@ -337,6 +364,15 @@
         <updated>2024-05-30T07:59:55.000Z</updated>
         <author>
             <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നാട്ടുപുറങ്ങളിലെ നിഷ്‌കളങ്ക പ്രേമത്തിന്റെ മനോഹാരിത  കാണിച്ചു തരുന്ന സൂപ്പർഹിറ്റ്  ഗാനങ്ങൾ !]]></title>
+        <id>https://www.youtube.com/watch?v=n596z10wBcE</id>
+        <link href="https://www.youtube.com/watch?v=n596z10wBcE"/>
+        <updated>2024-05-30T07:30:14.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
     <entry>
@@ -34591,24 +34627,6 @@
         <updated>2024-03-02T21:40:12.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer 3rd of March # Athiravile Prarthana 3rd March 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=MNaw6jWzwHA</id>
-        <link href="https://www.youtube.com/watch?v=MNaw6jWzwHA"/>
-        <updated>2024-03-02T19:00:07.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=iC5KOH_eqYY</id>
-        <link href="https://www.youtube.com/watch?v=iC5KOH_eqYY"/>
-        <updated>2024-03-02T18:30:29.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
