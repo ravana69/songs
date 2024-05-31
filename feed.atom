@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-31T16:24:29.245Z</updated>
+    <updated>2024-05-31T17:18:07.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രൊമിയോൻ,സെദറാ | Fr. JASTIN P KURIAKOSE | CHOIR : ROY PUTHUR & TEAM #holyqurbana #orthodox]]></title>
+        <id>https://www.youtube.com/watch?v=Mo7vnTmVvrI</id>
+        <link href="https://www.youtube.com/watch?v=Mo7vnTmVvrI"/>
+        <updated>2024-05-31T16:53:34.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[വരുവിൻ വരുവിൻ പ്രിയ സ്നേഹിതരേ ഇടയനല്ലാതില്ലഭയം]]></title>
         <id>https://www.youtube.com/watch?v=MAlrW25PJR0</id>
@@ -34735,33 +34744,6 @@
         <updated>2024-03-03T06:00:03.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eerakkombin Mele | Kuttettan | Mammootty | Saritha | Mathu | Yesudas | Raveendran]]></title>
-        <id>https://www.youtube.com/watch?v=ccIeHsUBH3k</id>
-        <link href="https://www.youtube.com/watch?v=ccIeHsUBH3k"/>
-        <updated>2024-03-03T04:30:20.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathinaalam Ravudichathu - Chillhop Mix | Maram | G. Devarajan | Chris Wayne, Aneeshthesia]]></title>
-        <id>https://www.youtube.com/watch?v=otY17xlD_m8</id>
-        <link href="https://www.youtube.com/watch?v=otY17xlD_m8"/>
-        <updated>2024-03-03T04:30:15.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paadi Thodiyiletho Video Song | Aaram Thamburan | Manju Warrier | KS Chithra | Gireesh Puthenchery]]></title>
-        <id>https://www.youtube.com/watch?v=WHOsKjhmiv0</id>
-        <link href="https://www.youtube.com/watch?v=WHOsKjhmiv0"/>
-        <updated>2024-03-03T04:30:09.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
