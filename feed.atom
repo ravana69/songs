@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-31T22:17:47.512Z</updated>
+    <updated>2024-05-31T23:19:04.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=mVumHdMQLK4</id>
+        <link href="https://www.youtube.com/watch?v=mVumHdMQLK4"/>
+        <updated>2024-05-31T23:00:23.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 1 # Athiravile Prarthana 1st of June 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=A0cJjS9BgwY</id>
@@ -34717,15 +34726,6 @@
         <updated>2024-03-03T11:30:04.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pranaya Sankalpame Video Song | Nirakkoottu | Vani Jairam | Mammootty | Sumalathav]]></title>
-        <id>https://www.youtube.com/watch?v=tfAUFd059D8</id>
-        <link href="https://www.youtube.com/watch?v=tfAUFd059D8"/>
-        <updated>2024-03-03T10:30:25.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
