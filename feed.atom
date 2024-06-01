@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-01T10:20:46.248Z</updated>
+    <updated>2024-06-01T11:19:00.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thalatherichavar - Video Lyrical | Romancham | Sushin Shyam | Jithu Madhavan]]></title>
+        <id>https://www.youtube.com/watch?v=lwydehlAcek</id>
+        <link href="https://www.youtube.com/watch?v=lwydehlAcek"/>
+        <updated>2024-06-01T10:30:14.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[തിരു കരത്താൽ  | THIRU KARATHAAAL | ROY PUTHUR | LINCY SAMUEL | #christiandevotionalsongs #royputhur]]></title>
         <id>https://www.youtube.com/watch?v=UTWrRXb9vlk</id>
