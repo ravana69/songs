@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-01T21:18:02.750Z</updated>
+    <updated>2024-06-01T22:17:57.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34789,24 +34789,6 @@
         <updated>2024-03-04T10:30:12.000Z</updated>
         <author>
             <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാള സിനിമാലോകത്തെ വരവേൽക്കാൻ ഖത്തർ മണ്ണ് ഒരുങ്ങി കഴിഞ്ഞു ! mollywoodmagic | mollywoodmagicqatar]]></title>
-        <id>https://www.youtube.com/watch?v=G0HiW6nunPc</id>
-        <link href="https://www.youtube.com/watch?v=G0HiW6nunPc"/>
-        <updated>2024-03-04T10:13:03.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[റിഹേഴ്സലിനിടയിൽ സ്വാസികയെ എടുത്തുയർത്തി റംസാൻ #swasika #ramzan #mollywoodmagicshow2024 #qatar]]></title>
-        <id>https://www.youtube.com/watch?v=BTtZgQGRP6w</id>
-        <link href="https://www.youtube.com/watch?v=BTtZgQGRP6w"/>
-        <updated>2024-03-04T09:47:21.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
