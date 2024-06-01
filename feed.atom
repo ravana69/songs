@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-01T06:25:13.979Z</updated>
+    <updated>2024-06-01T07:17:08.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gandhi | Malayalam Poem | Prof.V. Madhusoodanan Nair]]></title>
+        <id>https://www.youtube.com/watch?v=BdI4c4phLHA</id>
+        <link href="https://www.youtube.com/watch?v=BdI4c4phLHA"/>
+        <updated>2024-06-01T06:30:02.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yadhu Hrudayam | Rappakal |Video | Mammootty | Nayanthara | K S Chithra | Kaithapram | Mohan Sithara]]></title>
         <id>https://www.youtube.com/watch?v=D02BVHuRvvQ</id>
@@ -34726,24 +34735,6 @@
         <updated>2024-03-03T22:00:07.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer 4th of March # Athiravile Prarthana 4th March 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=xy9F4C53JKQ</id>
-        <link href="https://www.youtube.com/watch?v=xy9F4C53JKQ"/>
-        <updated>2024-03-03T19:00:31.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=tmhDD4zsMC0</id>
-        <link href="https://www.youtube.com/watch?v=tmhDD4zsMC0"/>
-        <updated>2024-03-03T18:30:40.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
