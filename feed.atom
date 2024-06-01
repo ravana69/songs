@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-01T16:21:53.125Z</updated>
+    <updated>2024-06-01T17:16:41.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നീയെൻ്റെ രക്ഷകനാകുന്നു, ഞാൻ നിൻ്റെ മിത്രമായ് മാറുന്നു .]]></title>
+        <id>https://www.youtube.com/watch?v=qJ3l5j8nRqE</id>
+        <link href="https://www.youtube.com/watch?v=qJ3l5j8nRqE"/>
+        <updated>2024-06-01T16:22:05.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kandu Kandu kandilla | Ishtam |Mohan Sithara | KJ Yesudas | KS Chithra #SongOfTheDay]]></title>
         <id>https://www.youtube.com/watch?v=9fWwSLwbWYo</id>
@@ -34807,15 +34816,6 @@
         <updated>2024-03-04T05:30:09.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sridevi Old Malayalam Movie Songs | Oonjaal  Remastered Malayalam Songs | P. Susheela, P. Madhuri]]></title>
-        <id>https://www.youtube.com/watch?v=6KjyleWxUy8</id>
-        <link href="https://www.youtube.com/watch?v=6KjyleWxUy8"/>
-        <updated>2024-03-04T04:27:44.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
