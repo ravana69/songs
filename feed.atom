@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-02T22:17:18.586Z</updated>
+    <updated>2024-06-02T23:19:26.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=a5Di5_JDedk</id>
+        <link href="https://www.youtube.com/watch?v=a5Di5_JDedk"/>
+        <updated>2024-06-02T23:00:01.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 3 # Athiravile Prarthana 3rd of June 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=cCAprRG9z9s</id>
@@ -34717,15 +34726,6 @@
         <updated>2024-03-05T11:30:00.000Z</updated>
         <author>
             <name>Malayalam Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nakshathram Minnunna video song | Mimics Parade |  Krishnachandran | Unni Menon]]></title>
-        <id>https://www.youtube.com/watch?v=G1JuKPMXkxI</id>
-        <link href="https://www.youtube.com/watch?v=G1JuKPMXkxI"/>
-        <updated>2024-03-05T10:30:07.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
         </author>
     </entry>
 </feed>
