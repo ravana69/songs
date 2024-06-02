@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-02T09:19:36.576Z</updated>
+    <updated>2024-06-02T10:19:55.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PARAPARAMESHA | പരപരമേശ വരമരുളീശ | ROY PUTHUR | BINU KADAMBANADU #royputhur #malayalam #music]]></title>
+        <id>https://www.youtube.com/watch?v=7NJeS0fWzgQ</id>
+        <link href="https://www.youtube.com/watch?v=7NJeS0fWzgQ"/>
+        <updated>2024-06-02T10:02:38.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ra Chakana Pekali Full Video Song | HD |  Annan Thambi Movie Song]]></title>
         <id>https://www.youtube.com/watch?v=dxWpZ8mqx_c</id>
@@ -34715,15 +34724,6 @@
         <id>https://www.youtube.com/watch?v=0fRaM2nuvOQ</id>
         <link href="https://www.youtube.com/watch?v=0fRaM2nuvOQ"/>
         <updated>2024-03-04T23:30:00.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=CvEOP2udK5g</id>
-        <link href="https://www.youtube.com/watch?v=CvEOP2udK5g"/>
-        <updated>2024-03-04T22:00:11.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
