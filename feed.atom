@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-02T16:22:29.759Z</updated>
+    <updated>2024-06-02T17:17:16.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നീ തകർന്നവനാണോ മകനേ..]]></title>
+        <id>https://www.youtube.com/watch?v=nD11f535dwc</id>
+        <link href="https://www.youtube.com/watch?v=nD11f535dwc"/>
+        <updated>2024-06-02T16:29:08.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manikyakkallaal | Varnapakittu | Vidyasagar, M G Sreekumar, Swarnalatha #SongOfTheDay]]></title>
         <id>https://www.youtube.com/watch?v=oHGPFuPgl2M</id>
@@ -34744,24 +34753,6 @@
         <updated>2024-03-05T05:30:10.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sathyan Old Malayalam Movie Songs | Velliyazhcha Remastered Malayalam Songs |  S. Janaki, Raveendran]]></title>
-        <id>https://www.youtube.com/watch?v=7_W8tb0JwWU</id>
-        <link href="https://www.youtube.com/watch?v=7_W8tb0JwWU"/>
-        <updated>2024-03-05T04:56:29.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chirakulla Cheruppam | Ravanan | Sudheesh | Nishanth Sagar | Vidhu Prathap | Kalbhavan Mani]]></title>
-        <id>https://www.youtube.com/watch?v=ohwWu0f5eow</id>
-        <link href="https://www.youtube.com/watch?v=ohwWu0f5eow"/>
-        <updated>2024-03-05T04:30:13.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
