@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-03T19:16:10.659Z</updated>
+    <updated>2024-06-03T20:20:14.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 4 # Athiravile Prarthana 4th of June 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=BzOMHymXcjg</id>
+        <link href="https://www.youtube.com/watch?v=BzOMHymXcjg"/>
+        <updated>2024-06-03T20:00:07.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അമ്മ നിൻറെ 5 മിനിറ്റ് യാചിക്കുന്നു l marian l miraculous prayer l powerful prayer]]></title>
+        <id>https://www.youtube.com/watch?v=Y3_13o-w7Dg</id>
+        <link href="https://www.youtube.com/watch?v=Y3_13o-w7Dg"/>
+        <updated>2024-06-03T19:30:04.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 4th June 2024]]></title>
         <id>https://www.youtube.com/watch?v=JqnEb9VQ5MU</id>
@@ -34699,78 +34717,6 @@
         <updated>2024-03-06T08:36:40.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raaghaveeyam - Kadavalloor Lyric | T.S. Radhakrishanan | Malayalam Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=_n5TT8HNbrk</id>
-        <link href="https://www.youtube.com/watch?v=_n5TT8HNbrk"/>
-        <updated>2024-03-06T08:00:28.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raaghaveeyam - Aadhikaviyude Lyric | T.S. Radhakrishanan | Malayalam Devotional Song]]></title>
-        <id>https://www.youtube.com/watch?v=RB9_z9DokW0</id>
-        <link href="https://www.youtube.com/watch?v=RB9_z9DokW0"/>
-        <updated>2024-03-06T08:00:20.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raaghaveeyam - Sowmithriyaai Ninte Lyric | T.S. Radhakrishanan | Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=dkxnTzM-084</id>
-        <link href="https://www.youtube.com/watch?v=dkxnTzM-084"/>
-        <updated>2024-03-06T08:00:17.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raaghaveeyam - Bhoomikannye Seethe Lyric | T.S. Radhakrishanan | Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=BtCNcUYajb0</id>
-        <link href="https://www.youtube.com/watch?v=BtCNcUYajb0"/>
-        <updated>2024-03-06T08:00:06.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raaghaveeyam - Vilwadhrinaatha Nin Lyric | T.S. Radhakrishanan | Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=0G82PuBLn0o</id>
-        <link href="https://www.youtube.com/watch?v=0G82PuBLn0o"/>
-        <updated>2024-03-06T08:00:01.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ente Thenmavu | Aparna Kannan | Vattiyoorkavu Krishnakumar | Manoj Kanhangad | Malayalam Video Album]]></title>
-        <id>https://www.youtube.com/watch?v=2yfhDuyeKgo</id>
-        <link href="https://www.youtube.com/watch?v=2yfhDuyeKgo"/>
-        <updated>2024-03-06T07:47:16.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ചിത്രമ്മയുടെ ഇഷ്ടഗാനങ്ങൾ | Hits of KS Chithra | Superhits of K S Chithra | Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=sGo6dFyiAm0</id>
-        <link href="https://www.youtube.com/watch?v=sGo6dFyiAm0"/>
-        <updated>2024-03-06T07:30:11.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രണയഗാനങ്ങൾ ഇഷ്ടമുള്ളവർക്കേറെ ഇഷ്ടമുള്ള സൂപ്പർഹിറ്റ് പ്രേമഗാനങ്ങൾ |Everlasting Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=NhrbNZPEUGs</id>
-        <link href="https://www.youtube.com/watch?v=NhrbNZPEUGs"/>
-        <updated>2024-03-06T07:30:05.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
