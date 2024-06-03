@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-03T21:18:44.345Z</updated>
+    <updated>2024-06-03T22:19:17.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34663,51 +34663,6 @@
         <updated>2024-03-06T10:30:04.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suresh Bobbili, Sid Sriram - Ohho Puththadi Bommaa (From "Thika Maka Thanda")]]></title>
-        <id>https://www.youtube.com/watch?v=7TzmntD08Cs</id>
-        <link href="https://www.youtube.com/watch?v=7TzmntD08Cs"/>
-        <updated>2024-03-06T10:08:21.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thikamaka Thanda - Paramesha Video | Venkat l Suresh Bobbili | Ramakrishna, Harikrishna]]></title>
-        <id>https://www.youtube.com/watch?v=vC06WWWXqDA</id>
-        <link href="https://www.youtube.com/watch?v=vC06WWWXqDA"/>
-        <updated>2024-03-06T10:07:56.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suresh Bobbili, Sindhuja Srinivasan - Ramasakkani (From "Thika Maka Thanda")]]></title>
-        <id>https://www.youtube.com/watch?v=YiNo_VW_cIM</id>
-        <link href="https://www.youtube.com/watch?v=YiNo_VW_cIM"/>
-        <updated>2024-03-06T10:07:48.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thikamaka Thanda - Thopule Veellu Video | Venkat l Suresh Bobbili | Ramakrishna]]></title>
-        <id>https://www.youtube.com/watch?v=uHgWZTjuNKQ</id>
-        <link href="https://www.youtube.com/watch?v=uHgWZTjuNKQ"/>
-        <updated>2024-03-06T10:04:47.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thikamaka Thanda - Eduru Chusthunna Video | Venkat l Suresh Bobbili | Ramakrishna]]></title>
-        <id>https://www.youtube.com/watch?v=94whx6dsyRw</id>
-        <link href="https://www.youtube.com/watch?v=94whx6dsyRw"/>
-        <updated>2024-03-06T10:04:20.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
