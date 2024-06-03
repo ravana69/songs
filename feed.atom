@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-03T20:20:14.381Z</updated>
+    <updated>2024-06-03T21:18:44.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34708,15 +34708,6 @@
         <updated>2024-03-06T10:04:20.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nandi Nandi En Daivame | Kedharnath | Kathukutty | Charles Jacob | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=GwXUUpmMgcI</id>
-        <link href="https://www.youtube.com/watch?v=GwXUUpmMgcI"/>
-        <updated>2024-03-06T08:36:40.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
