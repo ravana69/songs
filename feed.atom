@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-03T05:20:15.241Z</updated>
+    <updated>2024-06-03T06:26:55.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deepam Mani Deepam | ദീപം മണിദീപം | Avidathepole Ivideyum | Malayalam Film Song | Shobana, Mammootty]]></title>
+        <id>https://www.youtube.com/watch?v=o7SU7nz7cUA</id>
+        <link href="https://www.youtube.com/watch?v=o7SU7nz7cUA"/>
+        <updated>2024-06-03T06:03:24.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kalla Kalla | Youth Festival #campussong #malayalamlovesong #shortsfeed #shortsvideo #shorts]]></title>
         <id>https://www.youtube.com/watch?v=u7suqUx9v_Q</id>
@@ -34681,15 +34690,6 @@
         <updated>2024-03-05T18:30:09.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathavinodulla Samprakshana Prarthana The Immaculate Heart of Mother Mary Prayer 6th March 24]]></title>
-        <id>https://www.youtube.com/watch?v=ptrIb0UtM1Q</id>
-        <link href="https://www.youtube.com/watch?v=ptrIb0UtM1Q"/>
-        <updated>2024-03-05T18:00:23.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
