@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-03T07:17:53.760Z</updated>
+    <updated>2024-06-03T08:25:09.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Muthinu Vendi - Swathu (1980) | KJ Yesudas | Kavalam Narayana Panicker | G Devarajan]]></title>
+        <id>https://www.youtube.com/watch?v=WPyWXK3FCeA</id>
+        <link href="https://www.youtube.com/watch?v=WPyWXK3FCeA"/>
+        <updated>2024-06-03T07:30:14.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികൾ എന്നെന്നും കേൾക്കാൻ കൊതിക്കുന്ന ശ്രുതിമധുര ഗാനങ്ങൾ | Evergreen Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=qv0Z6fksBb0</id>
+        <link href="https://www.youtube.com/watch?v=qv0Z6fksBb0"/>
+        <updated>2024-06-03T07:30:12.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deepam Mani Deepam | ദീപം മണിദീപം | Avidathepole Ivideyum | Malayalam Film Song | Shobana, Mammootty]]></title>
         <id>https://www.youtube.com/watch?v=o7SU7nz7cUA</id>
@@ -34654,15 +34672,6 @@
         <updated>2024-03-05T22:00:20.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neela Nilave | RDX (Robert Dony Xavier) | Sam C.S | Kapil Kapilan | Hi-Res Audio]]></title>
-        <id>https://www.youtube.com/watch?v=NcuVHV-Isag</id>
-        <link href="https://www.youtube.com/watch?v=NcuVHV-Isag"/>
-        <updated>2024-03-05T19:44:26.000Z</updated>
-        <author>
-            <name>NANCHIL BEATS</name>
         </author>
     </entry>
 </feed>
