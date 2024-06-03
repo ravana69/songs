@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-03T22:19:17.041Z</updated>
+    <updated>2024-06-03T23:19:39.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=tZA8Jm3RK1s</id>
+        <link href="https://www.youtube.com/watch?v=tZA8Jm3RK1s"/>
+        <updated>2024-06-03T23:00:29.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 4 # Athiravile Prarthana 4th of June 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=BzOMHymXcjg</id>
@@ -34627,42 +34636,6 @@
         <updated>2024-03-06T11:25:09.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalivattam Kanavattam | Achaneyanenikkishttam | Biju Menon | Lakshmi Gopalaswamy | MG Sreekumar]]></title>
-        <id>https://www.youtube.com/watch?v=TcHfyACV0MA</id>
-        <link href="https://www.youtube.com/watch?v=TcHfyACV0MA"/>
-        <updated>2024-03-06T11:12:36.000Z</updated>
-        <author>
-            <name>Speed Music Videos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മാരക ലുക്കിൽ എയർ പോർട്ടിൽ വന്നിറങ്ങിയ താരങ്ങൾ ! Mollywood Magic | Anarkkali | Swasika |Priya Varier]]></title>
-        <id>https://www.youtube.com/watch?v=5HgfDELLx-4</id>
-        <link href="https://www.youtube.com/watch?v=5HgfDELLx-4"/>
-        <updated>2024-03-06T11:11:00.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pranaya Sankalpame | Nirakkoottu | Vani Jairam | Mammootty | Sumalathav | #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=s3veGaN63GI</id>
-        <link href="https://www.youtube.com/watch?v=s3veGaN63GI"/>
-        <updated>2024-03-06T10:30:16.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aa Nadiyoram | Left Right Left | Sachin Warrier | Anna Katharina | Gopi Sundar | Rafeeq Ahamed]]></title>
-        <id>https://www.youtube.com/watch?v=AG4JiwEY8MU</id>
-        <link href="https://www.youtube.com/watch?v=AG4JiwEY8MU"/>
-        <updated>2024-03-06T10:30:04.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
         </author>
     </entry>
 </feed>
