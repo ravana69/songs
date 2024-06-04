@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-04T14:18:22.878Z</updated>
+    <updated>2024-06-04T15:21:04.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[kanaka nilave | Kauravar | Mammootty | KJ Yesudas | Kaithapram | SP Venkitesh]]></title>
+        <id>https://www.youtube.com/watch?v=myXxcV94ltY</id>
+        <link href="https://www.youtube.com/watch?v=myXxcV94ltY"/>
+        <updated>2024-06-04T14:30:26.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thalamayanju | onv kurup | M.G. Sreekumar | Mohanlal | Shobana - Pavithram #songoftheday]]></title>
+        <id>https://www.youtube.com/watch?v=COmpCu3ztCM</id>
+        <link href="https://www.youtube.com/watch?v=COmpCu3ztCM"/>
+        <updated>2024-06-04T14:30:05.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Singer Of The Week | Manoj Christy | Christian Superhit Songs | Joji Johns | Christian Songs]]></title>
         <id>https://www.youtube.com/watch?v=o8Y8Sxam3sc</id>
