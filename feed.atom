@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-04T06:26:24.296Z</updated>
+    <updated>2024-06-04T07:18:28.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34528,24 +34528,6 @@
         <updated>2024-03-06T22:00:17.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer 7th of March # Athiravile Prarthana 7th March 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=eamaYqScYVk</id>
-        <link href="https://www.youtube.com/watch?v=eamaYqScYVk"/>
-        <updated>2024-03-06T19:00:16.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Ck93uGlfW1o</id>
-        <link href="https://www.youtube.com/watch?v=Ck93uGlfW1o"/>
-        <updated>2024-03-06T18:30:06.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
