@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-04T17:17:03.846Z</updated>
+    <updated>2024-06-04T18:25:31.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Un Punnagai | Ezhumalai | Mani Sharma | Mallikarjun & Harini | Hi-Res Audio]]></title>
+        <id>https://www.youtube.com/watch?v=lnV_DMKBwvc</id>
+        <link href="https://www.youtube.com/watch?v=lnV_DMKBwvc"/>
+        <updated>2024-06-04T18:05:04.000Z</updated>
+        <author>
+            <name>NANCHIL BEATS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നിശാഗന്ധീ നീയെത്രധന്യ..| കെ ജെ യേശുദാസ് | Chitra | Remastered songs | മലയാളചലച്ചിത്രഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=aCgto3xSiKA</id>
+        <link href="https://www.youtube.com/watch?v=aCgto3xSiKA"/>
+        <updated>2024-06-04T17:56:47.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എന്റെ ഇഷ്ടഗാനങ്ങള്‍ | Hits of Suresh Gopi | Video Jukebox | Malayalam Film Songs]]></title>
         <id>https://www.youtube.com/watch?v=H8sDkeNLc2Q</id>
@@ -34537,33 +34555,6 @@
         <updated>2024-03-07T07:00:22.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cape Town | Namma Thozhan | Naveen Madhav | Dileep Babu | Sivaraj | Dileep Kumar | Latest Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=uCuRnX6t80Y</id>
-        <link href="https://www.youtube.com/watch?v=uCuRnX6t80Y"/>
-        <updated>2024-03-07T06:19:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tharattupattukal | Malayalam Lullaby Film Songs |Jukebox |സൂപ്പർഹിറ്റ് മലയാളം സിനിമ താരാട്ടുപാട്ടുകൾ]]></title>
-        <id>https://www.youtube.com/watch?v=7QjA6x_1M68</id>
-        <link href="https://www.youtube.com/watch?v=7QjA6x_1M68"/>
-        <updated>2024-03-07T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Varuvaanillarumee Video Song | Manichitrathazhu | Shobana | KS Chithra | MG Radhakrishnan]]></title>
-        <id>https://www.youtube.com/watch?v=bP5QZn97SyU</id>
-        <link href="https://www.youtube.com/watch?v=bP5QZn97SyU"/>
-        <updated>2024-03-07T05:17:51.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
