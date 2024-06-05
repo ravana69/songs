@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-05T10:21:06.567Z</updated>
+    <updated>2024-06-05T11:15:50.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kaathodu Kaathoram Audio Jukebox Evergreen Malayalam Hits ONV Kurup Ouseppachan KJ Yesudas Lathika]]></title>
+        <id>https://www.youtube.com/watch?v=8PzKlWJYJuo</id>
+        <link href="https://www.youtube.com/watch?v=8PzKlWJYJuo"/>
+        <updated>2024-06-05T10:57:22.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malamalalooya Video Song | Anandabhadram | Kalabhavan Mani | Gireesh Puthenchery | MG Radhakrishnan]]></title>
+        <id>https://www.youtube.com/watch?v=_CKOBH-2bfU</id>
+        <link href="https://www.youtube.com/watch?v=_CKOBH-2bfU"/>
+        <updated>2024-06-05T10:35:03.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kattile Kannan | Animation Video #kattilekannan #animation #malayalamcartoon #shorts #shortsfeed]]></title>
+        <id>https://www.youtube.com/watch?v=ciRBrwf9Zio</id>
+        <link href="https://www.youtube.com/watch?v=ciRBrwf9Zio"/>
+        <updated>2024-06-05T10:30:10.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഡേറ്റ് ഇട്ടു പ്രാർത്ഥിക്കുക l Kreupasanam powerful prayer l miraculous prayer l marian]]></title>
         <id>https://www.youtube.com/watch?v=7Ym3dau95sU</id>
