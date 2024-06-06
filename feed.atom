@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-06T12:37:01.572Z</updated>
+    <updated>2024-06-06T13:21:56.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HOL Hear Out Loud 🔊🎶|  | Guruvayoorambala Nadayil | Prithviraj | Basil |#ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=MOhUhSDqOpk</id>
+        <link href="https://www.youtube.com/watch?v=MOhUhSDqOpk"/>
+        <updated>2024-06-06T13:00:21.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chembakamalaroli | Ilavankodu Desam | K J Yesudas | K S Chithra | Vidyasagar | O N V Kurup]]></title>
+        <id>https://www.youtube.com/watch?v=3mnTagp3yUY</id>
+        <link href="https://www.youtube.com/watch?v=3mnTagp3yUY"/>
+        <updated>2024-06-06T13:00:03.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 6th of June 2024]]></title>
         <id>https://www.youtube.com/watch?v=rgjFBRrm3iM</id>
@@ -34627,15 +34645,6 @@
         <updated>2024-03-09T02:00:06.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinneyum Ninnile | Oneway Ticket #shortsvideo  #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=Q6d5AQydQtY</id>
-        <link href="https://www.youtube.com/watch?v=Q6d5AQydQtY"/>
-        <updated>2024-03-09T01:00:07.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
 </feed>
