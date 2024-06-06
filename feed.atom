@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-06T16:24:17.626Z</updated>
+    <updated>2024-06-06T17:19:12.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34672,24 +34672,6 @@
         <updated>2024-03-09T05:30:07.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prem Nazir Old Malayalam Movie Songs | Aaradimanninte Janmi Remastered Malayalam Songs | Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=2skbYPTbBkE</id>
-        <link href="https://www.youtube.com/watch?v=2skbYPTbBkE"/>
-        <updated>2024-03-09T05:02:03.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sadhyathan Ambalathil | Abhinivesham | Yesudas | Ravikumar | Sreekumaran Thampi]]></title>
-        <id>https://www.youtube.com/watch?v=fti6Kd5aIY0</id>
-        <link href="https://www.youtube.com/watch?v=fti6Kd5aIY0"/>
-        <updated>2024-03-09T04:30:24.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
