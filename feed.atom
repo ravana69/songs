@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-06T09:21:55.803Z</updated>
+    <updated>2024-06-06T10:20:34.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഡേറ്റ് ഇട്ടു പ്രാർത്ഥിക്കുക l Kreupasanam powerful prayer l miraculous prayer l marian]]></title>
+        <id>https://www.youtube.com/watch?v=bb3m-jMsOdM</id>
+        <link href="https://www.youtube.com/watch?v=bb3m-jMsOdM"/>
+        <updated>2024-06-06T09:30:18.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Magha Masam Mallikappoo | മാഘമാസം മല്ലികപ്പൂ | Ente Ponnu Thampuran Movie Hit Song | Sureshgopi]]></title>
         <id>https://www.youtube.com/watch?v=F-J5eKE9mwQ</id>
@@ -34553,15 +34562,6 @@
         <id>https://www.youtube.com/watch?v=-vx9AjEF0_o</id>
         <link href="https://www.youtube.com/watch?v=-vx9AjEF0_o"/>
         <updated>2024-03-08T22:33:37.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=hDS-GS0oSlg</id>
-        <link href="https://www.youtube.com/watch?v=hDS-GS0oSlg"/>
-        <updated>2024-03-08T22:00:30.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
