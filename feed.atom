@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-06T06:26:23.864Z</updated>
+    <updated>2024-06-06T07:18:44.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sree Yeshunadhan | Malayalam Christian Devotional Songs | Super Hit Songs  of Jesus | Audio Jukebox]]></title>
+        <id>https://www.youtube.com/watch?v=oWyCGn6en1U</id>
+        <link href="https://www.youtube.com/watch?v=oWyCGn6en1U"/>
+        <updated>2024-06-06T06:50:42.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Junile Nilamazhayil | Live with UNTAGGED |Cover Version| Anila Rajeev | Mahesh Mohan| M Jayachandran]]></title>
         <id>https://www.youtube.com/watch?v=MzXTjlXoNpE</id>
@@ -34537,33 +34546,6 @@
         <updated>2024-03-08T22:00:30.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer 9th of March # Athiravile Prarthana 9th March 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=xFceo5j2_X0</id>
-        <link href="https://www.youtube.com/watch?v=xFceo5j2_X0"/>
-        <updated>2024-03-08T19:00:26.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maarunna Kaalam - Lyrical Video | Nadanna Sambavam | Kapil Kapilan, Anumita Nadesan | Ankit Menon]]></title>
-        <id>https://www.youtube.com/watch?v=2gP1KyzHdiw</id>
-        <link href="https://www.youtube.com/watch?v=2gP1KyzHdiw"/>
-        <updated>2024-03-08T18:46:55.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=uy5Omztu_Z8</id>
-        <link href="https://www.youtube.com/watch?v=uy5Omztu_Z8"/>
-        <updated>2024-03-08T18:30:44.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
