@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-07T07:18:06.326Z</updated>
+    <updated>2024-06-07T08:24:22.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എല്ലാ ജില്ലക്കാരും ഒരുപോലെ ആസ്വദിക്കുന്ന മലയാളത്തിലെ അപാര സുന്ദര മെലഡി ഗാനങ്ങൾ | Evergreen Songs]]></title>
+        <id>https://www.youtube.com/watch?v=33mxHuhUp4o</id>
+        <link href="https://www.youtube.com/watch?v=33mxHuhUp4o"/>
+        <updated>2024-06-07T07:30:44.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pathinalam Ravinte | Sharjah To Sharjah | Jayaram | Mohan Sithara | M G Sreekumar | Speed Audios]]></title>
+        <id>https://www.youtube.com/watch?v=btY9MVN8XW8</id>
+        <link href="https://www.youtube.com/watch?v=btY9MVN8XW8"/>
+        <updated>2024-06-07T07:30:10.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പാട്ടുപെട്ടി | Paattupetti Vol 47 | Nostalgic Malayalam Movie Songs | ഹൃദയം കവരും മനോഹര ഗാനങ്ങൾ]]></title>
         <id>https://www.youtube.com/watch?v=YRYptfyQRdw</id>
