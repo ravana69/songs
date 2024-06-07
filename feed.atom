@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-07T14:18:50.092Z</updated>
+    <updated>2024-06-07T15:21:53.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Varuvaanillaaruminnorunalum | Manichithrathaazhu | K S Chithra | M G Radhakrishnan #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=SmqE17QwjAE</id>
+        <link href="https://www.youtube.com/watch?v=SmqE17QwjAE"/>
+        <updated>2024-06-07T14:30:11.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hare Krishna Listen To Our K- For Krishna | Guruvayoorambala Nadayil | Prithviraj | Basil |#ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=43Al3Zd8QcE</id>
