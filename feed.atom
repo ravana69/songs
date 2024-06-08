@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-08T15:19:43.235Z</updated>
+    <updated>2024-06-08T16:24:07.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34915,24 +34915,6 @@
         <updated>2024-03-11T04:30:15.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M. G. Soman Old Malayalam Movie Song | Aval Viswasthayayirunnu Remastered MalayalamSong | Yesudas |]]></title>
-        <id>https://www.youtube.com/watch?v=bcTubhxHXPA</id>
-        <link href="https://www.youtube.com/watch?v=bcTubhxHXPA"/>
-        <updated>2024-03-11T04:00:16.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Udurajamukhi Mrugarajakadi | Abraham And Lincoln | A Pramod Papanic Approach | Manjari | Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=a0WkJOKl1N8</id>
-        <link href="https://www.youtube.com/watch?v=a0WkJOKl1N8"/>
-        <updated>2024-03-11T03:30:01.000Z</updated>
-        <author>
-            <name>Speed Music Videos</name>
         </author>
     </entry>
 </feed>
