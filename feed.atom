@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-08T10:20:01.070Z</updated>
+    <updated>2024-06-08T11:15:55.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Madabhara Mizhiyoram - Audio Song | Malaikottai Vaaliban | Mohanlal, Lijo Jose | Prashant Pillai]]></title>
+        <id>https://www.youtube.com/watch?v=xg_NYOiKuMQ</id>
+        <link href="https://www.youtube.com/watch?v=xg_NYOiKuMQ"/>
+        <updated>2024-06-08T10:30:30.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enguninnengu Ninnee Sugandham | Ilavankodu Desam | K S Chithra | Vidyasagar | O N V Kurup]]></title>
+        <id>https://www.youtube.com/watch?v=eogN22lb9Lw</id>
+        <link href="https://www.youtube.com/watch?v=eogN22lb9Lw"/>
+        <updated>2024-06-08T10:30:15.000Z</updated>
+        <author>
+            <name>Satyam Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attuthottil  | Animation Version Film Songs #shortsfeed #shortsvideo #reels  #animation #kidscartoon]]></title>
+        <id>https://www.youtube.com/watch?v=NGFyfCxt1lw</id>
+        <link href="https://www.youtube.com/watch?v=NGFyfCxt1lw"/>
+        <updated>2024-06-08T10:30:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baletta Baletta | Balettan | DJ Savyo | Gireesh Puthenchery | M Jayachandran | Remix Film Song]]></title>
+        <id>https://www.youtube.com/watch?v=JjVo7FlxNkM</id>
+        <link href="https://www.youtube.com/watch?v=JjVo7FlxNkM"/>
+        <updated>2024-06-08T10:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഡേറ്റ് ഇട്ടു പ്രാർത്ഥിക്കുക l Kreupasanam powerful prayer l miraculous prayer l marian]]></title>
         <id>https://www.youtube.com/watch?v=NOX3SZAf7ak</id>
@@ -382,6 +418,15 @@
         <updated>2024-06-07T11:13:25.000Z</updated>
         <author>
             <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palanaal (Version 2) - Video Song | Monica: Oru AI Story | Yunuseo | Yarbash Bachu]]></title>
+        <id>https://www.youtube.com/watch?v=tZckoicKCS0</id>
+        <link href="https://www.youtube.com/watch?v=tZckoicKCS0"/>
+        <updated>2024-06-07T10:32:10.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
