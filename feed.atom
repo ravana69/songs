@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-08T03:20:41.719Z</updated>
+    <updated>2024-06-08T04:23:25.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gangatheertham Vol.01 | Hindu Devotional Songs | K J Yesudas | P C Aravindhan | Sound of Arts]]></title>
+        <id>https://www.youtube.com/watch?v=h9SCXFel1kI</id>
+        <link href="https://www.youtube.com/watch?v=h9SCXFel1kI"/>
+        <updated>2024-06-08T04:00:32.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thiruhrudayathin Munpil....#christiandevotionalsongsmalayalam #aleniamol #jojijohns #christiansongs]]></title>
         <id>https://www.youtube.com/watch?v=0h5A8aN9Exo</id>
@@ -34762,15 +34771,6 @@
         <updated>2024-03-10T17:37:38.000Z</updated>
         <author>
             <name>NANCHIL BEATS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 March 2024]]></title>
-        <id>https://www.youtube.com/watch?v=QhLGSx_Cd1I</id>
-        <link href="https://www.youtube.com/watch?v=QhLGSx_Cd1I"/>
-        <updated>2024-03-10T16:16:50.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
