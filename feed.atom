@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-08T04:23:25.566Z</updated>
+    <updated>2024-06-08T05:18:13.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thiruhrudayathin Munpil........#christiandevotionalsongsmalayalam #aleniamol #jojijohns]]></title>
+        <id>https://www.youtube.com/watch?v=eThsw9Rr51s</id>
+        <link href="https://www.youtube.com/watch?v=eThsw9Rr51s"/>
+        <updated>2024-06-08T05:03:44.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Punnara Kattile Poovanatthil - Sleep Lofi | Malaikottai Vaaliban | Prashant Pillai | Chris Wayne]]></title>
+        <id>https://www.youtube.com/watch?v=vaUDx0GfIuo</id>
+        <link href="https://www.youtube.com/watch?v=vaUDx0GfIuo"/>
+        <updated>2024-06-08T04:30:31.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thakilu Pukilu Kurava Kuzhalu | Ravanaprabhu | Mohanlal | Suresh Peters | MG Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=k3Ebj1x1_W8</id>
+        <link href="https://www.youtube.com/watch?v=k3Ebj1x1_W8"/>
+        <updated>2024-06-08T04:30:19.000Z</updated>
+        <author>
+            <name>Speed Music Videos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chandhanamukile | Vellinakshathram #kschithra #mjayachandran #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=kYAp2z3KS4k</id>
+        <link href="https://www.youtube.com/watch?v=kYAp2z3KS4k"/>
+        <updated>2024-06-08T04:30:15.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vibe For K For Kalyanam Join Your Hands| Guruvayoorambala Nadayil | Prithviraj | Basil |#ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=C3DRPlUJ7CY</id>
+        <link href="https://www.youtube.com/watch?v=C3DRPlUJ7CY"/>
+        <updated>2024-06-08T04:30:05.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gangatheertham Vol.01 | Hindu Devotional Songs | K J Yesudas | P C Aravindhan | Sound of Arts]]></title>
         <id>https://www.youtube.com/watch?v=h9SCXFel1kI</id>
