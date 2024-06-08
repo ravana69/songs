@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-08T18:24:15.053Z</updated>
+    <updated>2024-06-08T19:15:14.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 9th June 2024]]></title>
+        <id>https://www.youtube.com/watch?v=nUbkYy78UPg</id>
+        <link href="https://www.youtube.com/watch?v=nUbkYy78UPg"/>
+        <updated>2024-06-08T19:00:20.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=r1Qy8IE9j-o</id>
+        <link href="https://www.youtube.com/watch?v=r1Qy8IE9j-o"/>
+        <updated>2024-06-08T18:30:42.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നിങ്ങൾ കാതോർത്തുകേൾക്കുന്ന പ്രണയഗാനങ്ങൾ| കെ ജെ യേശുദാസ് |Remastered songs |മലയാളചലച്ചിത്രഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=gF0rOgOgxZ0</id>
+        <link href="https://www.youtube.com/watch?v=gF0rOgOgxZ0"/>
+        <updated>2024-06-08T18:28:25.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കഴിഞ്ഞതെല്ലാം മറക്കാൻ, ക്ഷമിക്കാൻ നാഥാ ശേഷിയേകണേ]]></title>
         <id>https://www.youtube.com/watch?v=on4EpJK68eI</id>
@@ -34861,42 +34888,6 @@
         <updated>2024-03-11T07:30:00.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raappadithan Video Song | Daisy | Sonia | KS Chithra | Shyam | P Bhaskaran]]></title>
-        <id>https://www.youtube.com/watch?v=4HWsXdUwMfA</id>
-        <link href="https://www.youtube.com/watch?v=4HWsXdUwMfA"/>
-        <updated>2024-03-11T07:13:55.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daiveeka Sannidhyam |Christian Devotional Songs | Kristheeya Bhakthiganangal | Audio Jukebox]]></title>
-        <id>https://www.youtube.com/watch?v=RRPVxQGNPxM</id>
-        <link href="https://www.youtube.com/watch?v=RRPVxQGNPxM"/>
-        <updated>2024-03-11T07:06:03.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[கோப்ரா - உயிர் உருகுதே தமிழ் பாடல் வரிகள் | ஏ. ஆர். ரகுமான்]]></title>
-        <id>https://www.youtube.com/watch?v=59kP-t5J_sA</id>
-        <link href="https://www.youtube.com/watch?v=59kP-t5J_sA"/>
-        <updated>2024-03-11T07:00:02.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[குரு - மையா மையா தமிழ் பாடல் வரிகள் | ஏ. ஆர். ரகுமான்]]></title>
-        <id>https://www.youtube.com/watch?v=0tLSKoVSJa0</id>
-        <link href="https://www.youtube.com/watch?v=0tLSKoVSJa0"/>
-        <updated>2024-03-11T07:00:00.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
