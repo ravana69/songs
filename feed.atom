@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-08T12:33:39.219Z</updated>
+    <updated>2024-06-08T13:19:44.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hey Hear Out Our Vibe | Guruvayoorambala Nadayil | Prithviraj | Basil | Anaswara |  #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=xRpiEcq_QnE</id>
+        <link href="https://www.youtube.com/watch?v=xRpiEcq_QnE"/>
+        <updated>2024-06-08T13:01:02.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nee Manimukilaadakal Video Song | Vellithira | Prithviraj | Navya Nair | Malayalam Movie Songs]]></title>
         <id>https://www.youtube.com/watch?v=KpqFL2ZsAgA</id>
@@ -34888,15 +34897,6 @@
         <updated>2024-03-11T02:00:07.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Heart | Chattakkari #ytshorts  #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=crmoqHQNlho</id>
-        <link href="https://www.youtube.com/watch?v=crmoqHQNlho"/>
-        <updated>2024-03-11T01:00:06.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
 </feed>
