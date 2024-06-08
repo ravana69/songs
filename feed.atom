@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-08T06:24:57.196Z</updated>
+    <updated>2024-06-08T07:17:40.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guruvayoorambala Nadayil - Full Album | Prithviraj | Basil Joseph | Ankit Menon | Vipin Das]]></title>
+        <id>https://www.youtube.com/watch?v=wBcmtZvSbD8</id>
+        <link href="https://www.youtube.com/watch?v=wBcmtZvSbD8"/>
+        <updated>2024-06-08T07:00:33.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jayabharathi r Malayalam Romantic Old Superhit Movie Song l Mooladhanam  Movie | Prem Nazir, Sathyan]]></title>
         <id>https://www.youtube.com/watch?v=VV4-g0TmQmY</id>
@@ -34789,24 +34798,6 @@
         <updated>2024-03-10T20:15:34.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer 11th of March # Athiravile Prarthana 11th March 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=br_rHR-hkuU</id>
-        <link href="https://www.youtube.com/watch?v=br_rHR-hkuU"/>
-        <updated>2024-03-10T19:00:28.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=BUYKEGeyLaI</id>
-        <link href="https://www.youtube.com/watch?v=BUYKEGeyLaI"/>
-        <updated>2024-03-10T18:30:13.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
