@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-08T19:15:14.757Z</updated>
+    <updated>2024-06-08T20:18:08.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 9 # Athiravile Prarthana 9th of June 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=GJoY0L9yxYA</id>
+        <link href="https://www.youtube.com/watch?v=GJoY0L9yxYA"/>
+        <updated>2024-06-08T20:00:06.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അമ്മ നിൻറെ 5 മിനിറ്റ് യാചിക്കുന്നു l marian l miraculous prayer l powerful prayer]]></title>
+        <id>https://www.youtube.com/watch?v=USlWgTZEQiU</id>
+        <link href="https://www.youtube.com/watch?v=USlWgTZEQiU"/>
+        <updated>2024-06-08T19:30:03.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 9th June 2024]]></title>
         <id>https://www.youtube.com/watch?v=nUbkYy78UPg</id>
@@ -34870,24 +34888,6 @@
         <updated>2024-03-11T10:30:10.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iniyonnu Paadu Hridayame| Golandharavaartha | Johnson | ONV Kurupp | Yesudas | Mammooty | Shobana]]></title>
-        <id>https://www.youtube.com/watch?v=o802wtvqt8c</id>
-        <link href="https://www.youtube.com/watch?v=o802wtvqt8c"/>
-        <updated>2024-03-11T08:02:09.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panchavadiyile Mayaseethayo - Lankaadahanam(1971) | P Jayachandran | Prem Nazeer | Vijayasree]]></title>
-        <id>https://www.youtube.com/watch?v=5LK2cIBquzU</id>
-        <link href="https://www.youtube.com/watch?v=5LK2cIBquzU"/>
-        <updated>2024-03-11T07:30:00.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
