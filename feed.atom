@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-09T17:17:45.647Z</updated>
+    <updated>2024-06-09T18:24:13.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34870,33 +34870,6 @@
         <updated>2024-03-12T06:30:13.000Z</updated>
         <author>
             <name>Celebrants India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കെസ്റ്ററിനെ പോലും കരയിപ്പിച്ച  നോമ്പ് ഗാനങ്ങൾ | Kester Hits | #kestersongs]]></title>
-        <id>https://www.youtube.com/watch?v=3ABiGrwMoTU</id>
-        <link href="https://www.youtube.com/watch?v=3ABiGrwMoTU"/>
-        <updated>2024-03-12T06:13:01.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puthiyoru Vanil Video Song | Kuruvi Paapa | Joshy John | Pradeep Tom | Vineeth | Muktha]]></title>
-        <id>https://www.youtube.com/watch?v=Zs7vMIkbl4k</id>
-        <link href="https://www.youtube.com/watch?v=Zs7vMIkbl4k"/>
-        <updated>2024-03-12T06:08:25.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omane | Boyy Friennd | Video Song | Vinayan | M.Jayachandran | Sujatha | Nishad | R K Damodaran]]></title>
-        <id>https://www.youtube.com/watch?v=A6HgNL1Utx0</id>
-        <link href="https://www.youtube.com/watch?v=A6HgNL1Utx0"/>
-        <updated>2024-03-12T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
