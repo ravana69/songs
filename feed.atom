@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-09T18:24:13.417Z</updated>
+    <updated>2024-06-09T19:16:05.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 10th June 2024]]></title>
+        <id>https://www.youtube.com/watch?v=_5e3xjDQRUQ</id>
+        <link href="https://www.youtube.com/watch?v=_5e3xjDQRUQ"/>
+        <updated>2024-06-09T19:00:22.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=w0f8tSZBZUo</id>
+        <link href="https://www.youtube.com/watch?v=w0f8tSZBZUo"/>
+        <updated>2024-06-09T18:30:47.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഞങ്ങൾക്കുള്ള കർത്താവേ | KESTER | ROY PUTHUR]]></title>
         <id>https://www.youtube.com/watch?v=Qi3mE66iZFM</id>
@@ -34852,24 +34870,6 @@
         <updated>2024-03-12T07:30:02.000Z</updated>
         <author>
             <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manathoru Pontharakam Video Song | Pranaya Nilavu | Dileep | Mohini | KS Chithra | Berny Ignatius]]></title>
-        <id>https://www.youtube.com/watch?v=GSJWCNpUh14</id>
-        <link href="https://www.youtube.com/watch?v=GSJWCNpUh14"/>
-        <updated>2024-03-12T07:14:23.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OTHIRI NOMBARAM (St Joseph's Day) | #shorts | Fr Shaji Thumpechirayil | NEETHIMAN]]></title>
-        <id>https://www.youtube.com/watch?v=udENNanwvw8</id>
-        <link href="https://www.youtube.com/watch?v=udENNanwvw8"/>
-        <updated>2024-03-12T06:30:13.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
         </author>
     </entry>
 </feed>
