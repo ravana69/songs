@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-09T14:17:23.545Z</updated>
+    <updated>2024-06-09T15:18:53.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thaalolam Poompaithale |  Nadodi  |SP Venkitesh | K.G.Markose #songoftheday]]></title>
+        <id>https://www.youtube.com/watch?v=mR5DA2-jmuk</id>
+        <link href="https://www.youtube.com/watch?v=mR5DA2-jmuk"/>
+        <updated>2024-06-09T14:30:27.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maanasa Nilayil | Dhwani l Jayaram l Shobana l Prem Nazeer l Naushad Ali]]></title>
+        <id>https://www.youtube.com/watch?v=TvjhlWEcuHM</id>
+        <link href="https://www.youtube.com/watch?v=TvjhlWEcuHM"/>
+        <updated>2024-06-09T14:30:21.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Superhit Songs | S Janaki | Christian Melody Songs Malayalam | Joji Johns | Biju Narayanan]]></title>
         <id>https://www.youtube.com/watch?v=NcVZFeHYkeE</id>
@@ -34879,24 +34897,6 @@
         <updated>2024-03-12T03:30:19.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kumkuma Malarukalo|Jagadeesh|Sunitha|Mukha Mudra|]]></title>
-        <id>https://www.youtube.com/watch?v=verC1JPzgGo</id>
-        <link href="https://www.youtube.com/watch?v=verC1JPzgGo"/>
-        <updated>2024-03-12T03:00:30.000Z</updated>
-        <author>
-            <name>Raaga music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaypulla Vellam Kudicheedilum | Azhalerum | Pr. Muttom Geevarghese | Kester #shortvideo]]></title>
-        <id>https://www.youtube.com/watch?v=QNVkWYsKFao</id>
-        <link href="https://www.youtube.com/watch?v=QNVkWYsKFao"/>
-        <updated>2024-03-12T02:30:07.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
