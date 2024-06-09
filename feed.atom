@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-09T09:19:46.133Z</updated>
+    <updated>2024-06-09T10:19:16.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഡേറ്റ് ഇട്ടു പ്രാർത്ഥിക്കുക l Kreupasanam powerful prayer l miraculous prayer l marian]]></title>
+        <id>https://www.youtube.com/watch?v=OOk_9ImGo0I</id>
+        <link href="https://www.youtube.com/watch?v=OOk_9ImGo0I"/>
+        <updated>2024-06-09T09:30:10.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moonnu Chakaravandi | Kochi Rajavu  | Video | Dileep | Kavya Madhavan | M.G.Sreekumar | Vidyasagar]]></title>
         <id>https://www.youtube.com/watch?v=oeFPkpoRikk</id>
@@ -1597,6 +1606,15 @@
         <updated>2024-06-05T05:02:40.000Z</updated>
         <author>
             <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhavillin Chellanu Video Song | Abhirami Movie | Gayathri Suresh | Harikrishnan | Mushthaq Rahman]]></title>
+        <id>https://www.youtube.com/watch?v=4nfhy25ZCTs</id>
+        <link href="https://www.youtube.com/watch?v=4nfhy25ZCTs"/>
+        <updated>2024-06-05T04:51:13.000Z</updated>
+        <author>
+            <name>123Musix</name>
         </author>
     </entry>
     <entry>
@@ -34843,15 +34861,6 @@
         <updated>2024-03-11T23:30:02.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=b2GQ0DxLCZM</id>
-        <link href="https://www.youtube.com/watch?v=b2GQ0DxLCZM"/>
-        <updated>2024-03-11T22:00:25.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
