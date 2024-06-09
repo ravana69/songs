@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-09T04:22:47.148Z</updated>
+    <updated>2024-06-09T05:18:20.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Panchavarna Painkili Penne Video Song | Sallapam | Manju Warrier | Dileep | KS Chithra | Johnson]]></title>
+        <id>https://www.youtube.com/watch?v=W_HEqlZ13B8</id>
+        <link href="https://www.youtube.com/watch?v=W_HEqlZ13B8"/>
+        <updated>2024-06-09T04:30:14.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sing For Vatteppam And Vibe With Your Playlist| Mandakini | Dabzee | Altaf Salim | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=bcpBA_B7Ypo</id>
+        <link href="https://www.youtube.com/watch?v=bcpBA_B7Ypo"/>
+        <updated>2024-06-09T04:30:13.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neela Nilave - Sleep Lofi | RDX | Sam C.S | Kapil Kapilan | EternaLove]]></title>
+        <id>https://www.youtube.com/watch?v=Ca99xEAqN48</id>
+        <link href="https://www.youtube.com/watch?v=Ca99xEAqN48"/>
+        <updated>2024-06-09T04:30:05.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innale Ente Nenjile | Balettan  | Gireesh Puthencherry  #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=6FW8MejLD50</id>
+        <link href="https://www.youtube.com/watch?v=6FW8MejLD50"/>
+        <updated>2024-06-09T04:30:02.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sheela Malayalam Romantic Old Superhit Movie Song l Omana Movie | Ravichandran, Prem Nazir]]></title>
         <id>https://www.youtube.com/watch?v=EhKs5Najv6c</id>
