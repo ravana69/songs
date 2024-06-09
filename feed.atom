@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-09T12:35:09.873Z</updated>
+    <updated>2024-06-09T13:19:52.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Get Into The Beats Of Vatteppam | Mandakini | Dabzee | Altaf Salim | Bibin Ashok | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=eLG2M4qkls0</id>
+        <link href="https://www.youtube.com/watch?v=eLG2M4qkls0"/>
+        <updated>2024-06-09T13:00:38.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pachamaanga Pachamaanga Song | Vellithira | Prithviraj | Navya Nair | Malayalam Movie Songs #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=Qxu1WlHUS1Y</id>
+        <link href="https://www.youtube.com/watch?v=Qxu1WlHUS1Y"/>
+        <updated>2024-06-09T13:00:31.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kurukkazhikkunna mathavinodulla prarthana #mary  Undoes of Knots Prayer in Malayalam #kurukuzhikkuna]]></title>
+        <id>https://www.youtube.com/watch?v=eM-uLLQAN_Q</id>
+        <link href="https://www.youtube.com/watch?v=eM-uLLQAN_Q"/>
+        <updated>2024-06-09T12:51:27.000Z</updated>
+        <author>
+            <name>Vachanam Audios Official</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 9th of June 2024]]></title>
         <id>https://www.youtube.com/watch?v=ViokFyARv-c</id>
