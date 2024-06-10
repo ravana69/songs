@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-10T05:19:23.116Z</updated>
+    <updated>2024-06-10T06:28:22.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chimmi Chimmi | Urumi | Manjari | Kaithapram | Deepak Dev | Prithiviraj | Prabhudeva | Nithya Menon]]></title>
+        <id>https://www.youtube.com/watch?v=bGT0XYc0CCA</id>
+        <link href="https://www.youtube.com/watch?v=bGT0XYc0CCA"/>
+        <updated>2024-06-10T05:30:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ithalazhakil Malar | Innalekalillathe | Manju Warrier | Biju Narayanan | K.S.Chithra | Rex Issac]]></title>
+        <id>https://www.youtube.com/watch?v=75bxw1ZYeYs</id>
+        <link href="https://www.youtube.com/watch?v=75bxw1ZYeYs"/>
+        <updated>2024-06-10T05:30:02.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ponnum Mederi Chingha | Eshtadanam | Jagadheesh | Suma Menon | K S Chithra | Mohan Sithara]]></title>
         <id>https://www.youtube.com/watch?v=xpwMP3UBbqw</id>
@@ -34762,33 +34780,6 @@
         <updated>2024-03-12T18:30:37.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malkosinte Gadhgathangal Day 31]]></title>
-        <id>https://www.youtube.com/watch?v=NyaIjCqmyHo</id>
-        <link href="https://www.youtube.com/watch?v=NyaIjCqmyHo"/>
-        <updated>2024-03-12T18:22:50.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathavinodulla Samprakshana Prarthana The Immaculate Heart of Mother Mary Prayer 13th March 24]]></title>
-        <id>https://www.youtube.com/watch?v=1TKpQcNRgkM</id>
-        <link href="https://www.youtube.com/watch?v=1TKpQcNRgkM"/>
-        <updated>2024-03-12T18:00:01.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇളമാൻ മിഴിയിൽ..| കെ ജെ യേശുദാസ് | K S Chitra | Sujatha Mohan | Selected Film songs]]></title>
-        <id>https://www.youtube.com/watch?v=G5DBl_LpHrM</id>
-        <link href="https://www.youtube.com/watch?v=G5DBl_LpHrM"/>
-        <updated>2024-03-12T17:42:29.000Z</updated>
-        <author>
-            <name>Tharangini Sound of arts Dubai</name>
         </author>
     </entry>
 </feed>
