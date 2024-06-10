@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-10T07:18:22.718Z</updated>
+    <updated>2024-06-10T08:25:31.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പാട്ടിനെ സ്നേഹിക്കുന്ന എല്ലാ മലയാളികളും എപ്പോഴും കേൾക്കാറുള്ള നിത്യസുന്ദര ഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=XIvP3ztoNbE</id>
+        <link href="https://www.youtube.com/watch?v=XIvP3ztoNbE"/>
+        <updated>2024-06-10T07:45:37.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mazhavilladum Malayude Mukalil | Thudarkadha | Maathu | Shyama | Devan - SP Venkitesh Hits]]></title>
+        <id>https://www.youtube.com/watch?v=uOIE-c6X2q8</id>
+        <link href="https://www.youtube.com/watch?v=uOIE-c6X2q8"/>
+        <updated>2024-06-10T07:30:14.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ജ്ഞാനപ്പഴം നീയല്ലേ | NJANAPAZHAM NEEYALLE | SREEMURUGAN MOVIE SONG | P Madhuri & P Sushila]]></title>
         <id>https://www.youtube.com/watch?v=u5Vb4oPJhuU</id>
