@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-10T10:22:16.256Z</updated>
+    <updated>2024-06-10T11:17:38.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Raakk - Audio Song | Malaikottai Vaaliban | Mohanlal | Lijo Jose Pellissery | Prashant Pillai]]></title>
+        <id>https://www.youtube.com/watch?v=zy1dDgB1og8</id>
+        <link href="https://www.youtube.com/watch?v=zy1dDgB1og8"/>
+        <updated>2024-06-10T10:30:19.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aanakkallan | Remix | Salt N' Pepper | DJ Savyo | Avial Band | Ashiq Abu | Salt & Pepper | Film Song]]></title>
+        <id>https://www.youtube.com/watch?v=bjO9SujMusY</id>
+        <link href="https://www.youtube.com/watch?v=bjO9SujMusY"/>
+        <updated>2024-06-10T10:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഡേറ്റ് ഇട്ടു പ്രാർത്ഥിക്കുക l Kreupasanam powerful prayer l miraculous prayer l marian]]></title>
         <id>https://www.youtube.com/watch?v=hnqsep8Unys</id>
