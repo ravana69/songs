@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-10T22:19:47.476Z</updated>
+    <updated>2024-06-10T23:19:37.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=zFzloYrKTOY</id>
+        <link href="https://www.youtube.com/watch?v=zFzloYrKTOY"/>
+        <updated>2024-06-10T23:00:33.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 11 # Athiravile Prarthana 11th of June 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=HXAaAlskx80</id>
@@ -34726,33 +34735,6 @@
         <updated>2024-03-13T11:30:02.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nilayolangal |Album Promo Video| M T Vasudevan Nair | P C Aravindan | Jithesh Narayanan | നിളയോളങ്ങൾ]]></title>
-        <id>https://www.youtube.com/watch?v=qYJiAMvxmAQ</id>
-        <link href="https://www.youtube.com/watch?v=qYJiAMvxmAQ"/>
-        <updated>2024-03-13T10:43:51.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sangeetha Marathaka Haram Video Song | Malayalam Movie Songs | S Janaki | Zarina Wahab | Jose]]></title>
-        <id>https://www.youtube.com/watch?v=d0VX5UWFHUc</id>
-        <link href="https://www.youtube.com/watch?v=d0VX5UWFHUc"/>
-        <updated>2024-03-13T10:30:22.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poomeyyil Manmadanoru | Uthara Chemmeen | KS Chithra | KS Binu Anand | Prabhakaran Narukara]]></title>
-        <id>https://www.youtube.com/watch?v=IP3Q1NIi_nA</id>
-        <link href="https://www.youtube.com/watch?v=IP3Q1NIi_nA"/>
-        <updated>2024-03-13T10:30:10.000Z</updated>
-        <author>
-            <name>Satyam Audios</name>
         </author>
     </entry>
 </feed>
