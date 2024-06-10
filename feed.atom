@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-10T16:25:04.886Z</updated>
+    <updated>2024-06-10T17:17:38.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34879,24 +34879,6 @@
         <updated>2024-03-13T05:30:07.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NERAM Lyrical Video | Jai Ganesh | Ranjith Sankar | Unni Mukundan | Rzee | Sankar Sharma | Mahima]]></title>
-        <id>https://www.youtube.com/watch?v=yPXj8uVY2Gk</id>
-        <link href="https://www.youtube.com/watch?v=yPXj8uVY2Gk"/>
-        <updated>2024-03-13T04:38:17.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Etho Nadiyude Theerathil | Kochu Themmadi | Mammootty | P.Madhuri | G.Devarajan | P Bhaskaran]]></title>
-        <id>https://www.youtube.com/watch?v=5Jsoj8CsQCg</id>
-        <link href="https://www.youtube.com/watch?v=5Jsoj8CsQCg"/>
-        <updated>2024-03-13T04:30:02.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
