@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-11T14:18:25.240Z</updated>
+    <updated>2024-06-11T15:21:18.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Manjakkiliyude Moolippaatunde |  Kanmadam |Raveendran|Gireesh Puthenchery | KJ Yesudas#SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=kG3S-DtznTQ</id>
+        <link href="https://www.youtube.com/watch?v=kG3S-DtznTQ"/>
+        <updated>2024-06-11T14:30:26.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chandrikayil Aliyunnu l Bharyamar Sookshikkuka l Prem Nazir |  Sreekumaran Thampi |  A.M Raja]]></title>
+        <id>https://www.youtube.com/watch?v=zjsROXv989E</id>
+        <link href="https://www.youtube.com/watch?v=zjsROXv989E"/>
+        <updated>2024-06-11T14:30:25.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nee Manimukilaadakal Song | Prithviraj | Navya #malayalammoviesongs #everlastingmalayalammelodysongs]]></title>
+        <id>https://www.youtube.com/watch?v=jGeSpD4IDEs</id>
+        <link href="https://www.youtube.com/watch?v=jGeSpD4IDEs"/>
+        <updated>2024-06-11T14:30:17.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നീ തൂകുന്ന സ്നേഹവും, നീയേകുന്ന രക്ഷയും പറയാൻ വയ്യ ; അത്രമേൽ സുന്ദരം .]]></title>
         <id>https://www.youtube.com/watch?v=ohdLpK5bht8</id>
