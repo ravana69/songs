@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-11T16:25:29.615Z</updated>
+    <updated>2024-06-11T17:18:49.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[En Daivam | Shorts  #shortsvideo  #christiandevotionalmalayalamsongs]]></title>
+        <id>https://www.youtube.com/watch?v=p3biIa0y0Yc</id>
+        <link href="https://www.youtube.com/watch?v=p3biIa0y0Yc"/>
+        <updated>2024-06-11T17:04:44.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[En Daivam | Shorts  #shortsvideo  #christiandevotionalmalayalamsongs]]></title>
+        <id>https://www.youtube.com/watch?v=Jl_bSs4mJUg</id>
+        <link href="https://www.youtube.com/watch?v=Jl_bSs4mJUg"/>
+        <updated>2024-06-11T17:02:49.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[En Daivam | Shorts  #shortsvideo  #christiandevotionalmalayalamsongs]]></title>
+        <id>https://www.youtube.com/watch?v=Vz4f3BrCLAE</id>
+        <link href="https://www.youtube.com/watch?v=Vz4f3BrCLAE"/>
+        <updated>2024-06-11T16:44:17.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[En Daivam | Shorts  #shortsvideo  #christiandevotionalmalayalamsongs]]></title>
+        <id>https://www.youtube.com/watch?v=No6OhGfhajI</id>
+        <link href="https://www.youtube.com/watch?v=No6OhGfhajI"/>
+        <updated>2024-06-11T16:30:51.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നിൻ മായക്കണ്ണിൽ മയ്യിട്ട് മയക്കിയില്ലേ... Paranayanilavu | Dileep | mohini]]></title>
+        <id>https://www.youtube.com/watch?v=2mLxYu7Vrcs</id>
+        <link href="https://www.youtube.com/watch?v=2mLxYu7Vrcs"/>
+        <updated>2024-06-11T16:30:00.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Manjakkiliyude Moolippaatunde |  Kanmadam |Raveendran|Gireesh Puthenchery | KJ Yesudas#SongOfTheDay]]></title>
         <id>https://www.youtube.com/watch?v=kG3S-DtznTQ</id>
@@ -34807,33 +34852,6 @@
         <updated>2024-03-14T05:30:07.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aalilathaliyumai Varu Nee Video Song | Mizhi Randilum | Kavya madhavan | Indrajith | P Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=wVj3iwcXRu8</id>
-        <link href="https://www.youtube.com/watch?v=wVj3iwcXRu8"/>
-        <updated>2024-03-14T05:11:05.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You are meant to Thrive, not just Survive! |  lyric video "Neram" from JaiGanesh]]></title>
-        <id>https://www.youtube.com/watch?v=Lc_u1R8PeqM</id>
-        <link href="https://www.youtube.com/watch?v=Lc_u1R8PeqM"/>
-        <updated>2024-03-14T04:45:02.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thenurum Ragam | Uyire Unakkaga | Laxmikant-Pyarelal | S.Janaki | Hi-Res Audio]]></title>
-        <id>https://www.youtube.com/watch?v=LidBByT2WrI</id>
-        <link href="https://www.youtube.com/watch?v=LidBByT2WrI"/>
-        <updated>2024-03-14T04:35:41.000Z</updated>
-        <author>
-            <name>NANCHIL BEATS</name>
         </author>
     </entry>
 </feed>
