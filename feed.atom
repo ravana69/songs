@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-11T07:18:34.597Z</updated>
+    <updated>2024-06-11T08:25:10.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രണയവിരഹ നൊമ്പരങ്ങൾ മനസിൽ പേറുന്നവരുടെ ഇഷ്ടഗാനങ്ങൾ | EVERGREEN  SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=BfNm4hSvxwk</id>
+        <link href="https://www.youtube.com/watch?v=BfNm4hSvxwk"/>
+        <updated>2024-06-11T07:30:02.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hatitham | Collection of O N V Poem | ഓ എൻ വി കുറുപ് എഴുതി ആലപിച്ച  പ്രശസ്തങ്ങളായ കവിതകൾ | Jukebox]]></title>
         <id>https://www.youtube.com/watch?v=kaw_4M6YhP0</id>
