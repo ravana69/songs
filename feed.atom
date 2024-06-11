@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-11T15:21:18.195Z</updated>
+    <updated>2024-06-11T16:25:29.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34834,24 +34834,6 @@
         <updated>2024-03-14T04:35:41.000Z</updated>
         <author>
             <name>NANCHIL BEATS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M. G. Soman Old Malayalam Movie Song| Aval Viswasthayayirunnu Remastered MalayalamSong |Vani Jairam]]></title>
-        <id>https://www.youtube.com/watch?v=7Wzhdl9aS_4</id>
-        <link href="https://www.youtube.com/watch?v=7Wzhdl9aS_4"/>
-        <updated>2024-03-14T04:00:06.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harimuraleeravam | Aaram Thampuran | Mohanlal | Manju Warrier | Yesudas | Raveendran]]></title>
-        <id>https://www.youtube.com/watch?v=9UbJqXBkNW0</id>
-        <link href="https://www.youtube.com/watch?v=9UbJqXBkNW0"/>
-        <updated>2024-03-14T03:30:06.000Z</updated>
-        <author>
-            <name>Speed Music Videos</name>
         </author>
     </entry>
 </feed>
