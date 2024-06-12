@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-12T01:24:53.641Z</updated>
+    <updated>2024-06-12T02:35:12.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nilaave Nilaave | Chattakkaari | Shorts  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=-gSdpVwaOAQ</id>
+        <link href="https://www.youtube.com/watch?v=-gSdpVwaOAQ"/>
+        <updated>2024-06-12T01:30:06.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈശോയുടെ തിരുഹൃദയ വണക്കമാസം 12th June 2024 # Novena to the Sacred Heart of Jesus 12th June 2024]]></title>
         <id>https://www.youtube.com/watch?v=yMoibDh8VUw</id>
@@ -34735,42 +34744,6 @@
         <updated>2024-03-14T18:00:15.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehathin Poonchola | Pappayude Swandam Appus | K J Yesudas | Ilayaraja | Mammootty | #SongofTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=UwRItroNg7Q</id>
-        <link href="https://www.youtube.com/watch?v=UwRItroNg7Q"/>
-        <updated>2024-03-14T14:30:19.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dance in style!🕺 #NeelaNilave #RDX #ytshorts #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=mNyoy9CcfG8</id>
-        <link href="https://www.youtube.com/watch?v=mNyoy9CcfG8"/>
-        <updated>2024-03-14T13:30:31.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനസിനെ മദിക്കുന്ന മനോഹരഗാനങ്ങളുമായി പ്രിയ നായികമാരുടെ ഇഷ്ടഗാനങ്ങൾ | EVERGREEN HITS]]></title>
-        <id>https://www.youtube.com/watch?v=zJQSLTNTkRo</id>
-        <link href="https://www.youtube.com/watch?v=zJQSLTNTkRo"/>
-        <updated>2024-03-14T13:30:22.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ashubha Mangalakaari - Audio Song | Super Sharanya | Anaswara Rajan | Justin Varghese | Girish AD]]></title>
-        <id>https://www.youtube.com/watch?v=6WWSMB1qB8w</id>
-        <link href="https://www.youtube.com/watch?v=6WWSMB1qB8w"/>
-        <updated>2024-03-14T13:30:02.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
