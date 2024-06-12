@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-12T21:18:23.321Z</updated>
+    <updated>2024-06-12T22:18:40.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34843,33 +34843,6 @@
         <updated>2024-03-15T10:30:00.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pranaya Sarovaram |Album Video| Sreekumaran Thampi | P Jayachandran | Haripad Sudheesh | Balu R Nair]]></title>
-        <id>https://www.youtube.com/watch?v=2mzkL5TbG68</id>
-        <link href="https://www.youtube.com/watch?v=2mzkL5TbG68"/>
-        <updated>2024-03-15T09:56:08.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arabikadaloru Manavalan Song | Bhargavi Nilayam |Madhu | Neelavelicham| K J Yesudas | Tovino #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=Z8LZtLKkB-o</id>
-        <link href="https://www.youtube.com/watch?v=Z8LZtLKkB-o"/>
-        <updated>2024-03-15T09:50:24.000Z</updated>
-        <author>
-            <name>Harmony Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nilayolangal | Video Song | M T Vasudevan Nair |  P C Aravindan | Jithesh Narayanan | നിളയോളങ്ങൾ]]></title>
-        <id>https://www.youtube.com/watch?v=9HviN0_iUCA</id>
-        <link href="https://www.youtube.com/watch?v=9HviN0_iUCA"/>
-        <updated>2024-03-15T09:47:13.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
