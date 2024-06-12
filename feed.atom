@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-12T17:17:34.614Z</updated>
+    <updated>2024-06-12T18:26:08.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Santhosh, eMithra | #ytshorts #youtubeshorts #entertainment]]></title>
+        <id>https://www.youtube.com/watch?v=7h8l97gLD-Y</id>
+        <link href="https://www.youtube.com/watch?v=7h8l97gLD-Y"/>
+        <updated>2024-06-12T17:30:00.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Santhosh, eMithra | #ytshorts #youtubeshorts #entertainment]]></title>
         <id>https://www.youtube.com/watch?v=x557SEQAl48</id>
@@ -34879,24 +34888,6 @@
         <updated>2024-03-15T06:30:20.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEASER | Cape Town | Sivaraj | Dileep Kumar Sasthamkotta | Latest Film Teaser | Rajarajeswary Films]]></title>
-        <id>https://www.youtube.com/watch?v=rimNNjTvnKA</id>
-        <link href="https://www.youtube.com/watch?v=rimNNjTvnKA"/>
-        <updated>2024-03-15T06:05:22.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iniyum Kothiyode | Bhaarya Onnu Makkal Moonnu | Video | Sujatha | Rajeev Alunkal | M Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=GDpj4KHclSs</id>
-        <link href="https://www.youtube.com/watch?v=GDpj4KHclSs"/>
-        <updated>2024-03-15T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
