@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-12T12:37:18.104Z</updated>
+    <updated>2024-06-12T13:21:55.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thozhan | Maidaan | Ajay Devgn | A.R.Rahman | Sreekanth Hariharan, Nithyashree V | Boney Kapoor]]></title>
+        <id>https://www.youtube.com/watch?v=_lF4yAODVOg</id>
+        <link href="https://www.youtube.com/watch?v=_lF4yAODVOg"/>
+        <updated>2024-06-12T13:17:34.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Santhosh, eMithra | #ytshorts #youtubeshorts #entertainment]]></title>
+        <id>https://www.youtube.com/watch?v=xq40RGmw3GE</id>
+        <link href="https://www.youtube.com/watch?v=xq40RGmw3GE"/>
+        <updated>2024-06-12T13:13:42.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[തളരാതെ മുൻപോട്ട് വളരുക ..😇 | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
         <id>https://www.youtube.com/watch?v=uFTWqjIsJXY</id>
@@ -34861,15 +34879,6 @@
         <updated>2024-03-15T02:00:07.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ithiri Chakkara Nulli | Seniors #shortsvideo  #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=enw9GbrJyT8</id>
-        <link href="https://www.youtube.com/watch?v=enw9GbrJyT8"/>
-        <updated>2024-03-15T01:00:07.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
 </feed>
