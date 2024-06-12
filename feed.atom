@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-12T08:24:34.674Z</updated>
+    <updated>2024-06-12T09:21:09.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എല്ലായ്‌പോഴും എല്ലാവർക്കും പ്രിയമുള്ള മലയാളസിനിമയിലെ വിനോദ ഗാനങ്ങൾ  | Melody Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=_huyUqXJ1dI</id>
+        <link href="https://www.youtube.com/watch?v=_huyUqXJ1dI"/>
+        <updated>2024-06-12T08:41:19.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SnehaPithave Samarppanam | Super Hit Christian Devotional Songs | Christian Album Songs]]></title>
         <id>https://www.youtube.com/watch?v=newjxBXoq3o</id>
@@ -490,6 +499,15 @@
         <updated>2024-06-11T07:30:02.000Z</updated>
         <author>
             <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thattikko Thattare | Kunddala Puranam | Sarath Chettanpady | Blesson Thomas | Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=JwQOXF2CUL4</id>
+        <link href="https://www.youtube.com/watch?v=JwQOXF2CUL4"/>
+        <updated>2024-06-11T07:08:26.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
