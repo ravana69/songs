@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-12T15:19:19.615Z</updated>
+    <updated>2024-06-12T16:25:02.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Santhosh, eMithra | #ytshorts #youtubeshorts #entertainment]]></title>
+        <id>https://www.youtube.com/watch?v=ZDI3azViGes</id>
+        <link href="https://www.youtube.com/watch?v=ZDI3azViGes"/>
+        <updated>2024-06-12T15:30:16.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കനിയൂ സ്നേഹപിതാവേ...]]></title>
         <id>https://www.youtube.com/watch?v=um9Ucm9MLeo</id>
@@ -34897,33 +34906,6 @@
         <updated>2024-03-15T04:30:02.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehanadhi | Praseeda TP | Manoj Elavunkal | M Sunil | Santhan Abraham Varghese | Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=_kbs1kwaNsA</id>
-        <link href="https://www.youtube.com/watch?v=_kbs1kwaNsA"/>
-        <updated>2024-03-15T04:15:41.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sheela Old Malayalam Movie Songs | Bheekara Nimishangal Remastered Malayalam Songs | P. Susheela]]></title>
-        <id>https://www.youtube.com/watch?v=29hzgaA_KLc</id>
-        <link href="https://www.youtube.com/watch?v=29hzgaA_KLc"/>
-        <updated>2024-03-15T04:00:02.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enente Chankile |  Red Salute |  Folk Film Songs #kalabhavanmani #shortsfeed #shorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=FljPo1YpNTo</id>
-        <link href="https://www.youtube.com/watch?v=FljPo1YpNTo"/>
-        <updated>2024-03-15T03:30:11.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
