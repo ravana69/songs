@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-12T19:16:21.658Z</updated>
+    <updated>2024-06-12T20:20:56.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 13 # Athiravile Prarthana 13th of June 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=c-REUfwu1Q0</id>
+        <link href="https://www.youtube.com/watch?v=c-REUfwu1Q0"/>
+        <updated>2024-06-12T20:00:12.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[നനുത്ത മഴപോലെ മനോഹരമായ പ്രണയരാഗങ്ങൾ| കെ ജെ യേശുദാസ് |Remastered Romantic songs|മലയാളചലച്ചിത്രഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=-GoX92lDFss</id>
+        <link href="https://www.youtube.com/watch?v=-GoX92lDFss"/>
+        <updated>2024-06-12T19:41:18.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അമ്മ നിൻറെ 5 മിനിറ്റ് യാചിക്കുന്നു l marian l miraculous prayer l powerful prayer]]></title>
+        <id>https://www.youtube.com/watch?v=MuBIJn-n0Gk</id>
+        <link href="https://www.youtube.com/watch?v=MuBIJn-n0Gk"/>
+        <updated>2024-06-12T19:30:02.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 13th June 2024]]></title>
         <id>https://www.youtube.com/watch?v=w88TfeuhJLA</id>
@@ -34843,33 +34870,6 @@
         <updated>2024-03-15T09:47:13.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanakanilave | Kauravar | Malayalam Super Hit Song | Mammootty | Anju - SP Venkitesh Hits]]></title>
-        <id>https://www.youtube.com/watch?v=QaEqZc-iZL0</id>
-        <link href="https://www.youtube.com/watch?v=QaEqZc-iZL0"/>
-        <updated>2024-03-15T07:30:12.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karimparakalkkullilum | Karimbana | Bichu Thirumala | AT Ummer | S Janaki | Jayan Old Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=gA0Kn3yYpUQ</id>
-        <link href="https://www.youtube.com/watch?v=gA0Kn3yYpUQ"/>
-        <updated>2024-03-15T07:30:08.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thazhampookal | Kandu Kandarinju | Shyam | Chunakkara Ramankutti | Unnimenon | Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=E5nwS2i2uJg</id>
-        <link href="https://www.youtube.com/watch?v=E5nwS2i2uJg"/>
-        <updated>2024-03-15T07:30:01.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
