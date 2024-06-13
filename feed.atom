@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-13T16:25:51.628Z</updated>
+    <updated>2024-06-13T17:17:49.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34879,24 +34879,6 @@
         <updated>2024-03-16T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M.G.Soman Old Malayalam Movie Song |Aval Viswasthayayirunnu Remastered Malayalam Song | Vani Jairam]]></title>
-        <id>https://www.youtube.com/watch?v=I2enOciz_Ys</id>
-        <link href="https://www.youtube.com/watch?v=I2enOciz_Ys"/>
-        <updated>2024-03-16T05:01:54.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aadyavasanthame Video Song | Vishnulokam | Mohanlal | Shanthi Krishna | KS Chithra | Raveendran]]></title>
-        <id>https://www.youtube.com/watch?v=nKSiNIj7CT8</id>
-        <link href="https://www.youtube.com/watch?v=nKSiNIj7CT8"/>
-        <updated>2024-03-16T04:30:26.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
