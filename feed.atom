@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-13T19:15:40.211Z</updated>
+    <updated>2024-06-13T20:20:22.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 14 # Athiravile Prarthana 14th of June 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=xcT4Ek_Bfvc</id>
+        <link href="https://www.youtube.com/watch?v=xcT4Ek_Bfvc"/>
+        <updated>2024-06-13T20:00:30.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രവാസം | DEVOTIONAL SONG | FR. BIJESH PHILIP | ROY PUTHUR | REBA ROMY #christiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=JGybF2cyTf8</id>
+        <link href="https://www.youtube.com/watch?v=JGybF2cyTf8"/>
+        <updated>2024-06-13T19:40:58.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അമ്മ നിൻറെ 5 മിനിറ്റ് യാചിക്കുന്നു l marian l miraculous prayer l powerful prayer]]></title>
+        <id>https://www.youtube.com/watch?v=_BXFTs8XuxI</id>
+        <link href="https://www.youtube.com/watch?v=_BXFTs8XuxI"/>
+        <updated>2024-06-13T19:30:02.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 14th June 2024]]></title>
         <id>https://www.youtube.com/watch?v=hzndMzT8JYA</id>
@@ -34843,24 +34870,6 @@
         <updated>2024-03-16T08:30:15.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uyirin Nadhan | ഉയിരിൻ നാഥൻ | Kings & Queens Band | Worship Song |Easter Song Karaoke]]></title>
-        <id>https://www.youtube.com/watch?v=uebTzFcwCV4</id>
-        <link href="https://www.youtube.com/watch?v=uebTzFcwCV4"/>
-        <updated>2024-03-16T08:17:17.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കേൾക്കാൻ സുഖമുള്ള അനുഭൂതി പകരുന്ന മലയാളചലച്ചിത്ര ഗാനങ്ങൾ ! EVERGREEN FILM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=IWnAIxQoBio</id>
-        <link href="https://www.youtube.com/watch?v=IWnAIxQoBio"/>
-        <updated>2024-03-16T07:30:08.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
         </author>
     </entry>
 </feed>
