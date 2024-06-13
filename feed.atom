@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-13T04:23:20.226Z</updated>
+    <updated>2024-06-13T05:20:03.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sathyan Malayalam Romantic Old Superhit Movie Song l Mooladhanam Movie |  Sathyan, Sharada]]></title>
+        <id>https://www.youtube.com/watch?v=lO5zXRBL6_I</id>
+        <link href="https://www.youtube.com/watch?v=lO5zXRBL6_I"/>
+        <updated>2024-06-13T05:16:26.000Z</updated>
+        <author>
+            <name>Airene Records</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaser | Swargapithavu | Chithra Arun | Kuriakose Mathew #shorts #teaser]]></title>
+        <id>https://www.youtube.com/watch?v=bR-xmuT-ZpM</id>
+        <link href="https://www.youtube.com/watch?v=bR-xmuT-ZpM"/>
+        <updated>2024-06-13T04:52:45.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nee Mukilo | Uyare #gopisundar #vijayyesudas #sitharakrishnakumar #shortsfeed #shortsvideo #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=W124TPZvTJU</id>
+        <link href="https://www.youtube.com/watch?v=W124TPZvTJU"/>
+        <updated>2024-06-13T04:30:13.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nadhan Varavinnay | Sadhu Kochukunjupadeshi | Shorts #ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=6-AmCskKOLo</id>
