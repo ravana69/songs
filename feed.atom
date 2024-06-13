@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-13T10:20:12.206Z</updated>
+    <updated>2024-06-13T11:17:13.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Valakilukkana Kunjole | HD Video | Kanmashi | S Ramesan Nair | M Jayachandran | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=0Hy64lXNIqI</id>
+        <link href="https://www.youtube.com/watch?v=0Hy64lXNIqI"/>
+        <updated>2024-06-13T11:05:15.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maidaan - Original Soundtrack (Malayalam) | Ajay Devgn | A. R. Rahman | Manoj Muntashir|Boney Kapoor]]></title>
+        <id>https://www.youtube.com/watch?v=QcmwGfYGF6k</id>
+        <link href="https://www.youtube.com/watch?v=QcmwGfYGF6k"/>
+        <updated>2024-06-13T10:30:09.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഡേറ്റ് ഇട്ടു പ്രാർത്ഥിക്കുക l Kreupasanam powerful prayer l miraculous prayer l marian]]></title>
         <id>https://www.youtube.com/watch?v=_lato8PS1xI</id>
