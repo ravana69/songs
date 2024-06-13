@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-13T07:17:54.172Z</updated>
+    <updated>2024-06-13T08:24:29.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എല്ലാ മലയാളികളുടെയും മനം കവർന്ന എപ്പോഴും കേൾക്കാറുള്ള സൂപ്പർഹിറ്റ് യുഗ്മ ഗാനങ്ങൾ | DUET SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=lFOose8Si3I</id>
+        <link href="https://www.youtube.com/watch?v=lFOose8Si3I"/>
+        <updated>2024-06-13T07:50:12.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രേക്ഷകരുടെ ഇഷ്ട നായികയായ ദിവ്യ ഉണ്ണിയുടെ മനം മയക്കുന്ന മനോഹര ഗാനങ്ങൾ | HITS OF DIVYA UNNI]]></title>
+        <id>https://www.youtube.com/watch?v=oWAlcXHfHZU</id>
+        <link href="https://www.youtube.com/watch?v=oWAlcXHfHZU"/>
+        <updated>2024-06-13T07:30:12.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[കാടണിയും കാൽചിലമ്പേ കാനനമൈനേ | Kaadaniyum Kalchilambe | Mohanlal & Kamalini Mukherjee #pulimurugan]]></title>
         <id>https://www.youtube.com/watch?v=Fm1UVJ94UUs</id>
@@ -34796,15 +34814,6 @@
         <id>https://www.youtube.com/watch?v=T4nX5a7xXDA</id>
         <link href="https://www.youtube.com/watch?v=T4nX5a7xXDA"/>
         <updated>2024-03-15T22:00:13.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malkosinte Gadhgathangal Day 34]]></title>
-        <id>https://www.youtube.com/watch?v=3bVFcIT4LlI</id>
-        <link href="https://www.youtube.com/watch?v=3bVFcIT4LlI"/>
-        <updated>2024-03-15T19:32:27.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
