@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-13T22:18:42.984Z</updated>
+    <updated>2024-06-13T23:19:19.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=LWWTAHK5UFY</id>
+        <link href="https://www.youtube.com/watch?v=LWWTAHK5UFY"/>
+        <updated>2024-06-13T23:00:15.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 14 # Athiravile Prarthana 14th of June 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=xcT4Ek_Bfvc</id>
@@ -34816,24 +34825,6 @@
         <updated>2024-03-16T11:30:12.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaradhana | Flying Sisters | Saji C Chacko | Shaiju | Vineetha Prince | New Malayalam Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=CCutoIpnZps</id>
-        <link href="https://www.youtube.com/watch?v=CCutoIpnZps"/>
-        <updated>2024-03-16T11:10:02.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Her graceful moves!💞 #Chellakuruvikku #Antony #shorts #ytshorts]]></title>
-        <id>https://www.youtube.com/watch?v=KACLWF6oWDo</id>
-        <link href="https://www.youtube.com/watch?v=KACLWF6oWDo"/>
-        <updated>2024-03-16T10:30:10.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
