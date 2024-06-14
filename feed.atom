@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-14T08:23:52.891Z</updated>
+    <updated>2024-06-14T09:20:31.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Entha Parayya Short #enthaparrayya song Mathew  T Johnn Evan Jinesh, Lakshya Sigeesh, Neha Ninoy]]></title>
+        <id>https://www.youtube.com/watch?v=J8olOfYxyLY</id>
+        <link href="https://www.youtube.com/watch?v=J8olOfYxyLY"/>
+        <updated>2024-06-14T08:57:35.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[എക്കാലത്തെയും ഹൃദയസ്പർശിയായ മലയാളസിനിമാഗാനങ്ങൾ | EVERGREEN HIT SONGS MALAYALAM]]></title>
         <id>https://www.youtube.com/watch?v=wMpT-2kGi4c</id>
@@ -274,6 +283,15 @@
         <updated>2024-06-13T12:45:02.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രണയം ഉണരും ഗാനങ്ങൾ | Malayalam Evergreen Romantic Hits | KJ Yesudas | KS Chithra | Vidyasagar]]></title>
+        <id>https://www.youtube.com/watch?v=5k96JunSXms</id>
+        <link href="https://www.youtube.com/watch?v=5k96JunSXms"/>
+        <updated>2024-06-13T12:42:51.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
