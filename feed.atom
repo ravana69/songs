@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-14T16:24:01.950Z</updated>
+    <updated>2024-06-14T17:20:03.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഒരു നവ്യ പ്രത്യാശയായി...]]></title>
+        <id>https://www.youtube.com/watch?v=K_Gnjpp15NU</id>
+        <link href="https://www.youtube.com/watch?v=K_Gnjpp15NU"/>
+        <updated>2024-06-14T16:44:50.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swayed away!✨ #NeelaNilave #RDX #ytshorts #shorts]]></title>
         <id>https://www.youtube.com/watch?v=4feNAQJidKU</id>
@@ -34915,15 +34924,6 @@
         <updated>2024-03-17T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaha Manoranjini Video Song | Butterflies | Mohanlal | Aishwarya | MG Sreekumar | Raveendran]]></title>
-        <id>https://www.youtube.com/watch?v=DdZd5bnM8eE</id>
-        <link href="https://www.youtube.com/watch?v=DdZd5bnM8eE"/>
-        <updated>2024-03-17T04:30:08.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
