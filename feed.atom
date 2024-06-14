@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-14T02:35:12.900Z</updated>
+    <updated>2024-06-14T03:21:40.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34762,24 +34762,6 @@
         <updated>2024-03-16T17:13:20.000Z</updated>
         <author>
             <name>Speed Music Videos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIFLE CLUB | AASHIQ ABU | SYAM PUSHKARAN]]></title>
-        <id>https://www.youtube.com/watch?v=iiscweqkY7A</id>
-        <link href="https://www.youtube.com/watch?v=iiscweqkY7A"/>
-        <updated>2024-03-16T15:06:01.000Z</updated>
-        <author>
-            <name>OPM Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16 March 2024]]></title>
-        <id>https://www.youtube.com/watch?v=8UyzOOC6V7s</id>
-        <link href="https://www.youtube.com/watch?v=8UyzOOC6V7s"/>
-        <updated>2024-03-16T15:02:15.000Z</updated>
-        <author>
-            <name>OWN MEDIA MUSIC</name>
         </author>
     </entry>
 </feed>
