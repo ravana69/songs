@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-16T05:20:02.091Z</updated>
+    <updated>2024-06-16T06:26:05.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mizhikalil  | Bunglavil Outha | Video | G Venugopal | Sujatha | Vayalar Sarath | M Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=9JGPwlFEoqI</id>
+        <link href="https://www.youtube.com/watch?v=9JGPwlFEoqI"/>
+        <updated>2024-06-16T05:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parvanendhu Choodi | Manikyachempazhukka | Mukesh | Mathu | M G Sreekumar | Rajamani]]></title>
         <id>https://www.youtube.com/watch?v=Cli89WuskAA</id>
@@ -34996,24 +35005,6 @@
         <updated>2024-03-18T18:30:44.000Z</updated>
         <author>
             <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aathi Vadayile | Sindhu Nathi Poo | Soundaryan | K.J.Yesudas & Asha Latha | Hi-Res Audio]]></title>
-        <id>https://www.youtube.com/watch?v=O4-kcrSRVo0</id>
-        <link href="https://www.youtube.com/watch?v=O4-kcrSRVo0"/>
-        <updated>2024-03-18T18:02:51.000Z</updated>
-        <author>
-            <name>NANCHIL BEATS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathavinodulla Samprakshana Prarthana The Immaculate Heart of Mother Mary Prayer 19th March 24]]></title>
-        <id>https://www.youtube.com/watch?v=FgJoHVnrJYA</id>
-        <link href="https://www.youtube.com/watch?v=FgJoHVnrJYA"/>
-        <updated>2024-03-18T18:00:12.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
