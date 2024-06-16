@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-16T14:17:00.450Z</updated>
+    <updated>2024-06-16T15:20:02.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aaro Viral Neetti | Gireesh Puthenchery | Vidyasagar KJ Yesudas |Manju Warrier]]></title>
+        <id>https://www.youtube.com/watch?v=Zv82UkucLK4</id>
+        <link href="https://www.youtube.com/watch?v=Zv82UkucLK4"/>
+        <updated>2024-06-16T14:30:12.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moovanthi Thazhvarayil | Raveendran | Gireesh Puthenchery l KJ Yesudas #songoftheday]]></title>
+        <id>https://www.youtube.com/watch?v=bF5-uHTx4c4</id>
+        <link href="https://www.youtube.com/watch?v=bF5-uHTx4c4"/>
+        <updated>2024-06-16T14:30:11.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vezhambal Marikkayi | Christian Video Song | Fr.Phinil Ezharath CMI |  Belram K Mohandas | Shine]]></title>
         <id>https://www.youtube.com/watch?v=-1mo3e6z4N0</id>
