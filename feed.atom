@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-16T10:20:11.570Z</updated>
+    <updated>2024-06-16T11:15:45.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Athmave Poo X Nizhalaadum - Video Mashup | Sushin Shyam | Manikandan Ayyappa]]></title>
+        <id>https://www.youtube.com/watch?v=QUaJ-gIInIU</id>
+        <link href="https://www.youtube.com/watch?v=QUaJ-gIInIU"/>
+        <updated>2024-06-16T10:30:07.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chimmi Chimmi  | Animation Version Film Songs #shortsfeed #shortsvideo #reels  #animation]]></title>
+        <id>https://www.youtube.com/watch?v=B-x_CgtUiNU</id>
+        <link href="https://www.youtube.com/watch?v=B-x_CgtUiNU"/>
+        <updated>2024-06-16T10:30:05.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഡേറ്റ് ഇട്ടു പ്രാർത്ഥിക്കുക l Kreupasanam powerful prayer l miraculous prayer l marian]]></title>
         <id>https://www.youtube.com/watch?v=3O7_nT_9rZo</id>
