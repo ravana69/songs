@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-16T19:16:44.529Z</updated>
+    <updated>2024-06-16T20:19:05.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 17 # Athiravile Prarthana 17th of June 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=8156fUvQmRY</id>
+        <link href="https://www.youtube.com/watch?v=8156fUvQmRY"/>
+        <updated>2024-06-16T20:00:01.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അമ്മ നിൻറെ 5 മിനിറ്റ് യാചിക്കുന്നു l marian l miraculous prayer l powerful prayer]]></title>
+        <id>https://www.youtube.com/watch?v=7CXJJ2RNLsM</id>
+        <link href="https://www.youtube.com/watch?v=7CXJJ2RNLsM"/>
+        <updated>2024-06-16T19:30:00.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 17th June 2024]]></title>
         <id>https://www.youtube.com/watch?v=rHbaLyNax0w</id>
@@ -35005,24 +35023,6 @@
         <updated>2024-03-19T08:44:07.000Z</updated>
         <author>
             <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[കേട്ട് കേട്ട് ഇനിയും കൊതി തീരാത്ത മലയാളസിനിമയിലെ തരളിതഗാനങ്ങൾ ! FAVOURITE SONGS MALAYALAM]]></title>
-        <id>https://www.youtube.com/watch?v=ja76cTf6jBQ</id>
-        <link href="https://www.youtube.com/watch?v=ja76cTf6jBQ"/>
-        <updated>2024-03-19T07:30:11.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kazhchayekam Kasayil | നോമ്പുകാല ഗാനങ്ങൾ | ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Christian Devotional Songs|]]></title>
-        <id>https://www.youtube.com/watch?v=E61brhIWsrQ</id>
-        <link href="https://www.youtube.com/watch?v=E61brhIWsrQ"/>
-        <updated>2024-03-19T07:23:23.000Z</updated>
-        <author>
-            <name>Jesus - Malayalam Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
