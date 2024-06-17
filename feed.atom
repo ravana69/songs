@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-17T07:18:24.285Z</updated>
+    <updated>2024-06-17T08:25:38.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Poliyoo Poli | Pallavoor Devanarayanan | Raveendran | Girish Puthenchery | Mammootty | Film songs]]></title>
+        <id>https://www.youtube.com/watch?v=cNjShxriYgc</id>
+        <link href="https://www.youtube.com/watch?v=cNjShxriYgc"/>
+        <updated>2024-06-17T07:30:15.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ariyathe Ariyathe | Itha Oru Dhikkari | Poovachal Khader | AT Ummer | KJ Yesudas | Prem Naseer]]></title>
+        <id>https://www.youtube.com/watch?v=j1qLjT85qo4</id>
+        <link href="https://www.youtube.com/watch?v=j1qLjT85qo4"/>
+        <updated>2024-06-17T07:30:11.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രണയം തുളുമ്പും  മധുരമനോഹര ഗാനങ്ങൾ | SOULFUL LOVE SONGS | EVERGREEN LOVE SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=7zw-Cqhc0Q8</id>
+        <link href="https://www.youtube.com/watch?v=7zw-Cqhc0Q8"/>
+        <updated>2024-06-17T07:30:01.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ஸ்டார் - காலேஜ் சூப்பர்ஸ்டார்ஸ் தமிழ் பாடல்வரிகள் | யுவன் சங்கர் ராஜா]]></title>
         <id>https://www.youtube.com/watch?v=SBeff_JkIoc</id>
@@ -34807,15 +34834,6 @@
         <updated>2024-03-19T22:00:31.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bangaru Kodi Petta | Gharana Mogudu | M.M.Keeravani | S.P.B & K.S.Chithra | Hi-Res Audio]]></title>
-        <id>https://www.youtube.com/watch?v=uKmordAig3c</id>
-        <link href="https://www.youtube.com/watch?v=uKmordAig3c"/>
-        <updated>2024-03-19T19:28:53.000Z</updated>
-        <author>
-            <name>NANCHIL BEATS</name>
         </author>
     </entry>
 </feed>
