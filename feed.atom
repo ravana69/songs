@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-17T11:16:28.735Z</updated>
+    <updated>2024-06-17T12:37:24.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 17th of June 2024]]></title>
+        <id>https://www.youtube.com/watch?v=rAnMdqgfcQg</id>
+        <link href="https://www.youtube.com/watch?v=rAnMdqgfcQg"/>
+        <updated>2024-06-17T12:30:37.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഭയപ്പെടേണ്ട ഞാൻ നിന്നോടുകൂടെയുണ്ട് ...😇 | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=RZxmswudGrw</id>
+        <link href="https://www.youtube.com/watch?v=RZxmswudGrw"/>
+        <updated>2024-06-17T12:30:25.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പൊലിയോ പൊലി | Pallavoor devanarayanan Movie songs]]></title>
+        <id>https://www.youtube.com/watch?v=HfuGjFo_6g4</id>
+        <link href="https://www.youtube.com/watch?v=HfuGjFo_6g4"/>
+        <updated>2024-06-17T12:30:17.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalyaanaraathriyil Video Song | Samudram | P Madhuri | B Vasantha | G Devarajan]]></title>
+        <id>https://www.youtube.com/watch?v=0hrKctnH4HI</id>
+        <link href="https://www.youtube.com/watch?v=0hrKctnH4HI"/>
+        <updated>2024-06-17T12:15:00.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karuka Naambum | Neelagiri | Super Hit Malayalam Movie Song | Madhubala | Mammootty - Chithra Hits]]></title>
+        <id>https://www.youtube.com/watch?v=J25IB_j-e_M</id>
+        <link href="https://www.youtube.com/watch?v=J25IB_j-e_M"/>
+        <updated>2024-06-17T12:00:19.000Z</updated>
+        <author>
+            <name>Music Zone</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ezhimala Kottayile - Audio Song | Malaikottai Vaaliban | Mohanlal | Prashant Pillai | LJP]]></title>
         <id>https://www.youtube.com/watch?v=lCmhZuELG_c</id>
@@ -34870,24 +34915,6 @@
         <updated>2024-03-20T03:57:43.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 20th of March 2024 Mathavinte Japamala # Dhukhathinte Rahasyangal 20th of March 24]]></title>
-        <id>https://www.youtube.com/watch?v=xk2sCo2tJ6M</id>
-        <link href="https://www.youtube.com/watch?v=xk2sCo2tJ6M"/>
-        <updated>2024-03-19T23:30:12.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്ന് മാർച്ച് 20 #എൻറെ കർത്താവിൻറെ അമ്മയുടെ ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം#japamala  mahimay]]></title>
-        <id>https://www.youtube.com/watch?v=0OSCFGSyVbg</id>
-        <link href="https://www.youtube.com/watch?v=0OSCFGSyVbg"/>
-        <updated>2024-03-19T23:30:00.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
         </author>
     </entry>
 </feed>
