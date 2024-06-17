@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-17T10:22:37.251Z</updated>
+    <updated>2024-06-17T11:16:28.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ezhimala Kottayile - Audio Song | Malaikottai Vaaliban | Mohanlal | Prashant Pillai | LJP]]></title>
+        <id>https://www.youtube.com/watch?v=lCmhZuELG_c</id>
+        <link href="https://www.youtube.com/watch?v=lCmhZuELG_c"/>
+        <updated>2024-06-17T10:30:16.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kunjaana Kurumbanaana |  ACTION SONG #actionsong #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=IuaKiY07rl4</id>
+        <link href="https://www.youtube.com/watch?v=IuaKiY07rl4"/>
+        <updated>2024-06-17T10:30:07.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ishtam Ishtam | Lyrical Video Songs | K S Chithra | Amrutham | Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=MO-KqOSdBgc</id>
+        <link href="https://www.youtube.com/watch?v=MO-KqOSdBgc"/>
+        <updated>2024-06-17T10:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഡേറ്റ് ഇട്ടു പ്രാർത്ഥിക്കുക l Kreupasanam powerful prayer l miraculous prayer l marian]]></title>
         <id>https://www.youtube.com/watch?v=OpgYBpT19vE</id>
@@ -715,6 +742,15 @@
         <updated>2024-06-15T09:30:01.000Z</updated>
         <author>
             <name>Eden Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികൾക്ക് എത്രകേട്ടാലും മടുപ്പുതോന്നാത്ത അത്രമേൽ പ്രിയങ്കരമാം ഗാനങ്ങൾ | EVERGREEN HIT SONGS]]></title>
+        <id>https://www.youtube.com/watch?v=06_lyYj0tjM</id>
+        <link href="https://www.youtube.com/watch?v=06_lyYj0tjM"/>
+        <updated>2024-06-15T09:12:29.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
     <entry>
