@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-18T12:37:26.538Z</updated>
+    <updated>2024-06-18T13:22:20.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഗതിയറിയാത്തൊരെൻ്റെ മുൻമ്പിൽ പുതിയൊരു വാനമായ്..]]></title>
+        <id>https://www.youtube.com/watch?v=BlHFcNkUKnk</id>
+        <link href="https://www.youtube.com/watch?v=BlHFcNkUKnk"/>
+        <updated>2024-06-18T12:38:41.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മറ്റുള്ളവർ നമ്മളെക്കുറിച്ച് എന്ത് വിചാരിക്കും 🤔🥺 | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
         <id>https://www.youtube.com/watch?v=uqds56eVq8A</id>
