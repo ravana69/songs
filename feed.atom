@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-18T16:25:11.501Z</updated>
+    <updated>2024-06-18T17:20:28.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34654,42 +34654,6 @@
         <updated>2024-03-21T05:30:07.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanamullal | Gayathry Rajiv | The Salt Sessions | Salt&Pepper | Malayalam Film Songs #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=8DAc2Fej2gk</id>
-        <link href="https://www.youtube.com/watch?v=8DAc2Fej2gk"/>
-        <updated>2024-03-21T05:09:12.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Njan Varunnu Kroosinkal Karaoke | Christian Songs Karaoke | Karaoke with Lyrics Video]]></title>
-        <id>https://www.youtube.com/watch?v=TiCwIk_qSQ0</id>
-        <link href="https://www.youtube.com/watch?v=TiCwIk_qSQ0"/>
-        <updated>2024-03-21T04:58:39.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jayabharathi Old Malayalam Movie Songs | Aarum Anyaralla Remastered Malayalam Songs | Vani Jairam]]></title>
-        <id>https://www.youtube.com/watch?v=vGXxKA2bK_g</id>
-        <link href="https://www.youtube.com/watch?v=vGXxKA2bK_g"/>
-        <updated>2024-03-21T04:57:34.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unarunaroo Janma | Innalekalillathe | Biju Menon | Manju Warrier | Chithra | Sreevidya]]></title>
-        <id>https://www.youtube.com/watch?v=q-UZRpSrlQc</id>
-        <link href="https://www.youtube.com/watch?v=q-UZRpSrlQc"/>
-        <updated>2024-03-21T04:30:17.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
