@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-18T02:35:16.646Z</updated>
+    <updated>2024-06-18T03:23:11.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34555,15 +34555,6 @@
         <updated>2024-03-20T18:00:05.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഡിജിറ്റൽ മാർക്കറ്റിങ്ലേക്ക് പോവാതെ ഇപ്പഴും പത്രം വായിക്കുന്നവരുണ്ട് | #shorts #digitalmarketing]]></title>
-        <id>https://www.youtube.com/watch?v=_86pbZFkLbA</id>
-        <link href="https://www.youtube.com/watch?v=_86pbZFkLbA"/>
-        <updated>2024-03-20T15:00:27.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
