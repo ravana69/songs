@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-18T09:21:06.822Z</updated>
+    <updated>2024-06-18T10:21:06.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ponnel Yeri Karaiyoram | Uzhavan Magan | Manoj–Gyan | Malaysia Vasudevan | Hi-Res Audio]]></title>
+        <id>https://www.youtube.com/watch?v=Da8nvBU6cvQ</id>
+        <link href="https://www.youtube.com/watch?v=Da8nvBU6cvQ"/>
+        <updated>2024-06-18T09:44:07.000Z</updated>
+        <author>
+            <name>NANCHIL BEATS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഡേറ്റ് ഇട്ടു പ്രാർത്ഥിക്കുക l Kreupasanam powerful prayer l miraculous prayer l marian]]></title>
+        <id>https://www.youtube.com/watch?v=uv0K2ZLOn6U</id>
+        <link href="https://www.youtube.com/watch?v=uv0K2ZLOn6U"/>
+        <updated>2024-06-18T09:30:28.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ennum Karuthalayi Koodenadakkunna Mathavinte Manohara Ganangal | Mother Mary Songs | Audio Songs]]></title>
         <id>https://www.youtube.com/watch?v=p9KgGRumWBE</id>
@@ -34571,15 +34589,6 @@
         <id>https://www.youtube.com/watch?v=6vuwLpCaLHc</id>
         <link href="https://www.youtube.com/watch?v=6vuwLpCaLHc"/>
         <updated>2024-03-20T23:30:01.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=o8OilBG7Fv4</id>
-        <link href="https://www.youtube.com/watch?v=o8OilBG7Fv4"/>
-        <updated>2024-03-20T22:00:22.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
