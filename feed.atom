@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-18T17:20:28.821Z</updated>
+    <updated>2024-06-18T18:26:33.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പവിഴമല്ലി പൂത്തുലഞ്ഞ നീലവാനം..| കെ ജെ യേശുദാസ് | Chitra | Remastered songs |മലയാളചലച്ചിത്രഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=8gkPSN63aoM</id>
+        <link href="https://www.youtube.com/watch?v=8gkPSN63aoM"/>
+        <updated>2024-06-18T18:23:43.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Muthaaram Muthunde |  Mister Butler | Gireesh Puthanchery| MG Sreekumar| Harini #SongOfTheDay]]></title>
         <id>https://www.youtube.com/watch?v=Gxj2uONxVc4</id>
@@ -34627,33 +34636,6 @@
         <updated>2024-03-21T07:00:05.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sthothrageethathin Rathri (Pesaha) | #shorts | #frshajithumpechirayil | Biju Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=TF6vByXyKdk</id>
-        <link href="https://www.youtube.com/watch?v=TF6vByXyKdk"/>
-        <updated>2024-03-21T05:55:38.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YERSUHSHALEMILE | OSANA SONG | PALM SUNDAY SONG | ROY PUTHUR | SREYA JOSEPH | #royputhur #greatlent]]></title>
-        <id>https://www.youtube.com/watch?v=BFc-kF9jCFU</id>
-        <link href="https://www.youtube.com/watch?v=BFc-kF9jCFU"/>
-        <updated>2024-03-21T05:51:38.000Z</updated>
-        <author>
-            <name>Rayan Media Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennum Nenjile Gaanangal | Jukebox | Evergreen Songs by Gireesh Puthenchery | Malayalam Film Songs]]></title>
-        <id>https://www.youtube.com/watch?v=xxCan8OMXps</id>
-        <link href="https://www.youtube.com/watch?v=xxCan8OMXps"/>
-        <updated>2024-03-21T05:30:07.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
