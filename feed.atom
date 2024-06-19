@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-19T07:17:43.544Z</updated>
+    <updated>2024-06-19T08:24:41.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[പടിഞ്ഞാറേ മാനത്തുള്ള പനിനീര്‍പ്പൂ ചാമ്പയ്ക്കാ .. #evergreenhits]]></title>
+        <id>https://www.youtube.com/watch?v=o43QiwOvmlk</id>
+        <link href="https://www.youtube.com/watch?v=o43QiwOvmlk"/>
+        <updated>2024-06-19T08:23:04.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Padinjare Manathulla | Ninamaninja Kalpadukal | Prem Nazeer | Ambika | Malayalam Film Song]]></title>
+        <id>https://www.youtube.com/watch?v=RKTW8uryNeI</id>
+        <link href="https://www.youtube.com/watch?v=RKTW8uryNeI"/>
+        <updated>2024-06-19T08:18:20.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളികളുടെ പ്രിയ വാനമ്പാടി ചിത്രാമ്മ ആലപിച്ച അനശ്വര ഗാനങ്ങൾ | KS CHITHRA HITS]]></title>
+        <id>https://www.youtube.com/watch?v=kBSQ0GM0NvY</id>
+        <link href="https://www.youtube.com/watch?v=kBSQ0GM0NvY"/>
+        <updated>2024-06-19T07:42:03.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paadiyum Paranjum | സിനിമാഗാനങ്ങൾ എഴുതുന്നത് സന്ദർഭത്തിനനുസരിച്ചു | പാടിയും പറഞ്ഞും |  K Jayakumar]]></title>
         <id>https://www.youtube.com/watch?v=XOhlUX41tmg</id>
