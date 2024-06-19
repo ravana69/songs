@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-19T09:24:38.186Z</updated>
+    <updated>2024-06-19T10:21:36.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഡേറ്റ് ഇട്ടു പ്രാർത്ഥിക്കുക l Kreupasanam powerful prayer l miraculous prayer l marian]]></title>
+        <id>https://www.youtube.com/watch?v=NQtUyOFG45M</id>
+        <link href="https://www.youtube.com/watch?v=NQtUyOFG45M"/>
+        <updated>2024-06-19T09:30:12.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Official Trailer | Kundala Puranam | Santhosh Puthukkunnu | TV Anil |V SudeeshKumar | MenokkilsFilms]]></title>
         <id>https://www.youtube.com/watch?v=xSpj1lc3WuA</id>
@@ -34483,24 +34492,6 @@
         <updated>2024-03-21T23:30:07.000Z</updated>
         <author>
             <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Putham Pudhu Kaalai | Alaigal Oivathillai | Ilaiyaraaja | S.Janaki | Hi-Res Audio]]></title>
-        <id>https://www.youtube.com/watch?v=sDgMAxcPhmk</id>
-        <link href="https://www.youtube.com/watch?v=sDgMAxcPhmk"/>
-        <updated>2024-03-21T22:10:27.000Z</updated>
-        <author>
-            <name>NANCHIL BEATS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=NjWzqeHuyCA</id>
-        <link href="https://www.youtube.com/watch?v=NjWzqeHuyCA"/>
-        <updated>2024-03-21T22:00:11.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
