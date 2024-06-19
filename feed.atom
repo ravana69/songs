@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-19T17:19:26.151Z</updated>
+    <updated>2024-06-19T18:26:09.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34535,24 +34535,6 @@
         <id>https://www.youtube.com/watch?v=UkFIsdGauCA</id>
         <link href="https://www.youtube.com/watch?v=UkFIsdGauCA"/>
         <updated>2024-03-22T07:00:13.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arambhamaay Video Song | Jai Ganesh | Ranjith Sankar | Unni Mukundan | Sankar Sharma| Mahima Nambiar]]></title>
-        <id>https://www.youtube.com/watch?v=tIq4BCUbBig</id>
-        <link href="https://www.youtube.com/watch?v=tIq4BCUbBig"/>
-        <updated>2024-03-22T06:24:27.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kinavinte Minarathil |  Adaminte Makan Abu | Madhusree Narayanan | Rafeeq Ahammed | Ramesh Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=nNudbG3r78U</id>
-        <link href="https://www.youtube.com/watch?v=nNudbG3r78U"/>
-        <updated>2024-03-22T05:30:07.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
