@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-19T20:19:14.775Z</updated>
+    <updated>2024-06-19T21:19:17.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34384,33 +34384,6 @@
         <updated>2024-03-22T09:30:05.000Z</updated>
         <author>
             <name>Movie World Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SNEHATHIN KOODASHAYAYI | ATHMAGURO (ആത്മഗുരോ) | Latest Pesaha Song 2024| Rohan Thomas Ayyer | Kester]]></title>
-        <id>https://www.youtube.com/watch?v=xHxt393MQco</id>
-        <link href="https://www.youtube.com/watch?v=xHxt393MQco"/>
-        <updated>2024-03-22T09:16:03.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unthanin Paadal Ennai | Rakkayi Koyil | Ilaiyaraaja | Mano & Uma Ramanan | Hi-Res Audio]]></title>
-        <id>https://www.youtube.com/watch?v=vFc7ezL7jUo</id>
-        <link href="https://www.youtube.com/watch?v=vFc7ezL7jUo"/>
-        <updated>2024-03-22T08:35:28.000Z</updated>
-        <author>
-            <name>NANCHIL BEATS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Therkkathi Kallan - Thillaa Taangu Lyric | Vijayakanth, Raadhika | Ilaiyaraaja]]></title>
-        <id>https://www.youtube.com/watch?v=wfA1vFiNwk4</id>
-        <link href="https://www.youtube.com/watch?v=wfA1vFiNwk4"/>
-        <updated>2024-03-22T08:20:31.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
