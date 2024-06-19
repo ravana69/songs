@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-19T11:17:13.862Z</updated>
+    <updated>2024-06-19T12:37:37.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Angakale Video Song | Sathyam Sivam Sundaram | Kunchacko Boban | Shankar Mahadevan | Vidyasagar]]></title>
+        <id>https://www.youtube.com/watch?v=lFzaY10Kjbc</id>
+        <link href="https://www.youtube.com/watch?v=lFzaY10Kjbc"/>
+        <updated>2024-06-19T12:37:04.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 19th of June 2024]]></title>
+        <id>https://www.youtube.com/watch?v=efDgC-J3-q8</id>
+        <link href="https://www.youtube.com/watch?v=efDgC-J3-q8"/>
+        <updated>2024-06-19T12:30:35.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സ്നേഹം അതൊരു അനുഭവമാണ് ...😇 | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=RoB_wLipt_E</id>
+        <link href="https://www.youtube.com/watch?v=RoB_wLipt_E"/>
+        <updated>2024-06-19T12:30:30.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chandanacholayil Video Song | Sallapam | KJ Yesudas | Dileep | Manju Warrier]]></title>
+        <id>https://www.youtube.com/watch?v=7MltMijVN2w</id>
+        <link href="https://www.youtube.com/watch?v=7MltMijVN2w"/>
+        <updated>2024-06-19T12:15:00.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maninaadam Muzhangi | Super Hit Christian Devotional Songs | K.G.Markose Christian Devotional Songs]]></title>
+        <id>https://www.youtube.com/watch?v=I6VUEtFtM5E</id>
+        <link href="https://www.youtube.com/watch?v=I6VUEtFtM5E"/>
+        <updated>2024-06-19T12:09:17.000Z</updated>
+        <author>
+            <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kumbhappuzha | PARTNERS | Video | Jassie Gift | Dhyan Sreenivasan | Kollappally Films | Naveen John]]></title>
+        <id>https://www.youtube.com/watch?v=7ntbyPhFCJM</id>
+        <link href="https://www.youtube.com/watch?v=7ntbyPhFCJM"/>
+        <updated>2024-06-19T11:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഡേറ്റ് ഇട്ടു പ്രാർത്ഥിക്കുക l Kreupasanam powerful prayer l miraculous prayer l marian]]></title>
         <id>https://www.youtube.com/watch?v=NQtUyOFG45M</id>
@@ -34483,24 +34537,6 @@
         <updated>2024-03-22T01:30:07.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 22nd of March 2024 Mathavinte Japamala # Dhukhathinte Rahasyangal 22nd of March 24]]></title>
-        <id>https://www.youtube.com/watch?v=vcNuOBrndYw</id>
-        <link href="https://www.youtube.com/watch?v=vcNuOBrndYw"/>
-        <updated>2024-03-21T23:30:19.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്ന് മാർച്ച്  22 എൻറെ കർത്താവിൻറെ അമ്മയുടെ ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #japamala dhukkat]]></title>
-        <id>https://www.youtube.com/watch?v=RMmmrXAAO3E</id>
-        <link href="https://www.youtube.com/watch?v=RMmmrXAAO3E"/>
-        <updated>2024-03-21T23:30:07.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
         </author>
     </entry>
 </feed>
