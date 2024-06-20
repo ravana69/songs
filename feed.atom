@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-20T04:22:11.647Z</updated>
+    <updated>2024-06-20T05:18:37.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആവണിപ്പൂക്കൾ | Aavanippookkal | Festival Songs Vol.04 | K.J.Yesudas | Sound of Arts]]></title>
+        <id>https://www.youtube.com/watch?v=uMGI5Wa2CS0</id>
+        <link href="https://www.youtube.com/watch?v=uMGI5Wa2CS0"/>
+        <updated>2024-06-20T05:00:35.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Etho Varmukilin | Pookkalam Varavaay | KS Chithra | Ouseppachan | Kaithapram | Jayaram]]></title>
+        <id>https://www.youtube.com/watch?v=mRqgu7zJJjc</id>
+        <link href="https://www.youtube.com/watch?v=mRqgu7zJJjc"/>
+        <updated>2024-06-20T04:30:24.000Z</updated>
+        <author>
+            <name>Speed Music Videos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalakkatha | Ayyappanum Koshiyum |  Folk Film Songs #prithvirajsukumaran #shortsfeed #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=GQFQNwExkjE</id>
+        <link href="https://www.youtube.com/watch?v=GQFQNwExkjE"/>
+        <updated>2024-06-20T04:30:08.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nilaave Nilaave | Chattakkaari | Shorts  #manoramamusic]]></title>
         <id>https://www.youtube.com/watch?v=VNwO-tAKefc</id>
