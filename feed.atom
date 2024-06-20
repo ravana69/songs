@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-20T01:23:23.652Z</updated>
+    <updated>2024-06-20T02:33:39.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nilaave Nilaave | Chattakkaari | Shorts  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=VNwO-tAKefc</id>
+        <link href="https://www.youtube.com/watch?v=VNwO-tAKefc"/>
+        <updated>2024-06-20T01:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഈശോയുടെ തിരുഹൃദയ വണക്കമാസം 20th June 2024 # Novena to the Sacred Heart of Jesus 20th June 2024]]></title>
         <id>https://www.youtube.com/watch?v=cQM_-WDPDGA</id>
@@ -34276,42 +34285,6 @@
         <updated>2024-03-22T15:00:28.000Z</updated>
         <author>
             <name>Celebrants India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaavavo Vaave | Ente Veedu Appoontem | Gireesh Puthenchery | P Jayachandran |  Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=yBcZD5UqvmA</id>
-        <link href="https://www.youtube.com/watch?v=yBcZD5UqvmA"/>
-        <updated>2024-03-22T14:30:31.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kakkothikavile | Chathikkaatha Chanthu | Vidhu Prathap | Jyotsna | Gireesh Puthenchery #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=ecpUm1Qee1o</id>
-        <link href="https://www.youtube.com/watch?v=ecpUm1Qee1o"/>
-        <updated>2024-03-22T14:30:26.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Varamanjalaadiya| Pranayavarnangal | Vidyasagar | Sujatha Mohan #SongOfTheDay]]></title>
-        <id>https://www.youtube.com/watch?v=9m9Bu29IEdI</id>
-        <link href="https://www.youtube.com/watch?v=9m9Bu29IEdI"/>
-        <updated>2024-03-22T14:30:06.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Songs Of The Week | Kester | Christian Melody Songs | Holy Week Songs | Joji Johns |]]></title>
-        <id>https://www.youtube.com/watch?v=NqGUX6VR8G8</id>
-        <link href="https://www.youtube.com/watch?v=NqGUX6VR8G8"/>
-        <updated>2024-03-22T13:30:10.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
         </author>
     </entry>
 </feed>
