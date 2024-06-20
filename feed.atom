@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-20T07:17:57.042Z</updated>
+    <updated>2024-06-20T08:24:58.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മനസ്സിൽ വർണപൂമഴ പെയ്‌ത മലയാളസിനിമയിലെ ശ്രവണ മനോഹര ഗാനങ്ങൾ | EVERGREEN HITS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=6I_F90MOAPs</id>
+        <link href="https://www.youtube.com/watch?v=6I_F90MOAPs"/>
+        <updated>2024-06-20T07:37:19.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[லால் சலாம் - ஏ புள்ள தமிழ் பாடல்வரிகள் | ஏ. ஆர். ரகுமான்]]></title>
         <id>https://www.youtube.com/watch?v=eZZ71kMgFbs</id>
@@ -301,6 +310,15 @@
         <updated>2024-06-19T12:09:17.000Z</updated>
         <author>
             <name>Jesus - Malayalam Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[വരുവാനില്ലാരുമീ ഗാനങ്ങൾ കേൾക്കാൻ | Malayalam All time Favourites | KJ Yesudas | KS Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=T1rgjkDHwaI</id>
+        <link href="https://www.youtube.com/watch?v=T1rgjkDHwaI"/>
+        <updated>2024-06-19T12:06:54.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
