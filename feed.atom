@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-20T15:21:50.200Z</updated>
+    <updated>2024-06-20T16:26:56.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[എൻ്റെ മിഴിനീർ തുടയ്ക്കുന്ന സ്നേഹം.]]></title>
+        <id>https://www.youtube.com/watch?v=ZnI2Xh7Tb0E</id>
+        <link href="https://www.youtube.com/watch?v=ZnI2Xh7Tb0E"/>
+        <updated>2024-06-20T15:50:59.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kanapponnum  | Dileep | Biju Menon | Bhavana | Vidyasagar |Vayalar Sarathchandra Varma]]></title>
         <id>https://www.youtube.com/watch?v=oL0qNZ4SLuQ</id>
@@ -220,6 +229,15 @@
         <updated>2024-06-20T07:00:26.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guruvayoorambala Nadayil - Visualizer Jukebox | Prithviraj | Basil Joseph | Ankit Menon | Vipin Das]]></title>
+        <id>https://www.youtube.com/watch?v=NXzae3Gybaw</id>
+        <link href="https://www.youtube.com/watch?v=NXzae3Gybaw"/>
+        <updated>2024-06-20T06:30:07.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
