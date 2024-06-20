@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-20T20:20:00.391Z</updated>
+    <updated>2024-06-20T21:19:17.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34276,15 +34276,6 @@
         <updated>2024-03-23T10:17:34.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ammoommakkili Vaayaadi | അമ്മുമ്മക്കിളി വായാടി | Chandralekha Evergreen Hits | Mohanlal | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=vhC2TF7DsyI</id>
-        <link href="https://www.youtube.com/watch?v=vhC2TF7DsyI"/>
-        <updated>2024-03-23T09:14:49.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
