@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-21T06:27:44.084Z</updated>
+    <updated>2024-06-21T07:18:19.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -767,6 +767,15 @@
         <id>https://www.youtube.com/watch?v=7ntbyPhFCJM</id>
         <link href="https://www.youtube.com/watch?v=7ntbyPhFCJM"/>
         <updated>2024-06-19T11:30:06.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kannil | Swargathile Katturumbu | Ganesh Sundaram | Sangeetha Sreekanth | Santhosh Varma | Bijibal]]></title>
+        <id>https://www.youtube.com/watch?v=YJnX1gndIww</id>
+        <link href="https://www.youtube.com/watch?v=YJnX1gndIww"/>
+        <updated>2024-06-19T10:38:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
         </author>
@@ -34213,33 +34222,6 @@
         <updated>2024-03-23T19:20:26.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malkosinte Gadhgathangal Day 42]]></title>
-        <id>https://www.youtube.com/watch?v=6b6_FRMdNRU</id>
-        <link href="https://www.youtube.com/watch?v=6b6_FRMdNRU"/>
-        <updated>2024-03-23T19:04:19.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer 24th of March # Athiravile Prarthana 24th March 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=YMOIrOZvJzI</id>
-        <link href="https://www.youtube.com/watch?v=YMOIrOZvJzI"/>
-        <updated>2024-03-23T19:00:24.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=_7iVmymNFBo</id>
-        <link href="https://www.youtube.com/watch?v=_7iVmymNFBo"/>
-        <updated>2024-03-23T18:30:33.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
