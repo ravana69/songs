@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-21T20:20:44.711Z</updated>
+    <updated>2024-06-21T21:19:26.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34168,15 +34168,6 @@
         <updated>2024-03-24T11:30:08.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[സ്വർഗീയനായ മണവാളാതെ | Rahasyam Rahasyam | ROY PUTHUR | MITHILA #greatlent #maundythursday]]></title>
-        <id>https://www.youtube.com/watch?v=yIVkRtPwUzg</id>
-        <link href="https://www.youtube.com/watch?v=yIVkRtPwUzg"/>
-        <updated>2024-03-24T09:04:55.000Z</updated>
-        <author>
-            <name>Rayan Media Productions</name>
         </author>
     </entry>
 </feed>
