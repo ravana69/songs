@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-21T16:23:33.277Z</updated>
+    <updated>2024-06-21T17:19:07.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34312,33 +34312,6 @@
         <updated>2024-03-24T05:30:00.000Z</updated>
         <author>
             <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ganamaanu Njan | Iruvattam Manavatti | Kunchacko Boban | Kavya Madhavan | Sreenivas | Sujatha]]></title>
-        <id>https://www.youtube.com/watch?v=wDss9pAnCBA</id>
-        <link href="https://www.youtube.com/watch?v=wDss9pAnCBA"/>
-        <updated>2024-03-24T04:30:30.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Varamanjaladiya Video Song | Pranayavarnangal | Manju Warrier | Sujatha Mohan | Vidyasagar]]></title>
-        <id>https://www.youtube.com/watch?v=tSoUNUrnFng</id>
-        <link href="https://www.youtube.com/watch?v=tSoUNUrnFng"/>
-        <updated>2024-03-24T04:30:30.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neela Nilave - Lyrical Video | Sweet Chakkara Umma | Anas Shajahan, Jeena | Ambarish Chithran | RMR]]></title>
-        <id>https://www.youtube.com/watch?v=ww9UfW_XoYk</id>
-        <link href="https://www.youtube.com/watch?v=ww9UfW_XoYk"/>
-        <updated>2024-03-24T04:30:08.000Z</updated>
-        <author>
-            <name>MC Music</name>
         </author>
     </entry>
 </feed>
