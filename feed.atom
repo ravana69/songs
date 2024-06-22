@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-22T16:24:41.347Z</updated>
+    <updated>2024-06-22T17:15:41.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34249,42 +34249,6 @@
         <updated>2024-03-25T05:30:07.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unaroo Video Song | Chandamama | KJ Yesudas | Ouseppachan | Kaithapram | Malayalam Romantic Songs]]></title>
-        <id>https://www.youtube.com/watch?v=WKMzXhcj6Gc</id>
-        <link href="https://www.youtube.com/watch?v=WKMzXhcj6Gc"/>
-        <updated>2024-03-25T05:00:43.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[𝐏𝐚𝐝𝐡𝐚𝐦 𝐊𝐚𝐳𝐡𝐮𝐤𝐢 | #𝐬𝐡𝐨𝐫𝐭𝐬 | 𝐏𝐞𝐬𝐚𝐡𝐚 𝐒𝐨𝐧𝐠 | 𝐅𝐫.𝐒𝐡𝐚𝐣𝐢 𝐓𝐡𝐮𝐦𝐩𝐞𝐜𝐡𝐢𝐫𝐚𝐲𝐢𝐥 | 𝐁𝐨𝐛𝐛𝐲 𝐗𝐚𝐯𝐢𝐞𝐫]]></title>
-        <id>https://www.youtube.com/watch?v=ERhPLlaP1TQ</id>
-        <link href="https://www.youtube.com/watch?v=ERhPLlaP1TQ"/>
-        <updated>2024-03-25T04:46:25.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rojapoo Kavilathu Video Song | Chandamama | Unni Menon | Sujatha Mohan | Malayalam Romantic Songs]]></title>
-        <id>https://www.youtube.com/watch?v=a7nJknI07rc</id>
-        <link href="https://www.youtube.com/watch?v=a7nJknI07rc"/>
-        <updated>2024-03-25T04:41:54.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambalakkara Thechikavil Pooram Video Song | Black | Mammootty | Rahman | MG Sreekumar | Alex Paul]]></title>
-        <id>https://www.youtube.com/watch?v=xo8YpotsEfg</id>
-        <link href="https://www.youtube.com/watch?v=xo8YpotsEfg"/>
-        <updated>2024-03-25T04:30:19.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
