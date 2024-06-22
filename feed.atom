@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-22T15:19:38.859Z</updated>
+    <updated>2024-06-22T16:24:41.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നിൻ മനമിളക്കാതെ, നിൻ മനം പതറാതെ]]></title>
+        <id>https://www.youtube.com/watch?v=WHG2ARK52cY</id>
+        <link href="https://www.youtube.com/watch?v=WHG2ARK52cY"/>
+        <updated>2024-06-22T15:51:02.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[pandorikkal oru karimpoocha | Poochakkoru Mookkuthi | Chunakkara Ramankutty]]></title>
         <id>https://www.youtube.com/watch?v=EfxgmGItdqw</id>
@@ -34276,33 +34285,6 @@
         <updated>2024-03-25T04:30:19.000Z</updated>
         <author>
             <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nazrayanam Lokadhipathi | Saritha Ram | Alex George | Malayalam Christian Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=FUwK7_zU8H0</id>
-        <link href="https://www.youtube.com/watch?v=FUwK7_zU8H0"/>
-        <updated>2024-03-25T04:20:45.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sridevi Old Malayalam Movie Songs | Oonjaal Remastered Malayalam Songs | K. J. Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=Iowy2NxCExw</id>
-        <link href="https://www.youtube.com/watch?v=Iowy2NxCExw"/>
-        <updated>2024-03-25T04:00:08.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chanchadi Aadi | Makalkku | Suresh Gopi | Shobhana | Adnan Sami | Kaithapram | Ramesh Narayanan]]></title>
-        <id>https://www.youtube.com/watch?v=en6UMqgXQxI</id>
-        <link href="https://www.youtube.com/watch?v=en6UMqgXQxI"/>
-        <updated>2024-03-25T03:50:46.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
