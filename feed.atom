@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-22T06:25:50.452Z</updated>
+    <updated>2024-06-22T07:18:17.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ശ്രീജയദേവേ..| Sreejayadeva| Thaniyavarthanam Movie Song | M. G. Sreekumar | Mammootty | Parvathy]]></title>
+        <id>https://www.youtube.com/watch?v=Xr26CF1rtq0</id>
+        <link href="https://www.youtube.com/watch?v=Xr26CF1rtq0"/>
+        <updated>2024-06-22T06:32:26.000Z</updated>
+        <author>
+            <name>Millennium Musics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enik Kootai Mara Kurishilae Esho | Tonn Thomas | Oru Cheru Appamai | Christian Devotional Song]]></title>
+        <id>https://www.youtube.com/watch?v=leBskKrWiW0</id>
+        <link href="https://www.youtube.com/watch?v=leBskKrWiW0"/>
+        <updated>2024-06-22T05:57:26.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നാവിൽ നീയേ | NAAVIL NEEYE |FR.LIBIN VARGHES|FR.JERIN VALIYAPARAMBIL| ROY PUTHUR #newchristiansongs]]></title>
         <id>https://www.youtube.com/watch?v=sIFZx4zpqLc</id>
@@ -34177,33 +34195,6 @@
         <updated>2024-03-24T19:52:19.000Z</updated>
         <author>
             <name>Saregama Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer 25th of March # Athiravile Prarthana 25th March 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=_2qDDE20HbI</id>
-        <link href="https://www.youtube.com/watch?v=_2qDDE20HbI"/>
-        <updated>2024-03-24T19:00:14.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=ON1oxl83NLo</id>
-        <link href="https://www.youtube.com/watch?v=ON1oxl83NLo"/>
-        <updated>2024-03-24T18:30:15.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മനംകുളിർക്കെ കേൾക്കാൻ മധുരമനോഹരഗാനങ്ങൾ|മലയാളചലച്ചിത്രഗാനങ്ങൾ |കെ ജെ യേശുദാസ് |Remastered Movie songs]]></title>
-        <id>https://www.youtube.com/watch?v=mUtol9pKa08</id>
-        <link href="https://www.youtube.com/watch?v=mUtol9pKa08"/>
-        <updated>2024-03-24T18:28:37.000Z</updated>
-        <author>
-            <name>Tharangini Sound of arts Dubai</name>
         </author>
     </entry>
 </feed>
