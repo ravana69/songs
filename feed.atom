@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-22T14:18:03.104Z</updated>
+    <updated>2024-06-22T15:19:38.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[pandorikkal oru karimpoocha | Poochakkoru Mookkuthi | Chunakkara Ramankutty]]></title>
+        <id>https://www.youtube.com/watch?v=EfxgmGItdqw</id>
+        <link href="https://www.youtube.com/watch?v=EfxgmGItdqw"/>
+        <updated>2024-06-22T14:30:07.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഒഴിവുസമയങ്ങൾ  ആസ്വദിക്കാൻ മലയാളസിനിമയിലെ മികച്ച ഗാനങ്ങൾ കേൾക്കാം ! Best Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=09dFZZZDYII</id>
+        <link href="https://www.youtube.com/watch?v=09dFZZZDYII"/>
+        <updated>2024-06-22T14:30:00.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poove Oru Mazha Mutham | Kaiyethum Doorath | Ouseppachan |Sujatha Mohan|S Ramesan Nair #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=2Yua_3UtndE</id>
+        <link href="https://www.youtube.com/watch?v=2Yua_3UtndE"/>
+        <updated>2024-06-22T14:30:00.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മലയാളികൾ മുടങ്ങാതെ കേൾക്കുന്ന ഹൃദയത്തിനുള്ളിൽ ഇടം നേടിയ മെലഡി ഗാനങ്ങൾ | MELODY SONGS MALAYALAM]]></title>
         <id>https://www.youtube.com/watch?v=p6Rvc486mFs</id>
