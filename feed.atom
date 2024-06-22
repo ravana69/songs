@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-22T05:19:13.736Z</updated>
+    <updated>2024-06-22T06:25:50.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നാവിൽ നീയേ | NAAVIL NEEYE |FR.LIBIN VARGHES|FR.JERIN VALIYAPARAMBIL| ROY PUTHUR #newchristiansongs]]></title>
+        <id>https://www.youtube.com/watch?v=sIFZx4zpqLc</id>
+        <link href="https://www.youtube.com/watch?v=sIFZx4zpqLc"/>
+        <updated>2024-06-22T05:56:17.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minnadi Minnadi | Animation Version |  കെ എസ് ചിത്ര ആലപിച്ച സൂപ്പർഹിറ്റ് സിനിമ ഗാനം അനിമേഷൻ രൂപത്തിൽ]]></title>
+        <id>https://www.youtube.com/watch?v=tMGDxG8Xt9U</id>
+        <link href="https://www.youtube.com/watch?v=tMGDxG8Xt9U"/>
+        <updated>2024-06-22T05:30:08.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nadanna Sambhavam On Trend Listen Now | |Biju Menon | Vishnu Narayan | Ankit Menon | #ytshort]]></title>
         <id>https://www.youtube.com/watch?v=fTKwB3J9ulw</id>
@@ -34186,24 +34204,6 @@
         <updated>2024-03-24T18:28:37.000Z</updated>
         <author>
             <name>Tharangini Sound of arts Dubai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathavinodulla Samprakshana Prarthana The Immaculate Heart of Mother Mary Prayer 25th March 24]]></title>
-        <id>https://www.youtube.com/watch?v=k2dVy-uCLlQ</id>
-        <link href="https://www.youtube.com/watch?v=k2dVy-uCLlQ"/>
-        <updated>2024-03-24T18:00:17.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malkosinte Gadhgathangal Day 43]]></title>
-        <id>https://www.youtube.com/watch?v=s5wWPBJq27k</id>
-        <link href="https://www.youtube.com/watch?v=s5wWPBJq27k"/>
-        <updated>2024-03-24T17:28:43.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
