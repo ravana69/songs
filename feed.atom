@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-23T02:36:00.072Z</updated>
+    <updated>2024-06-23T03:21:07.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഓം മഹാഗണപതെ | Vinayaka Devotional Songs | K J Yesudas | Raveendran | Sound of Arts]]></title>
+        <id>https://www.youtube.com/watch?v=xhsXWW-hxJQ</id>
+        <link href="https://www.youtube.com/watch?v=xhsXWW-hxJQ"/>
+        <updated>2024-06-23T03:00:24.000Z</updated>
+        <author>
+            <name>Malayalam Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kumbhappuzha | Partners #jassiegift #dhyansreenivasan #bkharinarayanan #shortsfeed #shortsvideo]]></title>
         <id>https://www.youtube.com/watch?v=LU141vrFHBw</id>
