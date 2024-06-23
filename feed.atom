@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-23T17:16:45.505Z</updated>
+    <updated>2024-06-23T18:24:07.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഋതുസംക്രമപ്പക്ഷി പാടീ..| കെ ജെ യേശുദാസ് | K S Chitra | Remastered songs |മലയാളചലച്ചിത്രഗാനങ്ങൾ]]></title>
+        <id>https://www.youtube.com/watch?v=jy9Y8cqHY4A</id>
+        <link href="https://www.youtube.com/watch?v=jy9Y8cqHY4A"/>
+        <updated>2024-06-23T17:42:03.000Z</updated>
+        <author>
+            <name>Tharangini Sound of arts Dubai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പുലർക്കാലദീപമായ് എന്നാത്മാവിൽ വാഴാൻ വരൂ യേശുവേ..]]></title>
         <id>https://www.youtube.com/watch?v=tEetXFEFclY</id>
@@ -34114,51 +34123,6 @@
         <updated>2024-03-26T06:33:49.000Z</updated>
         <author>
             <name>Celebrants India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ശ്രീരാഗമോ തേടുന്നു നീ | Sreeraagamo Thedunnu | Pavithram | Mohanlal | Shobana | Sreevidhya]]></title>
-        <id>https://www.youtube.com/watch?v=JZ3ZFsppmcc</id>
-        <link href="https://www.youtube.com/watch?v=JZ3ZFsppmcc"/>
-        <updated>2024-03-26T06:18:16.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snehathin Koodhashayayi.. #shorts #pesaha2024 #maundythursday]]></title>
-        <id>https://www.youtube.com/watch?v=5UNBH38nifE</id>
-        <link href="https://www.youtube.com/watch?v=5UNBH38nifE"/>
-        <updated>2024-03-26T06:15:28.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEEYONE MADHIHAAYE | സീയോനെ മിശിഹായെ | REBA ROMY #greatlent #goodfriday #passionweek]]></title>
-        <id>https://www.youtube.com/watch?v=ViZANVgfMAg</id>
-        <link href="https://www.youtube.com/watch?v=ViZANVgfMAg"/>
-        <updated>2024-03-26T06:15:16.000Z</updated>
-        <author>
-            <name>Rayan Media Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[916 | Evergreen Movie Songs Video Jukebox | Asif Ali | Shreya Ghoshal | M.Jayachandran | Anoop Menon]]></title>
-        <id>https://www.youtube.com/watch?v=cDl7vAGuo-w</id>
-        <link href="https://www.youtube.com/watch?v=cDl7vAGuo-w"/>
-        <updated>2024-03-26T05:30:12.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chakravarthini - Unplugged | Chembarathi | G. Devarajan | Akshay Nath M S]]></title>
-        <id>https://www.youtube.com/watch?v=04eYdCi4Yoc</id>
-        <link href="https://www.youtube.com/watch?v=04eYdCi4Yoc"/>
-        <updated>2024-03-26T05:30:00.000Z</updated>
-        <author>
-            <name>Saregama Malayalam</name>
         </author>
     </entry>
 </feed>
