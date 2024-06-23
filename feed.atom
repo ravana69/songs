@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-23T22:17:23.665Z</updated>
+    <updated>2024-06-23T23:18:42.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=MpBFQfQZ_IQ</id>
+        <link href="https://www.youtube.com/watch?v=MpBFQfQZ_IQ"/>
+        <updated>2024-06-23T23:00:19.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 24 # Athiravile Prarthana 24th of June 2024Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=CKAbi_RNKHs</id>
@@ -34024,60 +34033,6 @@
         <updated>2024-03-26T11:30:09.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#happybirthdayprakashraj #malayalamsongs #tipsmalayalam #ps1malayalam #arrahman]]></title>
-        <id>https://www.youtube.com/watch?v=IiNHTaKNHN8</id>
-        <link href="https://www.youtube.com/watch?v=IiNHTaKNHN8"/>
-        <updated>2024-03-26T10:45:32.000Z</updated>
-        <author>
-            <name>Tips Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attinkarayorathe | Violin Cover | Francis Xavier | Ilayaraja | Rasathanthram | Instrumental Music]]></title>
-        <id>https://www.youtube.com/watch?v=xGivjLVakC0</id>
-        <link href="https://www.youtube.com/watch?v=xGivjLVakC0"/>
-        <updated>2024-03-26T10:44:41.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raghunandana From HanuMan(Malayalam) #malayalamsongs #tejasajja #prasanthvarma #hanuman]]></title>
-        <id>https://www.youtube.com/watch?v=IH0DFf0hGhc</id>
-        <link href="https://www.youtube.com/watch?v=IH0DFf0hGhc"/>
-        <updated>2024-03-26T10:44:39.000Z</updated>
-        <author>
-            <name>Tips Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshuve | Arjunan Master | K S Chithra #shortsvideo  #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=ohzWPnq3b5c</id>
-        <link href="https://www.youtube.com/watch?v=ohzWPnq3b5c"/>
-        <updated>2024-03-26T10:32:32.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshuve | Arjunan Master | K S Chithra #shortsvideo  #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=67Jry3Az-vI</id>
-        <link href="https://www.youtube.com/watch?v=67Jry3Az-vI"/>
-        <updated>2024-03-26T10:32:25.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yeshuve | Arjunan Master | K S Chithra #shortsvideo  #manoramachristiandevotionalsongs]]></title>
-        <id>https://www.youtube.com/watch?v=HWLjjgmGcGw</id>
-        <link href="https://www.youtube.com/watch?v=HWLjjgmGcGw"/>
-        <updated>2024-03-26T10:32:18.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
