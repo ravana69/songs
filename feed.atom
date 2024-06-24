@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-24T13:21:01.038Z</updated>
+    <updated>2024-06-24T14:18:53.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unknown Side Of K for Kalyanam BTS  | Guruvayoorambala Nadayil | Prithviraj | Basil |#ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=p5C0PBgIbi0</id>
+        <link href="https://www.youtube.com/watch?v=p5C0PBgIbi0"/>
+        <updated>2024-06-24T14:00:47.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഏവരും കേൾക്കാനാഗ്രഹിക്കുന്ന മലയാളസിനിമയിലെ സുന്ദര ഗാനങ്ങൾ | EVERGREEN HIT SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=mdXOJ24aNxI</id>
+        <link href="https://www.youtube.com/watch?v=mdXOJ24aNxI"/>
+        <updated>2024-06-24T13:30:31.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christian Superhit Songs | Manoj Christy | Kester |Christian Devotional Songs Malayalam | Joji Johns]]></title>
+        <id>https://www.youtube.com/watch?v=Ou_xcJOtTnQ</id>
+        <link href="https://www.youtube.com/watch?v=Ou_xcJOtTnQ"/>
+        <updated>2024-06-24T13:30:20.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GOLDEN MEMORIES | M.Jayachandhran |@JinoKunnumpurathu  #shorts #vsachudanandhan #goldenmemories]]></title>
+        <id>https://www.youtube.com/watch?v=GCq2QT9LCVE</id>
+        <link href="https://www.youtube.com/watch?v=GCq2QT9LCVE"/>
+        <updated>2024-06-24T13:30:06.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vilikathirunnalum | Ishtamaanu Pakshe (1980) | Ambika | K.J.Yesudas | Malayalam Superhit Song]]></title>
+        <id>https://www.youtube.com/watch?v=8KU29eB8BRE</id>
+        <link href="https://www.youtube.com/watch?v=8KU29eB8BRE"/>
+        <updated>2024-06-24T13:30:04.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS Of K - For Kalyanam  | Guruvayoorambala Nadayil | Prithviraj | Basil |#ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=VrN-I1akC90</id>
