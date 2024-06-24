@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-24T16:24:06.022Z</updated>
+    <updated>2024-06-24T17:17:43.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34033,42 +34033,6 @@
         <updated>2024-03-27T05:30:06.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theenalam | Secret Home | Sayanora Philip | Sankar Sharma | BK Harinarayan | Sshivada | Aparna Das]]></title>
-        <id>https://www.youtube.com/watch?v=pNPKatE_6ag</id>
-        <link href="https://www.youtube.com/watch?v=pNPKatE_6ag"/>
-        <updated>2024-03-27T05:05:48.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gopike Hridayam Oru Video Song | Nandanam | Navya Nair | KJ Yesudas| Gireesh Puthenchery| Raveendran]]></title>
-        <id>https://www.youtube.com/watch?v=ol53RjwdnGU</id>
-        <link href="https://www.youtube.com/watch?v=ol53RjwdnGU"/>
-        <updated>2024-03-27T04:54:20.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vennila Vennila | Parthan Kanda Paralokam | Jayaram | Sreedevika | Kaithapram | Unni Menon]]></title>
-        <id>https://www.youtube.com/watch?v=kLkC0ZUdCoY</id>
-        <link href="https://www.youtube.com/watch?v=kLkC0ZUdCoY"/>
-        <updated>2024-03-27T04:30:23.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nalla Thozhan | Cape Town | Naveen Madhav #shortsvideo #filmsongs]]></title>
-        <id>https://www.youtube.com/watch?v=heRnrUSr9Mg</id>
-        <link href="https://www.youtube.com/watch?v=heRnrUSr9Mg"/>
-        <updated>2024-03-27T04:25:19.000Z</updated>
-        <author>
-            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
 </feed>
