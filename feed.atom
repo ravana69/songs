@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-24T06:27:15.750Z</updated>
+    <updated>2024-06-24T07:19:39.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kumbhappuzha | Partners #jassiegift #dhyansreenivasan #bkharinarayanan #shortsfeed #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=mksO7XxC7o0</id>
+        <link href="https://www.youtube.com/watch?v=mksO7XxC7o0"/>
+        <updated>2024-06-24T07:00:31.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kannaranthumbi  | Thalsamayam Oru Penkutty | Mano | Murugan Kattakkada | Sharreth | Unni Mukundan]]></title>
         <id>https://www.youtube.com/watch?v=JsKVI59mejA</id>
@@ -33988,42 +33997,6 @@
         <updated>2024-03-26T22:00:32.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Megam Karukkuthu | Ananda Ragam | Ilaiyaraaja | K.J.Yesudas & S.Janaki | Hi-Res Audio]]></title>
-        <id>https://www.youtube.com/watch?v=KgTKrAUAXwg</id>
-        <link href="https://www.youtube.com/watch?v=KgTKrAUAXwg"/>
-        <updated>2024-03-26T19:19:25.000Z</updated>
-        <author>
-            <name>NANCHIL BEATS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer 27th of March # Athiravile Prarthana 27th March 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=50njNrgYMew</id>
-        <link href="https://www.youtube.com/watch?v=50njNrgYMew"/>
-        <updated>2024-03-26T19:00:04.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EESHOMISHIHATHAN - KARUNAKONTHA SHORT | Fr. SHAJI THUMPECHIRAYIL SHORT | KESTER | HOLY WEEK SHORT |]]></title>
-        <id>https://www.youtube.com/watch?v=JZ3YmEs8PuA</id>
-        <link href="https://www.youtube.com/watch?v=JZ3YmEs8PuA"/>
-        <updated>2024-03-26T18:45:00.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=xE5yuk9pQIc</id>
-        <link href="https://www.youtube.com/watch?v=xE5yuk9pQIc"/>
-        <updated>2024-03-26T18:30:51.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
