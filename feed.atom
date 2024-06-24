@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-24T11:18:20.367Z</updated>
+    <updated>2024-06-24T12:38:08.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 24th of June 2024]]></title>
+        <id>https://www.youtube.com/watch?v=GLo-U_Rh6rI</id>
+        <link href="https://www.youtube.com/watch?v=GLo-U_Rh6rI"/>
+        <updated>2024-06-24T12:30:11.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kettiyone Pattichu Video Songs | Malayalam Song | Kadamattathachan | Old Malayalam Songs]]></title>
+        <id>https://www.youtube.com/watch?v=5YMLEnNd4ew</id>
+        <link href="https://www.youtube.com/watch?v=5YMLEnNd4ew"/>
+        <updated>2024-06-24T12:30:05.000Z</updated>
+        <author>
+            <name>Sree Movies Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[യഹോവ എന്റെ ജീവന്റെ ബലം ..😇 | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=7KndxXeTuUg</id>
+        <link href="https://www.youtube.com/watch?v=7KndxXeTuUg"/>
+        <updated>2024-06-24T12:30:04.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അഞ്ജനക്കണ്ണെഴുതി | Thacholi Othenan | S Janaki #shorts]]></title>
+        <id>https://www.youtube.com/watch?v=stVI85TPekk</id>
+        <link href="https://www.youtube.com/watch?v=stVI85TPekk"/>
+        <updated>2024-06-24T12:15:05.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kattile Kannan | Animation Video #kattilekannan #animation #malayalamcartoon #shorts #shortsfeed]]></title>
         <id>https://www.youtube.com/watch?v=_E6QRQOyXVs</id>
@@ -34042,24 +34078,6 @@
         <updated>2024-03-27T03:17:06.000Z</updated>
         <author>
             <name>Rayan Media Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്ന് മാർച്ച്  27എൻറെ കർത്താവിൻറെ അമ്മയുടെ ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #japamala mahimayu]]></title>
-        <id>https://www.youtube.com/watch?v=Yy94mdqfTlg</id>
-        <link href="https://www.youtube.com/watch?v=Yy94mdqfTlg"/>
-        <updated>2024-03-27T00:00:14.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japamala 27th of March 2024 # Mathavinte Japamala # Mahimayude Rahasyangal 27th of March 2024]]></title>
-        <id>https://www.youtube.com/watch?v=U0Dj8ZupTiw</id>
-        <link href="https://www.youtube.com/watch?v=U0Dj8ZupTiw"/>
-        <updated>2024-03-26T23:30:05.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
