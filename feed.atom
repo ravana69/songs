@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-24T17:17:43.017Z</updated>
+    <updated>2024-06-24T18:26:01.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -34006,33 +34006,6 @@
         <updated>2024-03-27T06:27:45.000Z</updated>
         <author>
             <name>Celebrants India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theli neeru Thirayunna | Franklin Panoor | Mithila michael | Christian Devotional Song]]></title>
-        <id>https://www.youtube.com/watch?v=0_PTLkEsXys</id>
-        <link href="https://www.youtube.com/watch?v=0_PTLkEsXys"/>
-        <updated>2024-03-27T05:55:40.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kallaravathil Thurannu | K G Markose | B K Harinarayanan | P K Bash | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=jdUW2rUMbbA</id>
-        <link href="https://www.youtube.com/watch?v=jdUW2rUMbbA"/>
-        <updated>2024-03-27T05:51:40.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iniyum Mizhikal | Video Song | Ben Johnson |  Kalabhavan Mani | Sujatha | Deepak Dev | Kaithapram]]></title>
-        <id>https://www.youtube.com/watch?v=PGeibsbpoI4</id>
-        <link href="https://www.youtube.com/watch?v=PGeibsbpoI4"/>
-        <updated>2024-03-27T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
