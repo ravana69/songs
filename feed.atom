@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-24T09:23:07.244Z</updated>
+    <updated>2024-06-24T10:22:02.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ഡേറ്റ് ഇട്ടു പ്രാർത്ഥിക്കുക l Kreupasanam powerful prayer l miraculous prayer l marian]]></title>
+        <id>https://www.youtube.com/watch?v=idX-3euELzI</id>
+        <link href="https://www.youtube.com/watch?v=idX-3euELzI"/>
+        <updated>2024-06-24T09:30:19.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[തൂവൽ സ്പർശം | Thooval Sparsham | Feat. John Britto Augustin, Veena Sujith, M D Reghunath]]></title>
         <id>https://www.youtube.com/watch?v=5rC3obKwyRk</id>
@@ -34022,15 +34031,6 @@
         <id>https://www.youtube.com/watch?v=U0Dj8ZupTiw</id>
         <link href="https://www.youtube.com/watch?v=U0Dj8ZupTiw"/>
         <updated>2024-03-26T23:30:05.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
-        <id>https://www.youtube.com/watch?v=or-VbcgyEbM</id>
-        <link href="https://www.youtube.com/watch?v=or-VbcgyEbM"/>
-        <updated>2024-03-26T22:00:32.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
