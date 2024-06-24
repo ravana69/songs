@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-24T04:23:23.588Z</updated>
+    <updated>2024-06-24T05:18:56.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pulinelloor Aattiloru | Folk Song #naadanpaattu #shortsfeed #shortsvideo #reels #naadanpattukal]]></title>
+        <id>https://www.youtube.com/watch?v=lBtFwwEUBe4</id>
+        <link href="https://www.youtube.com/watch?v=lBtFwwEUBe4"/>
+        <updated>2024-06-24T04:30:28.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snehithan Video Song Jukebox | Kunjakko Boban | Mohan Sithara | KJ Yesudas | Yusufali Kecheri]]></title>
+        <id>https://www.youtube.com/watch?v=BSKaDFqSCzg</id>
+        <link href="https://www.youtube.com/watch?v=BSKaDFqSCzg"/>
+        <updated>2024-06-24T04:30:05.000Z</updated>
+        <author>
+            <name>Speed Music Videos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaayamboo - Sleep Lofi | Nadhi | G. Devarajan | K.J. Yesudas | Chris Wayne]]></title>
+        <id>https://www.youtube.com/watch?v=456ZOL1w2D8</id>
+        <link href="https://www.youtube.com/watch?v=456ZOL1w2D8"/>
+        <updated>2024-06-24T04:30:03.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[അയ്യപ്പഭക്തിഗാനങ്ങൾ vol. 11| Devotional Songs Lord Ayyappa Vol. 11 | K J Yesudas  | Sound of Arts]]></title>
         <id>https://www.youtube.com/watch?v=uOSbf67UVVY</id>
@@ -34006,15 +34033,6 @@
         <updated>2024-03-26T18:00:13.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kezhaman Kannale Kurathi | Abraham And Lincoln | A Pramod Papanic Approach | Manjari | Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=x0NPa5k4TCY</id>
-        <link href="https://www.youtube.com/watch?v=x0NPa5k4TCY"/>
-        <updated>2024-03-26T16:25:40.000Z</updated>
-        <author>
-            <name>Speed Music Videos</name>
         </author>
     </entry>
 </feed>
