@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-24T18:26:01.476Z</updated>
+    <updated>2024-06-24T19:16:42.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 25th June 2024]]></title>
+        <id>https://www.youtube.com/watch?v=2HM-4qBRDhI</id>
+        <link href="https://www.youtube.com/watch?v=2HM-4qBRDhI"/>
+        <updated>2024-06-24T19:00:02.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
+        <id>https://www.youtube.com/watch?v=lTmnDUNbdDU</id>
+        <link href="https://www.youtube.com/watch?v=lTmnDUNbdDU"/>
+        <updated>2024-06-24T18:30:25.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yadukula Gopike | Mohanlal | KS Chithra | Unni Menon | SP Venkitesh | Shibu Chakravarthy]]></title>
         <id>https://www.youtube.com/watch?v=P2ZhpWCUZ_E</id>
@@ -33934,78 +33952,6 @@
         <updated>2024-03-27T07:38:55.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ohm Muruga - Verum Charam Lyric | M.G. Radhakrishnan | Malayalam Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=xmyi_0-S1Sg</id>
-        <link href="https://www.youtube.com/watch?v=xmyi_0-S1Sg"/>
-        <updated>2024-03-27T07:00:34.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Villali Veeran - Ormayil Vrischikam Lyric | T.S. Radhakrishnan | Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=djsuy1483Sc</id>
-        <link href="https://www.youtube.com/watch?v=djsuy1483Sc"/>
-        <updated>2024-03-27T07:00:25.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ohm Muruga - Thruthudi Chenda Lyric | M.G. Radhakrishnan | Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=i9kLQWxoERs</id>
-        <link href="https://www.youtube.com/watch?v=i9kLQWxoERs"/>
-        <updated>2024-03-27T07:00:20.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ohm Muruga - Neelam Kolam Lyric | M.G. Radhakrishnan | Malayalam Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=PJ7CGvuB6HU</id>
-        <link href="https://www.youtube.com/watch?v=PJ7CGvuB6HU"/>
-        <updated>2024-03-27T07:00:12.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ohm Muruga - Kaduneelappeeli Lyric | M.G. Radhakrishnan | Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=VcQsVRDXdBA</id>
-        <link href="https://www.youtube.com/watch?v=VcQsVRDXdBA"/>
-        <updated>2024-03-27T07:00:12.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odakkuzhal - Sidhanmar Dhyanathil Lyric | Vidyadharan | Malayalam Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=83Mxwi07GVY</id>
-        <link href="https://www.youtube.com/watch?v=83Mxwi07GVY"/>
-        <updated>2024-03-27T07:00:07.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Villali Veeran - Pambayil Ganapathiye Lyric | T.S. Radhakrishnan | Devotional Songs]]></title>
-        <id>https://www.youtube.com/watch?v=7ai6QB6sNTg</id>
-        <link href="https://www.youtube.com/watch?v=7ai6QB6sNTg"/>
-        <updated>2024-03-27T07:00:03.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[𝐀𝐑𝐀𝐃𝐇𝐈𝐂𝐇𝐄𝐄𝐃𝐔𝐌 𝐍𝐉𝐀𝐍 𝐄𝐍𝐍𝐈𝐋 | #shorts | 𝐋𝐈𝐁𝐈𝐍 𝐙𝐀𝐂𝐇𝐀𝐑𝐈𝐀 | 𝐅𝐫. 𝐉𝐎𝐉𝐎 𝐓𝐇𝐀𝐋𝐈𝐊𝐀𝐒𝐓𝐇𝐀𝐍𝐀𝐌 𝐂𝐌𝐈 | 𝐒𝐈𝐁𝐘𝐂𝐇𝐄𝐍 𝐈𝐑𝐈𝐓𝐓𝐘]]></title>
-        <id>https://www.youtube.com/watch?v=SuhurMXVOtA</id>
-        <link href="https://www.youtube.com/watch?v=SuhurMXVOtA"/>
-        <updated>2024-03-27T06:27:45.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
         </author>
     </entry>
 </feed>
