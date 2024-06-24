@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-24T01:25:59.249Z</updated>
+    <updated>2024-06-24T02:36:05.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jumbochan | Animation for Kids #shorts  #manoramamusic #ytshortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=qvCOFCPPj70</id>
+        <link href="https://www.youtube.com/watch?v=qvCOFCPPj70"/>
+        <updated>2024-06-24T01:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaathil Aro Mozhinju | Aviyal | Shorts  #manoramamusic #filmshorts]]></title>
         <id>https://www.youtube.com/watch?v=46r1v2cLnHo</id>
@@ -33952,24 +33961,6 @@
         <updated>2024-03-26T16:25:40.000Z</updated>
         <author>
             <name>Speed Music Videos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O Priye | Kunchacko Boban | Shalini | KJ Yesudas | Ouseppachan | S Ramesan Nair]]></title>
-        <id>https://www.youtube.com/watch?v=eQ3Bf9kHu6c</id>
-        <link href="https://www.youtube.com/watch?v=eQ3Bf9kHu6c"/>
-        <updated>2024-03-26T14:30:14.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moovanthi Thazhvarayil | Raveendran | Gireesh Puthenchery l KJ Yesudas #songoftheday]]></title>
-        <id>https://www.youtube.com/watch?v=M-bSxGxytik</id>
-        <link href="https://www.youtube.com/watch?v=M-bSxGxytik"/>
-        <updated>2024-03-26T14:30:08.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
