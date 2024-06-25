@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-25T04:22:49.727Z</updated>
+    <updated>2024-06-25T05:19:17.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Junile Nilamazhayil | Nammal Thammil | Gireesh Puthencherry  #shortsfeed #shortsvideo #shorts #reels]]></title>
+        <id>https://www.youtube.com/watch?v=sazlyUD_y50</id>
+        <link href="https://www.youtube.com/watch?v=sazlyUD_y50"/>
+        <updated>2024-06-25T04:30:28.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alliyambal Kadavil - Ambient Lofi | Rosi | Job | K.J. Yesudas | Joyal MJ]]></title>
+        <id>https://www.youtube.com/watch?v=iO9gtguibww</id>
+        <link href="https://www.youtube.com/watch?v=iO9gtguibww"/>
+        <updated>2024-06-25T04:30:16.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kananachayakal Neele | Oru Sayahnathinte Swapnam | Suhasini | Mammoottty | K S Chithra]]></title>
+        <id>https://www.youtube.com/watch?v=PjLKzguQp-A</id>
+        <link href="https://www.youtube.com/watch?v=PjLKzguQp-A"/>
+        <updated>2024-06-25T04:30:15.000Z</updated>
+        <author>
+            <name>Paattu Petty പാട്ടു പെട്ടി</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponvanam Ee Kaikalil | Anuragakkottaram | Dileep | Suvalakshmi | ilayaraja | Vinayan]]></title>
+        <id>https://www.youtube.com/watch?v=Eoi7Id8LuA4</id>
+        <link href="https://www.youtube.com/watch?v=Eoi7Id8LuA4"/>
+        <updated>2024-06-25T04:30:08.000Z</updated>
+        <author>
+            <name>Speed Music Videos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Radhaykorunal | Mayavi | Balarama #ytshorts  #manoramamusic]]></title>
         <id>https://www.youtube.com/watch?v=sQVnHjLIpZk</id>
@@ -33682,15 +33718,6 @@
         <updated>2024-03-27T18:00:16.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAUNDY THURSDAY SONG | കാൽകഴുകൽ ശുശ്രൂഷാ ഗീതങ്ങൾ | ROY PUTHUR | #goodfriday #greatlent #royputhur]]></title>
-        <id>https://www.youtube.com/watch?v=7Z5XhJHBM0M</id>
-        <link href="https://www.youtube.com/watch?v=7Z5XhJHBM0M"/>
-        <updated>2024-03-27T16:50:46.000Z</updated>
-        <author>
-            <name>Rayan Media Productions</name>
         </author>
     </entry>
 </feed>
