@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-25T15:20:30.297Z</updated>
+    <updated>2024-06-25T16:25:11.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ആരാധിച്ചാരാധിച്ചിന്നു ഞാൻ ആത്മാവിൽ ധീരനായ്..]]></title>
+        <id>https://www.youtube.com/watch?v=vzZkXP_wNGk</id>
+        <link href="https://www.youtube.com/watch?v=vzZkXP_wNGk"/>
+        <updated>2024-06-25T15:46:04.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Varamanjaladiya | Sachithanandan Puzhankara | Vidyasagar | Sujatha Mohan |Manju Warrier]]></title>
         <id>https://www.youtube.com/watch?v=eW6lhBwRPBQ</id>
@@ -33763,33 +33772,6 @@
         <updated>2024-03-28T04:51:49.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kandalum Kalvariyil | Sithara Krishnakumar | Malayalam Christian Songs | Good Friday Songs]]></title>
-        <id>https://www.youtube.com/watch?v=oaHjCyq7Fi4</id>
-        <link href="https://www.youtube.com/watch?v=oaHjCyq7Fi4"/>
-        <updated>2024-03-28T04:10:30.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jayabharathi Old Malayalam Movie Songs | Aarum Anyaralla Remastered Malayalam Songs | P.Jayachandran]]></title>
-        <id>https://www.youtube.com/watch?v=sKCoMfZUpnE</id>
-        <link href="https://www.youtube.com/watch?v=sKCoMfZUpnE"/>
-        <updated>2024-03-28T04:00:33.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chakkitharavum Kunjungalum | Vedalakshmi #animation #animationvideo #kidscartoon #kidscartoon]]></title>
-        <id>https://www.youtube.com/watch?v=gEGudjIYOMQ</id>
-        <link href="https://www.youtube.com/watch?v=gEGudjIYOMQ"/>
-        <updated>2024-03-28T03:30:14.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
