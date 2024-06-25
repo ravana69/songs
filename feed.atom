@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-25T11:16:51.522Z</updated>
+    <updated>2024-06-25T12:37:12.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നിന്നെക്കുറിച്ച്  ദൈവത്തിനു ചില പദ്ധതികളുണ്ട്....😇 | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
+        <id>https://www.youtube.com/watch?v=i8GVta10QS8</id>
+        <link href="https://www.youtube.com/watch?v=i8GVta10QS8"/>
+        <updated>2024-06-25T12:30:27.000Z</updated>
+        <author>
+            <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഉറങ്ങും മുൻപ് ദൈവ സന്നിധിയിൽ # Night Prayer and Worship # Rathri Japam 25th of June 2024]]></title>
+        <id>https://www.youtube.com/watch?v=Nx-aj0PzgE0</id>
+        <link href="https://www.youtube.com/watch?v=Nx-aj0PzgE0"/>
+        <updated>2024-06-25T12:30:24.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do You Know What Was Happening BTS | Guruvayoorambala Nadayil | Prithviraj #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=2tCJss6pV_Q</id>
+        <link href="https://www.youtube.com/watch?v=2tCJss6pV_Q"/>
+        <updated>2024-06-25T12:30:02.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pullanenikku Ninte Video Song | Unniyarcha | P Leela | AM Raja | K Raghavan]]></title>
+        <id>https://www.youtube.com/watch?v=90I2Ld1WMs8</id>
+        <link href="https://www.youtube.com/watch?v=90I2Ld1WMs8"/>
+        <updated>2024-06-25T12:15:00.000Z</updated>
+        <author>
+            <name>Harmony Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rakthpushpam Vidarnna | HD Video | Janam | S. P. Venkatesh  | Yesudas | KS Chithra l ONV Kurup]]></title>
+        <id>https://www.youtube.com/watch?v=RyGQl_i1RzM</id>
+        <link href="https://www.youtube.com/watch?v=RyGQl_i1RzM"/>
+        <updated>2024-06-25T12:07:47.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rakshakanaya Yeshuvinu Nandiyekidunna Manohara Ganangal | Malayalam Christian Devotional Songs]]></title>
         <id>https://www.youtube.com/watch?v=7V7RoGOZuvs</id>
@@ -33691,33 +33736,6 @@
         <updated>2024-03-28T03:30:14.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എളിമയുടെ മാതൃക ലോകത്തിനുകാട്ടിയ പെസഹാവ്യാഴ ഗീതങ്ങൾ  | Maundy Thursday Songs | Easter Songs]]></title>
-        <id>https://www.youtube.com/watch?v=q7IFyaPBGkc</id>
-        <link href="https://www.youtube.com/watch?v=q7IFyaPBGkc"/>
-        <updated>2024-03-28T00:30:32.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഇന്ന് മാർച്ച്  28എൻറെ കർത്താവിൻറെ അമ്മയുടെ ജപമാല കേട്ട് ഇന്നത്തെ ദിവസം ആരംഭിക്കാം #japamala praksaha]]></title>
-        <id>https://www.youtube.com/watch?v=gEhEkY6qWAU</id>
-        <link href="https://www.youtube.com/watch?v=gEhEkY6qWAU"/>
-        <updated>2024-03-28T00:00:27.000Z</updated>
-        <author>
-            <name>Vachanam Audios Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thalathil Vellameduthu  Feat Ninoy & Athul Team # Pesaha Vyazham Song # Maundy Thursday Song]]></title>
-        <id>https://www.youtube.com/watch?v=JTsTPxNttdM</id>
-        <link href="https://www.youtube.com/watch?v=JTsTPxNttdM"/>
-        <updated>2024-03-27T23:30:02.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
