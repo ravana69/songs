@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-25T13:22:28.490Z</updated>
+    <updated>2024-06-25T14:20:10.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This Was The Effort Given At The Back Stage  | Guruvayoorambala Nadayil | Prithviraj |#ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=rTKqtp65MEg</id>
+        <link href="https://www.youtube.com/watch?v=rTKqtp65MEg"/>
+        <updated>2024-06-25T13:30:30.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[മലയാളിമനസുകൾ കീഴടക്കിയ സൂപ്പർഹിറ്റ് സിനിമാപാട്ടുകൾ | SUPERHIT MELODY SONGS MALAYALAM]]></title>
+        <id>https://www.youtube.com/watch?v=eOk3v60EXDY</id>
+        <link href="https://www.youtube.com/watch?v=eOk3v60EXDY"/>
+        <updated>2024-06-25T13:30:30.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singer Of The Week | Midhila Michael | Christian Melody Songs | Joji Johns | Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=U-5s5eXrJJU</id>
+        <link href="https://www.youtube.com/watch?v=U-5s5eXrJJU"/>
+        <updated>2024-06-25T13:30:15.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kaashi Thumba Kavayi  Video Song | Mookkilla Rajyathu | MG Sreekumar | Ouseppachan | Kaithapram]]></title>
         <id>https://www.youtube.com/watch?v=rf2-_c7IZNw</id>
