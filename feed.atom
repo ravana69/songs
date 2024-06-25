@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-25T19:16:39.272Z</updated>
+    <updated>2024-06-25T20:19:40.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന June 26 # Athiravile Prarthana 26th of June 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=ZyYq-k_29mM</id>
+        <link href="https://www.youtube.com/watch?v=ZyYq-k_29mM"/>
+        <updated>2024-06-25T20:00:22.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[അമ്മ നിൻറെ 5 മിനിറ്റ് യാചിക്കുന്നു l marian l miraculous prayer l powerful prayer]]></title>
+        <id>https://www.youtube.com/watch?v=m2dSN-EbMBg</id>
+        <link href="https://www.youtube.com/watch?v=m2dSN-EbMBg"/>
+        <updated>2024-06-25T19:30:05.000Z</updated>
+        <author>
+            <name>Eden Musics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 26th June 2024]]></title>
         <id>https://www.youtube.com/watch?v=vPABoQSa3rw</id>
@@ -33763,33 +33781,6 @@
         <updated>2024-03-28T08:26:21.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[മലയാളികളെന്നും ഹൃദയത്തിൽ  സൂക്ഷിക്കുന്ന നിത്യമനോഹര ഹൃദയഗീതങ്ങൾ ! MALAYALAM FILM SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=D68G3Dbt_Cs</id>
-        <link href="https://www.youtube.com/watch?v=D68G3Dbt_Cs"/>
-        <updated>2024-03-28T08:04:06.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOOD FRIDAY | ദുഃഖ വെള്ളി | ROY PUTHUR #greatlent #goodfriday #jesuschrist]]></title>
-        <id>https://www.youtube.com/watch?v=Ye1FmDHAEaM</id>
-        <link href="https://www.youtube.com/watch?v=Ye1FmDHAEaM"/>
-        <updated>2024-03-28T07:41:07.000Z</updated>
-        <author>
-            <name>Rayan Media Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഒരു ജന്മം മുഴുവൻ കേട്ടാസ്വദിക്കാൻ കൊതി തോന്നുന്ന മലയാളസിനിമയിലെ  മനോഹര ഗാനങ്ങൾ ! SUPERHIT SONGS]]></title>
-        <id>https://www.youtube.com/watch?v=xJASRgi9VUU</id>
-        <link href="https://www.youtube.com/watch?v=xJASRgi9VUU"/>
-        <updated>2024-03-28T07:30:28.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
