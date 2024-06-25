@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-25T12:37:12.578Z</updated>
+    <updated>2024-06-25T13:22:28.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kaashi Thumba Kavayi  Video Song | Mookkilla Rajyathu | MG Sreekumar | Ouseppachan | Kaithapram]]></title>
+        <id>https://www.youtube.com/watch?v=rf2-_c7IZNw</id>
+        <link href="https://www.youtube.com/watch?v=rf2-_c7IZNw"/>
+        <updated>2024-06-25T12:31:10.000Z</updated>
+        <author>
+            <name>Malayalam Cassettes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നിന്നെക്കുറിച്ച്  ദൈവത്തിനു ചില പദ്ധതികളുണ്ട്....😇 | Rev. Aneesh P Joseph | #shorts #motivation]]></title>
         <id>https://www.youtube.com/watch?v=i8GVta10QS8</id>
