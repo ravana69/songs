@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-26T14:17:51.893Z</updated>
+    <updated>2024-06-26T15:21:52.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[നിഴലുപോൽ മറയുമീ ജന്മമെന്നാലും]]></title>
+        <id>https://www.youtube.com/watch?v=yIX4qWGJ5m8</id>
+        <link href="https://www.youtube.com/watch?v=yIX4qWGJ5m8"/>
+        <updated>2024-06-26T15:04:27.000Z</updated>
+        <author>
+            <name>OWN MEDIA MUSIC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aavanipoovin  | CID Unnikrishnan B.A. B.Ed | Johnson l  KS Chithra | P Jayachandran]]></title>
+        <id>https://www.youtube.com/watch?v=v9Q0pMf4WAQ</id>
+        <link href="https://www.youtube.com/watch?v=v9Q0pMf4WAQ"/>
+        <updated>2024-06-26T14:30:31.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chandra Hridayam | Sathyam Sivam Sundaram | Vidyasagar | K J Yesudas | Kaithapram #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=iWUYiSvM1gU</id>
+        <link href="https://www.youtube.com/watch?v=iWUYiSvM1gU"/>
+        <updated>2024-06-26T14:30:17.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vibe For K For Krishna Join Your Hands| Guruvayoorambala Nadayil | Prithviraj | Basil |#ytshorts]]></title>
         <id>https://www.youtube.com/watch?v=JW98eT0MAuY</id>
@@ -33709,15 +33736,6 @@
         <updated>2024-03-29T03:30:20.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devesha Yeshupara | Nithya Mammen | Shorts  #manoramachristiandevotionalsongs #ytshorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=S_r7a4hnyJA</id>
-        <link href="https://www.youtube.com/watch?v=S_r7a4hnyJA"/>
-        <updated>2024-03-29T03:00:07.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
