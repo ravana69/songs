@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-26T01:24:38.314Z</updated>
+    <updated>2024-06-26T02:34:15.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parayatharike | Award Winning Film Songs Reels #shortsvideo #shorts  #manoramamusic #ytshortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=wjgkcEfZkrs</id>
+        <link href="https://www.youtube.com/watch?v=wjgkcEfZkrs"/>
+        <updated>2024-06-26T01:30:07.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manjin Thooval Aviyal | Shorts  #manoramamusic #filmshorts]]></title>
+        <id>https://www.youtube.com/watch?v=YvLWQmOnWHs</id>
+        <link href="https://www.youtube.com/watch?v=YvLWQmOnWHs"/>
+        <updated>2024-06-26T01:30:06.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Salemin Rajavu | Christian Video Song | Binny Mathew | Praise and Worship Songs |  Aji Puthoor]]></title>
         <id>https://www.youtube.com/watch?v=byv81xsfStY</id>
@@ -33637,60 +33655,6 @@
         <updated>2024-03-28T14:39:48.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gagulatha Malayil Ninnum # Feat. Ninoy Varghese, Athul Sebastian # Traditional Good Friday Song]]></title>
-        <id>https://www.youtube.com/watch?v=MB54t-m2UVA</id>
-        <link href="https://www.youtube.com/watch?v=MB54t-m2UVA"/>
-        <updated>2024-03-28T14:30:11.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thei Oru Thenavayal Video Song | MG Sreekumar | Sujatha Mohan | Vidyasagar | S Ramesan Nair]]></title>
-        <id>https://www.youtube.com/watch?v=L_fwyvrUL8U</id>
-        <link href="https://www.youtube.com/watch?v=L_fwyvrUL8U"/>
-        <updated>2024-03-28T14:30:07.000Z</updated>
-        <author>
-            <name>Saina Evergreens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[യേശുനാഥന്റെ കുരിശുമരണത്തെ ഓർത്തു  ലോകമെങ്ങും ധ്യാനിക്കുന്ന പരിശുദ്ധ ഗാനങ്ങൾ]]></title>
-        <id>https://www.youtube.com/watch?v=ZK6w78tAl4Y</id>
-        <link href="https://www.youtube.com/watch?v=ZK6w78tAl4Y"/>
-        <updated>2024-03-28T13:30:26.000Z</updated>
-        <author>
-            <name>Music Shack Christian Devotional Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[എവർഗ്രീൻ പ്രണയനായകൻ കുഞ്ചാക്കോ ബോബന്റെ ഇഷ്ടഗാനങ്ങൾ | HITS OF KUNCHACKO BOBAN | MOVIEWORLD MUSIC]]></title>
-        <id>https://www.youtube.com/watch?v=ZB4cBZscf18</id>
-        <link href="https://www.youtube.com/watch?v=ZB4cBZscf18"/>
-        <updated>2024-03-28T13:30:25.000Z</updated>
-        <author>
-            <name>Movie World Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Krooshitha Roopathil | Good Friday Status | Dhukka Velli Whatsapp Status  |#shorts #jesus]]></title>
-        <id>https://www.youtube.com/watch?v=pot0co1JKGo</id>
-        <link href="https://www.youtube.com/watch?v=pot0co1JKGo"/>
-        <updated>2024-03-28T13:30:24.000Z</updated>
-        <author>
-            <name>ZionClassics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Friday Songs Malayalam # Dhukha Velliyazhcha Ganangal Malayalam Christian songs # Ninoy & Athul]]></title>
-        <id>https://www.youtube.com/watch?v=ESlbaI3Miss</id>
-        <link href="https://www.youtube.com/watch?v=ESlbaI3Miss"/>
-        <updated>2024-03-28T13:30:06.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
     </entry>
 </feed>
