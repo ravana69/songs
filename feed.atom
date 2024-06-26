@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-26T08:25:06.806Z</updated>
+    <updated>2024-06-26T09:22:50.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thattikko | Kunddala Puranam | Blesson Thomas | Shorts  #manoramamusic #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=66SterQSny4</id>
+        <link href="https://www.youtube.com/watch?v=66SterQSny4"/>
+        <updated>2024-06-26T08:08:31.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thattikko | Kunddala Puranam | Blesson Thomas | Shorts  #manoramamusic #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=blw1B2NlY5M</id>
+        <link href="https://www.youtube.com/watch?v=blw1B2NlY5M"/>
+        <updated>2024-06-26T08:08:21.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manchadi Mazha | Amal C Ajith | Rijosh VA #cover  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=Z4HWycocM3I</id>
+        <link href="https://www.youtube.com/watch?v=Z4HWycocM3I"/>
+        <updated>2024-06-26T08:08:11.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manchadi Mazha | Amal C Ajith | Rijosh VA #cover  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=1uSmaxm_JiA</id>
+        <link href="https://www.youtube.com/watch?v=1uSmaxm_JiA"/>
+        <updated>2024-06-26T08:08:03.000Z</updated>
+        <author>
+            <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kannil Kannil | Swargathile Katturumbu | Shorts  #manoramamusic #shortsvideo]]></title>
         <id>https://www.youtube.com/watch?v=mjhfkwkfipA</id>
@@ -16,12 +52,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Thattikko | Kunddala Puranam | Blesson Thomas | Shorts  #manoramamusic #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=j64hPxVx950</id>
+        <link href="https://www.youtube.com/watch?v=j64hPxVx950"/>
+        <updated>2024-06-26T08:07:54.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kannil Kannil | Swargathile Katturumbu | Shorts  #manoramamusic #shortsvideo]]></title>
         <id>https://www.youtube.com/watch?v=Y5FTuAtr9Ug</id>
         <link href="https://www.youtube.com/watch?v=Y5FTuAtr9Ug"/>
         <updated>2024-06-26T08:07:47.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thattikko | Kunddala Puranam | Blesson Thomas | Shorts  #manoramamusic #shortsvideo]]></title>
+        <id>https://www.youtube.com/watch?v=E3dIIvXGSbg</id>
+        <link href="https://www.youtube.com/watch?v=E3dIIvXGSbg"/>
+        <updated>2024-06-26T08:07:42.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
@@ -40,6 +94,24 @@
         <updated>2024-06-26T08:07:29.000Z</updated>
         <author>
             <name>Malayalam Movie Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manchadi Mazha | Amal C Ajith | Rijosh VA #cover  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=95SzbyoNVFU</id>
+        <link href="https://www.youtube.com/watch?v=95SzbyoNVFU"/>
+        <updated>2024-06-26T08:07:28.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manchadi Mazha | Amal C Ajith | Rijosh VA #cover  #manoramamusic]]></title>
+        <id>https://www.youtube.com/watch?v=ZIGFrZ-faJs</id>
+        <link href="https://www.youtube.com/watch?v=ZIGFrZ-faJs"/>
+        <updated>2024-06-26T08:07:21.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
