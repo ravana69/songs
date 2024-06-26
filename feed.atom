@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-26T22:19:24.390Z</updated>
+    <updated>2024-06-26T23:19:44.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=9VTBB7z4MYU</id>
+        <link href="https://www.youtube.com/watch?v=9VTBB7z4MYU"/>
+        <updated>2024-06-26T23:00:05.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന June 27 # Athiravile Prarthana 27th of June 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=maRIYkCo4ko</id>
@@ -33511,141 +33520,6 @@
         <updated>2024-03-29T11:30:04.000Z</updated>
         <author>
             <name>Speed Music Videos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M.G. Sreekumar - Bhadre Chottanikkara Vaazhum]]></title>
-        <id>https://www.youtube.com/watch?v=1jAyaj2nSts</id>
-        <link href="https://www.youtube.com/watch?v=1jAyaj2nSts"/>
-        <updated>2024-03-29T10:59:57.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhu Balakrishnan - Hrudayathil Omkara Dhwani]]></title>
-        <id>https://www.youtube.com/watch?v=yczrgE5J7Eo</id>
-        <link href="https://www.youtube.com/watch?v=yczrgE5J7Eo"/>
-        <updated>2024-03-29T10:59:04.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhu Balakrishnan - Maanasa Sowparnika Than]]></title>
-        <id>https://www.youtube.com/watch?v=604OHhh2A5I</id>
-        <link href="https://www.youtube.com/watch?v=604OHhh2A5I"/>
-        <updated>2024-03-29T10:56:32.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhu Balakrishnan - Then Madhuram]]></title>
-        <id>https://www.youtube.com/watch?v=CEmL_aioFeo</id>
-        <link href="https://www.youtube.com/watch?v=CEmL_aioFeo"/>
-        <updated>2024-03-29T10:53:37.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhu Balakrishnan - Aakasha Poomarakombathu]]></title>
-        <id>https://www.youtube.com/watch?v=-x-CyFiNR0s</id>
-        <link href="https://www.youtube.com/watch?v=-x-CyFiNR0s"/>
-        <updated>2024-03-29T10:52:06.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhu Balakrishnan - Alankara Poojaikku]]></title>
-        <id>https://www.youtube.com/watch?v=9UYwowqYSm4</id>
-        <link href="https://www.youtube.com/watch?v=9UYwowqYSm4"/>
-        <updated>2024-03-29T10:51:58.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M.G. Sreekumar - Sarvamangalayaayoramma]]></title>
-        <id>https://www.youtube.com/watch?v=Gi0yICBwlmM</id>
-        <link href="https://www.youtube.com/watch?v=Gi0yICBwlmM"/>
-        <updated>2024-03-29T10:51:53.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhu Balakrishnan - Sankrama Sandhya]]></title>
-        <id>https://www.youtube.com/watch?v=lMegvgRdv2I</id>
-        <link href="https://www.youtube.com/watch?v=lMegvgRdv2I"/>
-        <updated>2024-03-29T10:51:48.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhu Balakrishnan - Keezhkkavilammakku]]></title>
-        <id>https://www.youtube.com/watch?v=Qaye1AFUs4o</id>
-        <link href="https://www.youtube.com/watch?v=Qaye1AFUs4o"/>
-        <updated>2024-03-29T10:51:41.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhu Balakrishnan - Vilvamangalathinu]]></title>
-        <id>https://www.youtube.com/watch?v=94H5-8jpH24</id>
-        <link href="https://www.youtube.com/watch?v=94H5-8jpH24"/>
-        <updated>2024-03-29T10:51:34.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhu Balakrishnan - Sahasrasoorya Prabhayil]]></title>
-        <id>https://www.youtube.com/watch?v=q2Rb8cvuMxU</id>
-        <link href="https://www.youtube.com/watch?v=q2Rb8cvuMxU"/>
-        <updated>2024-03-29T10:51:19.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Divya B. Nair - Mookambike Devi Jagadambike]]></title>
-        <id>https://www.youtube.com/watch?v=ujs0ajL1KAw</id>
-        <link href="https://www.youtube.com/watch?v=ujs0ajL1KAw"/>
-        <updated>2024-03-29T10:51:04.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M.G. Sreekumar - Keezhkkavilamme]]></title>
-        <id>https://www.youtube.com/watch?v=hKvM4KEMQmg</id>
-        <link href="https://www.youtube.com/watch?v=hKvM4KEMQmg"/>
-        <updated>2024-03-29T10:50:57.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madhu Balakrishnan - Saranam Saranam Deviye]]></title>
-        <id>https://www.youtube.com/watch?v=mebpZec1VbE</id>
-        <link href="https://www.youtube.com/watch?v=mebpZec1VbE"/>
-        <updated>2024-03-29T10:50:38.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sangeetha - Makam Thozhum Neram]]></title>
-        <id>https://www.youtube.com/watch?v=yJtbkff5ZZs</id>
-        <link href="https://www.youtube.com/watch?v=yJtbkff5ZZs"/>
-        <updated>2024-03-29T10:50:37.000Z</updated>
-        <author>
-            <name>SonyMusicSouthVEVO</name>
         </author>
     </entry>
 </feed>
