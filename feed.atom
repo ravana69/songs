@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-26T04:24:43.184Z</updated>
+    <updated>2024-06-26T05:18:33.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Krushithante Hrudhayam Pole Day 26]]></title>
+        <id>https://www.youtube.com/watch?v=wHw-PvnzpYQ</id>
+        <link href="https://www.youtube.com/watch?v=wHw-PvnzpYQ"/>
+        <updated>2024-06-26T05:07:55.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evergreen Malayalam Evergreen Hits |കേൾക്കാൻ കൊതിക്കുന്ന പ്രണയഗാനങ്ങൾ|K S Chithra|Evergreen Melodies]]></title>
+        <id>https://www.youtube.com/watch?v=8jrF1_w0a6o</id>
+        <link href="https://www.youtube.com/watch?v=8jrF1_w0a6o"/>
+        <updated>2024-06-26T05:05:07.000Z</updated>
+        <author>
+            <name>Speed Audios</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daivakripa Vol-1 | Nonstop Malayalam Devotional Songs | Popular Malayalam Christian Songs]]></title>
+        <id>https://www.youtube.com/watch?v=jrUF7flcrOM</id>
+        <link href="https://www.youtube.com/watch?v=jrUF7flcrOM"/>
+        <updated>2024-06-26T04:40:49.000Z</updated>
+        <author>
+            <name>Christian Devotional Manorama Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pacha Theeyanu Nee | Bahubali 1#prabhas #ssrajamouli #shortsfeed #shortsvideo #shorts #mmkeeravani]]></title>
+        <id>https://www.youtube.com/watch?v=risnOUJ1RY4</id>
+        <link href="https://www.youtube.com/watch?v=risnOUJ1RY4"/>
+        <updated>2024-06-26T04:30:30.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jukebox | Nonstop Movie Songs | SuperHit Malayalam Film Songs | Mr.Brahmachari |Pattanathil Bhootham]]></title>
         <id>https://www.youtube.com/watch?v=Q9w19HDRTkw</id>
@@ -634,6 +670,15 @@
         <updated>2024-06-24T08:25:59.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karkkidaka Kaakkachirakil | Sathyathil Sambhavichathu | Kavalam NarayanaPanicker | Kavalam Sreekumar]]></title>
+        <id>https://www.youtube.com/watch?v=0GwyFizAQz8</id>
+        <link href="https://www.youtube.com/watch?v=0GwyFizAQz8"/>
+        <updated>2024-06-24T07:50:08.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
         </author>
     </entry>
     <entry>
@@ -33511,24 +33556,6 @@
         <updated>2024-03-28T17:38:25.000Z</updated>
         <author>
             <name>OWN MEDIA MUSIC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARIMATHYAA NAATTIL | അരിമത്യാ നാട്ടിൽ | ROY PUTHUR | REBA ROMY #greatlent #royputhur]]></title>
-        <id>https://www.youtube.com/watch?v=cKdVyE507SM</id>
-        <link href="https://www.youtube.com/watch?v=cKdVyE507SM"/>
-        <updated>2024-03-28T16:40:57.000Z</updated>
-        <author>
-            <name>Rayan Media Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ഓർമ്മകൾ  ഉണർത്തുന്ന മലയാളം  ഗാനങ്ങൾ | Malayalam Old Favourite Hits | KJ Yesudas | KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=lGGtNw-RuIA</id>
-        <link href="https://www.youtube.com/watch?v=lGGtNw-RuIA"/>
-        <updated>2024-03-28T16:38:09.000Z</updated>
-        <author>
-            <name>Saina Music</name>
         </author>
     </entry>
 </feed>
