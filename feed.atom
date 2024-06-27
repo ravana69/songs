@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-27T17:19:25.037Z</updated>
+    <updated>2024-06-27T18:24:47.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33529,33 +33529,6 @@
         <updated>2024-03-30T06:48:22.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@royputhur ദുഃഖ ശനി | ROY PUTHUR #greatlent #passionweek #royputhur]]></title>
-        <id>https://www.youtube.com/watch?v=Za0r2KjH5jA</id>
-        <link href="https://www.youtube.com/watch?v=Za0r2KjH5jA"/>
-        <updated>2024-03-30T05:46:35.000Z</updated>
-        <author>
-            <name>Rayan Media Productions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paadiyum Paranjum | കോളേജ് പഠനകാലത്തു വയലാറിനെ ദുരുപയോഗം ചെയ്തപ്പോൾ  | പാടിയും പറഞ്ഞും|  K Jayakumar]]></title>
-        <id>https://www.youtube.com/watch?v=pJKDK_x82rs</id>
-        <link href="https://www.youtube.com/watch?v=pJKDK_x82rs"/>
-        <updated>2024-03-30T05:30:08.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Othiri Othiri Swapnangal Video Song| Pranayavarnangal| Vidyasagar | KS Chithra | Gireesh Puthenchery]]></title>
-        <id>https://www.youtube.com/watch?v=uwZEpHYtFKA</id>
-        <link href="https://www.youtube.com/watch?v=uwZEpHYtFKA"/>
-        <updated>2024-03-30T05:20:42.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
