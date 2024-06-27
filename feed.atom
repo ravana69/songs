@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-27T15:22:00.103Z</updated>
+    <updated>2024-06-27T16:24:58.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33574,24 +33574,6 @@
         <updated>2024-03-30T04:30:15.000Z</updated>
         <author>
             <name>Magic Frames Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharada Old Malayalam Movie Songs | Kuttavali Remastered Malayalam Songs |  P Susheela]]></title>
-        <id>https://www.youtube.com/watch?v=xBYDN29yAaU</id>
-        <link href="https://www.youtube.com/watch?v=xBYDN29yAaU"/>
-        <updated>2024-03-30T04:16:42.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enneshurajan | Vidwankuttiyachan | Ramesh Murali | Gagul Joseph | Bindhu| Siji | Easter Songs]]></title>
-        <id>https://www.youtube.com/watch?v=7oN7XK-eJkY</id>
-        <link href="https://www.youtube.com/watch?v=7oN7XK-eJkY"/>
-        <updated>2024-03-30T03:35:53.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
