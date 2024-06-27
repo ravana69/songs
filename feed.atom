@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-27T14:18:35.951Z</updated>
+    <updated>2024-06-27T15:22:00.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thozhukai Koopi Unarum | Boeing Boeing | Raghu Kumar | K J Yesudas | Mohanlal #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=f_PUOks2vXo</id>
+        <link href="https://www.youtube.com/watch?v=f_PUOks2vXo"/>
+        <updated>2024-06-27T14:30:13.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponnambili Ponnambili | Malsaram | S Ramesan Nair | M Jayachandran | KJ Yesudas]]></title>
+        <id>https://www.youtube.com/watch?v=Ad9RO1OMVOQ</id>
+        <link href="https://www.youtube.com/watch?v=Ad9RO1OMVOQ"/>
+        <updated>2024-06-27T14:30:06.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Christian Superhit Songs | MG Sreekumar | Christian Devotional Songs Malayalam | Joji Johns]]></title>
         <id>https://www.youtube.com/watch?v=u2PNRg1E5G8</id>
@@ -33574,24 +33592,6 @@
         <updated>2024-03-30T03:35:53.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devesha Yeshupara | Nithya Mammen | Shorts #manoramachristiandevotionalsongs #ytshorts #reels]]></title>
-        <id>https://www.youtube.com/watch?v=zksIAZot32g</id>
-        <link href="https://www.youtube.com/watch?v=zksIAZot32g"/>
-        <updated>2024-03-30T03:06:02.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karukare Karuthoru | Balettan | Shorts  #manoramamusic]]></title>
-        <id>https://www.youtube.com/watch?v=0FenL0wIY10</id>
-        <link href="https://www.youtube.com/watch?v=0FenL0wIY10"/>
-        <updated>2024-03-30T03:05:20.000Z</updated>
-        <author>
-            <name>Malayalam Movie Songs</name>
         </author>
     </entry>
 </feed>
