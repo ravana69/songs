@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-28T04:23:03.592Z</updated>
+    <updated>2024-06-28T05:18:37.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bhroohi krishna | Ingane Oru Nilapakshi | Kunchacko Boban | Sneha | K S Chithra | Andhara Choudhary]]></title>
+        <id>https://www.youtube.com/watch?v=ye_4b1S2v7I</id>
+        <link href="https://www.youtube.com/watch?v=ye_4b1S2v7I"/>
+        <updated>2024-06-28T04:30:31.000Z</updated>
+        <author>
+            <name>Speed Music Videos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aarari Rariraaro | Kangaroo | Malayalam Lullaby Film Songs #kjyesudas #shortsfeed #shortsvideo #reel]]></title>
+        <id>https://www.youtube.com/watch?v=0uaJ-889Hqw</id>
+        <link href="https://www.youtube.com/watch?v=0uaJ-889Hqw"/>
+        <updated>2024-06-28T04:30:00.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jayabharathi Malayalam Romantic Old Superhit Movie l Nrithasaala Movie | Prem Nazir]]></title>
         <id>https://www.youtube.com/watch?v=SdtvRkUIVDA</id>
