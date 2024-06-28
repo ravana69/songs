@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-28T07:18:45.583Z</updated>
+    <updated>2024-06-28T08:24:04.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[മലയാളസിനിമയിലെ താരരാജാക്കന്മാരുടെ മനം മയക്കും സിനിമാഗാനങ്ങൾ ! HITS OF MAMMOOTY & MOHANLAL]]></title>
+        <id>https://www.youtube.com/watch?v=RSP5fU42q34</id>
+        <link href="https://www.youtube.com/watch?v=RSP5fU42q34"/>
+        <updated>2024-06-28T08:06:03.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devikulam Malayil | Thenaruvi | KJ Yesudas | P Madhuri | Evergreen Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=42lCeZ2yRr0</id>
+        <link href="https://www.youtube.com/watch?v=42lCeZ2yRr0"/>
+        <updated>2024-06-28T07:30:01.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K For Kalyanam - Video Lyrical | Guruvayoorambala Nadayil | Prithviraj | Basil | Ankit Menon]]></title>
         <id>https://www.youtube.com/watch?v=OCl3SbYuerc</id>
@@ -22,6 +40,15 @@
         <updated>2024-06-28T05:30:07.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chenthamare Video Song | Karnika Movie | Arun Venpala | Jilson jinu | Nikhil Mathew]]></title>
+        <id>https://www.youtube.com/watch?v=bTqbTJGKzo4</id>
+        <link href="https://www.youtube.com/watch?v=bTqbTJGKzo4"/>
+        <updated>2024-06-28T05:27:21.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
@@ -814,6 +841,15 @@
         <updated>2024-06-26T07:00:19.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oru Mozhi Karaoke | IRA Film Songs | Oru Mozhi Parayam Lyrics Video | BK Harinarayanan | Gopi Sundar]]></title>
+        <id>https://www.youtube.com/watch?v=dHVgol46vr4</id>
+        <link href="https://www.youtube.com/watch?v=dHVgol46vr4"/>
+        <updated>2024-06-26T05:57:28.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
         </author>
     </entry>
     <entry>
@@ -33329,15 +33365,6 @@
         <id>https://www.youtube.com/watch?v=veqSwprI-Qw</id>
         <link href="https://www.youtube.com/watch?v=veqSwprI-Qw"/>
         <updated>2024-03-30T22:00:32.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malkosinte Gadhgathangal Easter]]></title>
-        <id>https://www.youtube.com/watch?v=CiZ17HHwcd4</id>
-        <link href="https://www.youtube.com/watch?v=CiZ17HHwcd4"/>
-        <updated>2024-03-30T20:12:01.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
         </author>
