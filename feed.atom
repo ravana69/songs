@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-28T16:23:45.958Z</updated>
+    <updated>2024-06-28T17:18:08.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33511,24 +33511,6 @@
         <updated>2024-03-31T05:30:07.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kingini Poove Video Song | Swapnam Kondu Thulabharam | Suresh Gopi | MG Sreekumar | Sujatha Mohan]]></title>
-        <id>https://www.youtube.com/watch?v=tC-jm8qJzZE</id>
-        <link href="https://www.youtube.com/watch?v=tC-jm8qJzZE"/>
-        <updated>2024-03-31T04:30:20.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanka Noopurangal | Anjarakalyanam | Jagadeesh | M G Sreekumar | Wilson]]></title>
-        <id>https://www.youtube.com/watch?v=xwBn-Q4KImc</id>
-        <link href="https://www.youtube.com/watch?v=xwBn-Q4KImc"/>
-        <updated>2024-03-31T04:30:19.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
         </author>
     </entry>
 </feed>
