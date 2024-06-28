@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-28T15:20:20.379Z</updated>
+    <updated>2024-06-28T16:23:45.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Get Into The Beats Of Vatteppam | Mandakini | Dabzee | Altaf Salim | Bibin Ashok | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=oSqGy1JYSnk</id>
+        <link href="https://www.youtube.com/watch?v=oSqGy1JYSnk"/>
+        <updated>2024-06-28T15:45:04.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sing For Vatteppam And Vibe With Your Playlist| Mandakini | Dabzee | Altaf Salim | #shorts #ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=W77PAyEMVRA</id>
+        <link href="https://www.youtube.com/watch?v=W77PAyEMVRA"/>
+        <updated>2024-06-28T15:30:08.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[28 June 2024]]></title>
         <id>https://www.youtube.com/watch?v=N_AvvSM38A0</id>
@@ -33511,24 +33529,6 @@
         <updated>2024-03-31T04:30:19.000Z</updated>
         <author>
             <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharada Old Romantic Malayalam Movie Song Kettippidichappol |Velliyazhcha |Remastered Malayalam Song]]></title>
-        <id>https://www.youtube.com/watch?v=4ddxY0XGKpU</id>
-        <link href="https://www.youtube.com/watch?v=4ddxY0XGKpU"/>
-        <updated>2024-03-31T04:00:03.000Z</updated>
-        <author>
-            <name>Airene Records</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chakkitharavum Kunjungalum | Rajeev Alunkal #animation #animationvideo #kidscartoon #kidscartoon]]></title>
-        <id>https://www.youtube.com/watch?v=NVMT71fFEAM</id>
-        <link href="https://www.youtube.com/watch?v=NVMT71fFEAM"/>
-        <updated>2024-03-31T03:30:08.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
         </author>
     </entry>
 </feed>
