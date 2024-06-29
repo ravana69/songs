@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-29T06:25:40.871Z</updated>
+    <updated>2024-06-29T07:19:21.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[𝐓𝐡𝐢𝐫𝐮𝐦𝐮𝐫𝐢𝐩𝐩𝐚𝐝𝐮𝐤𝐚𝐥𝐢𝐥 | 𝐒𝐭 𝐓𝐡𝐨𝐦𝐚𝐬 𝐒𝐨𝐧𝐠 | 𝐄𝐧𝐭𝐞 𝐊𝐚𝐫𝐭𝐡𝐚𝐯𝐞 𝐄𝐧𝐭𝐞 𝐃𝐚𝐢𝐯𝐚𝐦𝐞 | 𝐖𝐢𝐥𝐬𝐨𝐧 𝐏𝐢𝐫𝐚𝐯𝐨𝐦 | 𝐆𝐢𝐫𝐢𝐬𝐡 𝐏𝐞𝐭𝐞𝐫]]></title>
+        <id>https://www.youtube.com/watch?v=HQTFZ_iZHCw</id>
+        <link href="https://www.youtube.com/watch?v=HQTFZ_iZHCw"/>
+        <updated>2024-06-29T06:42:22.000Z</updated>
+        <author>
+            <name>Celebrants India</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[വി . കുർബാനയിൽ സ്ഥിരമായി ആലപിക്കുന്ന  വിസ്മയഗാനങ്ങൾ | Christian Video Songs | Holy Mass Songs]]></title>
         <id>https://www.youtube.com/watch?v=AYYHbeayWiA</id>
@@ -33493,24 +33502,6 @@
         <updated>2024-03-31T22:00:17.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത പ്രാര്‍ത്ഥന April 1 # Athiravile Prarthana 1st April 2024 Morning Prayer & Songs]]></title>
-        <id>https://www.youtube.com/watch?v=9MtZYSSizg4</id>
-        <link href="https://www.youtube.com/watch?v=9MtZYSSizg4"/>
-        <updated>2024-03-31T19:00:09.000Z</updated>
-        <author>
-            <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[പ്രഭാത ഗാനങ്ങൾ അതിരാവിലെ കേൾക്കുവാൻ പറ്റിയ ക്രിസ്തീയ ഭക്തിഗാനങ്ങൾ | Early Morning Worship Songs]]></title>
-        <id>https://www.youtube.com/watch?v=Fd_5PoWIjfM</id>
-        <link href="https://www.youtube.com/watch?v=Fd_5PoWIjfM"/>
-        <updated>2024-03-31T18:30:10.000Z</updated>
-        <author>
-            <name>Eden Musics</name>
         </author>
     </entry>
 </feed>
