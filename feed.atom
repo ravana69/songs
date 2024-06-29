@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-29T10:19:13.811Z</updated>
+    <updated>2024-06-29T11:17:03.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nadanna Sambavam - Sneak Peek | Biju Menon | Vishnu Narayan | Ankit Menon]]></title>
+        <id>https://www.youtube.com/watch?v=veH27NM2sCU</id>
+        <link href="https://www.youtube.com/watch?v=veH27NM2sCU"/>
+        <updated>2024-06-29T11:13:09.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krushithante Hrudhayam Pole Day 29]]></title>
+        <id>https://www.youtube.com/watch?v=LjMWkwQmv9g</id>
+        <link href="https://www.youtube.com/watch?v=LjMWkwQmv9g"/>
+        <updated>2024-06-29T10:50:40.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adiyodadi X Veeran Pirakkanu - Video Mashup | Sam CS | Shaan Rahman | Fejo]]></title>
+        <id>https://www.youtube.com/watch?v=ZvaVn7aqVhw</id>
+        <link href="https://www.youtube.com/watch?v=ZvaVn7aqVhw"/>
+        <updated>2024-06-29T10:30:23.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amma Urngnu | Uthara Swayamvaram  #shortsfeed #shortsvideo #reels #manoramamusic #shorts #jayasurya]]></title>
+        <id>https://www.youtube.com/watch?v=2P70lVhW9lc</id>
+        <link href="https://www.youtube.com/watch?v=2P70lVhW9lc"/>
+        <updated>2024-06-29T10:30:00.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ഏവരുടെയും ഹൃദയം കീഴടക്കിയ വിസ്‌മയ ഗാനങ്ങൾ | EVERGREEN MALAYALAM FILM SONGS | MOVIEWORLD MUSIC]]></title>
+        <id>https://www.youtube.com/watch?v=jnFHOsxvmFk</id>
+        <link href="https://www.youtube.com/watch?v=jnFHOsxvmFk"/>
+        <updated>2024-06-29T09:39:50.000Z</updated>
+        <author>
+            <name>Movie World Music</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഡേറ്റ് ഇട്ടു പ്രാർത്ഥിക്കുക l Kreupasanam powerful prayer l miraculous prayer l marian]]></title>
         <id>https://www.youtube.com/watch?v=jEPBZ1JAFHw</id>
