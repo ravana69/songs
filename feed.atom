@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-29T08:23:37.213Z</updated>
+    <updated>2024-06-29T09:20:50.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -58,6 +58,15 @@
         <updated>2024-06-29T06:00:05.000Z</updated>
         <author>
             <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandoru Naattiloru Song | Samadhana Pusthakam | 4 Musics | Bhadra Rajin | Titto P Thankachan]]></title>
+        <id>https://www.youtube.com/watch?v=4ovMtPOevFQ</id>
+        <link href="https://www.youtube.com/watch?v=4ovMtPOevFQ"/>
+        <updated>2024-06-29T05:47:02.000Z</updated>
+        <author>
+            <name>Saina Music</name>
         </author>
     </entry>
     <entry>
