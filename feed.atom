@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-30T20:19:31.553Z</updated>
+    <updated>2024-06-30T21:19:39.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Swayamvara Chandrike | Chronic Bachelor | Deepak Dev | Jayachandran & Sujatha Mohan | Hi-Res Audio]]></title>
+        <id>https://www.youtube.com/watch?v=2I1SoUxQlSs</id>
+        <link href="https://www.youtube.com/watch?v=2I1SoUxQlSs"/>
+        <updated>2024-06-30T20:36:36.000Z</updated>
+        <author>
+            <name>NANCHIL BEATS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponneduthu | Sami Potta Mudichu | Ilaiyaraaja | Mano & K.S.Chithra | Hi-Res Audio]]></title>
+        <id>https://www.youtube.com/watch?v=mrV7imvE-R4</id>
+        <link href="https://www.youtube.com/watch?v=mrV7imvE-R4"/>
+        <updated>2024-06-30T20:34:35.000Z</updated>
+        <author>
+            <name>NANCHIL BEATS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന July 1 # Athiravile Prarthana 1st of July 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=oGhD9NYQ9x4</id>
@@ -33601,24 +33619,6 @@
         <updated>2024-04-02T11:05:54.000Z</updated>
         <author>
             <name>Christian Devotional Manorama Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oru Kattil Oru Muri Official Trailer | Shanavas K Bavakutty | Hakeem Shah | Poornima indhrajith]]></title>
-        <id>https://www.youtube.com/watch?v=Fa5wIipT0L0</id>
-        <link href="https://www.youtube.com/watch?v=Fa5wIipT0L0"/>
-        <updated>2024-04-02T08:46:46.000Z</updated>
-        <author>
-            <name>123Musix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vellikinnam Niranju Video Song | Arjunan Pillayum Anchu Makkalum | KJ Yesudas | Mohan Sithara]]></title>
-        <id>https://www.youtube.com/watch?v=GFpncJ2Hsvc</id>
-        <link href="https://www.youtube.com/watch?v=GFpncJ2Hsvc"/>
-        <updated>2024-04-02T08:41:11.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
         </author>
     </entry>
 </feed>
