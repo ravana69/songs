@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-30T22:17:51.719Z</updated>
+    <updated>2024-06-30T23:20:13.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=hfO-aivsXf8</id>
+        <link href="https://www.youtube.com/watch?v=hfO-aivsXf8"/>
+        <updated>2024-06-30T23:00:30.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swayamvara Chandrike | Chronic Bachelor | Deepak Dev | Jayachandran & Sujatha Mohan | Hi-Res Audio]]></title>
         <id>https://www.youtube.com/watch?v=2I1SoUxQlSs</id>
@@ -33601,24 +33610,6 @@
         <updated>2024-04-02T11:30:20.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THIRUMUNPIL UYARTHIYA KARANGAL | New Christian Song Trailer #shorts #frshajithumpechirayil]]></title>
-        <id>https://www.youtube.com/watch?v=TX67z-LX6Lk</id>
-        <link href="https://www.youtube.com/watch?v=TX67z-LX6Lk"/>
-        <updated>2024-04-02T11:14:00.000Z</updated>
-        <author>
-            <name>Celebrants India</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sarvathinum Yogyan | Abhijith Kollam | Jose Kadavil | Dr.George Varghese | Malayalam Christian Songs]]></title>
-        <id>https://www.youtube.com/watch?v=ZCh-48oh_wI</id>
-        <link href="https://www.youtube.com/watch?v=ZCh-48oh_wI"/>
-        <updated>2024-04-02T11:05:54.000Z</updated>
-        <author>
-            <name>Christian Devotional Manorama Music</name>
         </author>
     </entry>
 </feed>
