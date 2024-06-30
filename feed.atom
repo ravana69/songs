@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-30T16:24:05.568Z</updated>
+    <updated>2024-06-30T17:17:00.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33619,33 +33619,6 @@
         <updated>2024-04-02T05:30:07.000Z</updated>
         <author>
             <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anandhamegham Lofi Mix | Happy New Year | Gokul Sreekandan | Titto P Thankachen | Mariya Johny]]></title>
-        <id>https://www.youtube.com/watch?v=v4kP4a_yJWA</id>
-        <link href="https://www.youtube.com/watch?v=v4kP4a_yJWA"/>
-        <updated>2024-04-02T04:45:42.000Z</updated>
-        <author>
-            <name>Saina Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Varavarnamelayaay | Njan Kodeeswaran | Jagadeesh | Yesudas | Ouseppachan]]></title>
-        <id>https://www.youtube.com/watch?v=ydpBEZVwOVs</id>
-        <link href="https://www.youtube.com/watch?v=ydpBEZVwOVs"/>
-        <updated>2024-04-02T04:36:29.000Z</updated>
-        <author>
-            <name>Paattu Petty പാട്ടു പെട്ടി</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prem Nazir Malayalam Movie Songs | College Girl Remastered Malayalam Songs | K. J. Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=XQD-qtvhIaU</id>
-        <link href="https://www.youtube.com/watch?v=XQD-qtvhIaU"/>
-        <updated>2024-04-02T04:26:45.000Z</updated>
-        <author>
-            <name>Airene Records</name>
         </author>
     </entry>
 </feed>
