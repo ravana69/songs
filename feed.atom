@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-30T14:17:11.495Z</updated>
+    <updated>2024-06-30T15:20:26.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Doore Karalil Urukumoru | Mohanlal | Manju Warrier | KJ Yesudas | Gireesh Puthenchery]]></title>
+        <id>https://www.youtube.com/watch?v=q3dCLI-skz4</id>
+        <link href="https://www.youtube.com/watch?v=q3dCLI-skz4"/>
+        <updated>2024-06-30T14:30:17.000Z</updated>
+        <author>
+            <name>Saina Evergreens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manikuttikkurumbulla | Kaliyoonjaa | Vidyasagar |  Ilayaraja | Kaithapram | KJ Yesudas #SongOfTheDay]]></title>
+        <id>https://www.youtube.com/watch?v=RsXDqbUz10w</id>
+        <link href="https://www.youtube.com/watch?v=RsXDqbUz10w"/>
+        <updated>2024-06-30T14:30:09.000Z</updated>
+        <author>
+            <name>Saina Music</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സത്യവചനം | SATHYA VACHANAM | CHRISTIAN DEVOTIONAL | ROY PUTHUR | #christiandevotionalsongs]]></title>
+        <id>https://www.youtube.com/watch?v=kiVGWG5Op7w</id>
+        <link href="https://www.youtube.com/watch?v=kiVGWG5Op7w"/>
+        <updated>2024-06-30T14:21:11.000Z</updated>
+        <author>
+            <name>Rayan Media Productions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ഹൃദയങ്ങളിൽ വാഴാൻ കൊതിക്കുന്ന യേശുവിന് കരുണാർദ്ര ഗാനങ്ങൾ  |Songs Of Love Of Jesus | Joji Johns]]></title>
         <id>https://www.youtube.com/watch?v=YL1FME_4IoM</id>
