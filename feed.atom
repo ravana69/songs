@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-30T07:17:27.489Z</updated>
+    <updated>2024-06-30T08:22:46.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ചുള്ളൻ ചെക്കനായി ടോവിനോ 'അമ്മ മീറ്റിങ്ങിനു എത്തിയപ്പോൾ ! Amma General Body Meeting 2024]]></title>
+        <id>https://www.youtube.com/watch?v=GKeAdVW6-n0</id>
+        <link href="https://www.youtube.com/watch?v=GKeAdVW6-n0"/>
+        <updated>2024-06-30T08:04:08.000Z</updated>
+        <author>
+            <name>Movie World Chithrageetham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നാടൻ ലുക്കിൽ സാരി ഉടുത്തു സുന്ദരിയായി ഹണി റോസ് | Amma General Body Meeting 2024]]></title>
         <id>https://www.youtube.com/watch?v=ZbjA1C6Aykk</id>
