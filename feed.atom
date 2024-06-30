@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-30T12:35:25.938Z</updated>
+    <updated>2024-06-30T13:19:57.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chandrachooda - Deep Lofi | Karmayogi | Navneeth Sundar | Anoop Shankar | Nitrixx]]></title>
+        <id>https://www.youtube.com/watch?v=xeLNX7IDe_o</id>
+        <link href="https://www.youtube.com/watch?v=xeLNX7IDe_o"/>
+        <updated>2024-06-30T13:04:09.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[നിന്റെ പരാജയം കാണൻ ആഗ്രഹിക്കുന്നവരുടെ മുന്നിൽ ദൈവം നിന്നെ ഉയർത്തും😇 Rev. Aneesh P Joseph | #shorts]]></title>
         <id>https://www.youtube.com/watch?v=siUWwhQ1rcw</id>
