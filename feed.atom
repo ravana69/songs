@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-01T19:16:58.725Z</updated>
+    <updated>2024-07-01T20:20:20.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 2 # Athiravile Prarthana 2nd of July 2024 Morning Prayer & Songs]]></title>
+        <id>https://www.youtube.com/watch?v=YYOUUfFm7dc</id>
+        <link href="https://www.youtube.com/watch?v=YYOUUfFm7dc"/>
+        <updated>2024-07-01T20:00:10.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[മാതാവിനോടുള്ള പ്രഭാത സംരക്ഷണ പ്രാര്‍ത്ഥന The Immaculate Heart of Mother Mary Prayer 2nd July 2024]]></title>
         <id>https://www.youtube.com/watch?v=K8bXKHPX-Bc</id>
@@ -33367,24 +33376,6 @@
         <updated>2024-04-03T09:30:12.000Z</updated>
         <author>
             <name>Satyam Audios</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[നല്ല ഗാനങ്ങൾ കേൾക്കാനാഗ്രഹിക്കുന്ന സംഗീതപ്രേമികൾക്കായി അണിയിച്ചൊരുക്കിയ ഉന്നത നിലവാരമുള്ള ഗാനങ്ങൾ !]]></title>
-        <id>https://www.youtube.com/watch?v=MTIjhNSh5-A</id>
-        <link href="https://www.youtube.com/watch?v=MTIjhNSh5-A"/>
-        <updated>2024-04-03T07:37:05.000Z</updated>
-        <author>
-            <name>Nisari Chithrageetham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kallukondo Karinkallukondo | Kasavuthattam | Vayalar | G Devarajan | KJ Yesudas | Prem Nazir]]></title>
-        <id>https://www.youtube.com/watch?v=pGnAqLz2EKU</id>
-        <link href="https://www.youtube.com/watch?v=pGnAqLz2EKU"/>
-        <updated>2024-04-03T07:30:20.000Z</updated>
-        <author>
-            <name>Movie World Chithrageetham</name>
         </author>
     </entry>
 </feed>
