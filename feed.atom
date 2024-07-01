@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-01T07:19:05.920Z</updated>
+    <updated>2024-07-01T08:25:40.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[സുഖകരമായ നിമിഷങ്ങൾ സമ്മാനിക്കും  മലയാള സിനിമകളിലെ  പ്രശസ്ത ഗാനങ്ങൾ  | Evergreen Malayalam Film Songs]]></title>
+        <id>https://www.youtube.com/watch?v=gCFx9PBP1DA</id>
+        <link href="https://www.youtube.com/watch?v=gCFx9PBP1DA"/>
+        <updated>2024-07-01T07:59:26.000Z</updated>
+        <author>
+            <name>Nisari Chithrageetham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entha Parayya Short #enthaparrayya song Mathew  T Johnn Evan Jinesh, Lakshya Sigeesh, Neha Ninoy]]></title>
+        <id>https://www.youtube.com/watch?v=2QIIZ6tViao</id>
+        <link href="https://www.youtube.com/watch?v=2QIIZ6tViao"/>
+        <updated>2024-07-01T07:49:38.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aadhi Raath | Aami | Video Song |  Roop | Gulzar | Taufiq Qureshi | Manju Warrier | Tovino Thomas]]></title>
         <id>https://www.youtube.com/watch?v=jWUsX9r0nk0</id>
@@ -33394,15 +33412,6 @@
         <updated>2024-04-02T22:00:33.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chundathu | Chronic Bachelor | Deepak Dev | M.G.Sreekumar & Chitra Iyer | Hi-Res Audio]]></title>
-        <id>https://www.youtube.com/watch?v=ZQWOLU_5scU</id>
-        <link href="https://www.youtube.com/watch?v=ZQWOLU_5scU"/>
-        <updated>2024-04-02T20:23:49.000Z</updated>
-        <author>
-            <name>NANCHIL BEATS</name>
         </author>
     </entry>
 </feed>
