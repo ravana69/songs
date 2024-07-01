@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-01T10:24:27.662Z</updated>
+    <updated>2024-07-01T11:16:32.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kaayale Kayale Karaoke with Lyrics | Thottappan Film Songs Lyrics | Malayalam Film Karaoke]]></title>
+        <id>https://www.youtube.com/watch?v=YUhqFA4kSIU</id>
+        <link href="https://www.youtube.com/watch?v=YUhqFA4kSIU"/>
+        <updated>2024-07-01T10:30:12.000Z</updated>
+        <author>
+            <name>Malayalam Karaoke &amp; Lyrics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innolam | Partners #dhyansreenivasan #ksharisankar #bkharinarayanan #shortsfeed #shortsvideo #reels]]></title>
+        <id>https://www.youtube.com/watch?v=4n1sbm25gMM</id>
+        <link href="https://www.youtube.com/watch?v=4n1sbm25gMM"/>
+        <updated>2024-07-01T10:30:01.000Z</updated>
+        <author>
+            <name>Manorama Music Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[സുരേഷ്‌ഗോപിയെ സ്നേഹത്തോടെ വട്ടമിട്ട് പൊതിഞ്ഞു താരങ്ങൾ 😍😍😍 Amma General Body Meeting 2024]]></title>
         <id>https://www.youtube.com/watch?v=JaohXDLgsl0</id>
