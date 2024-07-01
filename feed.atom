@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-01T22:18:59.118Z</updated>
+    <updated>2024-07-01T23:19:18.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Prayer Short video | Malayalam Morning Short video | Christian Short video]]></title>
+        <id>https://www.youtube.com/watch?v=g2gyx8kN6tE</id>
+        <link href="https://www.youtube.com/watch?v=g2gyx8kN6tE"/>
+        <updated>2024-07-01T23:00:30.000Z</updated>
+        <author>
+            <name>NiRaV Creations Christian Songs Malayalam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[രാവിലെ പ്രാര്‍ത്ഥന  July 2 # Athiravile Prarthana 2nd of July 2024 Morning Prayer & Songs]]></title>
         <id>https://www.youtube.com/watch?v=YYOUUfFm7dc</id>
@@ -33358,15 +33367,6 @@
         <updated>2024-04-03T11:30:02.000Z</updated>
         <author>
             <name>NiRaV Creations Christian Songs Malayalam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoomanjin Nenjilothungi | തൂമഞ്ഞിൻ നെഞ്ചിലൊതുങ്ങി | Evergreen Hit Song | Samooham | K J Yesudas]]></title>
-        <id>https://www.youtube.com/watch?v=ZdWi064vvfA</id>
-        <link href="https://www.youtube.com/watch?v=ZdWi064vvfA"/>
-        <updated>2024-04-03T10:54:47.000Z</updated>
-        <author>
-            <name>Millennium Musics</name>
         </author>
     </entry>
 </feed>
