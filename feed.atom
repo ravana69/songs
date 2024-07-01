@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-01T17:18:30.725Z</updated>
+    <updated>2024-07-01T18:26:16.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
@@ -33466,42 +33466,6 @@
         <updated>2024-04-03T07:00:03.000Z</updated>
         <author>
             <name>SonyMusicSouthVEVO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mouliyil Mayilpeeli Video Song | Nandanam | Navya | KS Chithra | Gireesh Puthenchery | Raveendran]]></title>
-        <id>https://www.youtube.com/watch?v=zRKMkD1yrDU</id>
-        <link href="https://www.youtube.com/watch?v=zRKMkD1yrDU"/>
-        <updated>2024-04-03T06:15:41.000Z</updated>
-        <author>
-            <name>Malayalam Cassettes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kollamkottu Thookkam Nernna Video Song | Kudumba Vishesham | Malayalam Movie Songs | P Susheela]]></title>
-        <id>https://www.youtube.com/watch?v=ZQyofRdp4mM</id>
-        <link href="https://www.youtube.com/watch?v=ZQyofRdp4mM"/>
-        <updated>2024-04-03T05:31:28.000Z</updated>
-        <author>
-            <name>Sree Movies Music</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thennal Chirakundo | Unplugged | Payyans | Jayasurya | Karthik | Jyotsna | Kaithapram | Alphonse]]></title>
-        <id>https://www.youtube.com/watch?v=FbfK0-O_OmI</id>
-        <link href="https://www.youtube.com/watch?v=FbfK0-O_OmI"/>
-        <updated>2024-04-03T05:30:06.000Z</updated>
-        <author>
-            <name>Manorama Music Songs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vara chandralekhayalle Kilukil Pamparam Gireesh Puthenchery SP Venkitesh KS Chithra]]></title>
-        <id>https://www.youtube.com/watch?v=c2iCFWpY5jk</id>
-        <link href="https://www.youtube.com/watch?v=c2iCFWpY5jk"/>
-        <updated>2024-04-03T05:22:36.000Z</updated>
-        <author>
-            <name>Speed Audios</name>
         </author>
     </entry>
 </feed>
