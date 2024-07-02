@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/songs/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-02T13:21:44.188Z</updated>
+    <updated>2024-07-02T14:17:29.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/songs/index.html"/>
     <link rel="self" href="https://ravana69.github.io/songs/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kalyanam Is Not Kalyanam When You Did Not Vibe Like This | Guruvayoorambala Nadayil  |#ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=zaF8hD9dyQg</id>
+        <link href="https://www.youtube.com/watch?v=zaF8hD9dyQg"/>
+        <updated>2024-07-02T13:30:34.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[സംഗീതാസ്വാദകർ നെഞ്ചോട് ചേർത്ത ഏറ്റവും നല്ല ക്രിസ്തീയ ഗാനങ്ങൾ  | Christian Devotional Songs Malayalam]]></title>
+        <id>https://www.youtube.com/watch?v=GEG8qDRN6Wk</id>
+        <link href="https://www.youtube.com/watch?v=GEG8qDRN6Wk"/>
+        <updated>2024-07-02T13:30:08.000Z</updated>
+        <author>
+            <name>Music Shack Christian Devotional Songs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thomasleehaye | St.Thomas Day | ദുക്റാന | @JinoKunnumpurathu #shorts #christianshorts #status]]></title>
         <id>https://www.youtube.com/watch?v=LEpIT2qq1Y0</id>
@@ -22,6 +40,15 @@
         <updated>2024-07-02T12:30:28.000Z</updated>
         <author>
             <name>ZionClassics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Vibe Has Not Ended | K For Krishna | Guruvayoorambala Nadayil | Prithviraj | Basil |#ytshorts]]></title>
+        <id>https://www.youtube.com/watch?v=PzJU7KE-2GY</id>
+        <link href="https://www.youtube.com/watch?v=PzJU7KE-2GY"/>
+        <updated>2024-07-02T12:30:17.000Z</updated>
+        <author>
+            <name>Saregama Malayalam</name>
         </author>
     </entry>
     <entry>
